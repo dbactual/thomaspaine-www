@@ -1,9 +1,8 @@
+PubDate: 1776-01-10
+Slug: major-works/common-sense
 Title: Common Sense
-Slug: common-sense
-PubDate: Mon Jan  1 09:08:51 EDT 1776
-Date: Mon Jan  1 09:08:51 EDT 1900
-
-    
+Category: Works
+Date: Mon Aug  4 09:08:54 EDT 2014
 
    A long habit of not thinking a thing wrong, gives it a superficial
    appearance of being right, and raises at first a formidable outcry in

@@ -2,16 +2,20 @@
 <html lang="{{ HTML_LANG }}">	
 <head>
 	<meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{% block title %}{{ SITENAME }}{%endblock%}</title>	
 	<meta name="author" content="{{ AUTHOR }}">
 	
 	{% block extra_meta %}
 	{% endblock %}
 
-	<link rel="top" href="#" /><link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic|Source+Code+Pro' rel='stylesheet' type='text/css'></link>
-	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
-	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/timeline.css" type="text/css" />
-		
+	<link rel="top" href="#" />
+
+        <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/page.css" type="text/css" />
+
 	{% block scripts %}
 	{% endblock %}
 
@@ -24,112 +28,114 @@
 </head>
 	
 <body>
+
 {{ FEED_ATOM }}
-    <div class="container">
-	  
-	  <header role="banner">
-	    <div class="feeds">
-	      {% if FEED_ALL_ATOM %}
-	        <a href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" rel="alternate"><img src="/{{ THEME_STATIC_DIR }}/images/icons/feed-32px.png" alt="atom feed"/></a>
-	      {% endif %}
-          {% if FEED_ALL_RSS %}
-            <a href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" rel="alternate"><img src="/{{ THEME_STATIC_DIR }}/images/icons/feed-32px.png" alt="rss feed"/></a>
-          {% endif %}
-	    </div>
-            <img style="height:90%; float: left;" src="/images/paine.jpg"/>
-	      <a href="{{ SITEURL }}" class="title">{{ SITENAME }}</a>
 
-      </header>
+ <div id="header">
+    <a id="logo" href="{{ SITEURL }}">
+      <img src="/images/logo.png">
+      <span>{{ SITENAME }}</span>
+      <span class="light">To educate the world about the life, times, and works of Thomas Paine</span>
+    </a>
 
-	  <header class="subheader" role="banner">
-	    {% if PAGES %}
-	      <nav class="pages">
-              <div class="search">
-                <form method="get" action="http://www.google.com/search">
-                  <input type="text" name="q" size=31 maxlength=255 value="">
-                  <input type="submit" name="sa" value="Search">
-                  <input type="hidden" name="as_sitesearch" value="thomaspaine.org">
-                </form>
-              </div>
-	        {% for p in PAGES %}
-			  <a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
-			  {% if not loop.last %}&nbsp;{% endif %}
-			{% endfor %}
-                &nbsp; <a href="{{ SITEURL }}/works.html">Works</a>
-                &nbsp; <a href="{{ SITEURL }}/events.html">Events</a>
+    <ul id="nav">
+        <li>
+          <div class="search">
+            <form method="get" action="http://www.google.com/search">
+              <input type="text" name="q" size=31 maxlength=255 value="">
+              <input type="submit" name="sa" value="Search">
+              <input type="hidden" name="as_sitesearch" value="thomaspaine.org">
+            </form>
+          </div>
+        </li>
+    </ul>
+</div>
 
-	      </nav>
-	    {% endif %}
-              </header>
-	
-	  <div class="wrapper">
+<div id="main">
+  <div class="sidebar">
+    <div class="toggle">···</div>
+    <div class="list">
 
-		  <div role="main" class="content">
-		    {% block content %}{% endblock %}
-		  </div>	
+      <ul>
+        {% for p in PAGES %}
+          <li><a class="sidebar-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+          {% endfor %}
+      </ul>
+
+
+      <div class="donate">
+      <h2 style="width: 80%">Support</h2>
+          Consider supporting the Thomas Paine National Historical
+          Association! As a 100% volunteer organization, every dollar
+          we receive goes directly to supporting our mission.
+        <form action="https://www.paypal.com/en/cgi-bin/webscr" method="post">
+          <input type="hidden" name="cmd" value="_donations">
+          <input type="hidden" name="business" value="info@thomaspaine.org">
+          <input type="hidden" name="return" value="http://web.thomaspaine.org/joomla/">
+          <input type="hidden" name="undefined_quantity" value="0">
+          <input type="hidden" name="item_name" value="Donate to The Thomas Paine National Historical Association">
+          Amount:&nbsp;<input type="text" name="amount" size="4" maxlength="10" value="" style="text-align:right;">
+          <select name="currency_code">
+            <option value="USD">USD</option>
+            <option value="EUR">EUR</option>
+            <option value="GBP">GBP</option>
+            <option value="CHF">CHF</option>
+            <option value="AUD">AUD</option>
+            <option value="HKD">HKD</option>
+            <option value="CAD">CAD</option>
+            <option value="JPY">JPY</option>
+            <option value="NZD">NZD</option>
+            <option value="SGD">SGD</option>
+            <option value="SEK">SEK</option>
+            <option value="DKK">DKK</option>
+            <option value="PLN">PLN</option>
+            <option value="HUF">HUF</option>
+            <option value="CZK">CZK</option>
+            <option value="ILS">ILS</option>
+            <option value="MXN">MXN</option>
+          </select>
+          <input type="hidden" name="charset" value="utf-8">
+          <input type="hidden" name="no_shipping" value="1">
+          <input type="hidden" name="image_url" value="http://web.thomaspaine.org/joomla/images/tpnha/NewLogo_3.png">
+          <input type="hidden" name="cancel_return" value="http://web.thomaspaine.org/joomla/">
+          <input type="hidden" name="no_note" value="0"><br><br>
+          <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal secure payments.">
+        </form>
+        </div>
+
+      <div class="store">
+        <h2>Store</h2>
+        Coming Soon
+      </div>
+
+
+    </div>
+  </div>
+
+<div class="content guide with-sidebar">  
+  {% block content %}{% endblock %}
+</div>	
 		  
-		  <div class="sidebar">
+<div class="footer">
+  © {{ AUTHOR }} <!-- Proudly powered by pelican - http://blog.getpelican.com/ -->
+</div>
 
-                    <!---
-	        <nav>
-	          <h2>Categories</h2>
-	          <ul>
-	            {% for cat, null in categories %}
-	              <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-	            {% endfor %}
-	          </ul>
-	        </nav>
-                --->
+<script>
+(function () {
 
-	        {% if SOCIAL %}
-	          <aside>
-	          <h2>Social</h2>
-			    <ul class="social">
-				  {% for name, link in SOCIAL %}
-				  <li><a href="{{ link }}">{{ name }}</a><i></i></li>
-				  {% endfor %}
-			    </ul>
-			  </aside>
-			{% endif %}
+    var main = document.getElementById('main'),
+        doc = document.documentElement,
+        body = document.body,
+        header = document.getElementById('header'),
+        menu = document.querySelector('.sidebar'),
+        menuToggle = document.querySelector('.sidebar .toggle')
 
-	        {% if LINKS %}
-	          <aside>
-	            <h2>Links</h2>
-	            <ul>
-	              {% for name, link in LINKS %}
-	                <li><a href="{{ link }}">{{ name }}</a></li>
-	              {% endfor %}
-	            </ul>
-	          </aside>
-	        {% endif %}
-
-	          <aside>
-	            <h2>Store</h2>
-                    <p>Coming soon</p>
-	          </aside>
-
-
-		  </div>
-
-	  </div>
-
-      <footer>
-		<p role="contentinfo">
-		  © {{ AUTHOR }} <!-- Proudly powered by pelican - http://blog.getpelican.com/ -->
-    	</p>
-
-	  </footer>	
-
-	</div>
-	
-	{% if GOOGLE_ANALYTICS %}
-	  <script>
-		var _gaq=[['_setAccount','{{ GOOGLE_ANALYTICS }}'],['_trackPageview']];
-		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-		s.parentNode.insertBefore(g,s)}(document,'script'));
-	  </script>
-    {% endif %}
-
+    if (menu) {
+        menuToggle.addEventListener('click', function () {
+            menu.classList.toggle('open')
+        })
+    }
+})()
+</script>
 </body>
 </html>
