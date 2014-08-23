@@ -185,4 +185,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    order to compare by: as his design seems rather bent towards discovering
    the treasures of America than merely to make, a collection.-Author.
 
-    
+

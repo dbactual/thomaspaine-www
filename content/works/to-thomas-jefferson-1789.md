@@ -58,7 +58,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
 
    [THOMAS PAINE.]
 
-    
+
 
    (The letter has been sometimes attributed to Thomas Jefferson because it
    was discovered among the Jefferson manuscripts. However, there is no
@@ -70,4 +70,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    philosophy of Thomas Jefferson that it may not be out of place to
    reproduce it again."-Editor.)
 
-    
+

@@ -3,7 +3,7 @@ Slug: essays/religion/an-essay-on-dream
 Title: An Essay on Dream
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-    
+
 
    http://tpnha.keybrick.net/Portals/_default/Containers/Containers/spacer.gif
 
@@ -304,4 +304,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    at the time they were written or spoken, and not to any distance of future
    time or person.
 
-    
+

@@ -106,4 +106,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    of Thomas Paine the Americans are not and cannot be indifferent. To
    liberate you, will be an object of my endeavors. . . ."-Editor.
 
-    
+

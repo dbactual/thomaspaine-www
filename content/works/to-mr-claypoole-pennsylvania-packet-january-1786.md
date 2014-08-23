@@ -18,4 +18,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    you will please return it to me, and I will publish it in a handbill with
    any reason you shall assign for that refusal or without it as you choose.
 
-    
+

@@ -5,11 +5,11 @@ Date: Mon Aug  4 09:08:57 EDT 2014
 
    To Mrs. Robert Smyth
 
-    
+
 
    WHAT IS LOVE?
 
-    
+
 
    IT IS that delightsome transport we can feel
 
@@ -17,7 +17,7 @@ Date: Mon Aug  4 09:08:57 EDT 2014
 
    Nor any art we know of can conceal.
 
-    
+
 
    Canst thou describe the sunbeams to the blind,
 
@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:57 EDT 2014
 
    This first of all felicities below.
 
-    
+
 
    When happy Love pours magic o'er the soul,
 
@@ -45,7 +45,7 @@ Date: Mon Aug  4 09:08:57 EDT 2014
 
    For love can teach a moral to the mind.
 
-    
+
 
    But are there not some other marks that prove,
 
@@ -59,7 +59,7 @@ Date: Mon Aug  4 09:08:57 EDT 2014
 
    And rends in pieces the distracted heart.
 
-    
+
 
    When love's a tyrant, and the soul a slave,
 
@@ -69,7 +69,7 @@ Date: Mon Aug  4 09:08:57 EDT 2014
 
    And what was once its dread becomes relief.
 
-    
+
 
    What are the iron chains that hands have wrought?
 

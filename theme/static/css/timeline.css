@@ -17,45 +17,54 @@ me credit when you use it.
 
 /* --------------------- top bar for quick jump to the years "Jumpstrip"----------------- */
 #jumpstrip li {
-	display:block;
-	}
+}
 #jumpstrip {
-			float: left;
-			margin-top:25px;
-			font-size:16px;
-			font-family: inherit, sans-serif;
-			color:black;
-			padding-left: 25px;
-			clear:both;
-			padding-bottom: 25px;
-				}
+    float: left;
+    margin-top:0px;
+    font-size:16px;
+    font-family: inherit, sans-serif;
+    padding-left: 25px;
+    clear:both;
+    padding-bottom: 25px;
+}
 #jumpstrip li{
-			position: relative;
-			float: left; 
-			list-style: none;
-			margin: 0px;
-			padding:0px;
-			} 
+    display:block;
+    position: relative;
+    float: left; 
+    list-style: none;
+    margin: 0px;
+    padding:0px;
+} 
 #jumpstrip li a{
 			display: block;
 			text-decoration:none;
 			font-size:16px;
 			padding: 10px;
 			padding-top:20px;
-			color:black;
-			border-bottom: 5px solid transparent; /* if making for IE 6 transparent won't work.  See http://snippets.dzone.com/posts/show/6089 for solution */
+                        border-bottom: 2px solid transparent;
 			} 
 #jumpstrip li a:hover{
-			color:green;
-			border-bottom: 5px solid #22241C;
-			}
+    border-bottom: 2px solid #A47F1A;
+}
 /* -------------- end "Jumpstrip"----- Start Timeline--------------- */
 #timewrap {
 	padding-left:50px;
 	max-width:90%;
 	float:left;
 	}
-.timeline a, .entry a, .entry {text-decoration:none;color:black;}
+.timeline a, .entry a, .entry {text-decoration:none;}
+
+#timeline li a{
+    border-bottom: 2px solid transparent;
+} 
+#timeline li .a:hover{
+    border-bottom: 2px solid #A47F1A;
+}
+
+.timeline li div.entry a:hover {
+    border-bottom: 2px solid #A47F1A;
+}
+
 .timeline li a:hover {
     text-decoration:none;
 }
@@ -79,15 +88,11 @@ me credit when you use it.
 	top:-35px;
 	}
 .timeline li div.entry {
-	padding:20px;
+	padding:70px 0px 0px 10px;
 	margin:0;
 	border-style:none;
 }
-.timeline li a .entry:hover, .timeline .entry:hover {
-	background-color:#e8e8e8;
-	text-decoration:none;
-	color:black;
-}
+
 .timeline ol li {
 	background:url('/images/org-tree-mid.gif') no-repeat left top;
 }
@@ -101,13 +106,13 @@ me credit when you use it.
 	font-weight:bold;
 	display:block;
 	position:relative; /* for browser (IE) compatability */
-	width: 70px;
+	width: 60px;
     border-bottom: 2px solid #666666;
     font-size: 1.6em;
-    right:120px;
+    right:110px;
 }
 .title {
-	padding:0 0 10px 0;
+	padding:0 0 0px 0;
 	font-weight:bold; 
 	font-style:normal; 
 	line-height:1.6em;

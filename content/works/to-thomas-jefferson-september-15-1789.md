@@ -50,4 +50,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    friendship to Captain Nicholson and family of New York, and to Mr. and
    Mrs. Few.
 
-    
+

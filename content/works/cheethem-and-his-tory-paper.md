@@ -68,4 +68,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    of the line under Admiral De Grass, assisted at the capture of Cornwallis
    at Yorktown, Virginia.
 
-    
+

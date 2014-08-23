@@ -11,7 +11,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    Philip Foner's introduction:
 
@@ -32,7 +32,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    ***
 
-    
+
 
    WHEN we contemplate our abhorrence of that condition, to which the arms
    and tyranny of Great Britain were exerted to reduce us, when we look back
@@ -86,4 +86,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    3. Be it enacted, etc.
 
-    
+

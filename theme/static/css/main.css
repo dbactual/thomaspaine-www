@@ -12,6 +12,13 @@ Colors :
 @import url("pygment.css");
 
 
+@font-face {
+  font-family: 'LibreBaskerville-Bold';
+  font-style: bold;
+  font-weight: bold;
+  src: local('LibreBaskerville-Bold'), url('/fonts/LibreBaskerville-Bold.otf') format('opentype');
+}
+
 /* Latout */
 
 article,
@@ -32,8 +39,9 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 16px;
+  /*font-family: 'Source Sans Pro', sans-serif;*/
+  font: 13px/19px Georgia, Times;
+  /*font-size: 16px;*/
   line-height: 150%;
   text-align: left;
   color: #4D4D4C;
@@ -42,6 +50,7 @@ body {
 }
 
 header, .subheader {
+  font-family: 'LibreBaskerville-Bold', serif;
   background-color: #40403F;
   height: 50px;
   line-height: 50px;
@@ -93,7 +102,7 @@ header a, subheader a {
 }
 
 header a.title {
-  font-size: 1.25em;
+  font-size: 1.5em;
 }
 
 header .feeds {
@@ -130,7 +139,7 @@ subheader .pages a {
 /* Titles */
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Source Sans Pro",sans-serif;
+    /*font-family: "Source Sans Pro",sans-serif;*/
     font-weight: 400;
     text-shadow: 0.1em 0.1em 0.1em #EFEFEF;
     line-height: 125%;

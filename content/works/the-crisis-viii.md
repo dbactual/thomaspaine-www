@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Crisis VIII
 
-    
+
 
    ADDRESS TO THE PEOPLE OF ENGLAND
 
@@ -269,4 +269,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    PHILADELPHIA, March, 1780.
 
-    
+

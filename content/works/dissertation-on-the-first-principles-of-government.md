@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    DISSERTATION ON FIRST PRINCIPLES OF GOVERNMENT
 
-    
+
 
    Philip Foner's introduction:
 
@@ -798,4 +798,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    July, 1795. PARIS
 
-    
+

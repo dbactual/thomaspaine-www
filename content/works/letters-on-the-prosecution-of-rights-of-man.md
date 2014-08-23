@@ -22,7 +22,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    against him, contain valuable elaborations of various issues raised in the
    Rights of Man.
 
-    
+
 
    TO THE ATTORNEY-GENERAL
 
@@ -38,7 +38,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Sir Archibald Macdonald, some time in May, informing him that he had no
    desire to avoid any prosecution.
 
-    
+
 
    THOUGH I have some reason for believing that you were not the original
    promoter or encourager of the prosecution commenced against the work
@@ -149,7 +149,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    TO MR. SECRETARY DUNDAS
 
@@ -541,7 +541,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    1,120,000
 
-    
+
 
    There will then remain of the four millions, 2,880,000. I have stated two
    different methods of appropriating this money. The one is to pay it in
@@ -681,9 +681,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
 
-    
+
+
 
    LETTERS TO ONSLOW CRANLEY5
 
@@ -830,7 +830,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    SECOND LETTER, DATED AT LONDON, JUNE 21, 1792.
 
@@ -942,9 +942,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
 
-    
+
+
 
    TO THE SHERIFF OF THE COUNTY OF
 
@@ -956,11 +956,11 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    LEWES, JULY FOURTH
 
-    
+
 
    DATED AT LONDON, JUNE 30, 1792.
 
-    
+
 
    SIR: I have seen in the Lewes newspapers, of June twenty-fifth, an
    advertisement, signed by sundry persons, and also by the sheriff, for
@@ -1082,15 +1082,15 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
 
-    
+
+
 
    TO MR. SECRETARY DUNDAS
 
    CALAIS, Sept. 15, 1792.
 
-    
+
 
    I CONCEIVE it necessary to make you acquainted with the following
    circumstance:-The Department of Calais having elected me a member of the
@@ -1213,7 +1213,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    information against me for publishing the "Rights of Man" and a printed
    proof copy of my "Letter to the Addressers," which will soon be published.
 
-    
+
 
    LETTER ADDRESSED TO THE ADDRESSERS
 
@@ -1245,7 +1245,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    **
 
-    
+
 
    I have commanded circumstances with a wish, I know not of any that would
    have more generally promoted the progress of knowledge, than the late
@@ -3064,9 +3064,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
 
-    
+
+
 
    TO THE ENGLISH ATTORNEY-GENERAL, ON
 
@@ -3152,7 +3152,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    As I have not time to copy letters, you will excuse the corrections.
 
@@ -3161,4 +3161,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    am otherwise engaged, I reserve myself till the trial is over when I shall
    reply fully to everything you shall advance.
 
-    
+

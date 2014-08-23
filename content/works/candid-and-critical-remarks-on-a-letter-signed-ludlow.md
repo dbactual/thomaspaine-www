@@ -3,7 +3,7 @@ Slug: essays/american-revolution/candid-and-critical-remarks-on-a-letter-signed-
 Title: Candid and Critical Remarks on a Letter Signed Ludlow
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-    
+
 
 > *TPNHA Editor's Note*
 >
@@ -13,7 +13,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    Foner's Introduction:
 
@@ -216,6 +216,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    COMMON SENSE.
 
-    
 
-    
+
+

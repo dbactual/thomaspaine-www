@@ -116,4 +116,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    P. S. I received a packet from Mr. G[ouverneur] Morris for which I am
    obliged to him.
 
-    
+

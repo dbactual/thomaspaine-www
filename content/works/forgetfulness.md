@@ -268,4 +268,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    miniature-shaded portrait of Hope; and though dethroned, and can dictate
    no more, to wait upon us in the humble station of a handmaid.
 
-    
+

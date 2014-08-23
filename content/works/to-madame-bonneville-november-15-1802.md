@@ -53,4 +53,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    journal of an exploring expedition to the Rocky Mountains was edited by
    Washington Irving.-Editor.
 
-    
+

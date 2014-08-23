@@ -3,7 +3,7 @@ Slug: major-works/the-decline-and-fall-of-the-english-system-of-finance
 Title: The Decline and Fall of the English System of Finance
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-    
+
 
    "On the verge, nay even in the gulf of bankruptcy." Debates in Parliament
 
@@ -1090,6 +1090,6 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    -Author.
 
-    
 
-    
+
+

@@ -32,7 +32,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    REMARKS ON R. HALL'S SERMON
 
@@ -125,7 +125,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    OF THE WORD "RELIGION," AND OTHER WORDS OF
 
@@ -255,7 +255,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    T.P.
 
-    
+
 
    OF CAIN AND ABEL
 
@@ -305,7 +305,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Light, which answered very well as an allegory without being believed as a
    fact.
 
-    
+
 
    THE TOWER OF BABEL
 
@@ -372,7 +372,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    T. P.
 
-    
+
 
    OF THE RELIGION OF DEISM COMPARED WITH THE CHRISTIAN
 
@@ -655,7 +655,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    T.P.
 
-    
+
 
    To THE MEMBERS OF THE SOCIETY, STYLING ITSELF
 
@@ -978,7 +978,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    T. P.
 
-    
+
 
    To MR. MOORE, OF N E W YORK, COMMONLY CALLED BISHOP MOORE
 
@@ -1093,7 +1093,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    A MEMBER OF THE DEISTICAL CHURCH.
 
-    
+
 
    To JOHN MASON,
 
@@ -1423,7 +1423,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    practice of morality; for as Pope wisely says-"He can't be wrong whose
    life is in the right."
 
-    
+
 
    OF THE BOOKS OF THE NEW TESTAMENT
 
@@ -1643,7 +1643,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    of a mountain, but a hillock of sand may be washed away! Blow then, O ye
    priests, "The Trumpet in Zion," for the Hillock is in danger.
 
-    
+
 
    BIBLICAL BLASPHEMY
 
@@ -1701,7 +1701,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    T. P.
 
-    
+
 
    BIBLICAL ANACHRONISM
 
@@ -1731,7 +1731,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    T.P.
 
-    
+
 
    RELIGIOUS INTELLIGENCE
 
@@ -1847,7 +1847,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    these different modes of preaching, but it appears rather most when we
    preach on the fullness and freeness of salvation."
 
-    
+
 
    REMARKS BY MR. PAINE
 
@@ -1889,4 +1889,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    make in the world lessen the force of superstition and abate the spirit of
    persecution.
 
-    
+

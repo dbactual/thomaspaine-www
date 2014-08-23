@@ -222,7 +222,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    PHILADELPHIA
 
-    
+
 
    II
 
@@ -889,7 +889,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    THE FORESTER.
 
-    
+
 
    IV
 
@@ -1071,7 +1071,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    1. The writer intended at first to have contained his remarks in one
    letter.-Author.
 
-      
+  
 
    2.  In his second letter "Cato" devoted considerable space to a
    communication entitled "On sending Commissioners to treat with the
@@ -1165,4 +1165,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    22. Mr. Samuel Howell, though on their ticket, was never considered by us
    a proprietary dependent.-Author.
 
-    
+

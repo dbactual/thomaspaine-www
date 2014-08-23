@@ -31,7 +31,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    **
 
-    
+
 
    Could I have commanded circumstances with a wish, I know not of any that
    would have more generally promoted the progress of knowledge, than the
@@ -1444,7 +1444,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    seen in Sir John Sinclair's "History of the Revenue"), are four separate
    charges for this mummery office of chamberlain:
 
-    
+
 
    1st,  -L-38,778  17s -
 
@@ -1850,4 +1850,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    "Finances of Edmund Burke," The Times Literary Supplement, May 6, 1939, p.
    272.-Editor.
 
-    
+

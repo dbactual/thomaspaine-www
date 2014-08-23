@@ -47,4 +47,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    Please excuse a scrawl, as I am in haste to get my letter to Mr. G[erard]
    completed. It is a nice step, but I think I shall manage it with address.
 
-    
+

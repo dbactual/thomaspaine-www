@@ -182,4 +182,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    ship the Marquis de la Fayette with clothing, arms, ammunition, will sail
    from here in a few days.
 
-    
+

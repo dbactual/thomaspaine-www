@@ -325,7 +325,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    to the great South Sea, and from the north point a northwest line to the
    said South Sea. The figure which these lines produce will be thus:
 
-    
+
 
    (GRAPH OMITTED)
 
@@ -1304,4 +1304,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    little in others; and therefore, to have them marked out legally will give
    additional energy to the whole, and a new confidence to the several parts.
 
-    
+

@@ -3,7 +3,7 @@ Slug: essays/other/reflections-on-titles
 Title: Reflections on Titles
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-    
+
 
 > *TPNHA Editor's Note*
 >
@@ -13,7 +13,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    Philip Foner's introduction:
 
@@ -25,7 +25,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    their courtiers were worthy of were such designations as "the Right
    Honorable murderer of mankind."
 
-    
+
 
    Ask me what's honor? I'll the truth impart:
 
@@ -65,6 +65,6 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Vox POPULI.
 
-    
 
-    
+
+

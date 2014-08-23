@@ -28,7 +28,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    ***
 
-    
+
 
    WHEREAS the cultivation of useful knowledge, and the advancement of the
    liberal arts and sciences in any country, have the most direct tendency
@@ -97,4 +97,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    at all times open to the inspection of the supreme Executive Council of
    this Commonwealth, etc.
 
-    
+

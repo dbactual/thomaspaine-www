@@ -17,7 +17,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    ***
 
-    
+
 
    THREE Justices (so says my tale)
 
@@ -323,4 +323,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    And whet their logic up with wine.
 
-    
+

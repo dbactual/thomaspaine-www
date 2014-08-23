@@ -20,7 +20,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    THE imaginary importance of the government of England, draws to a close.
    In the two last wars, that with America, and the other with France, she
@@ -135,4 +135,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    C.S.
 
-    
+

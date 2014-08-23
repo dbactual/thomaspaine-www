@@ -58,4 +58,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    Jefferson told Paine that "measures were already taken in that
    business."-Editor.
 
-    
+

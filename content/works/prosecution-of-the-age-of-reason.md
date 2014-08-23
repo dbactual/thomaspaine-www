@@ -17,7 +17,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    INTRODUCTION
 
@@ -53,7 +53,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    A LETTER TO MR. ERSKINE
 
@@ -984,4 +984,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    THOMAS PAINE.
 
-    
+

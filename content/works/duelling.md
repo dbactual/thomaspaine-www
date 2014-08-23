@@ -11,7 +11,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    Philip Foner's introduction:
 
@@ -33,7 +33,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    ***
 
-    
+
 
    GOTHIC and absurd as the custom of duelling is generally allowed to be,
    there are advocates for it on principle; reasoners, who coolly argue for
@@ -234,4 +234,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    1. The reference is to Reign of Charles V, Book V, by Dr. William
    Robertson, the historian.
 
-    
+

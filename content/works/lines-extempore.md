@@ -5,9 +5,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    BY THOMAS PAINE, JULY, 1803.
 
-    
 
-    
+
+
 
    QUICK as the lightning's vivid flash
 
@@ -17,7 +17,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    And dims at horror's threatening scowls.
 
-    
+
 
    Mark ambition's ruthless king,
 
@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Man's festering wounds his demons probe.
 
-    
+
 
    Palled with streams of reeking gore
 
@@ -37,7 +37,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Where freedom holds her boundless sway.
 
-    
+
 
    'Tis here her sage triumphant sways
 
@@ -47,4 +47,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    No king but Him who rules above.
 
-    
+

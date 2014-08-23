@@ -11,7 +11,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    AN OCCASIONAL LETTER ON THE FEMALE SEX
 
@@ -28,7 +28,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    ***
 
-    
+
 
    O Woman! lovely Woman!
 
@@ -199,4 +199,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Art has erected them monuments. Eloquence has celebrated their virtues,
    and history has collected whatever could adorn their character.
 
-    
+

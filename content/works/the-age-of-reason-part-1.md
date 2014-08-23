@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
                            The Age Of Reason - Part I
 
-    
+
 
  
 
@@ -86,7 +86,7 @@ CHAPTER I - THE AUTHOR'S PROFESSION OF FAITH.
    and saints; and the Turks their Mahomet; as if the way to God was not open
    to every man alike.
 
-    
+
 
 CHAPTER II - OF MISSIONS AND REVELATIONS.
 
@@ -185,7 +185,7 @@ CHAPTER II - OF MISSIONS AND REVELATIONS.
    before, by the Quakers since, and by many good men in all ages, it has not
    been exceeded by any.
 
-    
+
 
 CHAPTER III - CONCERNING THE CHARACTER OF JESUS CHRIST, AND HIS HISTORY.
 
@@ -262,7 +262,7 @@ CHAPTER III - CONCERNING THE CHARACTER OF JESUS CHRIST, AND HIS HISTORY.
    extravagance is not exceeded by anything that is to be found in the
    mythology of the ancients.
 
-    
+
 
 CHAPTER IV - OF THE BASES OF CHRISTIANITY.
 
@@ -327,7 +327,7 @@ CHAPTER IV - OF THE BASES OF CHRISTIANITY.
    derogatory to the Almighty, more inconsistent with his wisdom, more
    contradictory to his power, than this story is.
 
-    
+
 
 CHAPTER V - EXAMINATION IN DETAIL OF THE PRECEDING BASES.
 
@@ -378,7 +378,7 @@ CHAPTER V - EXAMINATION IN DETAIL OF THE PRECEDING BASES.
    the gloomy pride of man become so intolerable, that nothing can flatter it
    but a sacrifice of the Creator?
 
-    
+
 
 CHAPTER VI - OF THE TRUE THEOLOGY.
 
@@ -398,7 +398,7 @@ CHAPTER VI - OF THE TRUE THEOLOGY.
    answer to this question is, that nobody can tell, except that we tell one
    another so. The case, however, historically appears to be as follows:
 
-    
+
 
 CHAPTER VII - EXAMINATION OF THE OLD TESTAMENT.
 
@@ -633,7 +633,7 @@ CHAPTER VII - EXAMINATION OF THE OLD TESTAMENT.
    The new Testament! that is, the 'new' Will, as if there could be two wills
    of the Creator.
 
-    
+
 
 CHAPTER VIII - OF THE NEW TESTAMENT.
 
@@ -839,7 +839,7 @@ CHAPTER VIII - OF THE NEW TESTAMENT.
    BUT some perhaps will say -- Are we to have no word of God -- no
    revelation? I answer yes. There is a Word of God; there is a revelation.
 
-    
+
 
 CHAPTER IX - IN WHAT THE TRUE REVELATION CONSISTS.
 
@@ -909,7 +909,7 @@ CHAPTER IX - IN WHAT THE TRUE REVELATION CONSISTS.
    conceive an eternal duration of what we call time; but it is more
    impossible to conceive a time when there shall be no time.
 
-    
+
 
 CHAPTER X - CONCERNING GOD, AND THE LIGHTS CAST ON HIS EXISTENCE AND ATTRIBUTES
 BY THE BIBLE.
@@ -1211,7 +1211,7 @@ CHAPTER XI - OF THE THEOLOGY OF THE CHRISTIANS; AND THE TRUE THEOLOGY.
    as the schools now make it consist, in the knowledge of languages, but in
    the knowledge of things to which language gives names.
 
-    
+
 
 CHAPTER XII - THE EFFECTS OF CHRISTIANISM ON EDUCATION; PROPOSED REFORMS.
 
@@ -1445,7 +1445,7 @@ CHAPTER XII - THE EFFECTS OF CHRISTIANISM ON EDUCATION; PROPOSED REFORMS.
    thereto such other matter as shall arise out of the subject, giving to the
    whole, by way of preface, a short introduction.
 
-    
+
 
 CHAPTER XIII - COMPARISON OF CHRISTIANISM WITH THE RELIGIOUS IDEAS INSPIRED BY
 NATURE.
@@ -1663,7 +1663,7 @@ NATURE.
    satellites or moons, attend the planets or worlds to which they severally
    belong, as may be seen by the assistance of the telescope.
 
-    
+
 
 CHAPTER XIV - SYSTEM OF THE UNIVERSE.
 
@@ -1764,7 +1764,7 @@ CHAPTER XIV - SYSTEM OF THE UNIVERSE.
    thence to our understanding) which those several planets or worlds of
    which our system is composed make in their circuit round the Sun.
 
-    
+
 
 CHAPTER XV - ADVANTAGES OF THE EXISTENCE OF MANY WORLDS IN EACH SOLAR SYSTEM.
 
@@ -1816,7 +1816,7 @@ CHAPTER XV - ADVANTAGES OF THE EXISTENCE OF MANY WORLDS IN EACH SOLAR SYSTEM.
    direction, would walk entirely round in less than two years. Alas! what is
    this to the mighty ocean of space, and the almighty power of the Creator!
 
-    
+
 
 CHAPTER XVI - APPLICATION OF THE PRECEDING TO THE SYSTEM OF THE CHRISTIANS.
 
@@ -1872,7 +1872,7 @@ CHAPTER XVI - APPLICATION OF THE PRECEDING TO THE SYSTEM OF THE CHRISTIANS.
    to speak of the three principal means that have been employed in all ages,
    and perhaps in all countries, to impose upon mankind.
 
-    
+
 
 CHAPTER XVII - OF THE MEANS EMPLOYED IN ALL TIME, AND ALMOST UNIVERSALLY, TO
 DECEIVE THE PEOPLES.

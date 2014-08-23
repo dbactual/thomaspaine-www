@@ -34,7 +34,7 @@ Date: Mon Aug  4 09:08:55 EDT 2014
 
    ***
 
-    
+
 
    WHEN the poison-tooth of a rattlesnake is drawn, the bite and slaver of
    the reptile, like the slander and foam of Mr. Hulbert, become deprived of
@@ -210,4 +210,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
 
    THOMAS PAINE.
 
-    
+

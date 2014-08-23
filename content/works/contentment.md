@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    OR, IF YOU PLEASE, CONFESSION1
 
-    
+
 
    O COULD we always live and love,
 
@@ -15,7 +15,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    My heaven would be here.
 
-    
+
 
    Though many countries I have seen,
 
@@ -25,7 +25,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Is half the world to me;
 
-    
+
 
    The other half, as you may guess,
 
@@ -35,7 +35,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    The whole world for my pains.
 
-    
+
 
    I'm then contented with my lot,
 
@@ -45,7 +45,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    So rich a man as me.
 
-    
+
 
    Then send no fiery chariot down
 
@@ -55,7 +55,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    This prayer is common-sense.
 
-    
+
 
    Let others choose another plan,
 
@@ -65,9 +65,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Is happiness of mind.
 
-    
 
-    
+
+
 
    1. This poem was addressed to Mrs. Joel Barlow, the wife of the liberal
    American poet, Joel Barlow, who was living in Paris in 1796 when these
@@ -77,6 +77,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    religion capable of more bigotry and enthusiasms, and more dangerous to
    its votaries-that of making a religion of Love."
 
-    
 
-    
+
+

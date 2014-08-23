@@ -3,7 +3,7 @@ Slug: essays/other/reflections-on-unhappy-marriages
 Title: Reflections on Unhappy Marriages
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-    
+
 
 > *TPNHA Editor's Note*
 >
@@ -13,7 +13,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    [Pennsylvania Magazine, June, 1775]
 
@@ -110,4 +110,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    somewhere or other; and t'is our duty to find each other out, since no
    creature was ever intended to be miserable."
 
-    
+

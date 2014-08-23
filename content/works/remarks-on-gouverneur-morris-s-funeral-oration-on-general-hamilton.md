@@ -25,7 +25,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    THE QUOTATIONS FROM THE ORATION ARE TAKEN FROM
 
@@ -233,4 +233,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    COMMON SENSE.
 
-    
+

@@ -180,4 +180,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    year this letter was written, Whitney showed his muskets, built with such
    parts, to Jefferson.
 
-    
+

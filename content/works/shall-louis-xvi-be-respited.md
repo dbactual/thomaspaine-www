@@ -108,4 +108,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Paine-I have been influenced in my vote by public policy as well as by
    moral reasons.
 
-    
+

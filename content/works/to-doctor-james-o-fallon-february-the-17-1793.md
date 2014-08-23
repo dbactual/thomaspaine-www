@@ -125,4 +125,4 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    recalled, and when the President added to this a proclamation which
    forbade any American citizen to enlist in such a project.-P.Foner.
 
-    
+

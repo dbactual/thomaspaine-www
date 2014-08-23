@@ -66,4 +66,4 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    come to hand by addressing it to the care of Benjamin Vaughan, Esquire,
    Jeffries Square, London.
 
-    
+

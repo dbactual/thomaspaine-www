@@ -347,13 +347,13 @@ Crisis 1
    it! and if there yet remains one thoughtless wretch who believes it not,
    let him suffer it unlamented.
 
-    
+
 
    COMMON SENSE.
 
    December 23, 1776.
 
-    
+
 
    * The present winter is worth an age, if rightly employed; but, if lost or
    neglected, the whole continent will partake of the evil; and there is no

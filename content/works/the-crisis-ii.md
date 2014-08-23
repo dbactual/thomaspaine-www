@@ -5,9 +5,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Crisis II
 
-    
 
-    
+
+
 
    Foner's introduction:
 
@@ -584,4 +584,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Hutchinson, (one of the same profession,) who lives near Trenton ferry on
    the Pennsylvania side, Mr. Hutchinson being present.
 
-    
+

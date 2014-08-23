@@ -340,4 +340,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    Any letters directed to me to the care of the Post Master N[ew] York will
    come to hand.
 
-    
+

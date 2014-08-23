@@ -21,7 +21,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    PAUL, in speaking of God, says, "Therefore hath He mercy on whom He will
    have mercy, and whom He will He hardeneth. Thou wilt say, why doth He yet
@@ -154,4 +154,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    THOMAS PAINE.
 
-    
+

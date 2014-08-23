@@ -30,7 +30,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    ***
 
-    
+
 
    AS I have always considered the bank as one of the best institutions that
    could be devised to promote the commerce and agriculture of the country,
@@ -56,7 +56,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    to pay the speculations. In the mean time the opposition to the bank is
    kept up to amuse the people.
 
-                                                                                                                  
+                                                                                                              
    Common Sense
 
    The bubble of Silas Deane and the bubble of the opposition to the bank
@@ -234,7 +234,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    PHILADELPHIA,
 
-    
+
 
    TO THE PRINTERS
 
@@ -1041,4 +1041,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    PHILAD. March 5, 1787. COMMON SENSE.
 
-    
+

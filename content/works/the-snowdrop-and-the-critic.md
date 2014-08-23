@@ -5,11 +5,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Enter CRITIC and SNOW DROP.*
 
-    
+
 
    CRITIC.
 
-    
+
 
    PROLOGUES to magazines!-the man is mad,
 
@@ -19,11 +19,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Your wonder working magic fancy brings.
 
-    
+
 
    SNOW DROP.
 
-    
+
 
    Bit by the muse in an unlucky hour,
 
@@ -59,7 +59,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Each eye, each hand, shall pluck what suits its taste,
 
-    
+
 
    And every palate shall enjoy a feast;
 
@@ -83,21 +83,21 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Shall clap their hands, and shout-encore, encore!
 
-    
+
 
    CRITIC.
 
-    
+
 
    All this is mighty fine! but prithee, when
 
    The frost returns, how fight you then your men?
 
-    
+
 
    SNOW DROP.
 
-    
+
 
    I'll tell you, Sir: we'll garnish out the scenes
 
@@ -111,11 +111,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    That wondering wits shall cry-diviner still!
 
-    
+
 
    CRITIC.
 
-    
+
 
    Better, and better, yet! but now suppose,
 
@@ -125,17 +125,17 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    And mow ye down, plants, flowers, trees, and all.
 
-    
+
 
    SNOW DROP.
 
-    
+
 
    Why, then we'll die like flowers of sweet perfume,
 
    And yield a fragrance even in the tomb!
 
-    
+
 
    *  When the Pennsylvania Magazine was first introduced in January, 1775,
    the public was informed that "like the snow-drop it comes forth in a
@@ -149,4 +149,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    possession of a page in your next magazine; here he comes, disputing with
    a critic about the propriety of a prologue.' "-Editor.
 
-    
+

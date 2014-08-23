@@ -1513,9 +1513,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    alluded to in my last, and against which, Arthur Lee, Esq., had some
    objections.
 
-    
 
-    
+
+
 
    To THE PUBLIC ON ROBERT MORRIS'S ADDRESS
 
@@ -2605,7 +2605,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    PHILADELPHIA, Feb. 13, 1779.
 
-    
+
 
    REPLY TO GOUVERNEUR MORRIS
 
@@ -2669,7 +2669,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    PHILADELPHIA,
 
-    
+
 
    To MR DEANE
 
@@ -2963,7 +2963,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    PHILADELPHIA,
 
-    
+
 
    To WHITEHEAD HUMPHREYS.
 
@@ -3050,7 +3050,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    THE PHILADELPHIA COMMITTEE TO ROBERT MORRIS
 
@@ -3150,7 +3150,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    J. B. Smith.
 
-    
+
 
    To THE PUBLIC13
 
@@ -3357,7 +3357,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    SILAS DEANE.
 
-    
+
 
    Mr. Paine.
 
@@ -3478,7 +3478,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    T.P.
 
-    
+
 
    MESSRS. DEANE, JAY, AND GERARD14
 
@@ -3706,7 +3706,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    COMMON SENSE.
 
-    
+
 
    To THE PUBLIC15
 
@@ -3973,4 +3973,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    published under the signature of S. Deane, to which they had frequent
    reference.-Author
 
-    
+

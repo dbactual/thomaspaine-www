@@ -22,4 +22,4 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    batallion of Philadelphia Associators march'd this morning for New York,
    except Capt. Weeds (not Wade's) Company who run away to a man.
 
-    
+

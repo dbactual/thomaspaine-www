@@ -19,7 +19,7 @@ Date: Mon Aug  4 09:08:50 EDT 2014
 
    ***
 
-    
+
 
    FELLOW CITIZENS, I receive, with affectionate gratitude, the honor which
    the late National Assembly has conferred upon me, by adopting me a citizen

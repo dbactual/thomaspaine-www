@@ -5,9 +5,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    FROM THE CASTLE IN THE AIR TO THE LITTLE CORNER OF THE WORLD*
 
-    
 
-    
+
+
 
    THE God that Moses writes about
 
@@ -17,7 +17,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    The disobedient Jews.
 
-    
+
 
    Their country often he laid waste,
 
@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    In chusing Y, O, U.
 
-    
+
 
    Then be you gay, or be you grave,
 
@@ -37,7 +37,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    No other Gods than me."
 
-    
+
 
    All Idols thou shalt put away
 
@@ -47,10 +47,10 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Thy Lord God will love thee.
 
-    
+
 
    * The original manuscript of this poem addressed to Lady Smyth, and signed
    "T. P.," is in the Henry E. Huntington Library, San Marino, California. It
    is printed through the courtesy of the library.-Editor  
 
-    
+

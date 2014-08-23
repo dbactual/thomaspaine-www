@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    LETTER TO THE ABBE RAYNAL
 
-    
+
 
    Phillip Foner's introduction:
 
@@ -2352,4 +2352,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    -Author.
 
-    
+

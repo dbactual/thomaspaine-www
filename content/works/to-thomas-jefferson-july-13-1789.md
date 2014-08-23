@@ -57,4 +57,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    of coming over to France for two or three weeks, as I shall have little to
    do here until the Bridge is ready for erecting.
 
-    
+

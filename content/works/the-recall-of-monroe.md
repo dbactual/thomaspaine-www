@@ -15,7 +15,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    ***
 
-    
+
 
    CITIZENS: In your nineteenth number of the complimentary fifth, you gave
    an analysis of the letters of James Monroe to Timothy Pickering. The
@@ -79,4 +79,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Representatives, and at the same time lays his cause before the upright
    tribunal of the American nation.
 
-    
+

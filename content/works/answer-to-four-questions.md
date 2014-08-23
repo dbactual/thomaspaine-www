@@ -17,7 +17,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    ***
 
-    
+
 
    THE four questions to which you do me the honor of requesting an answer
    have been sent to me in a letter by my friend M__ Laying aside the usual
@@ -576,4 +576,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+

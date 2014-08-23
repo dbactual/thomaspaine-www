@@ -89,7 +89,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    PHILADELPHIA, Feb. 18, 1786.
 
-    
+
 
    DISSERTATIONS ON GOVERNMENT, ETC.
 
@@ -933,7 +933,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    an opinion, when given as a matter of judgment, is an action of the mind
    which follows a fact, but here it is put in the room of one.
 
-       
+   
 
    The report then says, "that in the present state of our trade, the said
    bank has a direct tendency to banish a great part of the specie from the
@@ -2060,7 +2060,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Legislature for redress or grievances, by address, petition, or
    remonstrance.-Author.
 
-    
+
 
    2 - Minutes of the Assembly, March 21, 1785. Petitions from a considerable
    number of the inhabitants of Chester County were read, representing that
@@ -2190,4 +2190,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    it is time for the public to look a little closer into the conduct of its
    representatives.-Author.
 
-    
+

@@ -79,4 +79,4 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    P. S. I sent in my resignation as Secretary to the Committee Foreign
    Affairs January 8th. My compliments to your grandsons.
 
-    
+

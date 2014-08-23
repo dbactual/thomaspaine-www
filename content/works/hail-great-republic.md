@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Tune-Rule Britannia
 
-    
+
 
    HAIL great Republic of the world,
 
@@ -19,7 +19,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    The land of Love and Liberty!
 
-    
+
 
    Beneath thy spreading, mantling vine,
 
@@ -31,7 +31,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Be thou forever, etc.
 
-    
+
 
    From thee may hellish discord prowl,
 
@@ -43,7 +43,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Be thou forever, etc.
 
-    
+
 
    Where'er the Atlantic surges lave,
 
@@ -55,7 +55,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Be thou forever, etc.
 
-    
+
 
    May ages as they rise proclaim
 
@@ -67,7 +67,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Be thou forever, etc.
 
-    
+
 
    Let laureates make their birthdays known,
 
@@ -81,4 +81,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    The land of Love and Liberty!
 
-    
+

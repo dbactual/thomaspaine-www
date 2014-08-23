@@ -155,7 +155,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+
    AUTHOR'S ENGLISH PREFACE
 
    THE following little piece was written in the winter of 1795 and '96; and,
@@ -183,7 +183,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+
    AGRARIAN JUSTICE
 
    To preserve the benefits of what is called civilized life, and to remedy
@@ -494,7 +494,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the former case, they would be entitled to it. Admitting then that a tenth
    part declined receiving it, the amount would stand thus:
 
-    
+
 
    Fund
    annually.................................................................................-L-
@@ -507,7 +507,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    ---------------
    Remains: -L- 316,666
 
-    
+
 
    There are, in every country, a number of blind and lame person totally
    incapable of earning a livelihood. But as it will always happen that the
@@ -794,7 +794,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    cantonal assemblies for electors. To be an elector, one had to be
    proprietor, usufructuary, or occupant of a habitation producing an income
    ranging from one hundred or two hundred days of labor.
-    
+
    2.  Babeuf developed one of the earliest theories of communism. He headed
    the Secret
    Directory of Public Safety which organized the insurrection in May, 1796.

@@ -4,7 +4,7 @@ Title: Thoughts on Defensive War
 Date: Mon Aug  4 09:08:54 EDT 2014
 
                               TPNHA Editor's Note
-                                        
+                                    
    +------------------------------------------------------------------------+
    | TPNHA has determined from our work in the Institute for Thomas Paine   |
    | Studies' Text Analysis Project that this is probably not written by    |
@@ -12,7 +12,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    | Paine's work, so that you may have access to it.                       |
    +------------------------------------------------------------------------+
 
-    
+
 
    Foner's Introduction:
 
@@ -138,4 +138,4 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
    3.  The city is Philadelphia.
 
-    
+

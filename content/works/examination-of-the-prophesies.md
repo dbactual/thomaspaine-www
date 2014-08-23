@@ -1805,13 +1805,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    will define what it is. H E THAT BELIEVES IN THE STORY OF CHRIST IS AN
    INFIDEL TO GOD.
 
-    
+
 
      AUTHOR'S APPENDIX
 
    CONTRADICTORY DOCTRINES BETWEEN MATTHEW AND MARK
 
-    
+
 
    I N the New Testament (Mark xvi, 16), it is said "He that believeth and is
    baptized shall be saved, but he that believeth not shall be damned." This
@@ -1870,9 +1870,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
 
-    
+
+
 
                      MY PRIVATE THOUGHTS ON A FUTURE STATE
 
@@ -2116,4 +2116,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    pages, and he says in Vol. Ill, p. 117, "I have studied brevity." This is
    as marvelous as the bishop's great gun.-Author.
 
-    
+

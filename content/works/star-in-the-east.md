@@ -7,11 +7,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    GUIDED BY A STAR, TO SEE THE LITTLE JESUS IN A MANGER
 
-    
+
 
    Mat. Chap. 2.
 
-    
+
 
    THREE pedlars Trav'ling to a fair,
 
@@ -25,7 +25,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      That they might be more wise
 
-    
+
 
    And pray, the landlord said to them
 
@@ -39,7 +39,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      and Eastern men beside
 
-    
+
 
    And pray what have ye in your sacks,
 
@@ -53,7 +53,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      replied the travelling trio.
 
-    
+
 
    These things are very well said he,
 
@@ -67,7 +67,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      and cannot buy your buckles
 
-    
+
 
    I have a pack of Toys quoth he
 
@@ -81,7 +81,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      and make the money sure.
 
-    
+
 
    There's one of us will stay in pawn
 
@@ -95,7 +95,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      and therefore he said nay.
 
-    
+
 
    They truck'd however for the pack
 
@@ -109,7 +109,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      will fully be unravell'd
 
-    
+
 
    The star in the East, that shin'd so bright,
 
@@ -123,7 +123,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      In East street Bethlehem.
 
-    
+
 
    The wise men were those pedlars three,
 
@@ -137,7 +137,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      They did not understand.
 
-    
+
 
    Our Travellers coming to the House,
 
@@ -151,7 +151,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      As many folks were come.
 
-    
+
 
    And pray who have you there said they,
 
@@ -165,7 +165,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      about a love affair.
 
-    
+
 
    Somehow or other in a manger
 
@@ -179,7 +179,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      on me will fall the keeping.
 
-    
+
 
    Now if you'l set yourselves about
 
@@ -193,7 +193,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      and talk about the Baby.
 
-    
+
 
    They first unpack'd their pack of Toys,
 
@@ -207,7 +207,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      To Introduce the matter.
 
-    
+
 
    One squeak'd away, the other blew,
 
@@ -221,4 +221,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
      about the Eastern Magi.
 
-    
+

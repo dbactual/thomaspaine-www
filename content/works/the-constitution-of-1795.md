@@ -22,7 +22,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    ***
 
-    
+
 
    ON the motion of Lanthenas, "That permission be granted to Thomas Paine,
    to deliver his sentiments on the Declaration of Rights and the
@@ -280,4 +280,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    between the two, and to make such alterations as shall render them
    perfectly consistent and compatible with each other.
 
-    
+

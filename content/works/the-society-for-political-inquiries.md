@@ -128,4 +128,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    attending at any meeting, either stated or special, provided he be not out
    of town or confined by sickness.
 
-    
+

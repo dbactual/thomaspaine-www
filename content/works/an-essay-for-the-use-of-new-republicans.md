@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    ***
 
-    
+
 
    THE attainment of any important possession that we have long been ardently
    coveting is at once a source of subsequent self-congratulation. Indeed,
@@ -299,4 +299,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    supported by the same deceptions; they are now falling into the same decay
    under the rays of the same Light.
 
-    
+

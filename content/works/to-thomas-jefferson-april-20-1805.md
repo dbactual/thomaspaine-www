@@ -87,4 +87,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    capitol we unite two quadrants of a sphere by a semi-cylinder; all framed
    in De Lorme's manner. . . ."
 
-    
+

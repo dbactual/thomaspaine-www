@@ -71,4 +71,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    N. B. The French fleet sailed the 4th of this month, and the British much
    about the same time-both to the southward.
 
-    
+

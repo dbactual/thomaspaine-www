@@ -12,23 +12,23 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    blamed the king as well as Parliament for the oppressive measures imposed
    upon the American people.
 
-    
+
 
    *****************
 
    Printed in the Pennsylvania Magazine, July, 1775.
 
-    
 
-    
+
+
 
    A SONG, WRITTEN EARLY IN THE AMERICAN REVOLUTION
 
-    
+
 
    Tune-The gods of Greece.
 
-    
+
 
    IN a chariot of light, from the regions of day,
 
@@ -38,7 +38,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    And hither conducted the dame.
 
-    
+
 
    A fair budding branch from the gardens above,
 
@@ -48,7 +48,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    And the plant she named Liberty Tree.
 
-    
+
 
    The celestial exotic stuck deep in the ground,
 
@@ -66,7 +66,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    And their temple was Liberty Tree.
 
-    
+
 
    Beneath this fair tree, like the patriarchs of old,
 
@@ -84,7 +84,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    For the honor of Liberty Tree.
 
-    
+
 
    But hear, O ye swains ('tis a tale most profane),
 
@@ -102,4 +102,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    In defense of our Liberty Tree.
 
-    
+

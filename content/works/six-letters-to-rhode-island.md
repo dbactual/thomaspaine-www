@@ -309,7 +309,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    A FRIEND TO RHODE-ISLAND AND THE UNION.
 
-    
+
 
    LETTER II
 
@@ -578,7 +578,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    A FRIEND TO RHODE-ISLAND AND THE UNION.
 
-    
+
 
    LETTER III
 
@@ -857,7 +857,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    January 1, 1783.
 
-    
+
 
    LETTER IV
 
@@ -1026,7 +1026,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    to Rhode-Island the incumbrance which has arisen to the general cause and
    interest, by so long a dissent from the measure.
 
-    
+
 
    LETTER V
 
@@ -1268,7 +1268,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    January 16, 1783.
 
-    
+
 
    LETTER VI
 
@@ -1478,4 +1478,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Providence, Jan. 31, 1783.
 
-    
+

@@ -312,4 +312,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    8.  Such extensive trade with the West Indies had not taken place previous
    to the period during which the article was written.-Editor.
 
-    
+

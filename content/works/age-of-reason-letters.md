@@ -133,7 +133,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    --------------------------------------------------------------------------
 
@@ -177,9 +177,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    excellent librarian I owe thanks for this and other favors. -- Editor.
    (Conway)]
 
-    
 
-    
+
+
 
    [To the Editor of the "National Intelligencer," Federal City.]
 
@@ -208,11 +208,11 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    scruple of altering it, and publishing it as mine. I therefore send you
    the original letter of Mr. Adams, and my own copy of the answer.
 
-    
+
 
    THOMAS PAINE.
 
-    
+
 
    --------------------------------------------------------------------------
 
@@ -220,7 +220,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    SIR:
 
-    
+
 
    I have frequently with pleasure reflected on your services to my native
    and your adopted country. Your 'Common Sense' and your 'Crisis'
@@ -255,7 +255,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    SAMUEL ADAMS.
    [To] Mr. THOMAS PAINE.
 
-    
+
 
    --------------------------------------------------------------------------
 
@@ -267,7 +267,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    hereafter, there ought to be no reserve. Even Error has a claim to
    indulgence, if not to respect, when it is believed to be truth.
 
-    
+
 
    I am obliged to you for your affectionate remembrance of what you stile my
    services in awakening the public mind to a declaration of Independence,
@@ -485,7 +485,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    FEDERAL CITY, January 1, 1803.
 
-    
+
 
    --------------------------------------------------------------------------
 
@@ -505,7 +505,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    others accused of sedition, was sagaciously retained by the Society, whose
    means were unlimited, while poor Williams sent out the following appeal:
 
-    
+
 
    "T. Williams, Bookseller, No. 8 Little Turnstile, Holborn, Being at this
    time under a prosecution at 'common law,' for selling THE AGE OF REASON,
@@ -523,7 +523,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Wilkinson, printer, No. 115 Shoreditch; J. Rhynd, printer, Raye-st.,
    Clerkenwell; R. Hodgson. hatter, No. 29 Brook-st., Holbom."
 
-    
+
 
    So humble were they who collected their coppers to begin the long war for
    religious liberty against the powerful league whose gold had taken away
@@ -539,7 +539,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    over Williams with some results already described in my introduction to
    "The Age of Reason." -- Editor. (Conway)]
 
-    
+
 
    --------------------------------------------------------------------------
 
@@ -560,7 +560,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    expression) as this is." Ought I then to be surprised at Mr. Erskine for
    inconsistency?
 
-    
+
 
    In this prosecution, Mr. Erskine admits the right of controversy; but says
    that the Christian religion is not to be abused. This is somewhat
@@ -578,7 +578,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    --------------------------------------------------------------------------
 
@@ -594,7 +594,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    tribunals, on whom is the criminality of that belief to fall; on those who
    impose it, or on those on whom it is imposed?
 
-    
+
 
    A bookseller of the name of Williams has been prosecuted in London on a
    charge of blasphemy for publishing a book entitled the Age of Reason.
@@ -1310,7 +1310,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    since called, for the sake of easier pronunciation, Theophilantropes,
    (Theophilanthropists,) published by C------. [Chemin-Dupontes. -- Editor.]
 
-    
+
 
    "The worship set forth in this Manual, of which the origin is from the
    beginning of the world, was then professed by some families in the silence
@@ -1401,4 +1401,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-    
+

@@ -42,7 +42,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    power of feeling; of which class, regardless of party censure, is THE
    AUTHOR.
 
-    
+
 
      ----------------------------------------------------------------------
 
@@ -60,13 +60,13 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    under no sort of influence public or private, but the influence of reason
    and principle.
 
-    
+
 
    Philadelphia, February 14, 1776
 
      ----------------------------------------------------------------------
 
-    
+
 
    OF THE ORIGIN AND DESIGN OF GOVERNMENT IN GENERAL. WITH CONCISE REMARKS ON
    THE ENGLISH CONSTITUTION
@@ -280,7 +280,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    a wife, so any prepossession in favour of a rotten constitution of
    government will disable us from discerning a good one.
 
-    
+
 
      ----------------------------------------------------------------------
 
@@ -589,7 +589,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    bargain! Of more worth is one honest man to society and in the sight of
    God, than all the crowned ruffians that ever lived.
 
-    
+
 
      ----------------------------------------------------------------------
 
@@ -1172,7 +1172,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    hath given her warning to depart. O! receive the fugitive, and prepare in
    time an asylum for mankind.
 
-    
+
 
      ----------------------------------------------------------------------
 
@@ -1244,7 +1244,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    boatswain's and carpenter's sea-stores, as calculated by Mr. Burchett,
    Secretary to the navy.
 
-    
+
 
    [pounds Sterling]
 
@@ -1266,13 +1266,13 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
    20 - - 3,710
 
-    
+
 
    And from hence it is easy to sum up the value, or cost rather, of the
    whole British navy, which in the year 1757, when it was at its greatest
    glory consisted of the following ships and guns:
 
-    
+
 
    Ships. Guns. Cost of one. Cost of all
 
@@ -1292,7 +1292,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
    58 - 20 - 3,710 - 215,180
 
-    
+
 
    85 Sloops, bombs,
 
@@ -1308,7 +1308,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
    3,500,000
 
-    
+
 
    No country on the globe is so happily situated, or so internally capable
    of raising a fleet as America. Tar, timber, iron, and cordage are her
@@ -1586,13 +1586,13 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    set about it, wishes it over, and is continually haunted with the thoughts
    of its necessity.
 
-    
+
 
      ----------------------------------------------------------------------
 
    APPENDIX
 
-    
+
 
    Since the publication of the first edition of this pamphlet, or rather, on
    the same day on which it came out, the King's Speech made its appearance
@@ -1879,4 +1879,4 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    citizen; an open and resolute friend; and a virtuous supporter of the
    RIGHTS of MANKIND, and of the FREE AND INDEPENDENT STATES OF AMERICA.
 
-    
+

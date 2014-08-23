@@ -518,4 +518,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    institution which, to avoid the name of Druid, took that of Mason, and
    practised under this new name the rites and ceremonies of Druids.
 
-    
+

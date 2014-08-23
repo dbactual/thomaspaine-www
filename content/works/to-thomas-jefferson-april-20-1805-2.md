@@ -70,7 +70,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    1. Dr. William Eustis, formerly a student of Dr. Joseph Warren, the
    eminent Revolutionary physician, was a staunch follower of Jefferson. He
@@ -97,6 +97,6 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    have at length reduced to regularity. Jefferson Mss., Library of
    Congress.-Editor.
 
-    
 
-    
+
+

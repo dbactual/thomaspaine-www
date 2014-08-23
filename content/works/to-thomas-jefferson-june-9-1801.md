@@ -187,4 +187,4 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    Europe solely for the purpose of bringing Paine home, and rather than give
    them ammunition Paine decided not to return in a national vessel.-Editor.
 
-    
+

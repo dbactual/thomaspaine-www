@@ -91,4 +91,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    [For concrete evidence that Paine wrote this Address, see his letter to
    Benjamin Rush, June 13, 1783]
 
-    
+

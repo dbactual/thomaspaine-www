@@ -3,9 +3,9 @@ Slug: essays/other/cupid-and-hymen
 Title: Cupid and Hymen
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-    
 
-    
+
+
 
 > *TPNHA Editor's Note*
 >
@@ -15,7 +15,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    This article appeared in the Pennsylvania Magazine in April, 1775.
 
@@ -132,6 +132,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Esop.
 
-    
 
-    
+
+

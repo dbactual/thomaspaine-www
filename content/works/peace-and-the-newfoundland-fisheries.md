@@ -26,14 +26,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    (FIRST LETTER - This letter appeared in the Pennsylvania Gazette of June
    30, 1779.-Editor.)
 
    MESSRS. HALL AND SELLERS
 
-    
+
 
    GENTLEMEN: A piece of very extraordinary complexion made its appearance in
    your last paper, under the signature of AMERICANUS, and what is equally as
@@ -880,4 +880,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    PHILADELPHIA,
 
-    
+

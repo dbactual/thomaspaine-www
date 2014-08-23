@@ -3,7 +3,7 @@ Slug: essays/english-affairs/reflections-on-the-life-and-death-of-lord-clive
 Title: Reflections on the Life and Death of Lord Clive
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-    
+
 
    Philip Foner's introduction:
 
@@ -238,4 +238,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    4. Some time before his death he became very melancholy-subject to strange
    imaginations-and was found dead at last.-Author.
 
-    
+

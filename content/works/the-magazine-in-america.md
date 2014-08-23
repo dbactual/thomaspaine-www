@@ -167,4 +167,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    dexterity from one than from another. Thus, we are not all PHILOSOPHERS,
    all ARTISTS, nor all POETS.
 
-    
+

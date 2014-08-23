@@ -144,7 +144,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    CHAPTER I - THE OLD TESTAMENT
 
-    
+
 
    IT has often been said that any thing may be proved from the Bible; but
    before any thing can be admitted as proved by Bible, the Bible itself must
@@ -1137,25 +1137,25 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    TABLE of the Prophets, with the time in which they lived before Christ,
    and also before the books of Kings and Chronicles were written:
 
-   NAMES     Years Before Kings and  Observations                             
+   NAMES     Years Before Kings and  Observations                         
              Christ       Chronicles 
-   Isaiah    760          172        mentioned.                               
+   Isaiah    760          172        mentioned.                           
    Jeremiah  629          41         mentioned only in last [two] chapters of 
-                                     Chronicles.                              
-   Ezekiel   595          7          not mentioned.                           
-   Daniel    607          19         not mentioned.                           
-   Hosea     785          97         not mentioned.                           
-   Joel      800          212        not mentioned.                           
-   Amos      789          199        not mentioned.                           
-   Obadiah   789          199        not mentioned.                           
-   Jonah     862          274        See the NOTE (below)                     
-   Micah     750          162        not mentioned.                           
-   Nahum     713          125        not mentioned.                           
-   Habakkuk  620          38         not mentioned.                           
-   Zepbaniah 630          42         not mentioned.                           
-   Haggai                            After the year 588                       
-   Zechariah                         After the year 588                       
-   Mdachi                            After the year 588                       
+                                     Chronicles.                          
+   Ezekiel   595          7          not mentioned.                       
+   Daniel    607          19         not mentioned.                       
+   Hosea     785          97         not mentioned.                       
+   Joel      800          212        not mentioned.                       
+   Amos      789          199        not mentioned.                       
+   Obadiah   789          199        not mentioned.                       
+   Jonah     862          274        See the NOTE (below)                 
+   Micah     750          162        not mentioned.                       
+   Nahum     713          125        not mentioned.                       
+   Habakkuk  620          38         not mentioned.                       
+   Zepbaniah 630          42         not mentioned.                       
+   Haggai                            After the year 588                   
+   Zechariah                         After the year 588                   
+   Mdachi                            After the year 588                   
 
    [NOTE In 2 Kings xiv. 25, the name of Jonah is mentioned on account of the
    restoration of a tract of land by Jeroboam; but nothing further is said of
@@ -2325,7 +2325,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    CHAPTER II - THE NEW TESTAMENT
 
-    
+
 
    THE New Testament, they tell us, is founded upon the prophecies of the
    Old; if so, it must follow the fate of its foundation.
@@ -2413,53 +2413,53 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    David.
 
    Genealogy, according to Matthew               Genealogy, according to Luke 
-   Christ                                         Christ  Christ              
-   2 Joseph                                      2 Joseph                     
-   3 Jacob                                       3 Heli                       
-   4 Matthan                                     4 Matthat                    
-   5 Eleazer                                     5 Levi                       
-   6 Eliud                                       6 Melchl                     
-   7 Achim                                       7 Janna                      
-   8 Sadoc                                       8 Joseph                     
-   9 Azor                                        9 Mattathias                 
-   10 Eliakim                                    10 Amos                      
-   11 Abiud                                      11 Naum                      
-   12 Zorobabel                                  12 Esli                      
-   13 Salathiel                                  13 Nagge                     
-   14 Jechonias                                  14 Maath                     
-   15 Josias                                     15 Mattathias                
-   16 Amon                                       16 Semei                     
-   17 Manasses                                   17 Joseph                    
-   18 Ezekias                                    18 Juda                      
-   19 Achaz                                      19 Joanna                    
-   20 Joatham                                    20 Rhesa                     
-   21 Ozias                                      21 Zorobabel                 
-   22 Joram                                      22 Salathiel                 
-   23 Josaphat                                   23 Neri                      
-   24 Asa                                        24 Melchi                    
-   25 Abia                                       25 Addi                      
-   26 Roboam                                     26 Cosam                     
-   27 Solomon                                    27 Elmodam                   
-   28 David *                                    28 Er                        
-                                                 29 Jose                      
-                                                 30 Eliezer                   
-                                                 31 Jorim                     
-                                                 32 Matthat                   
-                                                 33 Levi                      
-                                                 34 Simeon                    
-                                                 35 Juda                      
-                                                 36 Joseph                    
-                                                 37 Jonan                     
-                                                 38 Eliakim                   
-                                                 39 Melea                     
-                                                 40 Menan                     
-                                                 41 Mattatha                  
-                                                 42 Nathan                    
-                                                 43 David                     
+   Christ                                         Christ  Christ          
+   2 Joseph                                      2 Joseph                 
+   3 Jacob                                       3 Heli                   
+   4 Matthan                                     4 Matthat                
+   5 Eleazer                                     5 Levi                   
+   6 Eliud                                       6 Melchl                 
+   7 Achim                                       7 Janna                  
+   8 Sadoc                                       8 Joseph                 
+   9 Azor                                        9 Mattathias             
+   10 Eliakim                                    10 Amos                  
+   11 Abiud                                      11 Naum                  
+   12 Zorobabel                                  12 Esli                  
+   13 Salathiel                                  13 Nagge                 
+   14 Jechonias                                  14 Maath                 
+   15 Josias                                     15 Mattathias            
+   16 Amon                                       16 Semei                 
+   17 Manasses                                   17 Joseph                
+   18 Ezekias                                    18 Juda                  
+   19 Achaz                                      19 Joanna                
+   20 Joatham                                    20 Rhesa                 
+   21 Ozias                                      21 Zorobabel             
+   22 Joram                                      22 Salathiel             
+   23 Josaphat                                   23 Neri                  
+   24 Asa                                        24 Melchi                
+   25 Abia                                       25 Addi                  
+   26 Roboam                                     26 Cosam                 
+   27 Solomon                                    27 Elmodam               
+   28 David *                                    28 Er                    
+                                                 29 Jose                  
+                                                 30 Eliezer               
+                                                 31 Jorim                 
+                                                 32 Matthat               
+                                                 33 Levi                  
+                                                 34 Simeon                
+                                                 35 Juda                  
+                                                 36 Joseph                
+                                                 37 Jonan                 
+                                                 38 Eliakim               
+                                                 39 Melea                 
+                                                 40 Menan                 
+                                                 41 Mattatha              
+                                                 42 Nathan                
+                                                 43 David                 
 
-    
 
-    
+
+
 
     [NOTE: * From the birth of David to the birth of Christ is upwards of
    1080 years; and as the life-time of Christ is not included, there are but
@@ -3809,4 +3809,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    opinions are free, either in matters of govemment or religion, truth will
    finally and powerfully prevail.
 
-    
+

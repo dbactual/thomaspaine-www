@@ -11,7 +11,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    Philip Foner's introduction:
 
@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    FORT WASHINGTON being obliged to surrender, by a violent attack made by
    the whole British army, on Saturday the 16th of November, the Generals
@@ -124,4 +124,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    in a very severe Night, and their march through a violent Storm of Snow
    and Hail, did not in the least abate their Ardour. . . ."-Editor.
 
-    
+

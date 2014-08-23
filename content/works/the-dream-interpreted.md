@@ -3,7 +3,7 @@ Slug: essays/other/the-dream-interpreted
 Title: The Dream Interpreted
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-    
+
 
 > *TPNHA Editor's Note*
 >
@@ -13,7 +13,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    This essay, published in the May, 1775 issue of the Pennsylvania Magazine
    is an interesting example of Paine's ability to use different literary
@@ -108,4 +108,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    BUCKS COUNTY.
 
-    
+

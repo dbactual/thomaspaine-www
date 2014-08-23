@@ -63,4 +63,4 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    Col. Kirkbride at whose house I am, desires me to present you his
    respectful compliments.
 
-    
+

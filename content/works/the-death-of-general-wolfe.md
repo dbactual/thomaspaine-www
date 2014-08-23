@@ -19,7 +19,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
     Was engraved with the deeds he had done.
 
-    
+
 
    The sire of the Gods, from his crystalline throne,
 
@@ -37,7 +37,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
     For thy Wolfe is not dead but removed.
 
-    
+
 
    "The sons of the East, the proud giants of old.
 
@@ -55,7 +55,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
     And the charge was entrusted to me.
 
-    
+
 
    "To the plains of Quebec with the orders I flew,
 
@@ -73,4 +73,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
     Should induce him again to return."
 
-    
+

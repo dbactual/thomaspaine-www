@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Crisis XI
 
-    
+
 
    Foner's introduction:
 
@@ -359,4 +359,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    PHILADELPHIA, May 22, 1782.
 
-    
+

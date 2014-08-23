@@ -19,7 +19,7 @@ Date: Mon Aug  4 09:08:50 EDT 2014
 
    ***
 
-    
+
 
    FRIENDS AND FELLOW CITIZENS: At a moment like the present, when willful
    misrepresentations are industriously spread by the partisans of arbitrary

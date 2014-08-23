@@ -46,7 +46,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    ***
 
-    
+
 
    PREFACE
 
@@ -88,7 +88,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    THE AUTHOR
 
-    
+
 
    PROSPECTS ON THE RUBICON
 
@@ -1317,4 +1317,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    August 20th, 1787.
 
-    
+

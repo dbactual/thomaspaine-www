@@ -15,4 +15,4 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    Commercial Treaty, and Britain, finding this out, will regulate our
    carrying Trade by her own act of Parliament.
 
-    
+

@@ -3483,7 +3483,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
                after deducting the land tax, and up
 
-    
+
 
    To L500                      0s   3d per pound
 
@@ -3674,7 +3674,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
               per annum         subtracted       Net produce
 
-    
+
 
    L1000              L21               L979
 
@@ -4334,4 +4334,4 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    is begun.- Thus wishing, as I sincerely do, freedom and happiness to all
    nations, I close the second part.
 
-    
+

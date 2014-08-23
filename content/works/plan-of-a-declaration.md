@@ -3,7 +3,7 @@ Slug: essays/french-revolution/plan-of-a-declaration
 Title: Plan of a Declaration
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-    
+
 
 > *TPNHA Editor's Note*
 >
@@ -13,7 +13,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 > Paine's work, so that you may have access to it.
 
 
-    
+
 
    OF THE NATURAL, CIVIL AND POLITICAL RIGHTS OF MAN
 
@@ -156,4 +156,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    generations to its laws; and all heredity in public employments is absurd
    and tyrannical.
 
-    
+

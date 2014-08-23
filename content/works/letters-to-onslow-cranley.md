@@ -150,7 +150,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    THOMAS PAINE.
 
-    
+
 
    SECOND LETTER, DATED AT LONDON, JUNE 21, 1792.
 
@@ -262,4 +262,4 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    THOMAS PAINE.
 
-    
+
