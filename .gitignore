@@ -57,3 +57,4 @@ docs/_build/
 *~
 /cache/
 *.DS_Store
+/content/pages/writings.md
