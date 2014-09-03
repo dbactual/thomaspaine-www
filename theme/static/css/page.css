@@ -292,10 +292,13 @@ border-bottom: none;
   margin-right: 20px;
   font-size: 1.5em;
 }
+.sidebar .mailinglist,
 .sidebar .donate,
-.sidebar .store {
+.sidebar .store,
+.sidebar .tpapp {
     margin-top: 25px;
    font-size: .5em;
+   width: 75%;
 }
 
 .sidebar .toggle {
@@ -330,7 +333,7 @@ border-bottom: none;
   padding: 2.2em 0;
   max-width: 600px;
   margin: 0 auto;
-  min-height: 800px;
+  min-height: 1000px;
 }
 .content.with-sidebar {
   margin: 0 0 0 280px;

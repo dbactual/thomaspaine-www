@@ -11,6 +11,9 @@
 
 	<link rel="top" href="#" />
 
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
         <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:700' rel='stylesheet' type='text/css'>
 
@@ -41,10 +44,9 @@
     <ul id="nav">
         <li>
           <div class="search">
-            <form method="get" action="http://www.google.com/search">
-              <input type="text" name="q" size=31 maxlength=255 value="">
+            <form method="get" action="{{ SITEURL }}/cgi-bin/search">
+              <input type="text" name="term" size=31 maxlength=255 value="">
               <input type="submit" name="sa" value="Search">
-              <input type="hidden" name="as_sitesearch" value="thomaspaine.org">
             </form>
           </div>
         </li>
@@ -63,45 +65,52 @@
       </ul>
 
 
+      <div class="mailinglist">
+      <h2>Mailing List</h2> 
+
+      Join our mailing list:
+      <form action="{{ SITEURL }}/cgi-bin/ml" method="post">
+        <input placeholder="you@address.com" name="em" type="text" size=31 maxlength=255 value="">
+        <button alt="Join" name="submit">Join</button>        
+      </form>
+      </div>
+
+
       <div class="donate">
-      <h2 style="width: 80%">Support</h2>
-          Consider supporting the Thomas Paine National Historical
-          Association! As a 100% volunteer organization, every dollar
-          we receive goes directly to supporting our mission.
+      <h2>Support</h2> 
+
+      Consider supporting the Thomas Paine National Historical
+      Association! As a 100% volunteer organization, every dollar we
+      receive goes directly to supporting our mission. Please donate
+      via PayPal today!
+
         <form action="https://www.paypal.com/en/cgi-bin/webscr" method="post">
           <input type="hidden" name="cmd" value="_donations">
           <input type="hidden" name="business" value="info@thomaspaine.org">
-          <input type="hidden" name="return" value="http://web.thomaspaine.org/joomla/">
+          <input type="hidden" name="return" value="{{ SITEURL }}">
           <input type="hidden" name="undefined_quantity" value="0">
           <input type="hidden" name="item_name" value="Donate to The Thomas Paine National Historical Association">
-          Amount:&nbsp;<input type="text" name="amount" size="4" maxlength="10" value="" style="text-align:right;">
-          <select name="currency_code">
-            <option value="USD">USD</option>
-            <option value="EUR">EUR</option>
-            <option value="GBP">GBP</option>
-            <option value="CHF">CHF</option>
-            <option value="AUD">AUD</option>
-            <option value="HKD">HKD</option>
-            <option value="CAD">CAD</option>
-            <option value="JPY">JPY</option>
-            <option value="NZD">NZD</option>
-            <option value="SGD">SGD</option>
-            <option value="SEK">SEK</option>
-            <option value="DKK">DKK</option>
-            <option value="PLN">PLN</option>
-            <option value="HUF">HUF</option>
-            <option value="CZK">CZK</option>
-            <option value="ILS">ILS</option>
-            <option value="MXN">MXN</option>
-          </select>
           <input type="hidden" name="charset" value="utf-8">
           <input type="hidden" name="no_shipping" value="1">
-          <input type="hidden" name="image_url" value="http://web.thomaspaine.org/joomla/images/tpnha/NewLogo_3.png">
-          <input type="hidden" name="cancel_return" value="http://web.thomaspaine.org/joomla/">
-          <input type="hidden" name="no_note" value="0"><br><br>
-          <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="PayPal secure payments.">
+          <input type="hidden" name="image_url" value="{{ SITEURL }}/images/donate_logo.png">
+          <input type="hidden" name="cpp_headerback_color" value="F6E6CE">
+          <input type="hidden" name="cancel_return" value="{{ SITEURL }}">
+          <input type="hidden" name="no_note" value="0">
+          <button alt="Donate" name="submit">Donate</button>
         </form>
         </div>
+
+      <div class="tpapp">
+        <h2>Thomas Paine Encyclopedia App</h2>
+        The <a href="https://itunes.apple.com/us/app/thomas-paine-encyclopedia/id660847973?mt=8">Thomas
+        Paine Encyclopedia</a> is the most comprehensive educational
+        and research resource dedicated to the life, work, and legacy
+        of Thomas Paine – one of the founding fathers of the United
+        States of America, whose impact on the world can be felt even
+        today.        
+        <h3>Free for iPads only</h3>
+      </div>
+
 
       <div class="store">
         <h2>Store</h2>
@@ -112,12 +121,15 @@
     </div>
   </div>
 
-<div class="content guide with-sidebar">  
+<div class="content guide with-sidebar">   <!--BEGIN CONTENT-->
   {% block content %}{% endblock %}
-</div>	
+</div>	<!--END CONTENT-->
 		  
 <div class="footer">
-  © {{ AUTHOR }} <!-- Proudly powered by pelican - http://blog.getpelican.com/ -->
+  © {{ AUTHOR }} 
+<div style="float:right">
+  <a style="color:white" href="http://blog.getpelican.com/">Powered by pelican</a> <a style="color:white" href="http://mosey.org">Design and coding - Dave Berton</a>
+</div>
 </div>
 
 <script>

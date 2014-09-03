@@ -68,6 +68,7 @@ def load_data():
             title_info = titles[title]
             title_info['date'] = pubdate
             title_info['summary'] = ''
+            title_info['title'] = title
             title_info['slug'] = slug
             title_info['href'] = '/%s.html' % slug
             # parse slug
@@ -78,6 +79,7 @@ def load_data():
                 sub = sub[cat]
             title_info = sub[title]
             title_info['date'] = pubdate
+            title_info['title'] = title
             title_info['summary'] = ''
             title_info['slug'] = slug
             title_info['href'] = '/%s.html' % slug
@@ -113,7 +115,7 @@ def output_works(writings, works):
         more_works = works[work]
         disp = get_display_title(work)
         if 'href' in more_works:
-            disp = '<a href="%s">%s</a>' % (more_works['href'], get_display_title(work))
+            disp = '<a href="%s">%s</a>' % (more_works['href'], more_works['title'])
             writings.write('<li>%s' % (disp))
         else:
             writings.write('<li>%s' % (get_display_title(work)))

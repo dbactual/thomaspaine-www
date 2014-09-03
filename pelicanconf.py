@@ -19,6 +19,10 @@ DIRECT_TEMPLATES = ('index', 'archives', 'events', 'works')
 
 DEFAULT_LANG = u'en'
 
+EXTRA_PATH_METADATA = {
+    'images/favicon.ico': {'path': 'favicon.ico'},
+    }
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
