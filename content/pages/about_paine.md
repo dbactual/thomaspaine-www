@@ -16,10 +16,14 @@ Title: About Paine
 <li><a href="/aboutpaine/life-of-thomas-paine-by-g-vale.html">Life of Thomas Paine by G. Vale</a></li>
 <li><a href="/aboutpaine/the-cobbett-papers-ed-by-conway.html">The Cobbett Papers, ed. by Conway</a></li>
 <li><a href="/aboutpaine/thomas-paine-1870-by-robert-ingersoll.html">Thomas Paine (1870) by Robert Ingersoll</a></li>
-<li><a href="/aboutpaine/thomas-paine-1870-by-robert-ingersoll.html">Thomas Paine (1870) by Robert Ingersoll</a></li>
+<li><a href="/aboutpaine/thomas-paine-1892-by-robert-ingersoll.html">Thomas Paine (1892) by Robert Ingersoll</a></li>
 <li><a href="/aboutpaine/the-hall-manuscripts-ed-by-moncure-conway.html">The Hall Manuscripts, ed. by Moncure Conway</a></li>
 <li><a href="/aboutpaine/life-of-thomas-paine-by-clio-rickman.html">Life of Thomas Paine by Clio Rickman</a></li>
 <li><a href="/aboutpaine/foner-s-introduction-to-the-collected-works.html">Foner's Introduction to the Collected Works</a></li>
+
+<li><iframe src="//player.vimeo.com/video/72115130" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<p><a href="http://vimeo.com/72115130">30 Minute excerpt on Paine from "American Freethought"</a></p>
+
 </ul></li>
 
 <li><a name="essays"><h3>Essays<h3></a>

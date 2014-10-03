@@ -6,6 +6,8 @@ standpoint of historical and scholastic accuracy and truth.
 
 [The Truth Seeker](http://thetruthseeker.net/)
 
+[Paine Movie Project](https://www.facebook.com/thelifeofthomaspaine)
+
 [thomaspaine.us](http://www.thomaspaine.us/)
 
 [Thomas Paine Society of the United Kingdom](http://www.thomaspaineuk.com)
