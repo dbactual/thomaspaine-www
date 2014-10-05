@@ -4,7 +4,4 @@ Category: News
 
 [The 2nd International Paine Studies
 Conference](http://www.iona.edu/About/Iona-in-Community/Institute-for-Thomas-Paine-Studies/Scholarship/2014-Conference.aspx)
-is co-hosted by The Institute for Thomas Paine Studies at Iona
-College. Iona College hosts a gathering of scholars for presentations
-and discussion on the life, legacy and ideas of a long neglected
-Founding Father of the United States, Thomas Paine.
+was co-hosted by the Thomas Paine National Historical Association and the Institute for Thomas Paine Studies in Paris, France on September 26, 2014. Eleven Paine scholars presented papers on Paine in the French Revolution.
