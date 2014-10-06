@@ -12,6 +12,12 @@ New Rochelle, NY 10804-3609<br/>
 
 <hr style="margin-top:10px; margin-bottom: 10px; clear:both"/>
 
+Board
+--------
+
+Michael Munisteri
+
+Gary Berton
 
 Founded January 29, 1884 in New York City, TPNHA is among the oldest
 historical associations in the United States, and the single most
