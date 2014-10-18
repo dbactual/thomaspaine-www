@@ -3,34 +3,26 @@ Slug: essays/american-revolution/thoughts-on-defensive-war
 Title: Thoughts on Defensive War
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-                              TPNHA Editor's Note
-                                    
-   +------------------------------------------------------------------------+
-   | TPNHA has determined from our work in the Institute for Thomas Paine   |
-   | Studies' Text Analysis Project that this is probably not written by    |
-   | Paine. We include it here because it was referenced in the past as     |
-   | Paine's work, so that you may have access to it.                       |
-   +------------------------------------------------------------------------+
+TPNHA Editor's Note: 
+------
+TPNHA has determined from our work in the Institute for Thomas Paine Studies' Text Analysis Project that this is probably not written by Paine. We include it here because it was referenced in the past as Paine's work, so that you may have access to it.
 
 
+Foner's Introduction:
 
-   Foner's Introduction:
-
-   Paine frequently argued that the "established principle of the Quakers not
-   to shed blood" was a good one and if "universally established, arms and
-   the art of war would be wholly extirpated." But he was no pacifist, for he
-   understood that liberty could not be defended by words alone. In this
-   essay, published in the Pennsylvania Magazine of July, 1775, he shows why
-   a "Lover of Peace" should be willing to take up his musket in defense of
-   American freedom. The second paragraph has special significance today. It
-   is interesting
-
-   to note his statement that he "would gladly agree with all the world to
-   lay aside the use of arms, and settle matters by negotiation; but unless
-   the whole will, the matter ends, and I take up my musket and thank heaven
-   he has put it in my power." He did more than write about shouldering a
-   gun, for he enlisted in the Continental army immediately after the
-   outbreak of the War for Independence.
+Paine frequently argued that the "established principle of the Quakers not
+to shed blood" was a good one and if "universally established, arms and
+the art of war would be wholly extirpated." But he was no pacifist, for he
+understood that liberty could not be defended by words alone. In this
+essay, published in the Pennsylvania Magazine of July, 1775, he shows why
+a "Lover of Peace" should be willing to take up his musket in defense of
+American freedom. The second paragraph has special significance today. It
+is interesting to note his statement that he "would gladly agree with all the world to
+lay aside the use of arms, and settle matters by negotiation; but unless
+the whole will, the matter ends, and I take up my musket and thank heaven
+he has put it in my power." He did more than write about shouldering a
+gun, for he enlisted in the Continental army immediately after the
+outbreak of the War for Independence.
 
    *****************
 
