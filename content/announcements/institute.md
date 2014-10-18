@@ -10,3 +10,6 @@ is an academic center for the advancement of research in Paine
 Studies, multidisciplinary courses on Paine and his legacy in
 philosophy, politics, literature and history.
 
+
+*Truth Seeker* magazine has a new [issue](http://thetruthseeker.net/video/101054603) featuring an essay on the founding of TPNHA.
+
