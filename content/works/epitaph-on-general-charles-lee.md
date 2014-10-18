@@ -3,6 +3,7 @@ Slug: essays/poetry/epitaph-on-general-charles-lee
 Title: Epitaph on General Charles Lee
 Date: Mon Aug  4 09:08:51 EDT 2014
 
+
    WARRIOR, farewell! eccentrically brave,                              
                                                                         
    Above all kings, and yet of gold the slave:                          
