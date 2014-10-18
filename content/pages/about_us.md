@@ -15,9 +15,23 @@ New Rochelle, NY 10804-3609<br/>
 Board
 --------
 
-Michael Munisteri
+Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associates 
 
-Gary Berton
+Gary Berton, Coordinator of the Institute for Thomas Paine Studies at Iona College
+
+Roderick Bradford, San Diego, CA - documentarian, editor of the Truth Seeker 
+
+John Ward Regan, NYC - professor of Liberal Studies at NYU 
+
+Lawrence Goodheart, Connecticut - professor of American History at U of Connecticut 
+
+Ted Marotta, Johnstown, NY - instructor of History at Fulton-Montgomery CC, SUNY 
+
+Josh Klein, New Rochelle, NY - professor of Criminal Justice, Iona College
+
+
+History
+--------
 
 Founded January 29, 1884 in New York City, TPNHA is among the oldest
 historical associations in the United States, and the single most
