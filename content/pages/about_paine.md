@@ -14,6 +14,10 @@ Title: About Paine
 + ###Recommended {#recom}
 
     - [Thomas Paine:Social and Political Thought by Gregory Claeys](http://amzn.com/0044450907) *The best book on Paine's political philosophy and its impact on history*
+    - [Thomas Paine's American Ideology by A.O. Aldridge](http://www.amazon.com/Thomas-Paines-American-Ideology-Aldridge/dp/0874132606/ref=sr_1_3?s=books&ie=UTF8&qid=1414245673&sr=1-3&keywords=Thomas+Paine%27s+AMerican+Ideology) *The first book to take Paine's political philosophy seriously - oriented to the American Revolution*
+    - [The Intellectual Origins of American Radicalism by Staughton Lynd](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=Intellectual+origins+of+American+Radicalism) *The breakthrough book on the American Revolution that puts Paine in a proper perspective - the new 2009 Introduction is flawed by the reliance on works mis-attributed to Paine*
+    - [Thomas Paine by Audrey Williamson](http://www.amazon.com/Thomas-Paine-Life-Work-Times/dp/0312801858/ref=sr_1_3?s=books&ie=UTF8&qid=1414246329&sr=1-3&keywords=Thomas+Paine+Audrey+Williamson) *Great introductory biography*
+    - [Thomas Paine by Craig Nelson](http://www.amazon.com/Thomas-Paine-Enlightenment-Revolution-Nations/dp/0143112384/ref=sr_1_1?s=books&ie=UTF8&qid=1414246413&sr=1-1&keywords=Thomas+Paine+Craig+Nelson) *Another good biography*
 
 + ###Bios {#bios}
 
