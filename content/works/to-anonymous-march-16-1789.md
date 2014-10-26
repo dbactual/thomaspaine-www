@@ -1,9 +1,9 @@
-PubDate: 1789-03-20
-Slug: letters/other/to-anonymous-march-16-1789
-Title: To Anonymous  March 16, 1789
+PubDate: 1790-03-20
+Slug: letters/other/to-anonymous-march-16-1790
+Title: To Benjamin Rush  March 16, 1790
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-   To Anonymous  March 16, 1789
+   To Anonymous  March 16, 1790
 
    PARIS,
 

@@ -1,4 +1,4 @@
-PubDate: 1789-02-03
+PubDate: 1775-08-01
 Slug: essays/other/amicus-letter
 Title: Amicus letter
 Date: Mon Aug  4 09:08:51 EDT 2014
