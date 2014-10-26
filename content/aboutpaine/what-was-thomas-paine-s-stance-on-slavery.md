@@ -2,9 +2,4 @@ Title: What was Thomas Paine's stance on slavery?
 Slug: aboutpaine/what-was-thomas-paine-s-stance-on-slavery
 Date: Mon Aug  4 09:08:57 EDT 2014
 
-   Three months after landing on American soil, Paine helped form the first
-   abolitionist society. He also published an article in the same year, 1775,
-   opposing slavery, and fought to have an anti-slavery clause put into the
-   Declaration of Independence. He was prevented from attending the
-   Constitutional Convention, and later criticized the Constitution for,
-   among other things, failing to broaden the concept of equality for all.
+    Paine was a staunch abolitionist despite the fact that he never wrote on the subject. The biographies on Paine are in error when they attribute "African Slavery in America" and "A Serious Thought" to Paine, and Paine was not a founding member of the first abolitionist organization established in Philadelphia in 1775. However Paine always called for the abolition of slavery in personal corresondence and was close friends with many of the leading abolitionists of his day. See, for example, To Benjamin Rush March 16, 1789.
