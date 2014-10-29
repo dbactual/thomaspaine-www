@@ -401,10 +401,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    12.  Maier, op. cit., pg. 33. In a petty fit to once again try and bury
    Paine, Adams in his Autobiography says independence "had been urged in
    Congress a hundred times" prior to Common Sense. No corroborating evidence
-   has ever been developed to support this
-
-   claim, and frankly all evidence suggests just the opposite, but Ms. Maier
-   continues using it as "scripture".
+   has ever been developed to support this claim, and frankly all evidence 
+   suggests just the opposite, but Ms. Maier continues using it as "scripture".
 
    13. Maier, pg 33.
 
