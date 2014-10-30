@@ -59,7 +59,7 @@
     <div class="list">
 
       <ul>
-        {% for p in PAGES %}
+        {% for p in PAGES|sort(attribute='authors') %}
           <li><a class="sidebar-link" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
         {% endfor %}
       </ul>

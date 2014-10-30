@@ -1,4 +1,5 @@
 Title: About Paine
+Authors: 1
 
 <div id="jumpstrip" markdown="1">
 + [Recommended](#recom)

@@ -10,11 +10,12 @@ import os
 
 TIMELINE_TOP = """Title: Timeline
 Date: %s
+Authors: 5
 """
 
 WRITINGS_TOP = """Title: Writings
 Date: %s
-
+Authors: 6
 """
 
 def rec_dd():
@@ -109,6 +110,14 @@ def gen_timeline(years):
 def get_display_title(l):
     return ' '.join(l.split('-')).title()
 
+def get_work_order(work):
+    work_order = {'major-works': 1,
+                  'essays': 2,
+                  'letters' : 3}
+    if work not in work_order:
+        raise Exception("Unkown work type: %s" % work)
+    return work_order[work]
+
 def output_works(writings, works):
     writings.write('<ul>')
     for work in sorted(works.keys()):
@@ -128,12 +137,12 @@ def gen_works(works_cats):
     writings.write(WRITINGS_TOP % datetime.datetime.now())
     writings.write('<div class="writings">')
     writings.write('<div id="jumpstrip"><ul>')
-    for cat in sorted(works_cats.keys()):
+    for cat in sorted(works_cats.keys(), key=get_work_order):
         display_cat = get_display_title(cat)
         writings.write('<li><a href="#%s">%s</a></li>' % (cat, display_cat))
     writings.write('</ul></div><hr style="clear:both"/>')
     writings.write('<ul>')
-    for cat in sorted(works_cats.keys()):
+    for cat in sorted(works_cats.keys(), key=get_work_order):
         works = works_cats[cat]
         display_cat = get_display_title(cat)
         writings.write('<li><a name="%s"><h3>%s<h3></a>' % (cat, display_cat))
