@@ -5,7 +5,7 @@ Authors: 3
 ### **The Thomas Paine National Historical Association**</br>
 983 North Avenue<br/>
 New Rochelle, NY 10804-3609<br/>
-<a href="mailto:info@thomaspaine.org">info@thomaspaine.org</a><br/>
+<a href="mailto:info@thomaspaine.org">tpnha1737@gmail.com</a><br/>
 
 <center><img src="/images/MemorialBuilding.JPG" style="width:400px; height: 300px;"></center>
 
