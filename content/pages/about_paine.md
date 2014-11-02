@@ -31,8 +31,7 @@ Authors: 1
     - [The Hall Manuscripts, ed. by Moncure Conway](/aboutpaine/the-hall-manuscripts-ed-by-moncure-conway.html)
     - [Life of Thomas Paine by Clio Rickman](/aboutpaine/life-of-thomas-paine-by-clio-rickman.html)
     - [Foner's Introduction to the Collected Works](/aboutpaine/foner-s-introduction-to-the-collected-works.html)
-    - <iframe src="//player.vimeo.com/video/72115130" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-      <br/><a href="http://vimeo.com/72115130">30 Minute excerpt on Paine from "American Freethought"</a>
+    
 
 
 + ###Essays {#essays}
