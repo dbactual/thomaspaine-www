@@ -31,8 +31,7 @@ Authors: 1
     - [The Hall Manuscripts, ed. by Moncure Conway](/aboutpaine/the-hall-manuscripts-ed-by-moncure-conway.html)
     - [Life of Thomas Paine by Clio Rickman](/aboutpaine/life-of-thomas-paine-by-clio-rickman.html)
     - [Foner's Introduction to the Collected Works](/aboutpaine/foner-s-introduction-to-the-collected-works.html)
-    - <iframe src="//player.vimeo.com/video/72115130" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-      <br/><a href="http://vimeo.com/72115130">30 Minute excerpt on Paine from "American Freethought"</a>
+    
 
 
 + ###Essays {#essays}
@@ -73,6 +72,7 @@ Authors: 1
 
 + ###FAQs {#faqs}
 
+    - [Did Paine write these quotes?](/aboutpaine/did-paine-write-these-quotes.html)
     - [Did Paine die penniless?](/aboutpaine/did-paine-die-penniless.html)
     - [Did Thomas Paine live in Bordentown?](/aboutpaine/did-thomas-paine-live-in-bordentown.html)
     - [Did Thomas Paine make corsets for a living?](/aboutpaine/did-thomas-paine-make-corsets-for-a-living.html)
