@@ -8,7 +8,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Development at the University of Wisconsin-Green Bay. This essay was
    printed in TPNHA's journal in May, 2001, and it first appeared in his
    book, Firebrand of the Revolution (Oxford U. Press, 2000).
-
        We should never fail to recount the story of the American Revolution.
    We should never forget that our nation was forged in struggle, a struggle
    - however inadequate and in need of continual renewal and advancement -
@@ -20,7 +19,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    have been the kind of republican and democratic struggle it became, and
    the course of the nation's development would likely have been quite
    different.
-
         Born January 29,1737, in Thetford, England, Thomas Paine was the only
    son of Joseph Pain, a Quaker staymaker, and Frances Cocke, the daughter of
    an Anglican lawyer. Neither a happy nor an affluent couple, Joseph and
@@ -28,7 +26,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    receiving a formal education. In addition to educating the boy in the
    Bible at home, they enrolled him in the Thetford Grammar School. Among his
    studies, he most enjoyed science and poetry.
-
         But Tom's parents could afford to keep him in school only so long.
    When he turned 13, they apprenticed him to his father. In his father's
    workshop, he learned not only the craft of corsetmaking, but also the
@@ -69,10 +66,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    through attendance at science lectures - occasions that placed him among
    circles of intellectuals and freethinkers which, fortuitously, included
    Benjamin Franklin.
-
-    
-
-    
         Unfortunately, the campaign failed and the Excise Commission
    discharged Tom for ignoring his official duties. Making matters worse, the
    tobacco shop also failed, and Tom and his wife agreed to separate.

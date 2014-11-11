@@ -72,6 +72,7 @@ Authors: 1
 
 + ###FAQs {#faqs}
 
+    - [Did Paine write these quotes?](/aboutpaine/did-paine-write-these-quotes.html)
     - [Did Paine die penniless?](/aboutpaine/did-paine-die-penniless.html)
     - [Did Thomas Paine live in Bordentown?](/aboutpaine/did-thomas-paine-live-in-bordentown.html)
     - [Did Thomas Paine make corsets for a living?](/aboutpaine/did-thomas-paine-make-corsets-for-a-living.html)

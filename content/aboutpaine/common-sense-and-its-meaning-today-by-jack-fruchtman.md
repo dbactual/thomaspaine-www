@@ -47,10 +47,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    while Paine did not use it. He would have, had he known it. A knight was
    riding through a forest one day when he came upon an arrow right in the
    middle of bull's eye in a tree. Since this was not particularly unusual,
-   he
-   didn't think much of it, but he became increasingly astounded when he came
-   across several of them. They must have numbered ten or fifteen, and each
-   arrow was perfectly centered in the bull's eye. At last the knight came
+   he didn't think much of it, but he became increasingly astounded when he 
+   came across several of them. They must have numbered ten or fifteen, and 
+   each arrow was perfectly centered in the bull's eye. At last the knight came
    upon a young boy with a bow and arrow, and so he asked the lad whether he
    had been the one who had shot all those arrows. The boy answered, yes, it
    was he who had done the deed. But how did you learn to do it so well,
@@ -367,9 +366,8 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    arrived on these shores. But just as Philadelphia and Franklin are so
    uniquely united in the imagination of most people so are Philadelphia and
    Paine. (And don't forget that Franklin was born in Boston and went to
-   Philadelphia when he was seventeen.)
-   Philadelphia without Paine is, to me, a hand without fingers: useless and
-   ugly. I hope that the city
+   Philadelphia when he was seventeen.) Philadelphia without Paine is, to me, 
+   a hand without fingers: useless and ugly. I hope that the city
    honors him, and soon. Thanks for having me here tonight, and thanks so
    much for listening. I'll be happy to take questions.
     
