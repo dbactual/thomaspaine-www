@@ -21,6 +21,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    independence, Paine was the first to write about it in clear, lucid,
    stirring terms that were immediately accessible to anyone who either read
    his pamphlet or had it read to them.
+
         Now I have been accused of citing Paine too much to comment on modern
    social and political problems. Some folks hold that historical figures
    obviously lived in particular periods, spoke a language that was peculiar
@@ -32,6 +33,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    fact, they are right: I have found what I claim to be "a usable Paine," as
    they charge, and will continue to use his wisdom, his observations, and
    his approach to problem-solving until they are no longer usable.
+
         So what does Common Sense tell us today 225 years after its first
    appearance in this city-when America's relationships with Britain were
    seriously deteriorating? Certainly, we have no such problems with Britain
@@ -42,6 +44,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    world from an economic and military perspective.2 What we may not be is
    the most ethical, and this is the lesson we may first learn from Paine's
    work.
+
         First. what is "common sense" and how do we know what it is when we
    see it (as Potter Stewart said of pornography in 1964)?3 Here's story that
    while Paine did not use it. He would have, had he known it. A knight was
@@ -57,7 +60,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    first shot the arrow into the tree, and then painted the target around it.
    . . . This is not because he was either lazy or unskilled, but that he
    just used "common sense."
+
         If only everything could be so clear.
+
         For Paine, one thing was in fact clear (and a reflection of common
    sense): he knew that human beings had a "natural love of liberty."4 And he
    knew too that people considered "freedom as personal property," property
@@ -67,6 +72,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    how to capitalize on these two observations, which he drew from common
    sense? How should (or could) he make them realize that there really was no
    longer any alternative to separation?
+
         His response was to figure out a way to tell them just that in
    irrefutable and indeed absolutist terms. He did just that by arguing in
    ways that immediately grabbed their attention. Fewer words during the
@@ -78,6 +84,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    often than not, he thought that it took a great man, one actually like
    himself, Thomas Paine, to stimulate them to act. When this reawakening
    happened, they exercised "common sense."
+
         Some commentators have defined common sense as being coequal with a
    person's moral powers.7 This interpretation, though essentially correct,
    is incomplete. Common sense was certainly part of human affections, our
@@ -87,6 +94,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    mind operated or how man knew anything at all. But he did have definitive
    ideas about how people knew how to conduct their lives. They do so through
    both their affections and their reason-through passion and reason.
+
         Paine was not the first writer to use the phrase common sense as a
    faculty for understanding, nor was he the first to use it as a corollary
    to human moral sensibilities. Lord Shaftesbury though clearly an elitist,
@@ -97,6 +105,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    of sixth sense, encapsulated his idea of what a natural human being was
    and ought to be.8  The term was well known and obviously in broad usage at
    the end of the eighteenth century, including America.
+
         For Shaftesbury, Reid, and Paine, common sense was an
    all-encompassing faculty of mind and feeling that gave people the power of
    immediate discernment.9 The Scottish philosopher Thomas Reid observed that
@@ -105,6 +114,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    sweet.10  These things were knowable spontaneously when people first
    encountered them. For the skeptic to deny this phenomenon undermined the
    true basis of human knowledge.
+
         But how did common sense operate? Although epistemologically vague,
    Paine used it to express both reason and sensibility.11 Common sense was
    the means by which the mind understood the way the heart felt about
@@ -121,6 +131,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    reason will say, it is right."13 To see how this works, it is imperative,
    in short, to analyze the linguistic and epistemological roots of the
    expression common sense.
+
         First, common sense by necessity included a person's ability to
    reason. As Paine said in The Age of Reason, "the most formidable weapon
    against errors of every kind is reason. I have never used any other, and I
@@ -132,6 +143,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    course, he named one of his books with that very title. Common sense was,
    therefore, clearly a function of man's rational capabilities, his ability
    to reason.
+
         But common sense included affection as well. It did not feel right to
    men, that relationship with Britain, because it violated their moral
    sensibilities. All one must do to gauge whether the colonies ought to
@@ -143,6 +155,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    clear as light, and the way to do it as straight as a line."18 This light
    - this clarity - was what common sense provided to people. Such clarity,
    if one could follow one's true nature, gave them two options.
+
         First, they could achieve positive political and social changes. They
    would know by both reason and affection, what was right, what was wrong in
    society and government. Second, common sense was the vehicle for people's
@@ -153,6 +166,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    he had to moderate his "ambition with a little 'common sense' in order to
    make the necessary modifications."19 It was a powerful turn of phrase that
    Paine undoubtedly knew would deeply impress his wide American audience.
+
         Every person, he taught, possessed common sense. The problem was that
    it became impaired when brute force enslaved the people, when kings and
    lords (ruffians and their banditti) made their subjects do their will.20
@@ -162,6 +176,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    clear (as light). Such force had a numbing effect on their minds and
    hearts. They might never even feel the pain of that force and might never
    be aware of it.
+
         This state of affairs violated man's nature as a creature with the
    ability to reason. "Men," said Paine, "have a right to reason for
    themselves."21 When kings and their cohorts stole this right from their
@@ -170,6 +185,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    of self and became objects-indeed, the property-of others. For Paine,
    human beings universally shared this same nature. How then did he explain
    that some men like himself were indeed different?
+
         Here Paine used his natural vs. unnatural theme in a linguistically
    powerful way, convincing his readers, though with an argument less certain
    to persuade those more philosophically inclined. He defined the
@@ -184,6 +200,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    relied only on their basest instincts, not common sense, to seek power
    over others. Thus, base instinct (in this case, seeking power and
    dominion) opposed common sense (reason and sensibility).
+
         The British government, especially George III (whom he never
    specifically named in Common Sense because his target was kingship
    generally and not individual kings), was such a creature. He once noted in
@@ -193,6 +210,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    loses, likewise, the ability of judging it in another."23 Several years
    later, while in France, Paine modified his view when he advocated that
    Louis XVI's life be spared. But in 1776, the Americans had no choice.24
+
         The British government had failed to use its collective common sense
    to deal fairly with the Americans. Such a failure meant that Britain
    distorted America's well-being because the British viewed the Americans in
@@ -206,6 +224,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    actions were illogical, wrong, and immoral. Its actions defied, in short,
    its natural inclination to do good. This was both affectively and
    rationally true.
+
         Common sense was in part rooted in a person's affective nature
    because implanted in him were "unextinguishable feelings" to do good.
    These feelings, he wrote in Common Sense, "distinguish us from the herd of
@@ -214,6 +233,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    existence."26 Man's affections drove him into the social realm in the
    first place. This was a result of common sense. He lived with his fellows
    in a cooperative arrangement for the benefit of all.
+
         A social contract existed between men outside the realm of the
    sovereign and his lords. "There necessarily was a time when government did
    not exist, and consequently there could exist no governors to form such a
@@ -227,6 +247,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    conscious of the self in this decision-making so that he consciously came
    together with his fellows to form society for reasons having to do with
    his natural affections toward others.
+
         As he wrote of these "unextinguishable feelings" and the historic
    ideal of the social contract, he knew full well that George III and his
    ministry did not possess such feelings and never would, nor would they
@@ -237,6 +258,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    is madness and folly", i.e., it was against reason and sensibility.30 The
    people themselves must use their common sense to assert their right to
    participate in governmental decision-making.
+
         Monarchical government in England had distorted the proper
    relationship between the people and their government. This distortion
    arose because common sense was lacking. Kings and lords and people like
@@ -249,6 +271,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    and middle class Americans who, he thought, would respond to this imagery
    in a way that would convince them to support America's separation from
    Britain.
+
         So now, what does all this tell us today? How does Paine's great
    pamphlet speak to us in the twenty-first century? The answer is not hard
    to fathom, and it will lead us directly to the reasons why Philadelphia
@@ -267,6 +290,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    knowledge is so weak is something Paine would have found both amusing and
    maddening. Here is a president without common sense, without any
    understanding at all, and who could do only mischief in office.
+
         Even worse is the mixture, or what he would have called the
    admixture, of politics and religion. John Ashcroft has told his audience
    at Bob Jones University that Jesus is the king of America. For Paine, this
@@ -293,6 +317,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    enforce laws that deny those principles. Like his president, he is an
    opportunist, one of those denatured creatures Paine attacked in Common
    Sense.
+
         In the meantime, maybe we could say that Paine would favor President
    Bush's intentions to cut taxes, even if the vast majority of taxes go to
    the wealthiest eight percent. As a man of the eighteenth-century as we've
@@ -314,6 +339,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    administration has anything to do with it, the agencies that will be most
    hurt will not be defense, but the social programs that cannot stand up to
    the perils of "compassionate conservatism."
+
         But should we be doing something about the surplus in terms of paying
    down the national debt, as the Clinton administration and Gore campaign
    had proposed? I should think that Paine would have thought that a debt the
@@ -330,6 +356,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    America in 1776. I suspect he would be horrified to see how the debt has
    gone way beyond creating national unity and leading to bankruptcy for any
    other country.
+
         Finally, what would Paine have said about the fact that the United
    States has become one of the most regulated, if not over regulated,
    societies in the world? Again, we refer to his observation that government
@@ -341,17 +368,18 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    trucking and oil industry has demanded the Bush administration relax, if
    not terminate, the strict clean air regulations the Clinton administration
    put in effect last year.36 And who has the president nominated to become
-   the new Secretary of the Interiror, but none other
-   than the chief non-regulator of the environment, Gail Norton, whose years
-   as Attorney General of Colorado saw industry get away with just about
-   anything and everything it desired. There is probably no law enforcement
-   in America, past or present, who sought to undo the Endangered Species Act
-   as much as she did while in Colorado. She would be expected to do as much
-   as a protege of James Watt, who had been her boss at the Mountain States
+   the new Secretary of the Interiror, but none other than the chief 
+   non-regulator of the environment, Gail Norton, whose years as Attorney 
+   General of Colorado saw industry get away with just about anything and 
+   everything it desired. There is probably no law enforcement in America, 
+   past or present, who sought to undo the Endangered Species Act  as much 
+   as she did while in Colorado. She would be expected to do as much  as a
+   protege of James Watt, who had been her boss at the Mountain States
    Legal Foundation, which sought to give industry a larger, if not complete,
    say over the disposition of public lands. Like John Ashcroft, however, she
    promised to enforce the very laws she opposed for so many years. Again, so
    much for principle.
+   
         I could go on and on, but I won't bore you with what I think you
    already know, even if you disagree with some of my observations. I will
    conclude by saying why I think Philadelphia should honor Thomas Paine.
