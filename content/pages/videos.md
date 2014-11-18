@@ -1,12 +1,6 @@
 Title: Videos
 Authors: 2
 
-<iframe src="//player.vimeo.com/video/75319635" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-
-[American Freethought](http://www.americanfreethought.tv/) has a
-four-hour documentary film series on the history of secularism and
-censorship in America.</p>
-
 
 
 - <iframe src="//player.vimeo.com/video/72115130" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
@@ -22,9 +16,23 @@ censorship in America.</p>
 
 
 
-[C-SPAN's American Writers Series: Thomas Paine](http://www.c-span.org/video/?163160-1/writings-thomas-paine) Two and a half hour broadcast from the TPNHA BUilding in April, 2001.
+[C-SPAN's American Writers Series: Thomas Paine](http://www.c-span.org/video/?163160-1/writings-thomas-paine) Two and a half hour broadcast from the TPNHA Building in April, 2001.
 
 
 
 
 [Melvyn Bragg's Radical Lives 2: Rights of Man - Thomas Paine](https://www.youtube.com/watch?v=aK7cLeps50g)
+
+
+
+
+[Panel Discussion on Thomas Paine at the Left Forum](http://www.c-span.org/video/?319792-1/panel-discussion-thomas-paine)
+
+
+
+<iframe src="//player.vimeo.com/video/75319635" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
+[American Freethought](http://www.americanfreethought.tv/) has a
+four-hour documentary film series on the history of secularism and
+censorship in America.</p>
+
