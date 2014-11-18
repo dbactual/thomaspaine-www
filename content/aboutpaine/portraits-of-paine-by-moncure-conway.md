@@ -2,9 +2,9 @@ Title: Portraits of Paine by Moncure Conway
 Slug: aboutpaine/portraits-of-paine-by-moncure-conway
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-                             PORTRAITS  OF  PAINE.
 
-               from an Appendix in Life of Thomas Paine by Conway
+
+   from an Appendix in *Life of Thomas Paine* by Conway
 
    At the age of thirty Paine was somewhat stout, and very athletic; but
    after his arrival in America (1774) he was rather slender. His height was

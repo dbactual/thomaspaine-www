@@ -7,7 +7,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
                                                                              
 
-                                PEORIA, October 8, 1877.                     
+   PEORIA, October 8, 1877.                     
 
    To the Editor of the N.Y. Observer:
 
@@ -20,7 +20,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    had called upon me to deposit the money. Acting upon this information, I
    sent you the following letter:
 
-                        Peoria, Ill., August 31st, 1877.                     
+   Peoria, Ill., August 31st, 1877.                     
 
    To the Editor of the New York Observer:
 
@@ -131,7 +131,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    attention to the following, which appeared in the N. Y. Observer, July 19,
    1877:
 
-                              "PUT DOWN THE MONEY.
+   "PUT DOWN THE MONEY.
 
    "Col. Bob Ingersoll, in a speech full of ribaldry and blasphemy, made in
    San Francisco recently, said:
@@ -208,7 +208,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    beastly to die without a complaint, without a murmur -- to pass from life
    without a fear?
 
-                            DID THOMAS PAINE RECANT?
+   DID THOMAS PAINE RECANT?
 
    Mr. Paine had prophesied that fanatics would crawl and cringe around him
    during his last moments. He believed that they would put a lie in the
@@ -235,7 +235,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Afterward, these gentlemen hearing that William Cobbett was about to write
    a life of Paine, sent him the following note:
 
-                               New York, April 24, 1818.                     
+   New York, April 24, 1818.                     
 
    "SIR: We have been informed that you have a design to write a history of
    the life and writings of Thomas Paine. If you have been furnished with
@@ -255,8 +255,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    paper is mislaid and cannot be found at present, but the above is the
    substance which can be attested by many living witnesses."
 
-                                           THOMAS NIXON.                     
-                                          DANIEL PELTON.                     
+   THOMAS NIXON.                     
+   DANIEL PELTON.                     
 
    Mr. Jarvis, the artist, saw Mr. Paine one or two days before his death. To
    Mr. Jarvis he expressed his belief in his written opinions upon the
@@ -304,14 +304,14 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    publish it while the contravening parties are yet alive, and with the
    authority of Mr. Woodsworth.
 
-                                           GILBERT VALE.                     
+   GILBERT VALE.                     
 
    A few weeks ago I received the following letter which confirms the
    statement of Mr. Vale:
 
-                                    NEAR STOCKTON, CAL.,                     
-                                      GREENWOOD COTTAGE,                     
-                                           July 9, 1877.                     
+   NEAR STOCKTON, CAL.,                     
+   GREENWOOD COTTAGE,                     
+   July 9, 1877.                     
 
    COL. INGERSOLL: In 1842 I talked with a gentleman in Boston. I have
    forgotten his name; but he was then an engineer of the Charleston navy
@@ -326,7 +326,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    The gentleman said that it was not true, and he appeared to be an
    intelligent, truthful man. With respect, I remain, &c.,
 
-                                     PHILIP GRAVES, M.D.                     
+   PHILIP GRAVES, M.D.                     
 
    The next witness is Willet Hicks, a Quaker Preacher. He says that during
    the last illness of Mr. Paine he visited him almost daily, and that Paine
@@ -345,7 +345,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    I received the following letter to-day. The writer is well know in this
    city, and is a man of high character:
 
-                                 PEORIA, Oct. 8th, 1877.                     
+   PEORIA, Oct. 8th, 1877.                     
 
    ROBERT G. INGERSOLL, Esteemed Friend: My parents were Friends (Quakers).
    My father died when I was very young. The elderly and middle-aged Friends
@@ -367,13 +367,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    because many thoughtless people then blamed the Society of Friends for
    their kindness to that "arch Infidel," Thomas Pain
 
-                                  Truly yours.
+   Truly yours.
 
-                                         A.C. HANKINSON.                     
+   A.C. HANKINSON.                     
 
    A few days ago I received the following letter:
 
-                       ALBANY, NEW YORK, Sept. 27, 1877.                     
+   ALBANY, NEW YORK, Sept. 27, 1877.                     
 
    Dear Sir: It is over twenty years ago that professionally I made the
    acquaintance of John Hogeboom, a Justice of the Peace of the county of
@@ -391,9 +391,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    persons who attended Paine in his last illness, "and that he passed
    peacefully away, as we may say, in the sunshine of a great soul." ...
 
-                                  Yours truly,
+   Yours truly,
 
-                                            W.J. HILTON.                     
+   W.J. HILTON.                     
 
    The witnesses by whom I substantiate the fact that Thomas Paine did not
    recant, and that he died holding the religious opinions he had published,
@@ -678,13 +678,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Paine, I will give you a copy of a letter that throws light upon this
    point:
 
-                                       October 28, 1807.                     
+   October 28, 1807.                     
 
    "MR. CHEETHAM: Unless you make a public apology for the abuse and
    falsehood in your paper of Tuesday, October 27th, respecting me, I will
    prosecute you for lying."
 
-                                           THOMAS PAINE.                     
+   THOMAS PAINE.                     
 
    In another letter, speaking of this same man, Mr. Paine says: "If an
    unprincipled bully cannot be reformed, he can be punished." " Cheetham has
@@ -740,7 +740,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    the "Crisis"? Was it to a drunken beast that the following letter was
    addressed:
 
-                         ROCKY HILL, September 10. 1783.                     
+   ROCKY HILL, September 10. 1783.                     
 
    "I have learned since I have been at this place, that you are at
    Bordentown. -- Whether for the sake of retirement or economy I know not.
@@ -752,9 +752,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    lively sense of the importance of your works, and who with much pleasure
    subscribes himself,"
 
-                              Your Sincere Friend,
+   Your Sincere Friend,
 
-                                      GEORGE WASHINGTON.                     
+   GEORGE WASHINGTON.                     
 
    Did any of your ancestors ever receive a letter like that?
 
@@ -772,7 +772,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    nations, is my sincere prayer. Accept the assurances of my high esteem and
    affectionate attachment."
 
-                                       THOMAS JEFFERSON.                     
+   THOMAS JEFFERSON.                     
 
    Did any of your ancestors ever receive a letter like that?
 
@@ -916,7 +916,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "Remember me in affection and friendship to your wife and family, and in
    the circle of your friends."
 
-                                           THOMAS PAINE.                     
+   THOMAS PAINE.                     
 
    A man in those days worth thirty thousand dollars was not a pauper. That
    amount would bring an income of at least two thousand dollars per annum.
@@ -957,7 +957,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Once upon a time a donkey kicked a lion. The lion was dead.
 
-                                  CONCLUSION.
+   CONCLUSION.
 
    From the persistence with which the orthodox have charged for the last
    sixty-eight years that Thomas Paine recanted, and that when dying he was

@@ -73,8 +73,6 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    well. But even using Maier's facts, an objective mind cannot fail to see
    how Common Sense gave birth to the Declaration of Independence.
 
-     ----------------------------------------------------------------------
-
    There are two approaches which will demonstrate this fact - one
    historical, one analytical.
 

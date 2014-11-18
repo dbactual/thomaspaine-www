@@ -4,7 +4,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    This article first appeared in Wired Magazine in 1995.
 
-    Thomas Paine was one of the first journalists to use media as a weapon
+   Thomas Paine was one of the first journalists to use media as a weapon
    against the entrenched power structure. He should be resurrected as the
    moral father of the Internet. Jon Katz explains why.
 

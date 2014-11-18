@@ -2,14 +2,14 @@ Title: How 'American' was Thomas Paine? by Jack Fruchtman
 Slug: aboutpaine/how-american-was-thomas-paine-by-jack-fruchtman
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-   by Jack Fruchtman Jr.
+by Jack Fruchtman Jr.
 
-    Professor of Political Science at Towson State University, and author of
-   Thomas Paine: Apostle of Freedom
+Professor of Political Science at Towson State University, and author of
+*Thomas Paine: Apostle of Freedom*
 
-   This paper was written for the TPNHA for its Fall 2000 Journal
+This paper was written for the TPNHA for its Fall 2000 Journal
 
-        Did Paine think of himself as an American? Or was he a self-styled
+         Did Paine think of himself as an American? Or was he a self-styled
    "citizen of the world," as he himself sometimes claimed? Clearly, he was a
    figure who articulated a radical vision of the world, so radical in fact
    that most commentators do not think of him as having a national, but only
@@ -25,7 +25,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    identify himself as a citizen of the world who held national
    identifications in contempt."3 John Keane gives a slightly different
    picture.  Keane's view was that Paine's linkage of national
-   self-determination with democratic rights and liberty provided a
    foundation for all modern-day national revolutionary movements, despite
    the seeming contradiction between nation and democracy( because the
    collective nature of nationalism seemed to Keane to work against the
@@ -72,25 +71,17 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    summarized this older view in 1775, when he expressed a sense of American
    self-identity in truly negative terms. For Franklin,
     
-   When I consider the extreme corruption
-   prevalent among all orders of men in this old
-   rotten state, and the glorious public virtue so
-   predominant in our rising country, I cannot
-   but apprehend more mischief than benefit
-   from a closer union. I fear they will drag us
-   after them in all their plundering wars,
-   which their desperate circumstances,
-   injustice and rapacity may prompt them to
-   undertake, and their wide-wasting
-   prodigality and profusion is a gulf that will
-   swallow up every aid we may distress
-   ourselves to afford them. Here numberless
-   and needless places, enormous salaries,
-   pensions, perquisites, bribes, groundless
-   quarrels, foolish expeditions, false accounts
-   or no accounts, contracts and I jobs, devour
-   all revenue and produce continual necessity
-   in the midst of natural plenty.6
+   When I consider the extreme corruption prevalent among all orders of men in 
+   this old rotten state, and the glorious public virtue so predominant in our 
+   rising country, I cannot but apprehend more mischief than benefit from a 
+   closer union. I fear they will drag us after them in all their plundering wars,
+   which their desperate circumstances, injustice and rapacity may prompt them to
+   undertake, and their wide-wasting prodigality and profusion is a gulf that will
+   swallow up every aid we may distress ourselves to afford them. Here numberless
+   and needless places, enormous salaries, pensions, perquisites, bribes, groundless
+   quarrels, foolish expeditions, false accounts or no accounts, contracts and I 
+   jobs, devour all revenue and produce continual necessity in the midst of natural 
+   plenty.6
     
         Americans perceived the differences between two worlds, separated by
    the great gulf of the Atlantic Ocean, as being serious and deep, often

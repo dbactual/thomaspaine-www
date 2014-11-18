@@ -1,6 +1,7 @@
 Title: Thomas Paine, Pathfinder by Norman Thomas
 Slug: aboutpaine/thomas-paine-pathfinder-by-norman-thomas
 Date: Mon Aug  4 09:08:54 EDT 2014
+
    by Norman Thomas
     
 
@@ -10,7 +11,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
     
 
-      In his recent essay on Thomas Paine, Gamaliel Bradford acknowledges
+   In his recent essay on Thomas Paine, Gamaliel Bradford acknowledges
    that the man whom we honor today "anticipated the abolition of slavery,
    the Society for the Prevention of Cruelty to Animals, old age pensions,
    the Shepard-Towner Bill (providing for a federal department of education),
@@ -26,7 +27,8 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    due primarily to theological bigotry that even Mr. Bradford feels obliged
    to discuss this pioneer in so many fields of thought and action as a
    "damaged soul" along with Benedict Arnold and Aaron Burr.
-      It might not be profitable, even if time did permit, for me to dwell
+   
+   It might not be profitable, even if time did permit, for me to dwell
    upon Paine's particular services under the heads I have enumerated. The
    great men of the past live less in the accomplished work which they and
    their generation handed down to posterity than in the impetus they give
@@ -37,22 +39,26 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    become part of the army of truth-seekers. For all who are engaged in the
    discovery and application of truth, Thomas Paine's life and work have a
    special significance.
-      First, he believed in reason and made his appeal to reason. Reason in
+   
+   First, he believed in reason and made his appeal to reason. Reason in
    man may be weak, but if it is so weak that an appeal to it is useless,
    then indeed is all hope vain.
-      Second, he believed to a surprising degree in tolerance. Tolerance is
+      
+   Second, he believed to a surprising degree in tolerance. Tolerance is
    an easy virtue for the indifferent, the skeptical, the mere lookers on in
    Venice. It is an almost impossible virtue for the flaming champion of deep
    convictions. Yet Paine rose to that height when in the French Convention
    he pleaded for the life of Louis XVI at the risk of his own. Let them
    "kill the king but save the man."
-      Third, he worked out an almost perfect method of "humanizing
+      
+   Third, he worked out an almost perfect method of "humanizing
    knowledge". He directed his remarkable skill with words to popularizing
    without debasing great ideas. If more of our modern scientists had had a
    like zeal and capacity for humanizing knowledge we might perhaps have been
    spared the ludicrous yet humiliating spectacle of Tennessee's
    anti-evolution law.
-      Robert Ingersoll in an oration on Paine attributed his own freedom of
+   
+   Robert Ingersoll in an oration on Paine attributed his own freedom of
    speech to the man who in three nations against the powers of both state
    and church upheld the ideal of freedom. The Tennessee law is but one of
    many evidences that the greatest men can not hand down freedom to the
