@@ -1,8 +1,13 @@
 Title: 'Rights of Man' in America by Alfred Young
 Slug: aboutpaine/rights-of-man-in-america-by-alfred-young
 Date: Mon Aug  4 09:08:53 EDT 2014
+
    The Celebration and Damnation of Thomas Paine
-   By Alfred F. Young
+   -------
+
+   By Alfred F. Young, award-winning historian on labor history and
+
+   the American Revolution
     
 
    The following is a paper presented to TPNHA by Dr. Young as a basis for
@@ -17,7 +22,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    this paper). We recommend Liberty Tree and this article for complete
    footnotes, and additional context.
     
-        When Thomas Paine was buried in New Rochelle on June 10, 1809, no
+        
+   When Thomas Paine was buried in New Rochelle on June 10, 1809, no
    more than a dozen people were at the funeral, perhaps less: Willett Hicks,
    a Quaker who had been unsuccessful in getting the Society of Friends to
    accept Paine's request that he be laid to rest in their burial grounds in
@@ -32,24 +38,16 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    where Paine had died. A few friends from New Rochelle may have joined
    them. No political leaders attended; no one, it seems, gave a eulogy.
    Years later Madame de Bonneville recollected the poignant moment:
-               The internment was a scene to affect and wound any sensible
-   heart.
-               Contemplating who it was, what man it was, that we were
-   committing
-               him to an obscure grave on an open and disregarded bit of
-   land, I
-               could not help feeling most acutely. Before the earth was
-   thrown down
-               around the coffin, I placing myself at the east end of the
-   grave, said to
-               my son Benjamin, `stand you there, at the other end, as a
-   witness for
-               America'. Looking around me, and beholding the small group of
-               spectators, I exclaimed, as the earth was tumbled into the
-   grave, `Oh!
-               Mr. Paine! My son stands here as testimony of the gratitude of
-   America,
-               and I, for France!'
+
+   "The internment was a scene to affect and wound any sensible heart.
+   Contemplating who it was, what man it was, that we were committing him to 
+   an obscure grave on an open and disregarded bit of land, I could not help 
+   feeling most acutely. Before the earth was thrown down around the coffin, 
+   I placing myself at the east end of the grave, said to my son Benjamin, 
+   `stand you there, at the other end, as a witness for America'. Looking 
+   around me, and beholding the small group of spectators, I exclaimed, as 
+   the earth was tumbled into the grave, `Oh! Mr. Paine! My son stands here 
+   as testimony of the gratitude of America, and I, for France!'
     
         A few others doubtless had paid their last respects to Paine at
    Greenwich in response to a paragraph the day before by Jacob Frank, the
@@ -83,6 +81,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    in New Rochelle confiscated from a Loyalist for his "eminent services" and
    "distinguished merit" in the Revolution. Rights of Man published in the
    1790's renewed his popular reputation.
+
         What explains Paine's fall from grace in the United States? The most
    commonly offered explanation lies in the response to The Age of Reason,
    the third of his best selling works which followed on the heels of Rights
@@ -92,6 +91,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    drawing rooms to the common people as no other work before or since. But
    it probably eclipsed Rights of Man in the breadth and intensity of the
    reaction it provoked. [ft Marcus Daniel thesis on English response].
+
         When Paine returned to the United States in 1802 after a fifteen year
    absence he was greeted with a wave of abuse in which the dominant theme
    was religious blended with an attack on his private moral character. He
@@ -99,6 +99,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    lying, drunken, brutal infidel", "the loathsome Thomas Paine, a drunken
    atheist", "an obscene old sinner; he was "godless", "impious", "a
    blasphemer" [Knudson article NYHSQJ, Hawke].
+
         The attack on Paine struck roots among ordinary people. In Washington
    inn keepers refused to put Paine up and he finally entered one under an
    assumed name. At Trenton, one stagecoach driver refused to carry Paine to
@@ -107,6 +108,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    don't want them to suffer again." A minister who visited Paine in New York
    was disciplined. In New Rochelle mothers warned their children to stay
    away from Paine - he was a bad man. [Hawke}
+
         The religious explanation is appealing. The orthodox clergy attacked
    him with an unprecedented fury. Federalist leaders exploited the religious
    issue. And many Jeffersonian politicians, even closet deists, found
@@ -116,6 +118,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    in the countryside and artisans and journeymen in the cities, the natural
    constituents of the Democratic Republicans. It may be that in the last
    analysis that Paine's deism sealed his fate.
+
         But was it so simple? I would like to offer three other hypotheses
    for the eclipse of Thomas Paine. [NB other scholars on this issue: Dixon
    Wecter, Eric Foner, Aldridge, Conway]. First, from the outset of his
@@ -134,6 +137,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    way he was a victim, of what might be called the limitations of 18th
    century radical thought in coping with the new social issues of the 19th
    century.
+
         To probe the seeming puzzle of the rejection of Paine in his last
    years we should try to unlock the secrets of his success. To make my case
    I would therefore like to tum to an exploration of the reception, first in
@@ -151,6 +155,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    the other to those in America [cited Clark 423]. Indeed the very structure
    of the argument of Part II and much of the language follow the first
    pamphlet.
+
         Common Sense has come down in history oversimply as an argument for
    American Independence. Actually the message to Americans was
    triple-barreled: independence, republicanism and empowerment of the common
@@ -161,22 +166,26 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    implicit in the medium addressed as it was to an audience of farmers and
    artisans - rely not on learned authorities but on your own reason, your
    own common sense.
+
         The tone of the writing was warmly equalitarian. "Male and female are
    the distinctions of nature, good and bad the distinctions of heaven; but
    how a race of men came into the world so exalted above the rest ... is
    worth inquiring into". "Of more worth is one honest man to society, and in
    the light of God than all the crowned ruffians that ever lived". [pg 16
    Foner ed]
+
         The tone was irreverent, often coarse. The first king was "nothing
    better than the principal ruffian of some restless gang". The claim of
    William the Conqueror, "a French bastard landing with an armed banditti
    and establishing himself king of England against the consent of the
    natives, in plain terms a very paltry rascally original. It certainly hath
    no divinity in it". [pg 14]
+
         And the appeal was suffused with a millennialist idealism, "We have
    it in our power to begin the world over again. A situation similar to the
    present, hath not happened since the days of Noah until now. The birthday
    of a new world is at hand ..." [pg 45 Foner edn]
+
         It is these combined qualities that account for the phenomenal
    popularity of the pamphlet. If its success was not quite as Paine
    proclaimed - "beyond anything since the invention of printing" - it very
@@ -192,6 +201,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    years of war. The pamphlet was cheap - one shilling, which put it in the
    category of the lowest priced publications. And it was relatively short,
    usually less than 60 pages, and arranged in four systematic chapters.
+
         The pamphlet went through some 35 separate printings (counting the
    various editions), 15 in Philadelphia, 16 in New England cities and towns,
    almost all between January and June, 1776. Boastful as he was, there was
@@ -203,6 +213,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    of 15,000. [Bailyn?] A sale of a few thousand was more common. A wealth of
    anecdotal evidence from sources high and low attest to the enormous
    popularity of Common Sense early in 1776. [cite several letters]
+
         It was successful because it came at precisely the time when masses
    of people were ready for its message. A war was on. Tens of thousands of
    men were in action in the militia or the new regular army. Committees were
@@ -217,6 +228,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    who made even less. [Jackson Main p 77; Billy Smith article]. Or when it
    was read aloud, a person had to make a decision to come to listen or stay
    to hear it out.
+
         As one soldier remembered it [Ashbel Green memoir] Common Sense
    "struck a string which required but a touch to make it vibrate". Joseph
    Hawley, a leader in western Massachusetts said it somewhat differently:
@@ -226,10 +238,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    the common people, much earlier than some persons pretend" and that the
    first idea of independence was not "suggested to them by the pamphlet
    Common Sense". [pg 88 Rush Adams Correspondence]
+
         Paine's special contribution - which Adams could not abide - was to
    crystallize this mounting sentiment for independence, link it to
    republicanism, and, to use the lingo of the late twentieth century, lift
    the consciousness of the "common people" to a more democratic level.
+
         What Adams well knew was that Paine's pamphlet precipitated a
    three-cornered debate. The first between the opponents and advocates of
    independence - between Paine and some now forgotten Tory pamphleteers -
@@ -240,16 +254,14 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    one hand and conservative patriots like John Adams and Carter Braxton of
    Virginia on the other. From the outset Adams was ambivalent about Paine's
    message. Years later he vividly remembered his mood in 1776:
-               The arguments in favor of Independence I liked very well [but]
-               the part relative to a form of government I considered as
-   flowing
-               from simple ignorance, and a mere desire to please the
-   Democratic
-               party in Philadelphia ... I dreaded the effect so popular a
-   pamphlet
-               might have ... His plan was so democratical without any
-   restraint or
-               even an attempt at any equilibrium or counterpoise [diary]
+
+   "The arguments in favor of Independence I liked very well [but] the part 
+   relative to a form of government I considered as flowing from simple 
+   ignorance, and a mere desire to please the Democratic party in Philadelphia 
+   ... I dreaded the effect so popular a pamphlet might have ... His plan was 
+   so democratical without any restraint or even an attempt at any equilibrium 
+   or counterpoise." [diary]
+
         Very soon Adams circulated in manuscript his own "Thoughts on
    Government" which he put into print to instruct patriot leaders in
    drafting constitutions for the newly independent states. Paine's ideals
@@ -266,6 +278,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    of New England; but a fundamental principle was respect for persons in
    authority - the antithesis of Paine's egalitarianism. [Page Smith; Elisha
    Douglass]
+
         What Adams detested most in Paine was what he called his
    "impudence". He had a taste of it in his own family. In March, '76 out of
    the blue, Adams' wife, Abigail wrote to him to "remember the ladies" in
@@ -279,6 +292,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    it, we know better than to repeal our masculine systems". It could not
    have been lost upon John Adams that Abigail had read the copy of Common
    Sense he had sent her the month before. [Young article on Women of Boston]
+
         In 1819, forty years later smoke still came out of his ears as Adams
    fumed about the pamphlet. "What a poor, ignorant, malicious, short-sighted
    crapulous mass is Tom Paine's Common Sense." [Letters 1819, Hawke]
@@ -299,6 +313,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Ch 5) was a restatement of Common Sense, which set up the American
    political system as a model for England to follow. Why should such a work
    have become so popular in the United States?
+
         Let me in a kind of historical shorthand offer my sense of what
    happened between 1776 and 1789 in the struggle between the two kinds of
    republicanism. During the Revolution patriot elites - the would-be ruling
@@ -321,6 +336,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    to be scotched. Others compared the people to a horse which had to be
    whipped. John Adams sometimes leaned towards accommodation, sometimes
    towards coercion. [Young, Democratic Republicans, and articles 1981, 1990]
+
         The first New York State constitution was, in the words of John Jay,
    a "perfect blend of the aristocratic and democratic". Much the same could
    be said of Adams's Massachusetts constitution and the federal constitution
@@ -384,8 +400,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Revolution moved to center stage,  in the '95 po1icy to Great Britain. By
    1795 more than 40 Democratic Republican Societies were in existence.
    Electoral battles f o r Congress underway in '94 were in f u l l swing in
-   '95 as Jefferson
-   challenged Adams for the presidency.
+   '95 as Jefferson challenged Adams for the presidency.
     
         Repression rapidly replaced accommodation as Federalist policy. They
    sent an army to put down the Whiskey Rebellion in Pennsylvania, attempted
@@ -533,15 +548,15 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Democrats in a joint celebration sang a song "The Rights of Man" which
    dwelled on the nexus of aristocracy to taxes:
     
-   Luxurious pomp, which brings taxes and woes
+   "Luxurious pomp, which brings taxes and woes
 
-               No more we'll maintain with the sweat of our brows.
+   No more we'll maintain with the sweat of our brows."
 
    and ended
 
-               To conclude-- Here's success to Honest TOM PAINE
+   "To conclude-- Here's success to Honest TOM PAINE
 
-               May he live to enjoy what he well does explain.
+   May he live to enjoy what he well does explain."
 
    After 1795 the toasts to Paine seem to fade and when they reappeared again
    in 1797 it was in a toast from the Patriotic Junior Association which
@@ -574,7 +589,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    is impossible not to feel that these were the work of writers who had read
    Paine. And one can say the same of the more numerous Fourth of July
    orations under Republican auspices. [Eugene Link; P. Foner, ed documents]
-   .
+   
         A comparison of the response to Rights of Man in the United States to
    Great Britain sets off both. The pamphlet almost did for the British what
    Common Sense had done for Americans in 1776. In the l790's, we have it on

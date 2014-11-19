@@ -2,18 +2,23 @@ Title: Ingersoll's Second Reply to NY Observer
 Slug: aboutpaine/ingersoll-s-second-reply-to-ny-observer
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-                                      PEORIA, Nov. 2d, 1877.                 
+   PEORIA, Nov. 2d, 1877.
+
    To the Editor of the New York Observer:
+
    You ought to have honesty enough to admit that you did, in your paper of
    July 19th, offer to prove that the absurd story that Thomas Paine died in
    terror and agony on account of the religious opinions he had expressed,
    was true. You ought to have fairness enough to admit that you called upon
    me to deposit one thousand dollars with an honest man, that you might, by
    proving that Thomas Paine did die in terror, obtain the money.
+
    You ought to have honor enough to admit that you challenged me and that
    you commenced the controversy concerning Thomas Paine.
+
    You ought to have goodness enough to admit that you were mistaken in the
    charges you made.
+
    You ought to have manhood enough to do what you falsely asserted that
    Thomas Paine did: -- you ought to recant. You ought to admit publicly that
    you slandered the dead; that you falsified history; that you defamed the
@@ -21,6 +26,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    own paper. There is an old saying to the effect that open confession is
    good for the soul. To you is presented a splendid opportunity of testing
    the truth of this saying.
+
    Nothing has astonished me more than your lack of common honesty exhibited
    in this controversy. In your last, you quote from Dr. J.W. Francis. Why
    did you leave out that portion in which Dr. Francis says that Cheetham
@@ -37,6 +43,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Why did you suppress it? A lawyer, doing a thing of this character, is
    denominated a shyster. I do not know the appropriate word to designate a
    theologian guilty of such an act.
+
    You brought forward three witnesses, pretending to have personal knowledge
    about the life and death of Thomas Paine: Grant Thorburn, Mary Roscoe and
    Mary Hinsdale. In my reply I took the ground that Mary Roscoe and Mary
@@ -54,10 +61,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    time she knew nothing, and remembered nothing. I also showed that she was
    a kind of standing witness to prove that others recanted. Willett Hicks
    denounced her as unworthy of belief.
+
    To-day the following from the New York World was received, showing that I
    was right in my conjecture:
+
                              TOM PAINE'S DEATH BED.
+
    To the Editor of the World:
+
    SIR: I see by your paper that Bob Ingersoll discredits Mary Hinsdale's
    story of the scenes which occurred at the death-bed of Thomas Paine. No
    one who knew that good lady would for one moment doubt her veracity or
@@ -72,88 +83,123 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    remorse, and renounced his Infidel principles, calling on God to forgive
    him, and wishing his pamphlets and books to be burned, saying he could not
    die in peace until it was done."
-                                        (REV.) A.W. CORNELL.                 
+
+   (REV.) A.W. CORNELL.   
+
    Harpersville, New York.
+
    You will notice that the testimony of Mary Hinsdale has been drawing
    interest since 1809, and has materially increased. If Paine "suffered
    fearfully from remorse, renounced his Infidel opinions and called on God
    to forgive him," it is hardly generous for the Christian world to fasten
    the fangs of malice in the flesh of his reputation.
+
    So Mary Roscoe was Mary Hinsdale, and as Mary Hinsdale has been shown by
    her own admission to Mr. Cobbett to have known nothing of the matter; and
    as Mary Hinsdale was not, according to Willet Hicks, worthy of belief --
    as she told a falsehood of the same kind about Mary Lockwood, and was,
    according to Mr. Collins, addicted to the use of opium -- this disposes of
    her and her testimony.
+
    There remains upon the stand Grant Thorburn. Concerning this witness, I
    received, yesterday, from the eminent biographer and essayist, James
    Parton, the following episode:
-                                          NEWBURYPORT, MASS.                 
+
+   NEWBURYPORT, MASS.
+
    Col. R.G. Ingersoll:
+
    Touching Grant Thorburn, I personally know him to have been a dishonest
    man. At the age of ninety-two he copied, with trembling hand, a piece from
    a newspaper and brought it to the office of the Home Journal, as his own.
    It was I who received it and detected the deliberate forgery. If you are
    ever going to continue this subject, I will give you the exact facts.
+
                                 Fervently yours,
-                                               JAMES PARTON.                 
+
+                                               JAMES PARTON.  
+
    After this, you are welcome to what remains of Grant Thorburn.
+
    There is one thing that I have noticed during this controversy regarding
    Thomas Paine. In no instance that I now call to mind has any Christian
    writer spoken respectfully of Mr. Paine. All have taken particular pains
    to call him "Tom" Paine. Is it not a little strange that religion should
    make men so coarse and ill-mannered?
+
    I have often wondered what these same gentlemen would say if I should
    speak of the men eminent in the annals of Christianity in the same way.
    What would they say if I should write about "Tim" Dwight, old "Ad" Clark,
    "Tom" Scott, "Jim" McKnight, "Bill" Hamilton, "Dick" Whately, "Bill"
    Paley, and "Jack" Calvin?
+
    They would say of me then, Just what I think of them now.
    Even if we have religion, do not let us try to get along without good
    manners. Rudeness is exceedingly unbecoming, even in a saint. Persons who
    forgive their enemies ought, to say the least, to treat with politeness
    those who have never injured them.
+
    It is exceedingly gratifying to me that I have compelled you to say that
    "Paine died a blaspheming Infidel." Hereafter it is to be hoped nothing
    will be heard about his having recanted. As an answer to such slander his
    friends can confidently quote the following from the New York Observer of
    November 1st, 1877:
+
    "WE HAVE NEVER STATED IN ANY FORM, NOR HAVE WE EVER SUPPOSED THAT PAINE
    ACTUALLY RENOUNCED HIS INFIDELITY. THE ACCOUNTS AGREE IN STATING THAT HE
    DIED A BLASPHEMING INFIDEL."
+
    This for all coming time will refute the slanders of the churches yet to
    be.
+
    Right here allow me to ask: If you never supposed that Paine renounced his
    Infidelity, why did you try to prove by Mary Hinsdale that which you
    believed to be untrue?
+
    From the bottom of my heart I thank myself for having compelled you to
    admit that Thomas Paine did not recant.
+
    For the purpose of verifying your own admission concerning the death of
    Mr. Paine, permit me to call your attention to the following affidavit:
-                          WABASH, INDIANA, October 27, 1877.                 
+
+                          WABASH, INDIANA, October 27, 1877.  
+
    Col. R.G. Ingersoll:
+
    DEAR SIR: The following statement of facts is at your disposal. In the
    year 1833 Willet Hicks made a visit to Indiana and stayed over night at my
    father's house, four miles east of Richmond. In the morning at breakfast
    my mother asked Willet Hicks the following questions:
+
    "Was thee with Thomas Paine during his last sickness?"
+
    Mr. Hicks said: "I was with him every day during the latter part of his
    last sickness."
+
    "Did he express any regret in regard to writing the 'Age of Reason,' as
    the published accounts say he did -- those accounts that have the credit
    of emanating from his Catholic housekeeper?"
+
    Mr. Hicks replied: "He did not in any way by word or action."
+
    "Did he call on God or Jesus Christ, asking either of them to forgive his
    sins, or did he curse them or either of them?"
+
    Mr. Hicks answered: "He did not. He died as easy as any one I ever saw
    die, and I have seen many die in my time."
-                                          WILLIAM B. BARNES.                 
-            Subscribed and sworn to before me Oct. 27, 1877.                 
-                               WARREN BIGLER, Notary Public.                 
+
+                                          WILLIAM B. BARNES. 
+
+            Subscribed and sworn to before me Oct. 27, 1877.
+
+                               WARREN BIGLER, Notary Public.
+
    You say in your last that "Thomas Paine was abandoned of God." So far as
    this controversy is concerned, it seems to me that in that sentence you
    have most graphically described your own condition.
+
    Wishing you success in all honest undertakings, I remain,
+
                                   Yours truly.
 
                                                        ROBERT G. INGERSOLL.  
@@ -163,6 +209,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Full text of the editorial:
 
                           The Observer's Second Attack
+                          
                      From the N.Y. Observer of Nov. 1, 1877
 
                                 TOM PAINE AGAIN

@@ -12,13 +12,11 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    Speech delivered at the Thomas Paine Day events in New Rochelle, NY on
    June 4, 2000, and reprinted from the Inaugural Edition of TPNHA's Journal
    in the Fall of 2000.
-
-    
+ 
 
    Mr. Chairman, honored guests, and fellow admirers of Thomas Paine,
 
-    
-        What we propose to do first in our brief remarks is to make some
+   What we propose to do first in our brief remarks is to make some
    comparisons between Thomas Paine and Thomas Jefferson, and for good
    measure later on throw in a snippet from George Mason, father of our
    Constitution's Bill of Rights. When we mention Jefferson, what first comes
@@ -34,13 +32,13 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    especially in our inalienable rights to life, liberty, and the opportunity
    that are prerequisite for the "pursuit of happiness."
     
-        But though we are usually rather satisfied with such an explanation
+   But though we are usually rather satisfied with such an explanation
    of universal equality in the Declaration, because adherents of democracy
    favor what we call "equal justice", we should not be too accepting of it.
    For there was another fundamental meaning of equality that was more
    apparent in America in 1776, but one that we have largely lost sight of.
     
-        If we think of equality in terms of alikeness, we begin to comprehend
+   If we think of equality in terms of alikeness, we begin to comprehend
    its broader import when employed by Paine, Mason, and Jefferson. And
    created is the word critical to our understanding of this equality or
    alikeness. Remember, the then widely popular King James Version of the Old
@@ -57,7 +55,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    Paine, Mason, and Jefferson probably meant species - mankind, or humankind
    - not necessarily the male gender.
     
-        What was the fuss about, then? These truths about the manner of birth
+   What was the fuss about, then? These truths about the manner of birth
    were indeed self-evident about all humanity. Where does inequality come
    in, so that inequality has to be denied, which is done by demonstrating
    equality? We find the answer when we distinguish between nobility and
@@ -69,19 +67,19 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    of this is recorded in the account you may read for yourself in Genesis
    VI: 2-4.
     
-        George Bernard Shaw also gives us a glimpse of this long held, but
+   George Bernard Shaw also gives us a glimpse of this long held, but
    now, thankfully, neglected belief when, before the start of Act I of his
    Caesar and Cleopatra, he has Balzanor proclaim: "Peasants, brought up to
    scare crows and follow the plough! Sons of smiths and tanners! And we
    nobles, consecrated to arms, descended from the gods!"
     
-        We should pause a moment gathered here, therefore, to honor also the
+   We should pause a moment gathered here, therefore, to honor also the
    memory of the martyred Richard Rumbold (1622-1685)) and the heroic words
    he spoke as his life was about to be cruelly ended: "I never would believe
    that Providence had sent a few men into the world, ready booted and
    spurred to ride, and millions ready saddled and bridled to be ridden."
     
-        Now originally, the triple thrust of the grievances of the American
+   Now originally, the triple thrust of the grievances of the American
    colonists had been: against the taxation and control exercised over them
    by the British Parliament and government; an assertion of autonomy in
    domestic affairs; and an argument that the common connection with England
@@ -104,7 +102,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    War; and Paine at least would also have included women as endowed with
    equal rights.
     
-        Thus, in Common Sense, Paine, a deeply devout, deistic-Quaker writes
+   Thus, in Common Sense, Paine, a deeply devout, deistic-Quaker writes
    early on: "Mankind being originally equals in the order of creation, the
    equality could only be destroyed by some subsequent circumstance..." And
    thus, in the Virginia Bill of Rights adopted in June of 1776 (and an
@@ -115,7 +113,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    in consideration of public services; which, not being descendible, neither
    ought the offices of magistrate, legislator, or judge to be hereditary."
     
-        Accordingly, the concepts of equality of birth and of kind give us
+   Accordingly, the concepts of equality of birth and of kind give us
    the fuller meaning of "created equal" and are basic elements of the
    constitutional, legal, and ideological key to freedom and justice in all
    their now familiar forms and ways so dear to Americans. Present-day

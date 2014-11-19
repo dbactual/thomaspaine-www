@@ -1,7 +1,9 @@
 Title: The Fate of Thomas Paine by Bertrand Russell
 Slug: aboutpaine/the-fate-of-thomas-paine-by-bertrand-russell
 Date: Mon Aug  4 09:08:53 EDT 2014
+
    By Bertrand Russell
+
    Thomas Paine, though prominent in two revolutions and almost hanged for
    attempting to raise a third, is grown, in our day, somewhat dim. To our
    great grandfathers, he seemed a kind of earthly Satan, a subversive
@@ -18,6 +20,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    befriended him and employed him in drawing up manifestoes. He had faults,
    like other men; but it was for his virtues that he was hated and
    successfully calumniated.
+
    Paine's importance in history consists in the fact that he made the
    preaching of democracy democratic. There were, in the eighteenth century,
    democrats among French and English aristocrats, among Philosophes and
@@ -28,6 +31,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    intelligent workingman could appreciate. This made him dangerous; and when
    he added religious unorthodoxy to his other crimes, the defenders of
    privilege seized the opportunity to load him with obloquy.
+
    The first thirty-six years of his life gave no evidence of the talents
    which appeared in his later activities. He was born at Thetford in 1739,
    of poor Quaker parents, and was educated at the local grammar school up to
@@ -67,16 +71,19 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    for the United States. In October 1775, when even those who subsequently
    signed the Declaration of Independence were still hoping for some
    accommodation with the British Government, he wrote:
-   I hesitate not for a moment to believe that the Almighty will finally
+
+   "I hesitate not for a moment to believe that the Almighty will finally
    separate America from Britain. Call it Independency or what you will, if
    it is the cause of God and humanity it will go on. And when the Almighty
    shall have blest us, and made us a people dependent only upon him, then
    may our first gratitude be shown by an act of continental legislation,
    which shall put a stop to the importation of Negroes for sale, soften the
-   hard fate of those already here, and in time procure their freedom.
+   hard fate of those already here, and in time procure their freedom."
+
    It was for the sake of freedom-freedom from monarchy, aristocracy,
    slavery, and every species of tyranny_ that Paine took up the cause of
    America.
+
    During the most difficult years of the War of Independence he spent his
    days campaigning and his evenings composing rousing manifestoes published
    under the signature "Common Sense." These had enormous success and helped
@@ -92,6 +99,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "There is no body of men more jealous of their privileges than the
    Commons: because they sell them." At that date it was impossible to deny
    the justice of this taunt.
+
    There is vigorous argument in favor of a Republic, and triumphant
    refutation of the theory that monarchy prevents civil war. "Monarchy and
    succession," he says, after his summary of English history, "have laid . .
@@ -102,6 +110,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    The summer soldier and the sunshine patriot will, in this crisis, shrink
    from the service of their country; but he that stands it now deserves the
    love and thanks of man and woman."
+
    This essay was read to the troops, and Washington expressed to Paine a
    "living sense of the importance of your works." No other writer was so
    widely read in America, and he could have made large sums by his pen, but
@@ -118,6 +127,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    other Whig notables. He had a large model of his iron bridge set up at
    Paddington; he was praised by eminent engineers and seemed likely to spend
    his remaining years as an inventor.
+
    However, France as well as England was interested in iron bridges. In 1788
    he paid a visit to Paris to discuss them with Lafayette and to submit his
    plans to the Academic des Sciences, which, after due delay, reported
@@ -131,10 +141,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    doubt of the final and compleat success of the French Revolution," and
    that "I have manufactured a bridge (a single arch) of one hundred and ten
    feet span, and five feet high from the cord of the arch."
+
    For a time, the bridge and the Revolution remained thus evenly balanced in
    his interests, but gradually the Revolution conquered. In the hope of
    rousing a responsive movement in England, he wrote his The Rights of Man
    on which his fame as a democrat chiefly rests.
+
    This work, which was considered madly, subversive during the anti-Jacobin
    reaction, will astonish a modern reader by its mildness and common sense.
    It is primarily an answer to Burke and deals at considerable length with
@@ -146,6 +158,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    to the sovereigns appointed by the Act of Settlement. Paine contends that
    it is impossible to bind posterity, and that constitutions must be capable
    of revision from time to time.
+
    Governments, he says, "may all be comprehended under three heads. First,
    superstition. Secondly, power. Thirdly, the common interest of society and
    the common rights of man. The first was a government of priestcraft, the
@@ -159,6 +172,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    remembered that in 1791 France was still a monarchy. Paine was a
    republican and did not conceal the fact, but did not much emphasize it in
    The Rights of Man.
+
    Paine's appeal, except in a -few short passages, was to common sense. He
    argued against Pitt's finance, as Cobbett did later, on grounds which
    ought to have appealed to any Chancellor of the Exchequer; he described
@@ -171,6 +185,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    among all politicians, including even Mussolini and Hitler. Nor is his
    style in any way outrageous: it is clear, vigorous, and downright, but not
    nearly as abusive as that of his opponents.
+
    Nevertheless, Pitt decided to inaugurate his reign of terror by
    prosecuting Paine and suppressing The Rights of Man. According to his
    niece, Lady Hester Stanhope, he "used to say that Tom Paine was quite in
@@ -184,6 +199,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    arrest him by a few hours in London and by twenty minutes in Dover, where
    he was allowed by the authorities to pass because he happened to have with
    him a recent friendly letter from Washington.
+
    Although England and France were not yet at war, Dover and Calais belonged
    to different worlds. Paine, who had been elected an honorary French
    citizen, had been returned to the Convention by three different
@@ -193,6 +209,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    make his avenue, the officers embrace him, the national cockade is
    presented"-and so on through the usual French series of beautiful ladies,
    mayors, etc.
+
    Arrived in Paris, he behaved with more public spirit than prudence. He
    hoped-in spite of the massacres-for an orderly and moderate revolution
    such as he had helped to make in America. He made friends with the
@@ -215,21 +232,26 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    (of the "Doctrine"), who immediately procured his release, took him into
    his own house, and restored him to health by eighteen months' care and
    kindness.
+
    Paine did not know how great a part Morris had played in his misfortunes,
    but he never forgave Washington, after whose death, hearing that a statue
    was to be made of the great man, he addressed the following lines to the
    sculptor:
+
    Take from the mine the coldest, hardest stone,
    It needs no fashion: it is Washington.
    But if you chisel, let the stroke be rude,
    And on his heart engrave-Ingratitude.
+
    This remained unpublished, but a long, bitter letter to Washington was
    published in 1796, ending:
+
    And as to you, Sir, treacherous in private friendship (for so you have
    been to me, and that in the day of danger) and a hypocrite in public life,
    the world will be puzzled to decide whether you are an apostate or an
    impostor; whether you have abandoned good principles, or whether you ever
    had any.
+
    To those who know only the statuesque Washington of the legend, these may
    seem wild words. But 1796 was the year of the first contest for the
    Presidency, between Jefferson and Adams, in which Washington's whole
@@ -239,6 +261,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    those republican and democratic principles to which he owed his own
    elevation. These public grounds, combined with a very grave personal
    grievance, show that Paine's words were not without justification.
+
    It might have been more difficult for Washington to leave Paine
    languishing in prison if that rash man had not spent his last days of
    liberty in giving literary expression to the theological opinions which he
@@ -249,11 +272,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    many of those who agreed with his politics. Nowadays, apart from a few
    passages in bad taste, there is very little that most clergymen would
    disagree with. In the first chapter he says:
-   I believe in one God, and no more; and I hope for happiness beyond this
+
+   "I believe in one God, and no more; and I hope for happiness beyond this
    life.
    I believe in the equality of man, and I believe that religious duties
    consist in doing justice, loving mercy, and endeavoring to make our fellow
-   creatures happy.
+   creatures happy."
+
    These were not empty words. From the moment of his first participation in
    public affairs-his protest against slavery in 1775---down to the day of
    his death, he was consistently opposed to every form of cruelty, whether
@@ -269,6 +294,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "doing justice, loving mercy, and endeavoring to make our fellow creatures
    happy," there was not one among his opponents who had as good a claim t: J
    be considered a religious man.
+
    The greater part of The Age of Reason consists of criticism of the Old
    Testament from a moral point of view. Very few nowadays would regard the
    massacres of men, women, and children recorded in the Pentateuch and the
@@ -291,6 +317,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    by which our age profits. Even the Quakers refused Paine's request for
    burial in their cemetery, although a Quaker farmer was one of the very few
    who followed his body to the grave.
+
    After The Age of Reason Paine's work ceased to be important. For a long
    time he was very ill; when he recovered, he found no scope in the France
    of the Directoire and the First Consul. Napoleon did not ill-treat him,
@@ -301,11 +328,14 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    English, who would certainly have hanged him, kept him in France until the
    Treaty of Amiens. At length, in October 1802, he landed at Baltimore and
    at once wrote to Jefferson (now President):
-   I arrived here on Saturday from Havre, after a passage of sixty days. I
+
+   "I arrived here on Saturday from Havre, after a passage of sixty days. I
    have several cases of models, wheels, etc., and as soon as I can get them
    from the vessel and put them on board the packet for Georgetown I shall
    set off to pay my respects to you. Your much obliged fellow citizen,
-   THOMAS PAINE
+
+   THOMAS PAINE"
+
    He had no doubt that all his old friends, except such as were Federalists,
    would welcome him. But there was a difficulty: Jefferson had a hard fight
    for the Presidency, and in the campaign the most effective weapon against
@@ -322,6 +352,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    should have fought shy of too close an association with Paine. He was
    treated politely and had no cause to complain, but the old easy
    friendships were dead.
+
    In other circles he fared worse. Dr. Rush of Philadelphia, one of his
    first American friends, would have nothing to do with him: ". . . his
    principles" he wrote, "avowed in his Age of Reason, were so offensive to
@@ -334,6 +365,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    convert him, but he merely said, "Let me alone; good morning!"
    Nevertheless, the orthodox invented a myth of deathbed recantation which
    was widely believed.
+
    His posthumous fame was greater in England than in America. To publish his
    works was, of course, illegal, but it was done repeatedly, although many
    men went to prison for this offense. The last prosecution on this charge
@@ -353,6 +385,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    owned "the skull and the right hand of Thomas Paine," but evaded
    subsequent inquiries. No trace now remains, even of the skull and right
    hand.
+   
    Paine's influence in the world was twofold. During the American Revolution
    he inspired enthusiasm and confidence, and thereby did much to facilitate
    victory. In France his popularity was transient and superficial, but in

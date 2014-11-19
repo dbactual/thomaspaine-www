@@ -2,17 +2,17 @@ Title: Congressional Testimony of Fred Friendly
 Slug: aboutpaine/congressional-testimony-of-fred-friendly
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-                      Testimony of Professor Fred Friendly
+Testimony of Professor Fred Friendly
 
-          Former President of CBS News and Professor of Journalism at
+Former President of CBS News and Professor of Journalism at
 
-                      Columbia University Graduate School
+Columbia University Graduate School
 
-                Before the National Capital Memorial Commission
+Before the National Capital Memorial Commission
 
-                                 April 12, 1994
+April 12, 1994
 
-    
+
 
         I am a journalist and have been one for about as long as I can
    remember. I have received a number of awards throughout my career, but I
@@ -20,17 +20,21 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the Award I received on January 31, 1991 from The Thomas Paine National
    Historical Association. After a lifetime of work in my profession, there
    is no one I feel a greater kinship with than Thomas Paine.
+
         I am told that the issue before you today is whether or not Thomas
    Paine was a preeminent American and thus deserving of being memorialized
    in the Area One section of this city.
+
         Thomas Paine was not just one of many important contributors to the
    success of the American Revolution. Rather, it is m opinion, that he
    stands as one of the pillars, along with men like Washington and
    Jefferson, of the extraordinary edifice which was built over 200 years
    ago. Take away any one of those pillars, and this country as we know it
    today would have been different, and I think not nearly so great.
+
         Let me spend just a moment supporting my view of Paine's importance,
    particularly to the First Amendment.
+
         When I was honored by the Thomas Paine Association, I received a
    medal and I understand that Mr. Cooper has brought one of them to show you
    today. On that medal are the words written by Thomas Paine "When opinions
@@ -45,6 +49,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    there is no such thing as a false idea." If that is true, and I believe it
    is, then Tom Paine was in many ways the first American. Our Constitution
    comes right out of his ribs.
+
         The First Amendment, which I carry in my pocket, has its very origins
    with Tom Paine, who was more worried about government than he was about
    our enemy, the British. He believed that first we had to protect the
@@ -58,6 +63,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    from a little sapling to the great mighty oak it is today, it grew with
    the impression that Tom Paine had sketched on it there when the Country
    was being born.
+
          When our Constitution was written, James Madison sent a copy of it
    to Thomas Jefferson who was then in France as our Ambassador. Jefferson
    sent it back with almost a rejection note to Madison. In essence, he said,
@@ -76,6 +82,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    ways the Bill of Rights has more of the sinew of what our country is and
    has become, than the rest of the Constitution. In ways it is the legacy of
    Tom Paine.
+
         If ever an individual deserved a place of prominence as a preeminent
    American it is Thomas Paine. If we had to point to one person who invented
    the language of the Revolution, it was Thomas Paine. If we had to point to
@@ -85,6 +92,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    proposition that all men are created equal" could steer confidently into
    the future, bristling with the arms that the First Amendment provided, it
    was Thomas Paine.
+
         If he should not be honored, it is hard to imagine who ever should
    be. If he is not a preeminent American, it is impossible to imagine who
    is.
