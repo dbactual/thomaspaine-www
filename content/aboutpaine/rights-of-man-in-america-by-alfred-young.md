@@ -1,4 +1,4 @@
-Title: 'Rights of Man' in America by Alfred Young
+Title: 'Rights of Man' in America 
 Slug: aboutpaine/rights-of-man-in-america-by-alfred-young
 Date: Mon Aug  4 09:08:53 EDT 2014
 
@@ -6,7 +6,6 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    -------
 
    By Alfred F. Young, award-winning historian on labor history and
-
    the American Revolution
     
 
