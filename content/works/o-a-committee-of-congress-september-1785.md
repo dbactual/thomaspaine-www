@@ -1,5 +1,5 @@
 PubDate: 1785-09-01
-Slug: letters/us-government/o-a-committee-of-congress-september-1785
+Slug: letters/us-government/to-a-committee-of-congress-september-1785
 Title: To a Committee of Congress  September 1785
 Date: Mon Aug  4 09:08:52 EDT 2014
 

@@ -2,7 +2,7 @@ Title: Life of Thomas Paine by Clio Rickman
 Slug: aboutpaine/life-of-thomas-paine-by-clio-rickman
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-                          Preface to Rickman's "Life"
+   Preface to Rickman's "Life"
 
    The two following letters are explanatory of the reasons why the
    publication of the life of Mr. Paine has been so long delayed, and are so
@@ -189,9 +189,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    -----------------------------------------------------------
 
-                              Life of Thomas Paine
-                             by Thomas Clio Rickman
-                                     [1819]
+   Life of Thomas Paine
+   by Thomas Clio Rickman
+   [1819]
 
    The following memoirs of Mr. Paine, if they have no other merit, at least
    have that of being true.
@@ -225,10 +225,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Cobbett as the author, though we hope he was not so, appeared in London
    about the year 1795 with this motto:
 
-              A life that's one continued scene                   
-              Of all that's infamous and mean.                    
+   A life that's one continued scene                   
+   Of all that's infamous and mean.                    
 
-    
 
    Mr. James Cheetham's Life of Mr. Paine, published at New York after Mr.
    Paine's death in 1809, is a farrago of still more silly, trifling, false
@@ -268,12 +267,10 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Paine was of those --
 
-              Who, wise by centuries before the crowd,            
-                  Must by their novel systems, though correct,    
-              Of course offend the wicked, weak and proud --      
-                  Must meet with hatred, calumny, neglect.        
-
-    
+   Who, wise by centuries before the crowd,            
+   Must by their novel systems, though correct,    
+   Of course offend the wicked, weak and proud --      
+   Must meet with hatred, calumny, neglect.        
 
    In his retirement to America, toward the close of his life, Mr. Paine was
    particularly unfortunate; for, as the author of the "Age of Reason," he
@@ -502,12 +499,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    web, and produced when eight years of age, the following epitaph on a crow
    which he buried in the garden:
 
-              Here lies the body of John Crow,                    
-              Who once was high but now is low:                   
-              Ye brother Crows take warning all,                  
-              For as you rise, so must you fall.                  
+   Here lies the body of John Crow,                    
+   Who once was high but now is low:                   
+   Ye brother Crows take warning all,                  
+   For as you rise, so must you fall.                  
 
-    
 
    At this school his studies were directed merely to the useful branches of
    reading, writing, and arithmetic, and he left it at thirteen years of age,
@@ -621,9 +617,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    prose and verse, and among the rest the celebrated song on the death of
    General Wolfe, beginning
 
-              In a mouldering cave where the wretched retreat.    
-
-    
+   "In a mouldering cave where the wretched retreat.""    
 
    It was about this time he wrote " The Trial of Farmer Carter's Dog
    Porter," in the manner of a drama, a work of exquisite wit and humor.
@@ -921,9 +915,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    General Washington, or any other favorite, so the sign was suffered to
    remain, with this inscription under it:
 
-              This is the sign of the Loggerhead!                 
+   This is the sign of the Loggerhead!                 
 
-    
 
    Burke, who at this moment was a concealed pensioner, though a public
    oppositionist, replied, peevishly: "Loggerhead or any other head, he has
@@ -1106,14 +1099,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
                                                        
    -----------------------------------------------     
                                                        
-     * Footnote:                                       
-     The reader is referred to Brissot's paper, Le     
-     Patriot Franc,ois, and Le Journal de Gorsas, for  
-     minute particulars of Mr. Paine's introduction to 
-     the president of the Convention, to the ministers 
-     and different committees; his being appointed a   
-     deputy, a member of the committee of              
-     constitution, etc., etc., etc.                    
+   * Footnote:                                       
+   The reader is referred to Brissot's paper, Le     
+   Patriot Franc,ois, and Le Journal de Gorsas, for  
+   minute particulars of Mr. Paine's introduction to 
+   the president of the Convention, to the ministers 
+   and different committees; his being appointed a   
+   deputy, a member of the committee of              
+   constitution, etc., etc., etc.                    
 
    About the time of his arrival at Paris the National Convention began to
    divide itself into factions; the King's friends had been completely
@@ -1346,8 +1339,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    I shall close these observations by quoting two old and good humored
    lines:
 
-            Treason does never prosper -- what's the reason?         
-            When it prospers -- it is never treason!                 
+   Treason does never prosper -- what's the reason?         
+   When it prospers -- it is never treason!                 
 
    This trial of Mr. Paine, and these sentences, subverted of course the very
    end they were intended to effect.
@@ -1633,15 +1626,15 @@ Date: Mon Aug  4 09:08:52 EDT 2014
                                                        
    -----------------------------------------------     
                                                        
-     * Footnote:                                       
-     When Bonaparte returned from Italy he called on   
-     Mr. Paine and invited him to dinner: in the       
-     course of his rapturous address to him he         
-     declared that a statue of gold ought to be        
-     erected to him in every city in the universe,     
-     assuring him that he always slept with his book   
-     "Rights of Man" under his pillow and conjured him 
-     to honor him with his correspondence and advice.  
+   * Footnote:                                       
+   When Bonaparte returned from Italy he called on   
+   Mr. Paine and invited him to dinner: in the       
+   course of his rapturous address to him he         
+   declared that a statue of gold ought to be        
+   erected to him in every city in the universe,     
+   assuring him that he always slept with his book   
+   "Rights of Man" under his pillow and conjured him 
+   to honor him with his correspondence and advice.  
 
    During this time he also published his "Dissertation on First Principles
    of Government," his "Essay on Finance," his first and second part of the

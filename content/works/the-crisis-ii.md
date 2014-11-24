@@ -3,9 +3,6 @@ Slug: major-works/american-crisis/the-crisis-ii
 Title: The Crisis II
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis II
-
-
 
 
 

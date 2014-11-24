@@ -3,9 +3,7 @@ Slug: essays/french-revolution/an-essay-for-the-use-of-new-republicans
 Title: An Essay for the Use of New Republicans 
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-   AN ESSAY FOR THE USE OF NEW REPUBLICANS IN THEIR OPPOSITION TO
-
-   MONARCHY
+   AN ESSAY FOR THE USE OF NEW REPUBLICANS IN THEIR OPPOSITION TO MONARCHY
 
    Philip Foner's introduction:
 
@@ -26,7 +24,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    solemnity the laying of a phantom."
 
    ***
-
 
 
    THE attainment of any important possession that we have long been ardently

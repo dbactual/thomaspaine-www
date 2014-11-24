@@ -3,6 +3,11 @@ Slug: essays/other/amicus-letter
 Title: Amicus letter
 Date: Mon Aug  4 09:08:51 EDT 2014
 
+   *TPNHA Editor's Note*
+
+   This article from the Pennsylvania Magazine is being listed as a possible 
+   Paine work from tests at the Institute for Thomas Paine Studies.
+
    June 1775
 
    Mr. Aitkin,

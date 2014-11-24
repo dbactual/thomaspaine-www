@@ -3,9 +3,6 @@ Slug: major-works/american-crisis/the-crisis-xi
 Title: The Crisis XI
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis XI
-
-
 
    Foner's introduction:
 

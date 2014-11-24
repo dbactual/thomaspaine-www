@@ -3,8 +3,6 @@ Slug: major-works/american-crisis/the-crisis-v
 Title: The Crisis V
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis V
-
 
 
    Foner's introduction:
@@ -29,7 +27,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    ***********
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    TO GENERAL SIR WILLIAM HOWE
 
@@ -669,7 +667,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    COMMON SENSE.
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    To THE INHABITANTS OF AMERICA
 

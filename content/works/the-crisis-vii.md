@@ -3,8 +3,6 @@ Slug: major-works/american-crisis/the-crisis-vii
 Title: The Crisis VII
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis VII
-
 
 
    Foner's introduction:

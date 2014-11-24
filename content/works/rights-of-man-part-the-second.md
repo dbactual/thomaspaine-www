@@ -53,7 +53,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    Preface
 
@@ -271,7 +271,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    Introduction
 
@@ -407,11 +407,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    CHAPTER I
 
-  Of Society and Civilisation
+   Of Society and Civilisation
 
    Great part of that order which reigns among mankind is not the effect of
    government. It has its origin in the principles of society and the natural
@@ -586,11 +586,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    CHAPTER II
 
-  Of the Origin of the Present Old Governments
+   Of the Origin of the Present Old Governments
 
    It is impossible that such governments as have hitherto existed in the
    world, could have commenced by any other means than a total violation of
@@ -668,11 +668,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    CHAPTER III
 
-  Of the Old and New Systems of Government
+   Of the Old and New Systems of Government
 
    Nothing can appear more contradictory than the principles on which the old
    governments began, and the condition to which society, civilisation and
@@ -1188,11 +1188,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    CHAPTER IV
 
-  Of Constitutions
+   Of Constitutions
 
    That men mean distinct and separate things when they speak of
    constitutions and of governments, is evident; or why are those terms
@@ -2037,12 +2037,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    CHAPTER V
 
-  Ways And Means Of Improving The Condition Of Europe Interspersed With
-  Miscellaneous Observations
+   Ways And Means Of Improving The Condition Of Europe Interspersed With
+   Miscellaneous Observations
 
    In contemplating a subject that embraces with equatorial magnitude the
    whole region of humanity it is impossible to confine the pursuit in one
@@ -2675,17 +2675,17 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    seven separate periods of one hundred years each, the amount of the annual
    taxes, at each period, will be as follows:
 
- Annual taxes levied by William the Conqueror,
+   Annual taxes levied by William the Conqueror,
 
-                            beginning in the year 1066    L400,000
+   beginning in the year 1066    L400,000
 
-     Annual taxes at 100 years from the conquest (1166)    200,000
+   Annual taxes at 100 years from the conquest (1166)    200,000
 
-     Annual taxes at 200 years from the conquest (1266)    150,000
+   Annual taxes at 200 years from the conquest (1266)    150,000
 
-     Annual taxes at 300 years from the conquest (1366)    130,000
+   Annual taxes at 300 years from the conquest (1366)    130,000
 
-     Annual taxes at 400 years from the conquest (1466)    100,000
+   Annual taxes at 400 years from the conquest (1466)    100,000
 
    These statements and those which follow, are taken from Sir John
    Sinclair's History of the Revenue; by which it appears, that taxes
@@ -2703,11 +2703,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Annual amount of taxes at:
 
- 500 years from the conquest (1566)      500,000
+   500 years from the conquest (1566)      500,000
 
-              600 years from the conquest (1666)    1,800,000
+   600 years from the conquest (1666)    1,800,000
 
-              the present time (1791)              17,000,000
+   the present time (1791)              17,000,000
 
    The difference between the first four hundred years and the last three, is
    so astonishing, as to warrant an opinion, that the national character of
@@ -2747,19 +2747,19 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    The amount of taxes for the year ending at Michaelmas 1788, was as
    follows:
 
- Land-tax                             L 1,950,000
+   Land-tax                             L 1,950,000
 
-      Customs                                3,789,274
+   Customs                                3,789,274
 
-      Excise (including old and new malt)    6,751,727
+   Excise (including old and new malt)    6,751,727
 
-      Stamps                                 1,278,214
+   Stamps                                 1,278,214
 
-      Miscellaneous taxes and incidents      1,803,755
+   Miscellaneous taxes and incidents      1,803,755
 
-                                           -----------
+   -------------------------------------------------
 
-                                           L15,572,755
+   L15,572,755
 
    Since the year 1788, upwards of one million new taxes have been laid on,
    besides the produce of the lotteries; and as the taxes have in general
@@ -2825,17 +2825,17 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    The peace establishment was then as follows (see Sir John Sinclair's
    History of the Revenue):
 
- Navy                 L  300,000
+   Navy                 L  300,000
 
-               Army                    212,000
+   Army                    212,000
 
-               Ordnance                 40,000
+   Ordnance                 40,000
 
-               Civil List              462,115
+   Civil List              462,115
 
-                                       -------
+   -------------------------------
 
-                                    L1,014,115
+   L1,014,115
 
    The parliament, however, settled the whole annual peace establishment at
    $1,200,000.*[33] If we go back to the time of Elizabeth the amount of all
@@ -2848,15 +2848,15 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    progress of knowledge in the science of government, the annual expenditure
    might be put back to one million and a half, viz.:
 
- Navy                   L  500,000
+   Navy                   L  500,000
 
-              Army                      500,000
+   Army                      500,000
 
-              Expenses of Government    500,000
+   Expenses of Government    500,000
 
-                                     ----------
+   ---------------------------------
 
-                                     L1,500,000
+   L1,500,000
 
    Even this sum is six times greater than the expenses of government are in
    America, yet the civil internal government in England (I mean that
@@ -2927,25 +2927,25 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    The official departments cannot reasonably exceed the following number,
    with the salaries annexed:
 
- Three offices at ten thousand pounds each             L 30,000
+   Three offices at ten thousand pounds each             L 30,000
 
-     Ten ditto, at five thousand pounds each                 50,000
+   Ten ditto, at five thousand pounds each                 50,000
 
-     Twenty ditto, at two thousand pounds each               40,000
+   Twenty ditto, at two thousand pounds each               40,000
 
-     Forty ditto, at one thousand pounds each                40,000
+   Forty ditto, at one thousand pounds each                40,000
 
-     Two hundred ditto, at five hundred pounds each         100,000
+   Two hundred ditto, at five hundred pounds each         100,000
 
-     Three hundred ditto, at two hundred pounds each         60,000
+   Three hundred ditto, at two hundred pounds each         60,000
 
-     Five hundred ditto, at one hundred pounds each          50,000
+   Five hundred ditto, at one hundred pounds each          50,000
 
-     Seven hundred ditto, at seventy-five pounds each        52,500
+   Seven hundred ditto, at seventy-five pounds each        52,500
 
-                                                           --------
+   --------------------------------------------------------------
 
-                                                           L497,500
+   L497,500
 
    If a nation choose, it can deduct four per cent. from all offices, and
    make one of twenty thousand per annum.
@@ -3152,13 +3152,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    surplus taxes, and ten pounds per annum during life after the age of
    sixty. The expense of which will be,
 
- Seventy thousand persons, at L6 per annum      L  420,000
+   Seventy thousand persons, at L6 per annum      L  420,000
 
-     Seventy thousand persons, at L10 per annum        700,000
+   Seventy thousand persons, at L10 per annum        700,000
 
-                                                       -------
+   ---------------------------------------------------------
 
-                                                    L1,120,000
+   L1,120,000
 
    This support, as already remarked, is not of the nature of a charity but
    of a right. Every person in England, male and female, pays on an average
@@ -3183,15 +3183,15 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    The sum thus remitted to the poor will be,
 
- To two hundred and fifty-two thousand poor families,
+   To two hundred and fifty-two thousand poor families,
 
-     containing six hundred and thirty thousand children  L2,520,000
+   containing six hundred and thirty thousand children  L2,520,000
 
-   To one hundred and forty thousand aged persons          1,120,000
+   To one hundred and forty thousand aged persons        1,120,000
 
-                                                          ----------
+   -----------------------------------------------------------------
 
-                                                          L3,640,000
+   L3,640,000
 
    There will then remain three hundred and sixty thousand pounds out of the
    four millions, part of which may be applied as follows:-
@@ -3375,31 +3375,31 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    be made to the pay of the soldiers who shall remain; the annual expenses
    will be:
 
- To the pay of fifteen thousand disbanded soldiers
+   To the pay of fifteen thousand disbanded soldiers
 
-       at three shillings per week                        L117,000
+   at three shillings per week                        L117,000
 
-     Additional pay to the remaining soldiers               19,500
+   Additional pay to the remaining soldiers             19,500
 
-     Suppose that the pay to the officers of the
+   Suppose that the pay to the officers of the
 
-       disbanded corps be the same amount as sum allowed
+   disbanded corps be the same amount as sum allowed
 
-       to the men                                          117,000
+   to the men                                          117,000
 
-                                                          --------
+   -----------------------------------------------------------
 
-                                                          L253,500
+   L253,500
 
-     To prevent bulky estimations, admit the same sum
+   To prevent bulky estimations, admit the same sum
 
-       to the disbanded navy as to the army,
+   to the disbanded navy as to the army,
 
-       and the same increase of pay                        253,500
+   and the same increase of pay                        253,500
 
-                                                          --------
+   -----------------------------------------------------------
 
-                                        Total             L507,000
+   Total             L507,000
 
    Every year some part of this sum of half a million (I omit the odd seven
    thousand pounds for the purpose of keeping the account unembarrassed) will
@@ -3416,15 +3416,15 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    relief will be instantly felt. This tax falls heavy on the middle class of
    people. The amount of this tax, by the returns of 1788, was:
 
- Houses and windows:                       L       s.    d.
+   Houses and windows:                       L       s.    d.
 
-     By the act of 1766                    385,459    11    7
+    By the act of 1766                    385,459    11    7
 
-     By the act be 1779                    130,739    14    5 1/2
+   By the act be 1779                    130,739    14    5 1/2
 
-                                           ----------------------
+   -------------------------------------------------------------
 
-                              Total        516,199     6    0 1/2
+   Total        516,199     6    0 1/2
 
    If this tax be struck off, there will then remain about one million of
    surplus taxes; and as it is always proper to keep a sum in reserve, for
@@ -3475,63 +3475,62 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    TABLE I
 
- A tax on all estates of the clear yearly value of L50,
+   A tax on all estates of the clear yearly value of L50,
 
-               after deducting the land tax, and up
-
+   after deducting the land tax, and up
 
 
    To L500                      0s   3d per pound
 
-              From L500 to L1,000          0    6
+   From L500 to L1,000          0    6
 
-              On the second   thousand     0    9
+   On the second   thousand     0    9
 
-              On the third         "       1    0
+   On the third         "       1    0
 
-              On the fourth        "       1    6
+   On the fourth        "       1    6
 
-              On the fifth         "       2    0
+   On the fifth         "       2    0
 
-              On the sixth         "       3    0
+   On the sixth         "       3    0
 
-              On the seventh       "       4    0
+   On the seventh       "       4    0
 
-              On the eighth        "       5    0
+   On the eighth        "       5    0
 
-              On the ninth         "       6s   0d per pound
+   On the ninth         "       6s   0d per pound
 
-              On the tenth         "       7    0
+   On the tenth         "       7    0
 
-              On the eleventh      "       8    0
+   On the eleventh      "       8    0
 
-              On the twelfth       "       9    0
+   On the twelfth       "       9    0
 
-              On the thirteenth    "      10    0
+   On the thirteenth    "      10    0
 
-              On the fourteenth    "      11    0
+   On the fourteenth    "      11    0
 
-              On the fifteenth     "      12    0
+   On the fifteenth     "      12    0
 
-              On the sixteenth     "      13    0
+   On the sixteenth     "      13    0
 
-              On the seventeenth   "      14    0
+   On the seventeenth   "      14    0
 
-              On the eighteenth    "      15    0
+   On the eighteenth    "      15    0
 
-              On the nineteenth    "      16    0
+   On the nineteenth    "      16    0
 
-              On the twentieth     "      17    0
+   On the twentieth     "      17    0
 
-              On the twenty-first  "      18    0
+   On the twenty-first  "      18    0
 
-              On the twenty-second "      19    0
+   On the twenty-second "      19    0
 
-              On the twenty-third  "      20    0
+   On the twenty-third  "      20    0
 
    The foregoing table shows the progression per pound on every progressive
    thousand. The following table shows the amount of the tax on every
@@ -3540,74 +3539,74 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    TABLE II
 
    An estate of:
 
- L 50 per annum      at 3d per pound pays      L0   12   6
+   L 50 per annum      at 3d per pound pays      L0   12   6
 
-      100  "    "           "             "         1    5   0
+   100  "    "           "             "         1    5   0
 
-      200  "    "           "             "         2   10   0
+   200  "    "           "             "         2   10   0
 
-      300  "    "           "             "         3   15   0
+   300  "    "           "             "         3   15   0
 
-      400  "    "           "             "         5    0   0
+   400  "    "           "             "         5    0   0
 
-      500  "    "           "             "         7    5   0
+   500  "    "           "             "         7    5   0
 
    After L500, the tax of 6d. per pound takes place on the second L500;
    consequently an estate of L1,000 per annum pays L2l, 15s., and so on.
 
- For the 1st L500 at   0s   3d per pound   L7   5s
+   For the 1st L500 at   0s   3d per pound   L7   5s
 
-           2nd   "       0    6              14  10     L21   15s
+   2nd   "       0    6              14  10     L21   15s
 
-           2nd 1000 at   0    9              37  11      59    5
+   2nd 1000 at   0    9              37  11      59    5
 
-           3rd   "       1    0              50   0     109    5
+   3rd   "       1    0              50   0     109    5
 
-           4th 1000 at   1s   6d per pound  L75   0s   L184    5s
+   4th 1000 at   1s   6d per pound  L75   0s   L184    5s
 
-           5th   "       2    0             100   0     284    5
+   5th   "       2    0             100   0     284    5
 
-           6th   "       3    0             150   0     434    5
+   6th   "       3    0             150   0     434    5
 
-           7th   "       4    0             200   0     634    5
+   7th   "       4    0             200   0     634    5
 
-           8th   "       5    0             250   0     880    5
+   8th   "       5    0             250   0     880    5
 
-           9th   "       6    0             300   0    1100    5
+   9th   "       6    0             300   0    1100    5
 
-          10th   "       7    0             350   0    1530    5
+   10th   "       7    0             350   0    1530    5
 
-          11th   "       8    0             400   0    1930    5
+   11th   "       8    0             400   0    1930    5
 
-          12th   "       9    0             450   0    2380    5
+   12th   "       9    0             450   0    2380    5
 
-          13th   "      10    0             500   0    2880    5
+   13th   "      10    0             500   0    2880    5
 
-          14th   "      11    0             550   0    3430    5
+   14th   "      11    0             550   0    3430    5
 
-          15th   "      12    0             600   0    4030    5
+   15th   "      12    0             600   0    4030    5
 
-          16th   "      13    0             650   0    4680    5
+   16th   "      13    0             650   0    4680    5
 
-          17th   "      14    0             700   0    5380    5
+   17th   "      14    0             700   0    5380    5
 
-          18th   "      15    0             750   0    6130    5
+   18th   "      15    0             750   0    6130    5
 
-          19th   "      16    0             800   0    6930    5
+   19th   "      16    0             800   0    6930    5
 
-          20th   "      17    0             850   0    7780    5
+   20th   "      17    0             850   0    7780    5
 
-          21st   "      18    0             900   0    8680    5
+   21st   "      18    0             900   0    8680    5
 
-          22nd 1000 at  19s   0d per pound L950   0s  L9630    5s
+   22nd 1000 at  19s   0d per pound L950   0s  L9630    5s
 
-          23rd   "      20    0            1000   0   10630    5
+   23rd   "      20    0            1000   0   10630    5
 
    At the twenty-third thousand the tax becomes 20s. in the pound, and
    consequently every thousand beyond that sum can produce no profit but by
@@ -3663,64 +3662,63 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    TABLE III
 
    Showing the net produce of every estate from one thousand to twenty-three
    thousand pounds a year
 
- No of thousand       Total tax
+   No of thousand       Total tax
 
-              per annum         subtracted       Net produce
+   per annum         subtracted       Net produce
 
 
+   L1000             L21              L979
 
-   L1000              L21               L979
+   2000               59               1941
 
-                   2000               59               1941
+   3000              109               2891
 
-                   3000              109               2891
+   4000              184               3816
 
-                   4000              184               3816
+   5000              284               4716
 
-                   5000              284               4716
+   6000              434               5566
 
-                   6000              434               5566
+   7000              634               6366
 
-                   7000              634               6366
+   8000              880               7120
 
-                   8000              880               7120
+   9000             1100               7900
 
-                   9000             1100               7900
+   10,000           1530               8470
 
-                 10,000             1530               8470
+   11,000           1930               9070
 
-                 11,000             1930               9070
+   12,000           2380               9620
 
-                 12,000             2380               9620
+   13,000           2880             10,120
 
-                 13,000             2880             10,120
+   14,000           3430             10,570
 
-                 14,000             3430             10,570
+   15,000           4030             10,970
 
-                 15,000             4030             10,970
+   16,000           4680             11,320
 
-                 16,000             4680             11,320
+   17,000           5380             11,620
 
-                 17,000             5380             11,620
+   18,000           6130             11,870
 
-                 18,000             6130             11,870
+   19,000           6930             12,170
 
-                 19,000             6930             12,170
+   20,000           7780             12,220
 
-                 20,000             7780             12,220
+   21,000           8680             12,320
 
-                 21,000             8680             12,320
+   22,000           9630             12,370
 
-                 22,000             9630             12,370
-
-                 23,000           10,630             12,370
+   23,000         10,630             12,370
 
    N.B. The odd shillings are dropped in this table.
 
@@ -3790,32 +3788,32 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    The first eight articles, mentioned earlier, are;
 
-    1. Abolition of two millions poor-rates.
-    2. Provision for two hundred and fifty-two thousand poor families, at the
-       rate of four pounds per head for each child under fourteen years of
-       age; which, with the addition of two hundred and fifty thousand
-       pounds, provides also education for one million and thirty thousand
-       children.
-    3. Annuity of six pounds (per annum) each for all poor persons, decayed
-       tradesmen, and others (supposed seventy thousand) of the age of fifty
-       years, and until sixty.
-    4. Annuity of ten pounds each for life for all poor persons, decayed
-       tradesmen, and others (supposed seventy thousand) of the age of sixty
-       years.
-    5. Donation of twenty shillings each for fifty thousand births.
-    6. Donation of twenty shillings each for twenty thousand marriages.
-    7. Allowance of twenty thousand pounds for the funeral expenses of
-       persons travelling for work, and dying at a distance from their
-       friends.
-    8. Employment at all times for the casual poor in the cities of London
-       and Westminster.
+   1. Abolition of two millions poor-rates.
+   2. Provision for two hundred and fifty-two thousand poor families, at the
+   rate of four pounds per head for each child under fourteen years of
+   age; which, with the addition of two hundred and fifty thousand
+   pounds, provides also education for one million and thirty thousand
+   children.
+   3. Annuity of six pounds (per annum) each for all poor persons, decayed
+   tradesmen, and others (supposed seventy thousand) of the age of fifty
+   years, and until sixty.
+   4. Annuity of ten pounds each for life for all poor persons, decayed
+   tradesmen, and others (supposed seventy thousand) of the age of sixty
+   years.
+   5. Donation of twenty shillings each for fifty thousand births.
+   6. Donation of twenty shillings each for twenty thousand marriages.
+   7. Allowance of twenty thousand pounds for the funeral expenses of
+   persons travelling for work, and dying at a distance from their
+   friends.
+   8. Employment at all times for the casual poor in the cities of London
+   and Westminster.
 
-    Second Enumeration
+   Second Enumeration
 
-    9. Abolition of the tax on houses and windows.
+   9. Abolition of the tax on houses and windows.
    10. Allowance of three shillings per week for life to fifteen thousand
-       disbanded soldiers, and a proportionate allowance to the officers of
-       the disbanded corps.
+   disbanded soldiers, and a proportionate allowance to the officers of
+   the disbanded corps.
    11. Increase of pay to the remaining soldiers of L19,500 annually.
    12. The same allowance to the disbanded navy, and the same increase of
        pay, as to the army.

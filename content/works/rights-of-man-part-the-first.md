@@ -24,7 +24,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    --------------------------------------------------------------------------
 
-The Author's Preface to the English Edition
+   The Author's Preface to the English Edition
 
    From the part Mr. Burke took in the American Revolution, it was natural
    that I should consider him a friend to mankind; and as our acquaintance
@@ -106,9 +106,9 @@ The Author's Preface to the English Edition
 
    --------------------------------------------------------------------------
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
-The Author's Preface to the French Edition
+   The Author's Preface to the French Edition
 
    The astonishment which the French Revolution has caused throughout Europe
    should be considered from two different points of view: first as it
@@ -184,7 +184,7 @@ The Author's Preface to the French Edition
 
    --------------------------------------------------------------------------
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    Among the incivilities by which nations or individuals provoke and
    irritate each other, Mr. Burke's pamphlet on the French Revolution is an
@@ -224,9 +224,9 @@ The Author's Preface to the French Edition
    proceeds dogmatically to assert, that by the principles of the Revolution,
    the people of England have acquired three fundamental rights:
 
-    1. To choose our own governors.
-    2. To cashier them for misconduct.
-    3. To frame a government for ourselves."
+   1. To choose our own governors.
+   2. To cashier them for misconduct.
+   3. To frame a government for ourselves."
 
    Dr. Price does not say that the right to do these things exists in this or
    in that person, or in this or in that description of persons, but that it
@@ -2815,7 +2815,7 @@ The Author's Preface to the French Edition
 
    --------------------------------------------------------------------------
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
   Observations on the Declaration of Rights
 
@@ -2885,7 +2885,7 @@ The Author's Preface to the French Edition
    "May this great monument, raised to Liberty, serve as a lesson to the
    oppressor, and an example to the oppressed!"*[11]
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
   Miscellaneous Chapter
 

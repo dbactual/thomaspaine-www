@@ -3,7 +3,16 @@ Slug: essays/poetry/contentment
 Title: Contentment
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-   OR, IF YOU PLEASE, CONFESSION1
+   This poem was addressed to Mrs. Joel Barlow, the wife of the liberal
+   American poet, Joel Barlow, who was living in Paris in 1796 when these
+   verses were written. Accompanying the poem, Paine sent the following note:
+   "To Mrs. Barlow, on her pleasantly telling the author that, after writing
+   against the superstition of the Scripture religion, he was setting up a
+   religion capable of more bigotry and enthusiasms, and more dangerous to
+   its votaries-that of making a religion of Love."
+
+
+   OR, IF YOU PLEASE, CONFESSION
 
 
 
@@ -69,13 +78,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
 
 
-   1. This poem was addressed to Mrs. Joel Barlow, the wife of the liberal
-   American poet, Joel Barlow, who was living in Paris in 1796 when these
-   verses were written. Accompanying the poem, Paine sent the following note:
-   "To Mrs. Barlow, on her pleasantly telling the author that, after writing
-   against the superstition of the Scripture religion, he was setting up a
-   religion capable of more bigotry and enthusiasms, and more dangerous to
-   its votaries-that of making a religion of Love."
 
 
 

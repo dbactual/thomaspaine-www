@@ -3,9 +3,6 @@ Slug: major-works/american-crisis/the-crisis-iii
 Title: The Crisis III
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis III
-
-
 
    Foner's introduction:
 

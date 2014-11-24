@@ -3,8 +3,6 @@ Slug: major-works/american-crisis/the-crisis-vi
 Title: The Crisis VI
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis VI
-
 
 
    Foner's introduction:
@@ -162,7 +160,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    deluded people of England, lest, between your blunders and theirs, they
    sink beneath the evils contrived for us.
 
-      * General [Sir H.] Clinton's letter to Congress.
+   * General [Sir H.] Clinton's letter to Congress.
 
    "He who lives in a glass house," says a Spanish proverb, "should never
    begin throwing stones." This, gentlemen, is exactly your case, and you

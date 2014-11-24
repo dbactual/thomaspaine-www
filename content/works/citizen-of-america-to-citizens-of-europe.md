@@ -2,11 +2,14 @@ PubDate: 1793-07-01
 Slug: essays/french-revolution/citizen-of-america-to-citizens-of-europe
 Title: Citizen of America to Citizens of Europe
 Date: Mon Aug  4 09:08:51 EDT 2014
+
+
+
    A CITIZEN OF AMERICA TO THE CITIZENS OF EUROPE
 
    Philip Foner's introduction:
 
-    In the collections of the French Archives, marked "Etats-Unis, vol. 38,
+   In the collections of the French Archives, marked "Etats-Unis, vol. 38,
    Part II, July, 1793-October," is a document entitled "A Citizen of America
    to the Citizens of Europe." The name of Paine is pencilled on the
    document, and it is said to have been written in America, and is dated

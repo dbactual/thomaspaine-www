@@ -23,7 +23,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    everything of personal party, I address this token to you on the ground of
    principle and in remembrance of former times and friendships.
 
-    The subject now before you is the call of a Convention to examine and, if
+   The subject now before you is the call of a Convention to examine and, if
    necessary, to reform the Constitution of the State; or to speak in the
    correct language of constitutional order, to propose written articles of
    reform to be accepted or rejected by the people by vote, in the room of
@@ -120,7 +120,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    proposal with disdain. Why then did it put the legislatures thereafter to
    be chosen, and all the laws, in that predicament?
 
-    Had that Convention, or the law members thereof, known the origin of the
+   Had that Convention, or the law members thereof, known the origin of the
    negativing power used by kings of England, from whence they copied it,
    they must have seen the inconsistency of introducing it into an American
    Constitution. We are not a conquered people; we know no conqueror; and the
@@ -172,7 +172,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    But be the proportion what it may, the expense to the public of supporting
    a judiciary for both will be, in some relative degree, according to  the
    number of cases the one bears to the other; yet it is only one of the
-    that the public, as a public, have any concern with. The criminal cases,
+   that the public, as a public, have any concern with. The criminal cases,
    being breaches of the peace, are consequently under the cognizance of  the
    government of the state, and the expense of supporting the courts thereof
    belongs to the public, because the preservation of the peace is a public

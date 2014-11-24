@@ -24,13 +24,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    there can be but little doubt that a revision is necessary. It is a
    Constitution, they say, for the emolument of lawyers.
 
-    It has happened that the constitutions of all the states were formed
+   It has happened that the constitutions of all the states were formed
    before any experience had been had on the representative system of
    government; and it would be a miracle in human affairs that mere theory
    without experience should start into perfection at once. The Constitution
    of New York was formed so early as the year 1777.
 
-    The subject that occupied and engrossed the mind of the public at that
+   The subject that occupied and engrossed the mind of the public at that
    time was the Revolutionary War, and the establishment of independence, and
    in order to give effect to the Declaration of Independence by Congress it
    was necessary that the states severally should make a practical beginning

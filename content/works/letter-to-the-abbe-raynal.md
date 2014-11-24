@@ -1764,7 +1764,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    eminently suited, I recommend it to his attention with the affection of a
    friend, and the ardor of a universal citizen.
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    POSTSCRIPT
 
@@ -2029,7 +2029,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    PHILADELPHIA, August 21, 1782.
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    Footnote 1: In Congress, April 22, 1778.
 
@@ -2247,7 +2247,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Sir Henry Clinton. K. B., Philadelphia.-Author.
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    Footnote 2: Extract from "A short Review of the present Reign," in
    England, p. 45, in the new "Annual Register," for the year 1780.
@@ -2263,7 +2263,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    engagements into which they had entered by their late treaty with
    France."-Author.
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    Footnote 3:
 

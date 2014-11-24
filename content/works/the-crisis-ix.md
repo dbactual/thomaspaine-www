@@ -3,9 +3,6 @@ Slug: major-works/american-crisis/the-crisis-ix
 Title: The Crisis IX
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis IX
-
-
 
    Foner's introduction:
 
@@ -18,9 +15,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    will fall short of the reality. There is such a combination of
    circumstances to exhaust the patience of the soldiery that it begins at
    length to be worn out, and we see in every line of the army the most
-   serious features of mutiny and
-
-   sedition."
+   serious features of mutiny and sedition."
 
    Paine immediately proposed that a fund of money be raised to aid the
    patriot cause and headed the subscription with five hundred dollars. The

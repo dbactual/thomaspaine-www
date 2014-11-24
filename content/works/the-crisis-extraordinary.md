@@ -3,9 +3,6 @@ Slug: major-works/american-crisis/the-crisis-extraordinary
 Title: The Crisis Extraordinary
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   THE CRISIS EXTRAORDINARY
-
-
 
    Foner's introduction:
 
@@ -16,10 +13,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    do it; a third executes it by halves; and all differ either in the manner,
    the matter, or so much in point of time, that we are always working up
    hill, and ever shall be; and, while such a system as the present one or
-   rather want
-
-   of one prevails, we shall ever be unable to apply our strength or
-   resources to any advantage." "The crisis, in every point of view, is
+   rather wantof one prevails, we shall ever be unable to apply our strength or
+   resources t o any advantage." "The crisis, in every point of view, is
    extraordinary," Washington observed, and it is this sentence that probably
    inspired Paine to entitle his article The Crisis Extraordinary. In the
    article Paine presents a plan for raising revenue, and indicates the
@@ -237,11 +232,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    sterling, and the establishment in the time of peace, for three quarters
    of a million.*
 
-      * I have made the calculations in sterling, because it is a rate generally
-      known in all the states, and because, likewise, it admits of an easy
-      comparison between our expenses to support the war, and those of the
-      enemy. Four silver dollars and a half is one pound sterling, and three
-      pence over.
+   * I have made the calculations in sterling, because it is a rate generally
+   known in all the states, and because, likewise, it admits of an easy
+   comparison between our expenses to support the war, and those of the
+   enemy. Four silver dollars and a half is one pound sterling, and three
+   pence over.
 
    As to navy matters, they flourish so well, and are so well attended to by
    individuals, that I think it consistent on every principle of real use and
