@@ -5,6 +5,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Life and Deeds of Thomas Paine
 
    LADIES AND GENTLEMEN:
+   
    Through all the centuries gone, the mind of man has been beleaguered by
    the mailed hosts of superstition. Slowly and painfully has advanced the
    army of deliverance. Hated by those they wished to rescue, despised by

@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    *******
 
-    The United States of America are negotiating with Spain respecting the
+   The United States of America are negotiating with Spain respecting the
    free navigation of the Mississippi1, and the territorial limits of this
    large river, in conformity with the treaty of peace, with England dated
    thirtieth November, 1782. As the brilliant successes of the French

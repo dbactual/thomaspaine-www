@@ -4,7 +4,12 @@ Title: African Slavery in America
 Date: Mon Aug  4 09:08:50 EDT 2014
 
 
-_TPNHA Editor's Note: TPNHA has determined from our work in the Institute for Thomas Paine Studies' Text Analysis Project that this is probably not written by Paine. We include it here because it was referenced in the past as Paine's work, so that you may have access to it._
+  _*TPNHA Editor's Note*_
+>
+> TPNHA has determined from our work in the Institute for Thomas Paine 
+> Studies' Text Analysis Project that this is probably not written by
+> Paine. We include it here because it was referenced in the past as
+> Paine's work, so that you may have access to it.
 
 
 

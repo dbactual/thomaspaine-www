@@ -112,7 +112,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    author, and a freethinker; for Bonneville had published heresies like
    those of Paine. 
 
-   n  Moncure Conway
+   Moncure Conway
 
                                  THOMAS  PAINE.
 

@@ -7,10 +7,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    This stirring song was printed in the Pennsylvania Evening Post of
    September 16, 1775. The last stanza was a definite forecast of Common
-   Sense inasmuch as it openly
-
-   blamed the king as well as Parliament for the oppressive measures imposed
-   upon the American people.
+   Sense inasmuch as it openly blamed the king as well as Parliament for 
+   the oppressive measures imposed upon the American people.
 
 
 

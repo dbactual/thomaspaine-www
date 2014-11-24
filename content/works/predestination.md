@@ -9,7 +9,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Philip Foner's introduction:
 
-    These are generally believed to be the last words written by Paine before
+   These are generally believed to be the last words written by Paine before
    his death, June 8, 1809. They were published in the form of an article in
    1820 in London by Mary Ann Carlile, wife of the English publisher, Richard
    Carlile. Carlile himself had been fined -L-1,500 and sentenced to three

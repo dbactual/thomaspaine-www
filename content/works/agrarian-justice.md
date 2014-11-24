@@ -33,6 +33,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    appropriation. If we do not, the fundamental right to labor the earth
    returns to the unemployed. . . ." Philip S. Foner, ed., Thomas Jefferson:
    Selections from His Writings, pp. 56-57.
+
    Since the operation of society had made possible the existence of private
    property, it followed that society was entitled to receive the surplus
    that men accumulated beyond their own labor back from them. Paine proposed
@@ -42,6 +43,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    fifty years of age or over ten pounds per year. His plan, which today
    would be called a system of social insurance, called for graduated
    inheritance taxes and ground rents.
+
    Unlike many land reformers who preceded and followed him, Paine did not
    advocate the establishment of an agrarian society. For evidence that
    Paine's proposal was too moderate for some contemporary Agrarians, see
@@ -70,6 +72,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    essentially a principle that admits of no gradation in the things to which
    it applies. But equality is often misunderstood, often misapplied, and
    often violated.
+
    Liberty and Property are words expressing all those of our possessions
    which are not of an intellectual nature. There are two kinds of property.
    Firstly, natural property, or that which comes to us from the Creator of
@@ -162,11 +165,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    as I had not determined whether to publish it during the present war, or
    to wait till the commencement of a peace, it has lain by me, without
    alteration or addition, from the time it was written.
+
    What has determined me to publish it now is a sermon preached by Watson,
    Bishop of LlandafL Some of my readers will recollect, that this Bishop
    wrote a book entitled "An Apology for the Bible," in answer to my second
    part of "The Age of Reason." I procured a copy of his book, and he may
    depend upon hearing from me on that subject.
+
    At the end of the Bishop's book is a list of the works he has written.
    Among which is the sermon alluded to; it is entitled: "The Wisdom and
    Goodness of God, in having made both Rich and Poor; with an Appendix,
@@ -174,6 +179,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    The error contained in this sermon determined me to publish my "Agrarian
    Justice." It is wrong to say God made rich and poor; He made only male and
    female; and He gave them the earth for their inheritance. . .
+
    Instead of preaching to encourage one part of mankind in insolence. . . it
    would be better that priests employed their time to render the general
    condition of man less miserable than it is. Practical religion consists in
@@ -189,6 +195,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    To preserve the benefits of what is called civilized life, and to remedy
    at the same time the evil which it has produced, ought to considered as
    one of the first objects of reformed legislation.
+
    Whether that state that is proudly, perhaps erroneously, called
    civilization, has most promoted or most injured the general happiness of
    man is a question that may be strongly contested. On one side, the
@@ -196,27 +203,32 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    by extremes of wretchedness; both of which it has erected. The most
    affluent and the most miserable of the human race are to be found in the
    countries that are called civilized.
+
    To understand what the state of society ought to be, it is necessary to
    have some idea of the natural and primitive state of man; such as it is at
    this day among the Indians of North America. There is not, in that state,
    any of those spectacles of human misery which poverty and want present to
    our eyes in all the towns and streets in Europe.
+
    Poverty, therefore, is a thing created by that which is called civilized
    life. It exists not in the natural state. On the other hand, the natural
    state is without those advantages which flow from agriculture, arts,
    science and manufactures.
+
    The life of an Indian is a continual holiday, compared with the poor of
    Europe; and, on the other hand it appears to be abject when compared to
    the rich. Civilization, therefore, or that which is so-called, has
    operated two ways: to make one part of society more affluent, and the
    other more wretched, than would have been the lot of either in a natural
    state.
+
    It is always possible to go from the natural to the civilized state, but
    it is never possible to go from the civilized to the natural state. The
    reason is that man in a natural state, subsisting by hunting, requires ten
    times the quantity of land to range over to procure himself sustenance,
    than would support him in a civilized state, where the earth is
    cultivated.
+
    When, therefore, a country becomes populous by the additional aids of
    cultivation, art and science, there is a necessity of preserving things in
    that state; because without it there cannot be sustenance for more,
@@ -224,6 +236,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    to be done is to remedy the evils and preserve the benefits that have
    arisen to society by passing from the natural to that which is called the
    civilized state.
+
    In taking the matter upon this ground, the first principle of civilization
    ought to have been, and ought still to be, that the condition of every
    person born into the world, after a state of civilization commences, ought
@@ -232,12 +245,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Europe, is far worse than if they had been born before civilization begin,
    had been born among the Indians of North America at the present. I will
    show how this fact has happened.
+
    It is a position not to be controverted that the earth, in its natural,
    cultivated state was, and ever would have continued to be, the common
    property of the human race.  In that state every man would have been born
    to property. He would have been a joint life proprietor with rest in the
    property of the soil, and in all its natural productions, vegetable and
    animal.
+
    But the earth in its natural state, as before said, is capable of
    supporting but a small number of inhabitants compared with what it is
    capable of doing in a cultivated state. And as it is impossible to
@@ -246,10 +261,12 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    that parable connection; but it is nevertheless true, that it is the value
    of the improvement, only, and not the earth itself, that is individual
    property.
+
    Every proprietor, therefore, of cultivated lands, owes to the community
    ground-rent (for I know of no better term to express the idea) for the
    land which he holds; and it is from this ground-rent that the fund prod in
    this plan is to issue.
+
    It is deducible, as well from the nature of the thing as from all the
    stories transmitted to us, that the idea of landed property commenced with
    cultivation, and that there was no such thing, as landed property before
@@ -257,11 +274,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    It did not exist in the second state, that of shepherds: neither Abraham,
    Isaac, Jacob, nor Job, so far as the history of the Bible may credited in
    probable things, were owners of land.
+
    Their property consisted, as is always enumerated in flocks and herds,
    they traveled with them from place to place. The frequent contentions at
    that time about the use of a well in the dry country of Arabia, where
    those people lived, also show that there was no landed property. It was
    not admitted that land could be claimed as property.
+
    There could be no such thing as landed property originally. Man did not
    make the earth, and, though he had a natural right to occupy it, he had no
    right to locate as his property in perpetuity any part of it; neither did
@@ -455,13 +474,12 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the annual sum of -L- 43,333,333 will be:
 
    From -L- 30,000,000 at ten per
-   cent...............................................................-L-
-   3,000,000
+   cent.............................................-L- 3,000,000
 
    From -L- 13,333,333 at ten per cent with the addition of ten per cent
    more....-L- 2,666,666
-   --------------------------------------------------------------------------------------------------------
-    -L- 43,333,333  -L- 5,666,666
+   -----------------------------------------------------------------------------------------
+                                     -L- 43,333,333  -L- 5,666,666
 
    Having thus arrived at the annual amount of the proposed fund, I come, in
    the next place, to speak of the population proportioned to this fund and
@@ -497,13 +515,10 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
 
    Fund
-   annually.................................................................................-L-
-   5,666,666
-   To 400,000 aged persons at -L- 10 each .......................-L-
-   4,000,000
-   To 90,000 persons of 21 yrs.-L- 15 each.......................-L-
-   1,350,000
-   -L- 5,350,000
+   annually.............................................-L- 5,666,666
+   To 400,000 aged persons at -L- 10 each ..............-L- 4,000,000
+   To 90,000 persons of 21 yrs.-L- 15 each..............-L- 1,350,000
+                                                        -L- 5,350,000
    ---------------
    Remains: -L- 316,666
 

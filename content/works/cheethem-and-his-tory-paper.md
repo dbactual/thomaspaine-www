@@ -3,9 +3,12 @@ Slug: essays/american-politics-&-government/cheethem-and-his-tory-paper
 Title: Cheethem and his Tory Paper
 Date: Mon Aug  4 09:08:51 EDT 2014
 
+
+
+
    Philip Foner's introduction:
 
-    This brief essay represents one of Paine's last efforts to cement cordial
+   This brief essay represents one of Paine's last efforts to cement cordial
    relationship between America and France. Cheetham's paper was, of course,
    the American Citizen, once a Jeffersonian organ, but by the time the
    article was written, September 25, 1807, a scandal-sheet with reactionary

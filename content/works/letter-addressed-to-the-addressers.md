@@ -837,7 +837,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    demerits of the work, but of the matters therein contained, which relate
    to his own interest and happiness.
 
-    If, to expose the fraud and imposition of monarchy, and every species of
+   If, to expose the fraud and imposition of monarchy, and every species of
    hereditary government-to lessen the oppression of taxes-to propose plans
    for the education of helpless infancy, and the comfortable support of the
    aged and distressed-to endeavor to conciliate nations to each other-to

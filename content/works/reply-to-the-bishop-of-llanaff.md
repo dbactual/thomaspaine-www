@@ -93,14 +93,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    extracts were not published until after Paine's death. It was published in
    1810 in The Theophilanthropist, a New York magazine, designed to promote
    the "mild, tolerant religion of virtue, which the Creator has wisely
-   revealed to the
-
-   conscience of all mankind. . . ." In this tract, Paine maintained that
-   Bishop Llandaff was wrong in his contention that the Book of Genesis was
-   the oldest work in the world. He argued that its story of the creation was
-   taken from other peoples and that it was the last book of the Pentateuch
-   to be written, and held that the Book of Job, a Gentile work, was composed
-   before Genesis.
+   revealed to the conscience of all mankind. . . ." In this tract, Paine
+   maintained that Bishop Llandaff was wrong in his contention that the Book 
+   of Genesis was the oldest work in the world. He argued that its story of the 
+   creation was taken from other peoples and that it was the last book of the 
+   Pentateuch to be written, and held that the Book of Job, a Gentile work, was 
+   composed before Genesis.
 
    --------------------------------------------------------------------------
 

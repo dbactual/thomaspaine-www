@@ -3,13 +3,9 @@ Slug: major-works/the-age-of-reason-part-1
 Title: The Age of Reason - Part I
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-                           The Age Of Reason - Part I
 
 
-
- 
-
-CHAPTER I - THE AUTHOR'S PROFESSION OF FAITH.
+   CHAPTER I - THE AUTHOR'S PROFESSION OF FAITH.
 
    IT has been my intention, for several years past, to publish my thoughts
    upon religion; I am well aware of the difficulties that attend the
@@ -88,7 +84,7 @@ CHAPTER I - THE AUTHOR'S PROFESSION OF FAITH.
 
 
 
-CHAPTER II - OF MISSIONS AND REVELATIONS.
+   CHAPTER II - OF MISSIONS AND REVELATIONS.
 
    Each of those churches shows certain books, which they call revelation, or
    the Word of God. The Jews say that their Word of God was given by God to

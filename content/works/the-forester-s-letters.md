@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    To CATO
 
    TO be nobly wrong is more manly than to be meanly right. Only let the
-   error be disinterested-let it wear not the mask, but the mark of
+   error be disinterested - let it wear not the mask, but the mark of
    principle, and 'tis pardonable. It is on this large and liberal ground,
    that we distinguish between men and their tenets, and generously preserve
    our friendship for the one, while we combat with every prejudice of the
@@ -549,7 +549,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    slain! "Get thee behind me," Cato, for thou hast not the feelings of a
    man.
 
-   T H E FORESTER.
+   THE FORESTER.
 
    April 8, 1776.
 

@@ -5,9 +5,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
 
 
-   http://tpnha.keybrick.net/Portals/_default/Containers/Containers/spacer.gif
-
-                               AN ESSAY ON DREAM
+   AN ESSAY ON DREAM
 
    Philip Foner's introduction:
 

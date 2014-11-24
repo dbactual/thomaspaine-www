@@ -3,8 +3,6 @@ Slug: major-works/american-crisis/the-crisis-iv
 Title: The Crisis IV
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis IV
-
 
 
    Foner's introduction:

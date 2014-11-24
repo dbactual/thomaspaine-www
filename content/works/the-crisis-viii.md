@@ -3,9 +3,7 @@ Slug: major-works/american-crisis/the-crisis-viii
 Title: The Crisis VIII
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis VIII
-
-
+   
 
    ADDRESS TO THE PEOPLE OF ENGLAND
 
@@ -36,8 +34,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    the glory of a nation like that of an [American] Indian, lay in the number
    of its scalps and the miseries which it inflicts.
 
-      * Whitehead's New Year's ode for 1776.
-      *(2) Ode at the installation of Lord North, for Chancellor of the
+   * Whitehead's New Year's ode for 1776.
+   *(2) Ode at the installation of Lord North, for Chancellor of the
       University of Oxford.
 
    Fire, sword and want, as far as the arms of Britain could extend them,

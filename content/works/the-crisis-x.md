@@ -3,9 +3,7 @@ Slug: major-works/american-crisis/the-crisis-x
 Title: The Crisis X
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Crisis X
-
-
+  
 
    Foner's introduction:
 
@@ -26,7 +24,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    *********************
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    ON THE KING OF ENGLAND'S SPEECH
 
@@ -224,20 +222,18 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    which the speech contains, I shall now make my remarks on what it does not
    contain.
 
-   There is not a syllable in its resp
-
-   ecting alliances. Either the injustice of Britain is too glaring, or her
-   condition too desperate, or both, for any neighboring power to come to her
-   support. In the beginning of the contest, when she had only America to
-   contend with, she hired assistance from Hesse, and other smaller states of
-   Germany, and for nearly three years did America, young, raw, undisciplined
-   and unprovided, stand against the power of Britain, aided by twenty
-   thousand foreign troops, and made a complete conquest of one entire army.
-   The remembrance of those things ought to inspire us with confidence and
-   greatness of mind, and carry us through every remaining difficulty with
-   content and cheerfulness. What are the little sufferings of the present
-   day, compared with the hardships that are past? There was a time, when we
-   had neither house nor home in safety; when every hour was the hour of
+   There is not a syllable in its resp ecting alliances. Either the injustice
+   of Britain is too glaring, or her condition too desperate, or both, for any 
+   neighboring power to come to her support. In the beginning of the contest, 
+   when she had only America to contend with, she hired assistance from Hesse, 
+   and other smaller states of Germany, and for nearly three years did America, 
+   young, raw, undisciplined and unprovided, stand against the power of Britain, 
+   aided by twenty thousand foreign troops, and made a complete conquest of one 
+   entire army. The remembrance of those things ought to inspire us with 
+   confidence and greatness of mind, and carry us through every remaining 
+   difficulty with content and cheerfulness. What are the little sufferings of 
+   the present day, compared with the hardships that are past? There was a time, 
+   when we had neither house nor home in safety; when every hour was the hour of
    alarm and danger; when the mind, tortured with anxiety, knew no repose,
    and every thing, but hope and fortitude, was bidding us farewell.
 
@@ -332,13 +328,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    interest, and happiness of the whole community, to omit or delay no one
    preparation necessary to secure the ground which we so happily stand upon.
 
-     ----------------------------------------------------------------------
+   ----------------------------------------------------------------------
 
    To THE PEOPLE OF AMERICA
 
-   On the expenses, arrangements and disbursements for carrying on
-
-   the war, and finishing it with honor and advantage
+   On the expenses, arrangements and disbursements for carrying on the war, 
+   and finishing it with honor and advantage.
 
    When any necessity or occasion has pointed out the convenience of
    addressing the public, I have never made it a consideration whether the
@@ -482,36 +477,22 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    "October 30, 1781.
 
    "Resolved, That the respective states be called upon to furnish the
-   treasury
-
-   of the United States with their quotas of eight millions of dollars, for
-   the
-
-   War Department and civil list for the ensuing year, to be paid quarterly,
-   in
-
-   equal proportions, the first payment to be made on the first day of April
-   next.
+   treasury of the United States with their quotas of eight millions of 
+   dollars, for the War Department and civil list for the ensuing year, 
+   to be paid quarterly, in equal proportions, the first payment to be 
+   made on the first day of April next.
 
    "Resolved, That a committee, consisting of a member from each state,
-
    be appointed to apportion to the several states the quota of the above
    sum.
 
    "November 2d. The committee appointed to ascertain the proportions of
-
    the several states of the monies to be raised for the expenses of the
-   ensuing
-
-   year, report the following resolutions:
+   ensuing year, report the following resolutions:
 
    "That the sum of eight millions of dollars, as required to be raised by
-   the
-
-   resolutions of the 30th of October last, be paid by the states in the
-   following
-
-   proportion:
+   the resolutions of the 30th of October last, be paid by the states in the
+   following proportion:
 
    New Hampshire $373,598
 

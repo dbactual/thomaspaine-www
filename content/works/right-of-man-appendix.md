@@ -1,5 +1,5 @@
 PubDate: 1791-02-01
-Slug: major-works/right-of-man-appendix
+Slug: major-works/rights-of-man-appendix
 Title: Right of Man: Appendix
 Date: Mon Aug  4 09:08:52 EDT 2014
 

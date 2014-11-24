@@ -16,7 +16,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    **
 
-   IT is always useful to know the" position and the designs of one's
+   IT is always useful to know the position and the designs of one's
    enemies. It is much easier to do so by combining and comparing the events,
    and by examining the consequences which result from them, than by forming
    one's judgment by letters found or intercepted. These letters could be

@@ -17,13 +17,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    To see the fun & what was there,
 
-     and sell their merchandise
+   and sell their merchandise
 
    They stopt upon the road to chat.
 
    Refresh and ask of this or that
 
-     That they might be more wise
+   That they might be more wise
 
 
 
@@ -31,13 +31,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Where go ye sirs?, To Bethlehem,
 
-     the Citizens replied.
+   the Citizens replied.
 
    Ye are merchants sirs to them said he,
 
    We are replied the pedlars three:
 
-     and Eastern men beside
+   and Eastern men beside
 
 
 
@@ -45,13 +45,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    If worth the while I will go snacks:
 
-     To them Quoth Major Domo. 
+   To them Quoth Major Domo. 
 
    We've buttons, buckles, spectacles
 
    and every thing a merchant sells
 
-     replied the travelling trio.
+   replied the travelling trio.
 
 
 
@@ -59,13 +59,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    For beaux, and those who cannot see,
 
-     much further than their knuckles,
+   much further than their knuckles,
 
    But Bethlehem fairs' for boys & girls,
 
    who never think of spectacles
 
-     and cannot buy your buckles
+   and cannot buy your buckles
 
 
 
@@ -73,13 +73,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    a Travelling merchant left with me
 
-     who could not pay his score.
+   who could not pay his score.
 
    And you shall have them on condition
 
    You sell them at a cheap commission
 
-     and make the money sure.
+   and make the money sure.
 
 
 
@@ -87,13 +87,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    until the other two return
 
-     If you suspect our faith as they.
+   If you suspect our faith as they.
 
    The Landlord tho't this was a plan,
 
    o leave upon his hands the man,
 
-     and therefore he said nay.
+   and therefore he said nay.
 
 
 
@@ -101,13 +101,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    which one of them took on his back,
 
-     and off the merchants travell'd
+   and off the merchants travell'd
 
    and here the tale, the apostles told,
 
    of wise men and, their gifts of gold,,
 
-     will fully be unravell'd
+   will fully be unravell'd
 
 
 
@@ -115,13 +115,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    as might be seen both day and night,
 
-     if you will credit them;
+   if you will credit them;
 
    It was no other than a sign,
 
    To a public House, where pedlars dine;
 
-     In East street Bethlehem.
+   In East street Bethlehem.
 
 
 
@@ -129,13 +129,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    as you, and all the world may see,
 
-     By reading to the end:
+   By reading to the end:
 
    For commentators have mistook,
 
    In paraphrasing of a Book,
 
-     They did not understand.
+   They did not understand.
 
 
 
@@ -143,13 +143,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Scarce fit to entertain a mouse:
 
-     Inquired to have a room.
+   Inquired to have a room.
 
    The Landlord said he was not able
 
    to give them any but the stable,
 
-     As many folks were come.
+   As many folks were come.
 
 
 
@@ -157,13 +157,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    and how much money must we pay,
 
-     for we have none to spare:
+   for we have none to spare:
 
    why theres one Joseph and a wench
 
    who are to go before the bench,
 
-     about a love affair.
+   about a love affair.
 
 
 
@@ -171,13 +171,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    a child exposed to every danger
 
-     was found as it was sleeping:
+   was found as it was sleeping:
 
    The girl she swears, that she's a maid,
 
    so swears the man, and I'm afraid:
 
-     on me will fall the keeping.
+   on me will fall the keeping.
 
 
 
@@ -185,13 +185,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    To find this knotty story out
 
-     I'll pay whate'er it may be.
+   I'll pay whate'er it may be.
 
    So in the travelling pedlars went,
 
    To pay their birthday compliment,
 
-     and talk about the Baby.
+   and talk about the Baby.
 
 
 
@@ -199,13 +199,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    some for show and some for noise,
 
-     But mostly for the latter.
+   But mostly for the latter.
 
    One gave a rattle, one a whistle,
 
    and one a Trumpet made of gristle,
 
-     To Introduce the matter.
+   To Introduce the matter.
 
 
 
@@ -213,12 +213,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    The third play'd on the rattle too,
 
-     To keep the bautling easy.
+   To keep the bautling easy.
 
    And thus the story comes to us,
 
    of which the people make such a fuss,
 
-     about the Eastern Magi.
+   about the Eastern Magi.
 
 

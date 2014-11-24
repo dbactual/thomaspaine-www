@@ -45,14 +45,12 @@ Crisis 1
    defeat and to rally the Americans for the next battle with the enemy with
    such ringing phrases as, " 'The United States of America' will sound as
    pompously in the world or in history, as the 'Kingdom of Great Britain'";
-   "We have crowded the
-
-   business of an age into the compass of a few months"; and "We fight not to
-   enslave, but to set a country free, and to make room upon earth for honest
-   men to live in." For the significance of these articles in bolstering the
-   morale of the fighting men, see Philip S. Foner, Morale Education in the
-   American Army: War for Independence, War of 1812, and Civil War, New York,
-   1944.
+   "We have crowded the business of an age into the compass of a few months"; 
+   and "We fight not to enslave, but to set a country free, and to make room 
+   upon earth for honest men to live in." For the significance of these 
+   articles in bolstering the morale of the fighting men, see Philip S. Foner, 
+   Morale Education in the American Army: War for Independence, War of 1812, 
+   and Civil War, New York, 1944.
 
    Paine wrote sixteen pamphlets in the series which he entitled The American
    Crisis and signed them Common Sense. The papers were issued in thirteen

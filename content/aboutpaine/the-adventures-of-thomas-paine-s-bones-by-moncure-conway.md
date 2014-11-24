@@ -2,7 +2,7 @@ Title: The Adventures of Thomas Paine's Bones by Moncure Conway
 Slug: aboutpaine/the-adventures-of-thomas-paine-s-bones-by-moncure-conway
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   first President of the Thomas Paine National Historical Association
+   First President of the Thomas Paine National Historical Association
 
    The complete essay from the TPNHA Collection:
 
