@@ -7,7 +7,7 @@ standpoint of historical and scholastic accuracy and truth.
 
 [The Truth Seeker](http://thetruthseeker.net/)
 
-[Paine Movie Project](https://www.facebook.com/thelifeofthomaspaine)
+[Paine Movie Project](http://igg.me/at/tobegintheworldoveragain/)
 
 [thomaspaine.us](http://www.thomaspaine.us/)
 
