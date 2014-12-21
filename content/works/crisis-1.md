@@ -67,7 +67,7 @@ Crisis 1
    * * * * * * * * * *
 
    THESE are the times that try men's souls. The summer soldier and the
-   sunshine patriot will, in this crisis, shrink from the service of their
+   sunshine patriot will, in this crisis, shrink from the service of his
    country; but he that stands it now, deserves the love and thanks of man
    and woman. Tyranny, like hell, is not easily conquered; yet we have this
    consolation with us, that the harder the conflict, the more glorious the
