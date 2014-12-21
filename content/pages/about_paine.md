@@ -37,6 +37,7 @@ Authors: 1
 
 + ###Essays {#essays}
 
+    - [Lewis Lapham Speech at the 2012 International Conference for Thomas Paine Studies at Iona College](/aboutpaine/lewis-lahpam-speech.html)
     - [Brief History of the Remains of Thomas Paine](/aboutpaine/brief-history-of-the-remains-of-thomas-paine.html)
     - ['Common Sense' and its Meaning Today by Jack Fruchtman](/aboutpaine/common-sense-and-its-meaning-today-by-jack-fruchtman.html)
     - ['Common Sense' and the American Revolution by Harvey Kaye](/aboutpaine/common-sense-and-the-american-revolution-by-harvey-kaye.html)
