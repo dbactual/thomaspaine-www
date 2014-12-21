@@ -23,8 +23,6 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
    LETTER FIRST
 
-
-
    THE proud integrity of conscious rectitude fears no reproach, and disdains
    the mercenary idea of damages. It is not the found, but the ulcerated
    flesh that flinches from the touch. A man must feel his character

@@ -10,7 +10,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
                                         
 
-                     Two future times this monumental stone
+                     To future times this monumental stone
 
                   Need not be spared to make thy value known.
 
