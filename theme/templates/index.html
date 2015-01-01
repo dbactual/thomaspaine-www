@@ -3,17 +3,19 @@
 
 {% block content %}
 
+<h1>Latest Posts</h1>
+
+{% for article in articles if article.category== 'Post' %}
+  {{ article.content }}
+{% endfor %}
+
+
 <h1>Announcements</h1>
 
 {% for article in articles if article.category== 'Announcement' %}
   {{ article.content }}
 {% endfor %}
 
-<h1>News</h1>
-
-{% for article in articles if article.category== 'News' %}
-  {{ article.content }}
-{% endfor %}
 
 <h1>Resources</h1>
 
