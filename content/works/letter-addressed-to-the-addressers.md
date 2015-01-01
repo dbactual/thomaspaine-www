@@ -219,12 +219,12 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    shall be as much to the purpose as what they have spoken, or as
    Bolingbroke's captivating eulogium. Here it is:
 
-    That we shall all be unanimous in expressing our attachment to the
+   That we shall all be unanimous in expressing our attachment to the
    Constitution, I am confident. It is, my Lords, incomprehensibly good: but
    the great wonder of all is the wisdom; for it is, my Lords, the wisest
    system that ever was formed.
 
-    With respect to us, noble Lords, though the world does not know it, it is
+   With respect to us, noble Lords, though the world does not know it, it is
    very well known to us, that we have more wisdom than we know what to do
    with; and what is still better, my Lords, we have it all in stock. I defy
    your Lordships to prove, that a title of it has been used yet; and if we
@@ -235,7 +235,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    effects of the hereditary system; for we can never be without wisdom so
    long as we keep it by us, and do not use it. 
 
-    But, my Lords, as all this wisdom is hereditary property, for the sole
+   But, my Lords, as all this wisdom is hereditary property, for the sole
    benefit of us and our heirs, and it is necessary that the people should
    know where to get a supply for their own use, the excellence of our
    Constitution has provided us a king for this very purpose, and for no
@@ -243,7 +243,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    subject, and which I propose to remedy by bringing a bill into Parliament
    for that purpose.
 
-    The Constitution, my Lords, out of delicacy, I presume, has left it as a
+   The Constitution, my Lords, out of delicacy, I presume, has left it as a
    matter of choice to a king whether he will be wise or not. It has not, I
    mean, my Lords, insisted upon it as a constitutional point, which, I
    conceive it ought to have done; for I pledge myself to your Lordships to
@@ -256,20 +256,20 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    act of Parliament; and then, my Lords, our Constitution will be the wonder
    of the world! 
 
-    Wisdom, my Lords, is the one thing needful: but that there may be no
+   Wisdom, my Lords, is the one thing needful: but that there may be no
    mistake in this matter, and that we may proceed consistently with the true
    wisdom of the Constitution, I shall propose a certain criterion whereby
    the exact quantity of wisdom necessary for a king may be known. [Here
    should be a cry of, Hear him! Hear him!] 
 
-    It is recorded, my Lords, in the Statutes at Large of the Jews, a "book,
+   It is recorded, my Lords, in the Statutes at Large of the Jews, a "book,
    my Lords, which I have not read, and whose purport I know only by report,"
    but perhaps the bench of Bishops can recollect something about it, that
    Saul gave the most convincing proofs of royal wisdom before he was made a
    king, for he was sent to seek his father's asses and he could not find
    them.
 
-    Here, my Lords, we have, most happily for us, a case in point: This
+   Here, my Lords, we have, most happily for us, a case in point: This
    precedent ought to be established by act of Parliament; and every king,
    before he be crowned, should be sent to seek his father's asses, and if he
    cannot find them, he shall be declared wise enough to be king, according
@@ -279,7 +279,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    wisdom necessary for this purpose, lest he should happen not to possess
    it; and this, my Lords, we can do without making use of any of our own. 
 
-    We further read, my Lords, in the said Statutes at Large of the Jews,
+   We further read, my Lords, in the said Statutes at Large of the Jews,
    that Samuel, who certainly was as mad as any Man-of-Rights-Man now-a-days
    (hear him! hear him!), was highly displeased, and even exasperated, at the
    proposal of the Jews to have a king, and he warned them against it with
@@ -290,37 +290,37 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    it among the curiosities of the Antiquarian Society. I will read the
    extracts to your Lordships, to show how little Samuel knew of the matter. 
 
-    The extract, my Lords, is from I Sam. chap, viii.: 
+   The extract, my Lords, is from I Sam. chap, viii.: 
 
-    "And Samuel told all the words of the Lord unto the people that asked of
+   "And Samuel told all the words of the Lord unto the people that asked of
    him a king.
 
-    "And he said, this will be the manner of the king that shall reign over
+   "And he said, this will be the manner of the king that shall reign over
    you: he will take your sons, and appoint them for himself, for his
    chariots, and to be his horsemen; and some shall run before his chariots.
 
-    "And he will appoint him captains over thousands, and captains over
+   "And he will appoint him captains over thousands, and captains over
    fifties, and will set them to ear his ground, and to reap his harvest, and
    to make his instruments of war, and instruments of his chariots.
 
-    "And he will take your daughters to be confectionaries, and to be cooks,
+   "And he will take your daughters to be confectionaries, and to be cooks,
    and to be bakers.
 
-    "And he will take your fields, and your vineyards, and your olive-yards,
+   "And he will take your fields, and your vineyards, and your olive-yards,
    even the best of them, and give them to his servants.
 
-    "And he will take the tenth of your seed, and of your vineyards, and give
+   "And he will take the tenth of your seed, and of your vineyards, and give
    to his officers and to his servants.
 
-    "And he will take your man-servants, and your maid-servants, and your
+   "And he will take your man-servants, and your maid-servants, and your
    goodliest young men, and your asses, and put them to his work.
 
-    "And he will take the tenth of your sheep, and ye shall be his servants.
+   "And he will take the tenth of your sheep, and ye shall be his servants.
 
-    "And ye shall cry out in that day, because of your king, which ye shall
+   "And ye shall cry out in that day, because of your king, which ye shall
    have chosen you; and the Lord will not hear you in that day." 
 
-    Now, my Lords, what can we think of this man, Samuel? Is there a word of
+   Now, my Lords, what can we think of this man, Samuel? Is there a word of
    truth, or anything like truth, in all that he has said? He pretended to be
    a prophet, or a wise man, but has not the event proved him to be a fool,
    or an incendiary? Look around, my Lords, and see if anything has happened
@@ -330,7 +330,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the Empress of Russia the very milk of human kindness? It would not be
    worth having kings, my Lords, if it were not that they never go to war. 
 
-    If we look at home, my Lords, do we not see the same things here as are
+   If we look at home, my Lords, do we not see the same things here as are
    seen everywhere else? Are our young men taken to be horsemen, or foot
    soldiers, any more than in Germany or in Prussia, or in Hanover or in
    Hesse? Are not our sailors as safe at land as at sea? Are they ever
@@ -342,12 +342,12 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    servants? In short, is not everything as free from taxes as the light from
    Heaven!
 
-    Ah! my Lords, do we not see the blessed effect of having kings in
+   Ah! my Lords, do we not see the blessed effect of having kings in
    everything we look at? Is not the G.R., or the broad R., stamped upon
    everything? Even the shoes, the gloves, and the hats that we wear, are
    enriched with the impression, and all our candles blaze a burnt-offering. 
 
-    Besides these blessings, my Lords, that cover us from the sole of the
+   Besides these blessings, my Lords, that cover us from the sole of the
    foot to the crown of the head, do we not see a race of youths growing up
    to be kings, who are the very paragons of virtue? There is not one of
    them, my Lords, but might be trusted with untold gold, as safely as the
@@ -1108,7 +1108,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    eligible or proper persons to be entrusted with the power of returning a
    jury to try the issue of any such prosecution?
 
-    But the whole matter appears, at least to me, to be worthy of a more
+   But the whole matter appears, at least to me, to be worthy of a more
    extensive consideration than what relates to any jury, whether special or
    common; for the case is, whether any part of a whole nation, locally
    selected as a jury of twelve men always is, be competent to judge and
