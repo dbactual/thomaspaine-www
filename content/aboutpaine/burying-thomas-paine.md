@@ -3,11 +3,11 @@ Slug: aboutpaine/burying-thomas-paine
 Date: Sun Jan  11 09:08:51 EDT 2015
 
 
-A critique of J.C.D. Clark’s article, “Thomas Paine: The English Dimension” (an essay in the Selected Works of Thomas Paine, Shapiro and Calvert, eds., Yale U. Press, 2014)
+**A critique of J.C.D. Clark’s article, “Thomas Paine: The English Dimension” (an essay in the *Selected Works of Thomas Paine*, Shapiro and Calvert, eds., Yale U. Press, 2014)**
 
-By Gary Berton
-Secretary, Thomas Paine National Historical Association
-Coordinator, Institute for Thomas Paine Studies
+By Gary Berton  
+Secretary, Thomas Paine National Historical Association  
+Coordinator, Institute for Thomas Paine Studies  
 
 > “Slander belongs to the class of dastardly vices. It always acts under cover. It puts insinuation in the place of evidence, and tries to impose by pretending to believe.” Thomas Paine
 
@@ -172,28 +172,44 @@ But despite the shortcomings of history, Paine has already won, not failed. The 
 There is so much more to untangle from Clark’s gnarled analysis. Here are a few misinterpretations, negative spins, and false claims not already mentioned:
 
 *  “Paine was widely read in his day, but a politically aware mass reading public was the creation of the Reformation and the 1640s, not the late eighteenth century”. By denying that Paine created a mass reading public, he slurs over the fact that the reading public of the 1640s was confined to the elite - Paine enlarged that base to the majority.
+
 * “Although he had worked as an artisan, he never attributed to artisans, even urban artisans, any special political character or role.” Eric Foner’s documentation on this to the contrary is sound, and issues like the Bank of Pennsylvania cannot be explained outside the political stance of the mechanics of Philadelphia, where Paine’s support was.
+
 * “Although Paine protested against the cruelty and misconduct of governments, especially in their colonies, he never systematized these critiques to protest against ‘imperialism’ or ‘colonialism’, concepts that derived from the economic theory of the late nineteenth century.”  Again, because Paine didn’t use the term ‘colonialism’ his opposition to British plunder and rule doesn’t count because he did not systematize it, as if America was not a colony. Paine stood in the middle of the first great anti-colonial struggle, yet Clark cannot find a link to more modern forms of colonialism.
-* Rights of Man “contained no worked out theory of natural rights”. 
-  From Rights of Man: 
-  > *“Every history of the Creation, and every traditionary account, whether from the lettered 	or unlettered world, however they may vary in their opinion or belief of certain 	particulars, all agree in establishing one point, the unity of man; by which I mean that 	men are all of one degree, and consequently that all men are born equal, and with equal 	natural rights, in the same manner as if posterity had been continued by creation instead 	of generation, the latter being only the mode by which the former is carried forward; and 	consequently, every child born into the world must be considered as deriving its existence 	from God. The world is as new to him as it was to the first man that existed, and his 	natural right in it is of the same kind.”*
-  And:
-  > *“Hitherto we have spoken only (and that but in part) of the natural rights of man. 	We have now to consider the civil rights of man, and to show how the one originates from 	the other. Man did not enter into society to become worse than he was before, nor to have 	fewer rights than he had before, but to have those rights better secured. His natural  	rights are the foundation of all his civil rights. But in order to pursue this distinction with 	more precision, it is necessary to make the different qualities of natural and civil rights.
-  > A few words will explain this. Natural rights are those which apper tain to man in right 	of his existence. Of this kind are all the intellectual  rights, or rights of the mind, and also 	all those rights of acting as an individual for his own comfort and happiness, which are 	not injurious to the natural rights of others. Civil rights are those which appertain to man in right of his being a member of society.
-  > Every civil right has for its foundation some natural right pre-existing in the individual, 	but to the enjoyment of which his individual power is not, in all cases, sufficiently 	competent. Of this kind are all those which relate to security and protection.
-  > From this short review, it will be easy to distinguish between that class of natural rights 	which man retains after entering into society, and those which he throws into the 	common stock as a member of society.
-  > The natural rights which he retains, are all those in which the power to execute is as 	perfect in the individual as the right itself. Among this class, as is before mentioned, are 	all the intellectual rights, or rights of the mind: consequently, religion is one of those 	rights.
-  > The natural rights which are not retained, are all those in which, though the right is 	perfect in the individual, the power to execute them is defective. They answer not his 	purpose. A man, by natural right, has a right to judge in his own cause; and so far as the 	right of the mind is concerned, he never surrenders it: but what availeth it him to judge, if he has not power to redress ? He therefore deposits his right in the common stock of society, and takes the arm of society, of which he is a part, in preference and in addition 	to his own. Society grants him nothing.
-  > Every man is proprietor in society, and draws on the capital as a matter of right. From 	these premises, two or three certain conclusions will follow.
-  > First, That every civil right grows out of a natural right; or, in other words, is a natural 	right exchanged.
-  > Secondly, That civil power, properly considered as such, is made up of the aggregate of  that class of the natural rights of man, which becomes defective in the individual in point of power, and answers not his purpose, but when collected to a focus, becomes competent to the purpose of every one.
-  > Thirdly, That the power produced from the aggregate of natural rights, imperfect in power in the individual, cannot be applied to invade the natural rights which are retained in the individual, and in which the power to execute is as perfect as the right itself.
-  >  We have now, in a few words, traced man from a natural individual  to a member of 	society, and shown, or endeavored to show, the quality of the natural rights retained, and 	those which are exchanged for civil rights. Let us now apply those principles to 	governments.”*
 
-This seems like a worked out theory of natural rights far beyond the 1750 English 	political discussions of Paine’s youth.
+* Rights of Man “contained no worked out theory of natural rights”.  
+From Rights of Man:  
+  > *“Every history of the Creation, and every traditionary account, whether from the lettered 	or unlettered world, however they may vary in their opinion or belief of certain 	particulars, all agree in establishing one point, the unity of man; by which I mean that 	men are all of one degree, and consequently that all men are born equal, and with equal 	natural rights, in the same manner as if posterity had been continued by creation instead 	of generation, the latter being only the mode by which the former is carried forward; and 	consequently, every child born into the world must be considered as deriving its existence 	from God. The world is as new to him as it was to the first man that existed, and his 	natural right in it is of the same kind.”*  
+  >  
+And:
+  >  
+  > *“Hitherto we have spoken only (and that but in part) of the natural rights of man.  We have now to consider the civil rights of man, and to show how the one originates from  the other. Man did not enter into society to become worse than he was before, nor to have  fewer rights than he had before, but to have those rights better secured. His natural   rights are the foundation of all his civil rights. But in order to pursue this distinction with  more precision, it is necessary to make the different qualities of natural and civil rights.*
+  >  
+  > *A few words will explain this. Natural rights are those which apper tain to man in right  of his existence. Of this kind are all the intellectual  rights, or rights of the mind, and also  all those rights of acting as an individual for his own comfort and happiness, which are  not injurious to the natural rights of others. Civil rights are those which appertain to man in right of his being a member of society.*
+  >  
+  > *Every civil right has for its foundation some natural right pre-existing in the individual,  but to the enjoyment of which his individual power is not, in all cases, sufficiently  competent. Of this kind are all those which relate to security and protection.*
+  >  
+  > *From this short review, it will be easy to distinguish between that class of natural rights  which man retains after entering into society, and those which he throws into the  common stock as a member of society.*
+  >  
+  > *The natural rights which he retains, are all those in which the power to execute is as  perfect in the individual as the right itself. Among this class, as is before mentioned, are  all the intellectual rights, or rights of the mind: consequently, religion is one of those  rights.*
+  >  
+  > *The natural rights which are not retained, are all those in which, though the right is  perfect in the individual, the power to execute them is defective. They answer not his  purpose. A man, by natural right, has a right to judge in his own cause; and so far as the  right of the mind is concerned, he never surrenders it: but what availeth it him to judge, if he has not power to redress ? He therefore deposits his right in the common stock of society, and takes the arm of society, of which he is a part, in preference and in addition  to his own. Society grants him nothing.*
+  >  
+  > *Every man is proprietor in society, and draws on the capital as a matter of right. From  these premises, two or three certain conclusions will follow.*
+  >  
+  > *First, That every civil right grows out of a natural right; or, in other words, is a natural  right exchanged.*
+  >  
+  > *Secondly, That civil power, properly considered as such, is made up of the aggregate of  that class of the natural rights of man, which becomes defective in the individual in point of power, and answers not his purpose, but when collected to a focus, becomes competent to the purpose of every one.*
+  >  
+  > *Thirdly, That the power produced from the aggregate of natural rights, imperfect in power in the individual, cannot be applied to invade the natural rights which are retained in the individual, and in which the power to execute is as perfect as the right itself.*
+  >  
+  >  *We have now, in a few words, traced man from a natural individual  to a member of  society, and shown, or endeavored to show, the quality of the natural rights retained, and  those which are exchanged for civil rights. Let us now apply those principles to governments.”*
+  >  
+
+This seems like a worked out theory of natural rights far beyond the 1750 English  political discussions of Paine’s youth.
 
 
-* Clark even questions Paine’s legacy in freethought: “Only in the history of English freethinking did Paine enjoy a posthumous prominence; but freethinking was to lead via agnosticism to atheism, positions that the deist Paine had repudiated.” Clark fails to see the legacy that Paine has in the freethought movement is his stance against organized religion. The Age of Reason still inspires new freethinkers and remains the enchiridon of freethought.
+* Clark even questions Paine’s legacy in freethought: “Only in the history of English freethinking did Paine enjoy a posthumous prominence; but freethinking was to lead via agnosticism to atheism, positions that the deist Paine had repudiated.” Clark fails to see the legacy that Paine has in the freethought movement is his stance against organized religion. The Age of Reason still inspires new freethinkers and remains the enchiridion of freethought.
 
 * Paine “has written nothing in condemnation of British ‘colonialism’ or ‘imperialism’; indeed he had been an enthusiastic combatant in the war of 1756-1763…” A teenage sailor was “enthusiastic” about extending the British empire? Really? e,e, cummings was a soldier in W.W. I so that proves he really wasn’t an anti-war poet?
 
