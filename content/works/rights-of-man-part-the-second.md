@@ -1,6 +1,6 @@
 PubDate: 1792-02-01
 Slug: major-works/rights-of-man-part-the-second
-Title: Rights of Man: Part the Second
+Title: Rights of Man Part the Second
 Date: Mon Aug  4 09:08:53 EDT 2014
 
    Combining Principle And Practice

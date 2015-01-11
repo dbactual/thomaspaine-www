@@ -1,6 +1,6 @@
 PubDate: 1791-02-01
 Slug: major-works/rights-of-man-appendix
-Title: Right of Man: Appendix
+Title: Rights of Man Appendix
 Date: Mon Aug  4 09:08:52 EDT 2014
 
    As the publication of this work has been delayed beyond the time intended,

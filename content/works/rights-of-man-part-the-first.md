@@ -1,6 +1,6 @@
 PubDate: 1791-02-01
 Slug: major-works/rights-of-man-part-the-first
-Title: Rights of Man: Part the First
+Title: Rights of Man Part the First
 Date: Mon Aug  4 09:08:53 EDT 2014
 
    Being An Answer To Mr. Burke's Attack On The French Revolution
