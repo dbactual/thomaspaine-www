@@ -5,6 +5,8 @@ Current activity covering news, blogs, events from other Paine
 organizations, points of interest, and clarifications from the
 standpoint of historical and scholastic accuracy and truth.
 
+[Révolution Française](http://revolution-francaise.net/)
+
 [The Truth Seeker](http://thetruthseeker.net/)
 
 [Paine Movie Project](http://igg.me/at/tobegintheworldoveragain/)
