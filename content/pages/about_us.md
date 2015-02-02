@@ -20,6 +20,8 @@ Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associate
 
 Gary Berton, Coordinator of the Institute for Thomas Paine Studies at Iona College
 
+Matthew Jacobs, Larchmont, NY, Finance Professional
+
 Roderick Bradford, San Diego, CA - documentarian, editor of the Truth Seeker 
 
 John Ward Regan, NYC - professor of Liberal Studies at NYU 
