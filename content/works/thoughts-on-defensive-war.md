@@ -1,5 +1,5 @@
 PubDate: 1775-07-01
-Slug: essays/american-revolution/thoughts-on-defensive-war
+Slug: deattributed/thoughts-on-defensive-war
 Title: Thoughts on Defensive War
 Date: Mon Aug  4 09:08:54 EDT 2014
 

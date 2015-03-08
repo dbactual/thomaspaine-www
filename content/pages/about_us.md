@@ -7,7 +7,9 @@ Authors: 3
 New Rochelle, NY 10804-3609<br/>
 <a href="mailto:tpnha1737@gmail.com">tpnha1737@gmail.com</a><br/>
 
+<a href="/pages/history.html">
 <center><img src="/images/MemorialBuilding.JPG" style="width:400px; height: 300px;"></center>
+</a>
 
 *To educate the world about the life, times, and works of Thomas Paine*
 
@@ -35,6 +37,8 @@ Josh Klein, New Rochelle, NY - professor of Criminal Justice, Iona College
 
 History
 --------
+
+<a href="/pages/history.html">Read a full history of the Association</a>.
 
 Founded January 29, 1884 in New York City, TPNHA is among the oldest
 historical associations in the United States, and the single most
@@ -77,3 +81,4 @@ Vice-President Thomas Alva Edison, the Association undertook the
 initiative to build the Thomas Paine Memorial Building to honor Paine
 and serve as the headquarters and gathering place for the Association.
 
+<a href="/pages/history.html">Read a full history of the Association</a>.
