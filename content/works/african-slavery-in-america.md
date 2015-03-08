@@ -1,5 +1,5 @@
 PubDate: 1775-03-08
-Slug: essays/other/african-slavery-in-america
+Slug: deattributed/african-slavery-in-america
 Title: African Slavery in America
 Date: Mon Aug  4 09:08:50 EDT 2014
 

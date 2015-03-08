@@ -113,7 +113,9 @@ def get_display_title(l):
 def get_work_order(work):
     work_order = {'major-works': 1,
                   'essays': 2,
-                  'letters' : 3}
+                  'letters' : 3,
+                  'deattributed': 4,
+                  'recently-discovered': 5}
     if work not in work_order:
         raise Exception("Unkown work type: %s" % work)
     return work_order[work]

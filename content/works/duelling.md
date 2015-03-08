@@ -1,5 +1,5 @@
 PubDate: 1775-05-01
-Slug: essays/other/duelling
+Slug: deattributed/duelling
 Title: Duelling
 Date: Mon Aug  4 09:08:51 EDT 2014
 

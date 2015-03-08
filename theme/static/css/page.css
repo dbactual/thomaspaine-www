@@ -92,7 +92,7 @@ a.button:hover {
   position: relative;
   padding: 0;
   background-color: #f9f9f9;
-  padding: 0.8em 0.8em 0.4em;
+  padding: 0.4em 0.4em 0.2em;
   box-shadow: 0 1px 1px rgba(0,0,0,0.125);
   line-height: 1.1em;
 }
@@ -109,10 +109,10 @@ a.button:hover {
   margin: 0;
 }
 .highlight .gutter {
-  width: 1.5em;
+  width: 1em;
 }
 .highlight .code pre {
-  padding-left: 0.5em;
+  padding-left: 0em;
 }
 .highlight.html .code:after,
 .highlight.js .code:after,
@@ -184,7 +184,7 @@ ul#demo li,
 ul.demo li {
   margin-left: 1.5em;
 }
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 800px) {
   #demo,
   .demo {
     margin-left: 0;
@@ -331,7 +331,7 @@ border-bottom: none;
 }
 .content {
   padding: 2.2em 0;
-  max-width: 600px;
+  max-width: 650px;
   margin: 0 auto;
   min-height: 1000px;
 }
@@ -385,10 +385,11 @@ border-bottom: none;
 }
 
 .content blockquote {
-  font-size: 0.9em;
+  font-size: 0.8em;
   background-color: #f9f9f9;
-  margin: 5px;
-  padding: 5px;
+  margin: 1px;
+  padding: 1px;
+  width: 100%;
 }
 
 .content iframe {
@@ -471,7 +472,7 @@ border-bottom: none;
     padding: 2em 1.4em 0;
   }
   .highlight pre {
-    padding: 1.2em 1em;
+    padding: 1em 1em;
   }
   .sidebar {
     position: absolute;
