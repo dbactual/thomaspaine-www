@@ -1,6 +1,6 @@
 PubDate: 1804-08-23
 Slug: recently-discovered/nonsense-from-new-york
-Title: NONSENSE FROM NEW YORK
+Title: Nonsense from New York
 Date: Sat Mar 21 01:00:00 EDT 2015
 
 From Richard Gimbel's pamphlet New Political Writings by Thomas Paine
