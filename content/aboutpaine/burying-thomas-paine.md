@@ -7,7 +7,7 @@ Date: Sun Jan  11 09:08:51 EDT 2015
 
 By Gary Berton  
 Secretary, Thomas Paine National Historical Association  
-Coordinator, Institute for Thomas Paine Studies (Iona College)
+Coordinator, Institute for Thomas Paine Studies  
 
 
 The great historian E. H. Carr
