@@ -1,6 +1,6 @@
 PubDate: 1804-11-26
 Slug: deattributed/connecticut-has-no-constitution
-Title: CONNECTICUT HAS NO CONSTITUTION
+Title: Connecticut has no Constitution
 Date: Sat Mar 21 01:00:00 EDT 2015
 
 
