@@ -1,5 +1,5 @@
 Title: About Us
-Authors: 3
+Authors: 5
        
 
 ### **The Thomas Paine National Historical Association**</br>

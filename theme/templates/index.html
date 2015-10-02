@@ -10,11 +10,4 @@
 {% endfor %}
 
 
-<h1>Announcements</h1>
-
-{% for article in articles if article.category== 'Announcement' %}
-  {{ article.content }}
-{% endfor %}
-
-
 {% endblock content %}

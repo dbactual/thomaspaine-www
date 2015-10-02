@@ -1,5 +1,5 @@
 Title: Community
-Authors: 4
+Authors: 8
 
 Current activity covering news, blogs, events from other Paine
 organizations, points of interest, and clarifications from the

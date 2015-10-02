@@ -10,12 +10,12 @@ import os
 
 TIMELINE_TOP = """Title: Timeline
 Date: %s
-Authors: 5
+Authors: 3
 """
 
 WRITINGS_TOP = """Title: Writings
 Date: %s
-Authors: 6
+Authors: 2
 """
 
 def rec_dd():

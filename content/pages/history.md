@@ -1,5 +1,5 @@
 ﻿Title: History
-Authors: 3
+Authors: 6
        
 
     From an article in the Truth Seeker magazine from January and
