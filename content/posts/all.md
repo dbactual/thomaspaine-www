@@ -2,7 +2,7 @@ Title: The Institute for Thomas Paine Studies Posts
 Date: Mon Aug  19 13:51:18 EDT 2014
 Category: Post
 
-+ 10/12/15 - ["The Discussion of Clark's Recent Essays"](/the-discussion-of-clarks-recent-essays.html)
++ 10/22/15 - ["The Discussion of Clark's Recent Essays"](/the-discussion-of-clarks-recent-essays.html)
 
 + 9/17/15 - ["Clark does it again"](/clark-does-it-again.html )
 
