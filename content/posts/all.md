@@ -6,6 +6,8 @@ Category: Post
 
 <ul>
 
+<li> 12/01/15 - <a href="/a-london-obituary-of-thomas-paine.html">A London Obituary of Thomas Paine</a></li>
+
 <li> 10/22/15 - <a href="/the-discussion-of-clarks-recent-essays.html">The Discussion of Clark's Recent Essays</a></li>
 
 <li> 9/17/15 - <a href="/clark-does-it-again.html ">Clark does it again</a></li>
