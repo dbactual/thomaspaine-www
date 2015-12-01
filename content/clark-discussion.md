@@ -18,7 +18,6 @@ Authors: 3
 - [Berton, G. (10/21/15). (Unprinted) Letter to the editor.](#tls-berton-3)
 
 
-
 <hr>
 
 &nbsp;
@@ -375,7 +374,6 @@ New School, New York 10011.
 
 &nbsp;
 
-
 <a name="tls-clark-3"></a>
 **Clark, J.   (10/14/15). Letter to the editor. The Times Literary Supplement.**
 ----------------
@@ -546,5 +544,4 @@ Thomas Paine National Historical Association, 983 North Avenue, New Rochelle, Ne
 &nbsp;
 
 &nbsp;
-
 

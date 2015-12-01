@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="{{ HTML_LANG }}">	
+<head>
+	<meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{% block title %}{{ SITENAME }}{%endblock%}</title>	
+	<meta name="author" content="{{ AUTHOR }}">
+	
+	{% block extra_meta %}
+	{% endblock %}
+
+	<link rel="top" href="#" />
+
+        <link rel="shortcut icon" href="{{ SITEURL }}/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="{{ SITEURL }}/favicon.ico" type="image/x-icon">
+
+        <!--<link href='https://fonts.googleapis.com/css?family=Crimson+Text:400,700,400italic' rel='stylesheet' type='text/css'>-->
+        <!--<link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700' rel='stylesheet' type='text/css'>-->
+        <link href='https://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/page.css" type="text/css" />
+
+	{% block scripts %}
+	{% endblock %}
+
+    {% if FEED_ALL_ATOM %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+    {% endif %}
+</head>
+	
+<body>
+
+{{ FEED_ATOM }}
+    
+<div id="main">
+  <div class="sidebar">
+    <center>
+      <a id="logo" href="{{ SITEURL }}">
+        <img src="{{ SITEURL }}/theme/images/logo.png">
+      </a>
+      <h5>Thomas Paine National<br>
+        Historical Association</h5>
+      <div id="site-description">
+        <em style="font-size: 16px; color: #333; line-height: 15px; padding: 5px;">
+          To educate the world about the life, legacy, and works of Thomas Paine
+      </em>
+
+      <div style="margin-top: 20px; font-size: 36px;">
+        <a style="padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px;" href="{{ SITEURL }}/pages/donate.html" class="donate">
+          Donate / Join
+        </a>
+      </div>
+      </div>
+      <div class="toggle">···</div>
+    <div class="list">
+
+
+      <ul>
+        <li><a href="{{ SITEURL }}/pages/about-us.html">Contact Us</a></li>
+        <li><a href="{{ SITEURL }}/pages/history.html">History</a></li>
+        <li><a href="{{ SITEURL }}/pages/community.html">Community</a></li>
+        <li><a href="{{ SITEURL }}/pages/videos.html">Videos</a></li>
+      </ul>
+
+      <ul>
+        <li><a href="{{ SITEURL }}/pages/about-paine.html">Resources</a></li>
+        <li><a href="{{ SITEURL }}/pages/paine-studies.html">Paine Studies</a></li>
+      </ul>
+
+      <ul>
+        <li><a href="{{ SITEURL }}/pages/writings.html">All Writings</a></li>
+        <li><a href="{{ SITEURL }}/pages/timeline.html">Timeline</a></li>
+      </ul>
+  </div>
+
+    </center>
+  </div>
+
+  <div class="content guide with-sidebar">   <!--BEGIN CONTENT-->
+
+    <div id="search">
+      <form method="get" action="{{ SITEURL }}/cgi-bin/search">
+        Search
+        <input type="text" name="term" size=31 maxlength=255 value="">
+        <!--input style="display: hidden" type="submit" name="sa" value="Search"-->
+      </form>
+    </div>
+
+
+ <nav id="primary_nav_wrap">
+  <ul>
+    <li><a href="#">About TPNHA</a>
+      <ul>
+        <li><a href="{{ SITEURL }}/pages/about-us.html">Contact Us</a></li>
+        <li><a href="{{ SITEURL }}/pages/history.html">History</a></li>
+        <li><a href="{{ SITEURL }}/pages/community.html">Community</a></li>
+        <li><a href="{{ SITEURL }}/pages/videos.html">Videos</a></li>
+        <li><a href="{{ SITEURL }}/pages/donate.html" class="donate">Donate / Join</a></li>
+
+      </ul>
+    </li>
+    <li><a href="#">About Paine</a>
+      <ul>
+        <li><a href="{{ SITEURL }}/pages/about-paine.html">Resources</a></li>
+        <li><a href="{{ SITEURL }}/pages/paine-studies.html">Paine Studies</a></li>
+      </ul>
+    </li>
+    <li><a href="#">Complete Writings</a>
+      <ul>
+        <li><a href="{{ SITEURL }}/pages/writings.html">All Writings</a></li>
+        <li><a href="{{ SITEURL }}/pages/timeline.html">Timeline</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+ <div class="clear" style="height: 50px"></div>
+ 
+  {% block content %}{% endblock %}
+</div>	<!--END CONTENT-->
+		  
+<div class="footer">
+  © {{ AUTHOR }} 
+<div style="float:right">
+  <a style="color:white" href="http://blog.getpelican.com/">Powered by pelican</a> <a style="color:white" href="http://mosey.org">Design and coding - Dave Berton</a>
+</div>
+</div>
+
+<script>
+(function () {
+
+    var main = document.getElementById('main'),
+        doc = document.documentElement,
+        body = document.body,
+        header = document.getElementById('header'),
+        menu = document.querySelector('.sidebar'),
+        menuToggle = document.querySelector('.sidebar .toggle')
+
+    if (menu) {
+        menuToggle.addEventListener('click', function () {
+            menu.classList.toggle('open')
+        })
+    }
+})()
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58488671-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+</body>
+</html>

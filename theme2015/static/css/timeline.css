@@ -1,0 +1,122 @@
+/*---------------------- Pure CSS Timeline ---------------------------
+--------------------------by Jimmy Pautz------------------------------
+---------------------http://jamespautz.com/web------------------------
+----------------------------------------------------------------------
+This code may be used, modified, styled as you see fit.  Please give 
+me credit when you use it.
+----------------------------------------------------------------------
+*/
+
+
+/*-------First, let's default everything. ---------- */
+
+
+/* ----------- CSS begins ---------- */
+
+
+
+/* --------------------- top bar for quick jump to the years "Jumpstrip"----------------- */
+#jumpstrip li {
+}
+#jumpstrip {
+    float: left;
+    margin-top:0px;
+    font-size:16px;
+    font-family: inherit, sans-serif;
+    padding-left: 25px;
+    clear:both;
+    padding-bottom: 25px;
+}
+#jumpstrip li{
+    display:block;
+    position: relative;
+    float: left; 
+    list-style: none;
+    margin: 0px;
+    padding:0px;
+} 
+#jumpstrip li a{
+			display: block;
+			text-decoration:none;
+			font-size:16px;
+			padding: 10px;
+			padding-top:20px;
+                        border-bottom: 2px solid transparent;
+			} 
+#jumpstrip li a:hover{
+    border-bottom: 2px solid #A47F1A;
+}
+/* -------------- end "Jumpstrip"----- Start Timeline--------------- */
+#timewrap {
+	padding-left:50px;
+	max-width:90%;
+	float:left;
+	}
+.timeline a, .entry a, .entry {text-decoration:none;}
+
+#timeline li a{
+    border-bottom: 2px solid transparent;
+} 
+#timeline li .a:hover{
+    border-bottom: 2px solid #A47F1A;
+}
+
+.timeline li div.entry a:hover {
+    border-bottom: 2px solid #A47F1A;
+}
+
+.timeline li a:hover {
+    text-decoration:none;
+}
+.timeline li,
+.timeline ol li {
+	list-style:none;
+}
+
+.timeline,
+.timeline ol,
+.timeline ol ol {
+	margin:0;
+	padding:0;
+}
+.timeline ol li {
+	padding:0 0 0 50px;
+	margin:0 0 0 50px;
+}
+.timeline .entry {
+	position:relative;
+	top:-35px;
+	}
+.timeline li div.entry {
+	padding:70px 0px 0px 10px;
+	margin:0;
+	border-style:none;
+}
+
+.timeline ol li {
+	background:url('/images/org-tree-mid.gif') no-repeat left top;
+}
+
+.timeline ol li.last {
+	background:url('/images/org-tree-last.gif') no-repeat left top;
+}
+/*----------- Main Content Elements ---------------- */
+.date {font-style:italic;}
+.year {  /* this is the year on the left side.  If you decide to add a month or other content, adjustments will need to be made. */
+	font-weight:bold;
+	display:block;
+	position:relative; /* for browser (IE) compatability */
+	width: 60px;
+    border-bottom: 2px solid #666666;
+    font-size: 1.6em;
+    right:110px;
+}
+.title {
+	padding:0 0 0px 0;
+	font-weight:bold; 
+	font-style:normal; 
+	line-height:1.6em;
+	}
+.history { /* I didn't really style this, it is here for posterity. */
+	font-family:inherit;
+	}

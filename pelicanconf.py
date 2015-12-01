@@ -28,7 +28,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-THEME = 'theme'
+THEME = 'theme2015'
 
 # Blogroll
 LINKS = (('Iona College', 'http://www.iona.edu/About/Iona-in-Community/Institute-for-Thomas-Paine-Studies/'),)
