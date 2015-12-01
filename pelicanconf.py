@@ -5,8 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'tpnha'
 AUTHORS = u'tpnha'
 SITENAME = u'The Thomas Paine National Historical Association'
-#SITEURL = 'http://thomaspaine.org'
-SITEURL = 'http://barebulbs.com/thomaspaine-new-4'
+SITEURL = 'http://thomaspaine.org'
 
 PATH = 'content'
 
