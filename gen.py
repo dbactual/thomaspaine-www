@@ -108,6 +108,8 @@ def gen_timeline(years):
     timeline.write('</div>')
 
 def get_display_title(l):
+    if l == "recently-discovered":
+        return "Works not included in Philip Foner's 'Complete Writings of Thomas Paine'"
     return ' '.join(l.split('-')).title()
 
 def get_work_order(work):
