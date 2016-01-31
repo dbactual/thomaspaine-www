@@ -18,6 +18,8 @@ New Rochelle, NY 10804-3609<br/>
 Board
 --------
 
+David Gruppo, Larchmont, NY - Google Ideas Fellow
+
 Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associates 
 
 Gary Berton, Coordinator of the Institute for Thomas Paine Studies at Iona College
