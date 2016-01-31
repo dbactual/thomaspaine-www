@@ -15,6 +15,16 @@ New Rochelle, NY 10804-3609<br/>
 
 <hr style="margin-top:10px; margin-bottom: 10px; clear:both"/>
 
+Officers
+----------
+
+President - Matthew Jacobs
+
+Secretary - Gary Berton
+
+Treasurer- Michael Munisteri
+
+
 Board
 --------
 
