@@ -1,9 +1,9 @@
 PubDate: 1800-10-01
 Slug: letters/thomas-jefferson/to-thomas-jefferson-october-1-1800-2
-Title: To Thomas Jefferson  October 1, 1800 (2)
+Title: To Thomas Jefferson October 1, 1800 No.2
 Date: Mon Aug  4 09:08:56 EDT 2014
 
-   To Thomas Jefferson  October 1, 1800
+   To Thomas Jefferson October 1, 1800
 
    PARIS,
 

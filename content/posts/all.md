@@ -6,6 +6,8 @@ Category: Post
 
 <ul>
 
+<li> 01/29/16 - <a href="https://www.laprogressive.com/thomas-paine-common-sense/">Modern Prometheus: Thomas Paine and Our New American Revolution</a></li>
+
 <li> 12/01/15 - <a href="/a-london-obituary-of-thomas-paine.html">A London Obituary of Thomas Paine</a></li>
 
 <li> 10/22/15 - <a href="/the-discussion-of-clarks-recent-essays.html">The Discussion of Clark's Recent Essays</a></li>
