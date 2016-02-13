@@ -1,5 +1,5 @@
 PubDate: 1775-03-01
-Slug: essays/english-affairs/reflections-on-the-life-and-death-of-lord-clive
+Slug: recently-discovered/reflections-on-the-life-and-death-of-lord-clive
 Title: Reflections on the Life and Death of Lord Clive
 Date: Mon Aug  4 09:08:52 EDT 2014
 
