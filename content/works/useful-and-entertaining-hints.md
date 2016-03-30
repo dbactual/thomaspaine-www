@@ -1,5 +1,5 @@
 PubDate: 1775-02-01
-Slug: essays/other/useful-and-entertaining-hints
+Slug: deattributed/useful-and-entertaining-hints
 Title: Useful and Entertaining Hints
 Date: Mon Aug  4 09:08:56 EDT 2014
 

@@ -6,7 +6,9 @@ Category: Post
 
 <ul>
 
-<li> 02/04/16 - <a href="/bertrand-russells-message-on-receiving-if-stones-eclc-tom-paine-award-1962.html">Bertrand Russell’s Message on receiving I.F. Stone’s ECLC Tom Paine Award, 1962</a></li>
+<li> 03/30/16 - <a href="/bertrand-russells-message-on-receiving-if-stones-eclc-tom-paine-award-1962.html">Bertrand Russell’s Message on receiving I.F. Stone’s ECLC Tom Paine Award, 1962</a></li>
+
+<li> 02/10/16 - <a href="/press-release-officers-and-board-are-seated-on-paines-birthday.html">Press release: Officers and Board are seated on Paine's Birthday</a></li>
 
 <li> 01/29/16 - <a href="https://www.laprogressive.com/thomas-paine-common-sense/">Modern Prometheus: Thomas Paine and Our New American Revolution</a></li>
 
