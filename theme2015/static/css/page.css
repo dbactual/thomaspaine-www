@@ -339,6 +339,11 @@ border-bottom: none;
   padding-left: 20px;
 
 }
+.content.with-sidebar img {
+    float: right;
+    margin: 5px;
+    padding: 5px;
+}
 .content.with-sidebar {
   margin: 0 0 0 280px;
 }
