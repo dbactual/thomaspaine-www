@@ -6,6 +6,6 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    source of this name. There are at least three private letters who
    use the language "United States of America", but two of them use
    "united" (small "U") as an adjective. However, writing as
-   "Republicus" on June 29, 1776 Paine made the first public
+   "Republicus" on June 29, 1776 Paine made the first <em>public</em>
    declaration calling for the country to be named the "United States
    of America".
