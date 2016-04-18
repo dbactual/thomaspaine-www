@@ -27,7 +27,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    itself, I have hitherto been silent on these matters, but I cannot help
    expressing to this Board the concern I feel on this occasion, and the ill
    effect which such discouraging examples will have on those who might
-   otherwise be disposed to act a& I have done.
+   otherwise be disposed to act as I have done.
 
    Having said this much, which is but a little part of which I am sensible,
    I have a request to make which if complied with will enable me to overcome
