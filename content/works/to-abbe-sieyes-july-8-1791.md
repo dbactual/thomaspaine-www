@@ -1,9 +1,9 @@
 PubDate: 1791-07-16
-Slug: letters/other/to-abbe-sieyes-july-16-1791
-Title: To Abbe Sieyes  July 16, 1791
+Slug: letters/other/to-abbe-sieyes-july-8-1791
+Title: To Abbe Sieyes  July 8, 1791
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-   To Abbe Sieyes  July 16, 1791
+   To Abbe Sieyes  July 8, 1791
 
    Philip Foner's introduction:
 
@@ -13,7 +13,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    classes, who had framed a constitution in which the monarchy was retained,
    wrote a reply to Paine's article, arguing that "one is freer under a
    monarchy than under a republic." Paine expanded his attack on the monarchy
-   in this letter to the Abbe which appeared in the Moniteur for July 16,
+   in this letter to the Abbe which appeared in the Moniteur for July 8,
    1791.
 
    ***
