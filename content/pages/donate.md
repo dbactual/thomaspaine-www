@@ -7,7 +7,7 @@ Mailing List
 
 
 Join our mailing list:
-<form action="{{ SITEURL }}/cgi-bin/ml" method="post">
+<form action="/cgi-bin/ml" method="post">
   <input placeholder="you@address.com" name="em" type="text" size=31 maxlength=255 value="">
   <button alt="Join" name="submit">Join</button>        
 </form>
