@@ -46,7 +46,7 @@ Ted Marotta, Johnstown, NY - instructor of History at Fulton-Montgomery CC, SUNY
 
 Josh Klein, New Rochelle, NY - professor of Criminal Justice, Iona College
 
-Chris Gorman, Larchmont, NY - Chris Gorman Associates
+Ivy Stabell, New Rochelle, NY - professor of English, Iona College
 
 
 History
