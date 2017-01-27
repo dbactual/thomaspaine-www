@@ -1,5 +1,5 @@
 PubDate: 1776-06-01
-Slug: essays/american-revolution/four-letters-on-interesting-subjects
+Slug: recently-discovered/four-letters-on-interesting-subjects
 Title: Four Letters on Interesting Subjects
 Date: Mon Aug  4 09:08:54 EDT 2014
 

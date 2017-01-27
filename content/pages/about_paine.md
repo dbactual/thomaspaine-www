@@ -37,6 +37,7 @@ Authors: 1
 
 + ###Essays {#essays}
 
+    - [New Political Writings of Thomas Paine](/aboutpaine/new-political-writings-of-thomas-paine.html)
     - [Burying Thomas Paine by Gary Berton](/aboutpaine/burying-thomas-paine.html)
     - [Lewis Lapham Speech at the 2012 International Conference for Thomas Paine Studies at Iona College](/aboutpaine/lewis-lapham-speech.html)
     - [Brief History of the Remains of Thomas Paine](/aboutpaine/brief-history-of-the-remains-of-thomas-paine.html)
