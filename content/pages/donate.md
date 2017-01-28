@@ -22,20 +22,24 @@ As a 100% volunteer organization, every dollar we receive goes
 directly to supporting our mission. We are a tax-deductible, 501 c(3)
 charitable institution. Please donate via PayPal today!
 
-  <form action="https://www.paypal.com/en/cgi-bin/webscr" method="post">
-    <input type="hidden" name="cmd" value="_donations">
-    <input type="hidden" name="business" value="info@thomaspaine.org">
-    <input type="hidden" name="return" value="{{ SITEURL }}">
+  <form name="_xclick" action="https://www.paypal.com/yt/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_xclick">
+    <input type="hidden" name="business" value="tpnhamail@gmail.com">
+	<input type="hidden" name="item_name" value="Donate to The Thomas Paine National Historical Association">
+	<input type="hidden" name="currency_code" value="USD">
+	<input type="hidden" name="amount" value="0.00">
+	<input type="hidden" name="return" value="http://thomaspaine.org/pages/donate-thanks.html">
     <input type="hidden" name="undefined_quantity" value="0">
-    <input type="hidden" name="item_name" value="Donate to The Thomas Paine National Historical Association">
-    <input type="hidden" name="charset" value="utf-8">
     <input type="hidden" name="no_shipping" value="1">
-    <input type="hidden" name="image_url" value="{{ SITEURL }}/images/donate_logo.png">
     <input type="hidden" name="cpp_headerback_color" value="F6E6CE">
-    <input type="hidden" name="cancel_return" value="{{ SITEURL }}">
+    <input type="hidden" name="cancel_return" value="http://thomaspaine.org/pages/donate.html">
+	<!--	<input type="hidden" name="image_url" value="http://thomaspaine.org/theme/images/logo-small.png">-->
+    <input type="hidden" name="charset" value="utf-8">
     <input type="hidden" name="no_note" value="0">
     <button class="donate" alt="Donate" name="submit">Donate</button>
   </form>
+  
+  
 
 Thomas Paine Encyclopedia App
 -----------------------------
