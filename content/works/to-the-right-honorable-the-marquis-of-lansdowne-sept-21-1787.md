@@ -2,7 +2,6 @@ PubDate: 1787-09-21
 Slug: letters/other/to-the-right-honorable-the-marquis-of-lansdowne-sept-21-1787
 Title: To the Right Honorable the Marquis of Lansdowne  Sept. 21, 1787
 Date: Mon Aug  4 09:08:56 EDT 2014
-   Slug: to-the-right-honorable-the-marquis-of-lansdowne-sept-21-1787
 
    To the Right Honorable the Marquis of Lansdowne  Sept. 21, 1787
 

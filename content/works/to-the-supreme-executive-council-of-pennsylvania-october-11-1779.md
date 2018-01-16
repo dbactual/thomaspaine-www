@@ -2,7 +2,6 @@ PubDate: 1779-10-11
 Slug: letters/other/to-the-supreme-executive-council-of-pennsylvania-october-11-1779
 Title: To the Supreme Executive Council of Pennsylvania   October 11, 1779
 Date: Mon Aug  4 09:08:56 EDT 2014
-   Slug: to-the-supreme-executive-council-of-pennsylvania-october-11-1779
 
    To the Supreme Executive Council of Pennsylvania   October 11, 1779
 

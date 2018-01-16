@@ -11,4 +11,4 @@ gen.gen_works(works_cats)
 gen.gen_timeline(years)
 
 os.system('make html')
-os.system('rsync -avz output/* %s@%s:~/www/thomaspaine/' % (tpuser, tphost))
+#os.system('rsync -avz output/* %s@%s:~/www/thomaspaine/' % (tpuser, tphost))
