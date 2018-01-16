@@ -3,18 +3,18 @@ Slug: deattributed/connecticut-has-no-constitution
 Title: Connecticut has no Constitution
 Date: Sat Mar 21 01:00:00 EDT 2015
 
-
-_*TPNHA Editor's Note*_
->
-> TPNHA has determined from our work in the Institute for Thomas Paine 
-> Studies' Text Analysis Project that this is probably not written by
-> Paine. We include it here because it was referenced in the past as
-> Paine's work, so that you may have access to it.
-
+> *TPNHA Editor's Note*
+> TPNHA is leading an international effort to expand and clarify the
+> Paine Canon. We have attempted to mark those works that have come into
+> question and are doubtful that they are the work of Paine. The Canon
+> is expanding as new works and correspondence not previously in
+> collected writings of Paine are located. Those new works are not yet
+> posted here until it is decided how they will be released to the
+> public.
 
 From Richard Gimbel's pamphlet New Political Writings by Thomas Paine
 
-CONNECTICUT HAS NO CONSTITUTION. 
+CONNECTICUT HAS NO CONSTITUTION.
 
 For the declaration of this truth, a respectable citizen has lost his office, and, from circumstances, which would not otherwise have existed, his life - There is something so tragical in the effects of this persecution, that, judging of the feelings of others by our own, we anticipate from the people of Connecticut a deep and deliberate attention to events so powerfully calculated to awaken enquiry, and we anticipate also an award, which, while it embalms the memory of the deceased martyr, will consign to merited FAME the names of those who have produced this mournful catastrophe.
 
