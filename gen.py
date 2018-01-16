@@ -23,9 +23,9 @@ def rec_dd():
 
 def get_filepaths(directory):
     """
-    This function will generate the file names in a directory 
-    tree by walking the tree either top-down or bottom-up. For each 
-    directory in the tree rooted at directory top (including top itself), 
+    This function will generate the file names in a directory
+    tree by walking the tree either top-down or bottom-up. For each
+    directory in the tree rooted at directory top (including top itself),
     it yields a 3-tuple (dirpath, dirnames, filenames).
     """
     file_paths = []  # List which will store all of the full filepaths.
@@ -116,7 +116,7 @@ def get_work_order(work):
     work_order = {'major-works': 1,
                   'essays': 2,
                   'letters' : 3,
-                  'deattributed': 4,
+                  'questionable-authorship': 4,
                   'recently-discovered': 5}
     if work not in work_order:
         raise Exception("Unkown work type: %s" % work)

@@ -1,17 +1,16 @@
 PubDate: 1775-03-08
-Slug: deattributed/african-slavery-in-america
+Slug: questionable-authorship/african-slavery-in-america
 Title: African Slavery in America
 Date: Mon Aug  4 09:08:50 EDT 2014
 
-
-  _*TPNHA Editor's Note*_
->
-> TPNHA has determined from our work in the Institute for Thomas Paine 
-> Studies' Text Analysis Project that this is probably not written by
-> Paine. We include it here because it was referenced in the past as
-> Paine's work, so that you may have access to it.
-
-
+> *TPNHA Editor's Note*
+> TPNHA is leading an international effort to expand and clarify the
+> Paine Canon. We have attempted to mark those works that have come into
+> question and are doubtful that they are the work of Paine. The Canon
+> is expanding as new works and correspondence not previously in
+> collected writings of Paine are located. Those new works are not yet
+> posted here until it is decided how they will be released to the
+> public.
 
    AFRICAN SLAVERY IN AMERICA
 
@@ -40,7 +39,7 @@ Date: Mon Aug  4 09:08:50 EDT 2014
    until March 8, 1775 when it appeared in the Pennsylvania Journal and the
    Weekly Advertiser. A few weeks later, April 14, 1775, the first
    anti-slavery society in America was organized in Philadelphia. Paine was
-   one of the members. 
+   one of the members.
 
    AFRICAN SLAVERY IN AMERICA
 

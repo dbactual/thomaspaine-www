@@ -2,7 +2,6 @@ PubDate: 1784-11-27
 Slug: letters/other/to-honorable-general-irwin-vice-president-november-27th-1784
 Title: To Honorable General Irwin, Vice-President  November 27th, 1784
 Date: Mon Aug  4 09:08:54 EDT 2014
-   Slug: to-honorable-general-irwin-vice-president-november-27th-1784
 
    To Honorable General Irwin, Vice-President  November 27th, 1784
 

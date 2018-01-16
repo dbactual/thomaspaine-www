@@ -1,20 +1,17 @@
 PubDate: 1775-04-01
-Slug: essays/other/cupid-and-hymen
+Slug: questionable-authorship/cupid-and-hymen
 Title: Cupid and Hymen
 Date: Mon Aug  4 09:08:51 EDT 2014
 
 
-
-
-
 > *TPNHA Editor's Note*
->
-> TPNHA has determined from our work in the Institute for Thomas Paine 
-> Studies' Text Analysis Project that this is probably not written by
-> Paine. We include it here because it was referenced in the past as
-> Paine's work, so that you may have access to it.
-
-
+> TPNHA is leading an international effort to expand and clarify the
+> Paine Canon. We have attempted to mark those works that have come into
+> question and are doubtful that they are the work of Paine. The Canon
+> is expanding as new works and correspondence not previously in
+> collected writings of Paine are located. Those new works are not yet
+> posted here until it is decided how they will be released to the
+> public.
 
 
    This article appeared in the Pennsylvania Magazine in April, 1775.

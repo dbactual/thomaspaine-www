@@ -1,15 +1,16 @@
 PubDate: 1775-07-01
-Slug: deattributed/thoughts-on-defensive-war
+Slug: questionable-authorship/thoughts-on-defensive-war
 Title: Thoughts on Defensive War
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-TPNHA Editor's Note: 
-------
-TPNHA has determined from our work in the Institute for Thomas Paine Studies' 
-Text Analysis Project that this is probably not written by Paine. We include 
-it here because it was referenced in the past as Paine's work, so that you may 
-have access to it.
-
+> *TPNHA Editor's Note*
+> TPNHA is leading an international effort to expand and clarify the
+> Paine Canon. We have attempted to mark those works that have come into
+> question and are doubtful that they are the work of Paine. The Canon
+> is expanding as new works and correspondence not previously in
+> collected writings of Paine are located. Those new works are not yet
+> posted here until it is decided how they will be released to the
+> public.
 
    Foner's Introduction:
 
@@ -20,11 +21,11 @@ have access to it.
    essay, published in the Pennsylvania Magazine of July, 1775, he shows why
    a "Lover of Peace" should be willing to take up his musket in defense of
    American freedom. The second paragraph has special significance today. It
-   is interesting to note his statement that he "would gladly agree with all 
-   the world to lay aside the use of arms, and settle matters by negotiation; 
-   but unless he whole will, the matter ends, and I take up my musket and 
-   thank heaven he has put it in my power." He did more than write about 
-   shouldering a gun, for he enlisted in the Continental army immediately 
+   is interesting to note his statement that he "would gladly agree with all
+   the world to lay aside the use of arms, and settle matters by negotiation;
+   but unless he whole will, the matter ends, and I take up my musket and
+   thank heaven he has put it in my power." He did more than write about
+   shouldering a gun, for he enlisted in the Continental army immediately
    after the outbreak of the War for Independence.
 
    *****************
@@ -39,7 +40,7 @@ have access to it.
    battles nor shielded them from dangers afterwards. I am thus far a Quaker,
    that I would gladly agree with all the world to lay aside the use of arms,
    and settle matters by negotiation: but unless the whole will, the matter
-   ends, and I take up my musket and thank heaven he has put it in my power. 
+   ends, and I take up my musket and thank heaven he has put it in my power.
 
    Whoever considers the unprincipled enemy we have to cope with, will not
    hesitate to declare that nothing but arms or miracles can reduce them to
