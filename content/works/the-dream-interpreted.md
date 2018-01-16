@@ -1,5 +1,5 @@
 PubDate: 1775-05-01
-Slug: deattributed/the-dream-interpreted
+Slug: questionable-authorship/the-dream-interpreted
 Title: The Dream Interpreted
 Date: Mon Aug  4 09:08:53 EDT 2014
 

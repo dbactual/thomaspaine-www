@@ -1,5 +1,5 @@
 PubDate: 1775-06-01
-Slug: deattributed/reflections-on-unhappy-marriages
+Slug: questionable-authorship/reflections-on-unhappy-marriages
 Title: Reflections on Unhappy Marriages
 Date: Mon Aug  4 09:08:52 EDT 2014
 

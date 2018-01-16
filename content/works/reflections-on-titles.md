@@ -1,5 +1,5 @@
 PubDate: 1775-05-01
-Slug: deattributed/reflections-on-titles
+Slug: questionable-authorship/reflections-on-titles
 Title: Reflections on Titles
 Date: Mon Aug  4 09:08:52 EDT 2014
 

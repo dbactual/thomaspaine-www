@@ -1,5 +1,5 @@
 PubDate: 1775-08-01
-Slug: deattributed/an-occasional-letter-on-the-female-sex
+Slug: questionable-authorship/an-occasional-letter-on-the-female-sex
 Title: An Occasional Letter on the Female Sex
 Date: Mon Aug  4 09:08:51 EDT 2014
 

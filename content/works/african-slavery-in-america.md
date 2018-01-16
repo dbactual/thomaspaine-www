@@ -1,8 +1,7 @@
 PubDate: 1775-03-08
-Slug: deattributed/african-slavery-in-america
+Slug: questionable-authorship/african-slavery-in-america
 Title: African Slavery in America
 Date: Mon Aug  4 09:08:50 EDT 2014
-
 
 > *TPNHA Editor's Note*
 > TPNHA is leading an international effort to expand and clarify the

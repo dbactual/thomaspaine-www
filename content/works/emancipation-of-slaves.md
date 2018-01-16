@@ -1,5 +1,5 @@
 PubDate: 1780-03-01
-Slug: deattributed/emancipation-of-slaves
+Slug: questionable-authorship/emancipation-of-slaves
 Title: Emancipation of Slaves
 Date: Mon Aug  4 09:08:51 EDT 2014
 

@@ -1,5 +1,5 @@
 PubDate: 1777-01-29
-Slug: deattributed/retreat-across-the-delaware
+Slug: questionable-authorship/retreat-across-the-delaware
 Title: Retreat across the Delaware
 Date: Mon Aug  4 09:08:52 EDT 2014
 

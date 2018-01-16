@@ -1,5 +1,5 @@
 PubDate: 1793-01-01
-Slug: deattributed/plan-of-a-declaration
+Slug: questionable-authorship/plan-of-a-declaration
 Title: Plan of a Declaration
 Date: Mon Aug  4 09:08:52 EDT 2014
 

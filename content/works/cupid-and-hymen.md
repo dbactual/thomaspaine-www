@@ -1,5 +1,5 @@
 PubDate: 1775-04-01
-Slug: deattributed/cupid-and-hymen
+Slug: questionable-authorship/cupid-and-hymen
 Title: Cupid and Hymen
 Date: Mon Aug  4 09:08:51 EDT 2014
 
