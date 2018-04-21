@@ -11,7 +11,7 @@ New Rochelle, NY 10804-3609<br/>
 <center><img src="/images/MemorialBuilding.JPG" style="width:400px; height: 300px;"></center>
 </a>
 
-*To educate the world about the life, times, and works of Thomas Paine*
+*To educate the world about the life, works, and legacy of Thomas Paine.*
 
 <hr style="margin-top:10px; margin-bottom: 10px; clear:both"/>
 
@@ -27,6 +27,8 @@ Treasurer- Michael Munisteri
 
 Board
 --------
+
+Scott Cleary, professor of English, Iona College
 
 David Gruppo, Larchmont, NY - Google Ideas Fellow
 
