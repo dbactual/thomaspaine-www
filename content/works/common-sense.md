@@ -8,7 +8,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    appearance of being right, and raises at first a formidable outcry in
    defense of custom.
 
-   INTRODUCTION
+   *INTRODUCTION*
 
    Perhaps the sentiments contained in the following pages, are not yet
    sufficiently fashionable to procure them general favor; a long habit of
