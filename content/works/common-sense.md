@@ -32,7 +32,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    unfriendly, will cease of themselves unless too much pains are bestowed
    upon their conversion.
 
-   The cause of America is in a great measure the cause of all mankind. Many
+   *The* cause of America is in a great measure the cause of all mankind. Many
    circumstances hath, and will arise, which are not local, but universal,
    and through which the principles of all lovers of mankind are affected,
    and in the event of which, their affections are interested. The laying a
