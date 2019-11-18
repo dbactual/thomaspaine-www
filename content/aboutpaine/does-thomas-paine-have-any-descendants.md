@@ -16,4 +16,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    (an early biography written to slander Paine) and won based on court
    evidence close to that time period.  Other claims come from a confusion of
    the name Paine, some confusing Robert Treat Paine with him, who was,
-   instead, not only unrelated, but a political enemy.
+   instead, not only unrelated, but a political enemy. However, there are probably hundreds of thousands of very distant cousins, as his aunts or uncles would have produced children. So family mythologies are probably based on that.
