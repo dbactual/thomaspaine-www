@@ -3,7 +3,11 @@ Slug: recently-discovered/to-the-people-of-connecticut
 Title: To the people of Connecticut
 Date: Sat Mar 21 01:00:00 EDT 2015
 
-From Richard Gimbel's pamphlet New Political Writings by Thomas Paine
+From Richard Gimbel's pamphlet New Political Writings by Thomas Paine. However:
+
+In a letter to the American Mercury on Aug 27, 1804 Paine says: “I have received three of your papers. The first wherein you announce for publication of the piece I sent to Mr. Bishop signed A Friend to Constitutional Order [THIS ARTICLE]. The next, in which the piece is published; and the last (August. 23).” However this piece does not test as Paine’s. Paine also claims 2 weeks later about CT politics “It is always of use to know the ground an enemy occupies. I have sometimes a leisure hour in which I might give a little auxiliary aid, but I am not enough informed of what is going on to do it.”  So this is a dilemma. The testing methodology is very accurate. The piece could have been written by someone more knowledgeable of Connecticut politics, as Paine spent several weeks in Connecticut before going to New Rochelle. He was still there in mid-August. This piece appeared on Aug 2nd. His discussions with Republicans there could have spurred someone there to write the piece. Subsequently when the NUMA series began in October (not yet republished), his first contributions had to be corrected by the editor for lack of local history knowledge. Paine submitted two articles in August, on the 16th and 30th, which dealt with answering Federalist spokesmen and making fun of their absurdities, which were not as organized as this piece. Here are representative tests:
+
+(IMAGE:To People of CT H.png) (IMAGE:To People of CT I.png) (IMAGE:To People of CT K.png) (IMAGE:To People of CT M.png)
 
 For the MERCURY
 To the people of Connecticut,
