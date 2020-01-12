@@ -17,5 +17,5 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    support the program of Babeuf in the French Revolution, but opposed his
    methods. (The word "communism" was coined by Goodwyn Barmby in a
    conversation with those he described as the "disciples of Babeuf".) So all
-   in all, he seems to have supported many of the tenets of what people later
-   referred to as "socialism."
+   in all, he seems to have supported, and advocated for, many of the tenets of what people later
+   referred to as "socialism." Paine was a theoretical precursor to socialist theory, as Edmund Burke was a precursor to conservative theory. The theoretical foundation of Paine's political thought was "equality", while Burke's foundation was "order."
