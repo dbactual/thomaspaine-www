@@ -5,17 +5,21 @@ from __future__ import unicode_literals
 AUTHOR = u'tpnha'
 AUTHORS = u'tpnha'
 SITENAME = u'The Thomas Paine National Historical Association'
+SITEPATH=''
 SITEURL = 'http://thomaspaine.org'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-MENUITEMS = [
-    ('Search', 'thomaspaine.org'),
-    ]
-
 DIRECT_TEMPLATES = ('index', 'archives', 'events', 'works')
+
+TEMPLATE_PAGES = {
+    'pages/header.shtml': 'pages/header.shtml',
+    'pages/footer.shtml': 'pages/footer.shtml',
+    'pages/writings_index.shtml': 'pages/writings_index.shtml',
+    'pages/timeline_index.shtml': 'pages/timeline_index.shtml',
+}
 
 DEFAULT_LANG = u'en'
 
@@ -28,14 +32,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-THEME = 'theme2015'
-
-# Blogroll
-LINKS = (('Iona College', 'http://www.iona.edu/About/Iona-in-Community/Institute-for-Thomas-Paine-Studies/'),)
-
-
-# Social widget
-SOCIAL = ()
+THEME = 'theme2020'
 
 DEFAULT_PAGINATION = False
 

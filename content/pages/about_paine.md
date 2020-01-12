@@ -1,4 +1,4 @@
-Title: About Paine
+Title: Resources
 Authors: 1
 
 <div id="jumpstrip" markdown="1">
@@ -8,7 +8,7 @@ Authors: 1
 + [FAQs](#faqs)
 </div>
 
-<hr style="clear:both"/>
+<hr style="clear:both; margin-top: 50px; margin-bottom: 30px;"/>
 
 <div class="writings" markdown="1">
 
@@ -32,7 +32,7 @@ Authors: 1
     - [The Hall Manuscripts, ed. by Moncure Conway](/aboutpaine/the-hall-manuscripts-ed-by-moncure-conway.html)
     - [Life of Thomas Paine by Clio Rickman](/aboutpaine/life-of-thomas-paine-by-clio-rickman.html)
     - [Foner's Introduction to the Collected Works](/aboutpaine/foner-s-introduction-to-the-collected-works.html)
-    
+
 
 
 + ###Essays {#essays}

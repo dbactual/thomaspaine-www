@@ -1,4 +1,4 @@
-Title: Paine Studies
+Title: Collected Works Project
 Date: 2015-07-27 09:44:29.309256
 Authors: 4
 
@@ -25,7 +25,7 @@ For further information, please refer to the following references:
 - Petrovic, S., Berton G., Campbell S., Data Mining in Authorship Attribution of 18th Century Political Writing, (presented at Eleventh International Conference on Technology, Knowledge, and Society, Berkeley, CA, 2015).
 - Schiaffino R, Petrovic S, Berton G., Author Attribution of Paine and his Contemporaries, (presented at The First International Conference of Thomas Paine Studies at Iona College, New Rochelle, NY, 2012)
 
--- 
+--
 
 [American Freethought](http://www.americanfreethought.tv/) has a
 four-hour documentary film series on the history of secularism and

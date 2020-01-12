@@ -17,6 +17,10 @@ WRITINGS_TOP = """Title: Writings
 Date: %s
 Authors: 2
 """
+TIMELINE_PAGE='content/pages/timeline.md'
+TIMELINE_INDEX_SHTML='content/pages/timeline_index.shtml'
+WRITINGS_PAGE='content/pages/writings.md'
+WRITINGS_INDEX_SHTML='content/pages/writings_index.shtml'
 
 def rec_dd():
     return defaultdict(rec_dd)
@@ -89,15 +93,19 @@ def load_data():
     return works_cats, years
 
 def gen_timeline(years):
-    timeline = open('content/pages/timeline.md', 'w')
+    timeline = open(TIMELINE_PAGE, 'w')
+    timeline_index = open(TIMELINE_INDEX_SHTML, 'w')
     timeline.write(TIMELINE_TOP % datetime.datetime.now())
-    timeline.write('<div id="jumpstrip"><ul>')
+    timeline.write('<!--#include virtual="/pages/timeline_index.shtml" -->')
+    timeline_index.write('<p>')
     for y in sorted(years.keys()):
-        timeline.write('<li><a href="#%s">%s</a></li>' % (y, y))
-    timeline.write('</ul></div><hr/>')
-    timeline.write('<div class="timeline">')
+        timeline_index.write('<a href="/pages/timeline.html#%s">%s</a> ' % (y, y))
+    timeline_index.write('</p>')
+
+    timeline.write('<div class="timeline"><hr style="margin-top: 50px; margin-bottom: 30px"/>')
     for y in sorted(years.keys()):
-        timeline.write('<h2><span id="%s">%s</span></h2><ul>' % (y, y))
+        timeline.write('<span id="%s"></span><br/><br/>' % (y))
+        timeline.write('<h2>%s</h2><ul>' % (y))
         months = years[y]
         for m in sorted(months.keys()):
             titles = months[m]
@@ -109,7 +117,9 @@ def gen_timeline(years):
 
 def get_display_title(l):
     if l == "recently-discovered":
-        return "Works not included in Philip Foner's 'Complete Writings of Thomas Paine'"
+        return "Recently attributed"
+    if l == 'questionable-authorship':
+        return "Works removed from the Paine cannon"
     return ' '.join(l.split('-')).title()
 
 def get_work_order(work):
@@ -137,19 +147,21 @@ def output_works(writings, works):
     writings.write('</ul>')
 
 def gen_works(works_cats):
-    writings = open('content/pages/writings.md', 'w')
+    writings = open(WRITINGS_PAGE, 'w')
+    writings_index = open(WRITINGS_INDEX_SHTML, 'w')
+    writings_index.write('<p>')
     writings.write(WRITINGS_TOP % datetime.datetime.now())
-    writings.write('<div class="writings">')
-    writings.write('<div id="jumpstrip"><ul>')
+    writings.write('<!--#include virtual="/pages/writings_index.shtml" -->')
     for cat in sorted(works_cats.keys(), key=get_work_order):
         display_cat = get_display_title(cat)
-        writings.write('<li><a href="#%s">%s</a></li>' % (cat, display_cat))
-    writings.write('</ul></div><hr style="clear:both"/>')
-    writings.write('<ul>')
+        writings_index.write('<a href="/pages/writings.html#%s">%s</a><br/>' % (cat, display_cat))
+    writings_index.write('</p>')
+    writings.write('<div><hr style="margin-top: 50px; margin-bottom: 30px"/><ul>')
     for cat in sorted(works_cats.keys(), key=get_work_order):
         works = works_cats[cat]
         display_cat = get_display_title(cat)
-        writings.write('<li><a name="%s"><h3>%s<h3></a>' % (cat, display_cat))
+        writings.write('<span id="%s"><span><br/><br/>' % (cat))
+        writings.write('<li><h3>%s<h3>' % (display_cat))
         output_works(writings, works)
         writings.write('</li>')
     writings.write('</ul></div>')

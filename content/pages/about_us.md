@@ -1,6 +1,6 @@
 Title: About Us
 Authors: 5
-       
+
 
 ### **The Thomas Paine National Historical Association**</br>
 983 North Avenue<br/>
@@ -32,19 +32,19 @@ Scott Cleary, professor of English, Iona College
 
 David Gruppo, Larchmont, NY - Google Ideas Fellow
 
-Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associates 
+Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associates
 
 Gary Berton, Coordinator of the Institute for Thomas Paine Studies at Iona College
 
 Matthew Jacobs, Larchmont, NY, Finance Professional
 
-Roderick Bradford, San Diego, CA - documentarian, editor of the Truth Seeker 
+Roderick Bradford, San Diego, CA - documentarian, editor of the Truth Seeker
 
-John Ward Regan, NYC - professor of Liberal Studies at NYU 
+John Ward Regan, NYC - professor of Liberal Studies at NYU
 
-Lawrence Goodheart, Connecticut - professor of American History at U of Connecticut 
+Lawrence Goodheart, Connecticut - professor of American History at U of Connecticut
 
-Ted Marotta, Johnstown, NY - instructor of History at Fulton-Montgomery CC, SUNY 
+Ted Marotta, Johnstown, NY - instructor of History at Fulton-Montgomery CC, SUNY
 
 Josh Klein, New Rochelle, NY - professor of Criminal Justice, Iona College
 
