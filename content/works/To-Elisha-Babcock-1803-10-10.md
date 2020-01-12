@@ -1,5 +1,5 @@
 PubDate: 1803-10-10
-Slug: recently-discovered/To-Elisha-Babcock-1803-10-10
+Slug: letters/To-Elisha-Babcock-1803-10-10
 Title: To Elisha Babcock 1803-10-10
 Date: Sat Mar 21 01:00:00 EDT 2015
 

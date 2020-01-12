@@ -1,5 +1,5 @@
 PubDate: 1804-08-27
-Slug: recently-discovered/to-elisha-babcock-1804-08-27
+Slug: letters/to-elisha-babcock-1804-08-27
 Title: To Elisha Babcock 1804-08-27
 Date: Sat Mar 21 01:00:00 EDT 2015
 

@@ -1,0 +1,85 @@
+    </div>
+
+    <div class="col-sm-12 col-md-5 col-lg-4">
+
+      <a href="/">
+        <img style="display: block; margin: auto;" src="{{ SITEURL }}/theme/images/logo-new-big.png"/>
+      </a>
+
+      <br/>
+      <br/>
+
+      <h4>Search the collected works</h4>
+      <p>
+        <form method="get" action="/cgi-bin/search">
+          <input type="text" name="term" size=31 maxlength=255 value="">
+          <input type="submit" name="sa" value="Search">
+        </form>
+      </p>
+
+      <br/>
+      <br/>
+
+      <h4>Support</h4>
+
+      <form action="https://www.paypal.com/en/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_donations">
+        <input type="hidden" name="business" value="info@thomaspaine.org">
+        <input type="hidden" name="return" value="http://thomaspaine.org">
+        <input type="hidden" name="undefined_quantity" value="0">
+        <input type="hidden" name="item_name" value="Donate to The Thomas Paine National Historical Association">
+        <input type="hidden" name="charset" value="utf-8">
+        <input type="hidden" name="no_shipping" value="1">
+        <input type="hidden" name="image_url" value="http://thomaspaine.org/images/donate_logo.png">
+        <input type="hidden" name="cpp_headerback_color" value="F6E6CE">
+        <input type="hidden" name="cancel_return" value="{{ SITEURL }}">
+        <input type="hidden" name="no_note" value="0">
+        <p>
+          Consider supporting the Thomas Paine National Historical
+          Association! As a 100% volunteer organization, every dollar we
+          receive goes directly to supporting our mission. We are a
+          tax-deductible, 501 c(3) charitable institution. Please donate
+          via PayPal today!
+        </p>
+        <button class="secondary" alt="Donate" name="submit">Donate</button>
+      </form>
+
+      <br/>
+      <br/>
+
+      <h4>Join the mailing list</h4>
+      <p>
+        <form action="{{ SITEURL }}/cgi-bin/ml" method="post">
+          <input placeholder="you@address.com" name="em" type="text" size=31 maxlength=255 value="">
+          <button alt="Join" name="submit">Join</button>
+        </form>
+      </p>
+
+
+    </div>
+  </div>
+</div> <!-- container -->
+
+<footer>
+    <div class="col-sm col-md-10 col-md-offset-1">
+      <p>Copyright &copy; 2020 tpnha
+      </p>
+      <p>
+        <a style="color:white" href="http://blog.getpelican.com/">Powered by pelican</a>
+        <a style="color:white" href="http://dbactual.org">Design and coding - David Berton</a>
+      </p>
+    </div>
+  </footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58488671-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+</body>
+</html>

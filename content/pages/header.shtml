@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thomas Paine National Historical Association</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/mini-default.min.css" type="text/css" />
+</head>
+
+<body>
+
+  <header class="sticky">
+    <h3>
+      <a href="{{ SITEURL }}">
+        Thomas Paine National Historical Association
+      </a>
+      <span class="subtle" style="display:inline;font-size: small;font-style: italic;">
+        To educate the world about the life, works, and legacy of Thomas Paine.
+      </span>
+    </h3>
+  </header>
+
+  <header class="sticky">
+    <a href="{{ SITEURL }}" class="logo">
+      <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-new-small.png"/></a>
+    <a href="{{ SITEURL }}/pages/about-us.html" class="button">About</a>
+    <a href="{{ SITEURL }}/pages/resources.html" class="button">Resources</a>
+    <a href="{{ SITEURL }}/pages/links.html" class="button">Links</a>
+    <a href="{{ SITEURL }}/pages/the-official-collected-works-of-thomas-paine-project.html" class="button">Collected Works Project</a>
+    <a href="{{ SITEURL }}/pages/writings.html" class="button">Writings</a>
+    <a href="{{ SITEURL }}/pages/timeline.html" class="button">Timeline</a>
+  </header>
+
+  <br/>
+
+  <div class="container">
+
+  <div class="row">
+    <div class="col-sm-12 col-md-7 col-lg-6">
