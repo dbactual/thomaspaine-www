@@ -3,43 +3,41 @@ Slug: questionable-authorship/african-slavery-in-america
 Title: African Slavery in America
 Date: Mon Aug  4 09:08:50 EDT 2014
 
-> *TPNHA Editor's Note*
-> TPNHA is leading an international effort to expand and clarify the
-> Paine Canon. We have attempted to mark those works that have come into
-> question and are doubtful that they are the work of Paine. The Canon
-> is expanding as new works and correspondence not previously in
-> collected writings of Paine are located. Those new works are not yet
-> posted here until it is decided how they will be released to the
-> public.
-
    AFRICAN SLAVERY IN AMERICA
+   
+   Published in the *Pennsylvania Journal* on March 8, 1775, this essay was put into the Paine corpus by Moncure Conway in 
+   1894. Other than Paine's opposition to slavery, there is no basis to consider this Paine's work other than Benjamin Rush's 
+   confused letter in 1809 referring to an anti-slavery article by Paine. There are several errors in Rush's letter due to the 
+   30 year lapse, and his embellishments to actual historic fact put the letter into question on accuracy. 
+   
+   The content of the essay does not hold up: the author uses 
+   religious references to oppose slavery, with many christian references (Paine opposed slavery on the basis of natural law). 
+   The note sent with the article to the printer is signed "A. B.", which could refer to either Anthony Benezet or Francis 
+   Hopkinson (who used that signature in that period). However testing shows that another abolitionist of the time, and a 
+   friend to Benezet, Samuel Hopkins, was the author. He was a Christian preacher in Rhode Island, and must have sent the 
+   essay to Benezet to have him insert it in a Philadelphia paper, thus the note by Benezet asking the printer to publish it. 
+   As well, compared with other abolitionist tracts by Hopkins, the same religious basis, arguments, and phrases appear in both.
+   
+   Here is the testing summary: The first several tests produced different author possibilities; this happens when the actual 
+   author is not present in the groups selected. So we searched for others, and Hopkins was the decisive winner in every test 
+   made with him included. (Note: a consistent 40% by one author against many groups is sufficient indication that that author 
+   is the most probable.)
+   
+   Tests without Hopkins:
+   
+   (IMAGE: AFRICAN SLAVERY A. png)  (IMAGE: AFRICAN SLAVERY H. png)   (IMAGE: AFRICAN SLAVERY J. png)
+   
+   Groups of authors without Hopkins result in different authors winning (above); however with Hopkins, the result is always the same:
+   
+   Tests with Hopkins:
+   
+   (IMAGE: AFRICAN SLAVERY B. png)   (IMAGE: AFRICAN SLAVERY C. png)   (IMAGE: AFRICAN SLAVERY G. png)  
+   
+   (IMAGE: AFRICAN SLAVERY X. png)
+   
+   and Hopkins always beats the winners of the not-Hopkins groupings decisively.
 
-   Philip Foner's introduction:
-
-   A few weeks after coming to America, Paine wrote this essay, one of the
-   earliest documents in the American anti-slavery movement. It was not the
-   first denunciation of slavery in America, for anti-slavery literature had
-   been written in this country from the earliest colonial days. Nor was
-   Paine alone in advocating the abolition of slavery. Thomas Jefferson, to
-   cite but one example, had urged the Assembly in Virginia to emancipate the
-   slaves in the colony as early as 1769. Nevertheless, while Paine does not
-   deserve the "honor" bestowed upon him by Moncure Daniel Conway "of being
-   the first American abolitionist," he was certainly among the early
-   pioneers in this great cause.
-
-   In this essay Paine denounces slavery as no less immoral than "murder,
-   robbery, lewdness, and barbarity," and calls upon Americans immediately to
-   "discontinue and renounce it, with grief and abhorrence." Nor is he
-   content to condemn slavery, but proceeds to present a specific plan for
-   its abolition in America. He proposes that "prudent men, with the
-   assistance of legislatures, determine what is practicable for masters, and
-   best for them [the slaves]. . . ."
-
-   Although the essay was written at the close of 1774, it was not published
-   until March 8, 1775 when it appeared in the Pennsylvania Journal and the
-   Weekly Advertiser. A few weeks later, April 14, 1775, the first
-   anti-slavery society in America was organized in Philadelphia. Paine was
-   one of the members.
+   We include the text for your convenience. 
 
    AFRICAN SLAVERY IN AMERICA
 
@@ -49,7 +47,7 @@ Date: Mon Aug  4 09:08:50 EDT 2014
    approve, and be concerned in the savage practice, is surprising; and still
    persist, though it has been so often proved contrary to the light of
    nature, to every principle of justice and humanity, and even good policy,
-   by a succession of eminent men1, and several late publications.
+   by a succession of eminent men (1), and several late publications.
 
    Our traders in MEN (an unnatural commodity!) must know the wickedness of
    that SLAVE-TRADE, if they attend to reasoning, or the dictates of their

@@ -3,25 +3,16 @@ Slug: essays/other/the-society-for-political-inquiries
 Title: The Society for Political Inquiries
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Philip Foner's introduction:
+  
+   Foner claims Paine wrote this, but there is no evidence, and it doesn’t test that way at all. The two components are 
+   the Preamble, that appears to be written by Rush, and the Regulations. The Society was a collection of mostly conservative 
+   people with the common interest of preparing for the Constitutional Convention and insuring their interests. Franklin 
+   was the figurehead to give it legitimacy. Rush is the writer of the Preamble.
+   
+   (IMAGE: Soc for Poli Inquiries C.png)  (IMAGE: Soc for Poli Inquiries M.png)
 
-   This body, set up in Philadelphia in February, 1787, met usually at the
-   home of Benjamin Franklin. The following rules and regulations of the
-   organization were written by Paine and read at its first meeting. Paine
-   does not seem to have taken an active part in the discussions at these
-   meetings, but he did write an essay on the inexpediency of incorporating
-   towns which he read to the body. No copy of this dissertation has ever
-   been located.
-
-   The preamble to the rules and regulations is highly significant, for, in
-   emphasizing that citizens in a Republic should study the nature of their
-   political institutions, it foreshadowed the approach of the
-   Democratic-Republican Societies formed during the 1790's. See Eugene P.
-   Link, Democratic-Republican Societies, 1790-1800, New York, 1942, Chapter
-   I.
-
-   *******************
-
+   The Society for Political Inquiries
+   
    THE moral character and happiness of mankind are so interwoven with the
    operations of government, and the progress of the arts and sciences is so
    dependent on the nature of our political institutions that it is essential

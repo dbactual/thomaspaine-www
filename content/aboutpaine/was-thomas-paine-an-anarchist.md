@@ -12,4 +12,4 @@ Date: Mon Aug  4 09:08:57 EDT 2014
    fought for a strong central government based on his principles of
    human rights. The phrase "at best, government is a necessary evil"
    is often misinterpreted: only the "evil" part is elaborated, and
-   the "necessary" part is given short shrift.
+   the "necessary" part is given short shrift. Paine's central tenet was to apply Enlightenment principles to government, make government democratic, and use government to make social and even economic changes. Anarchism dismisses and opposes all government.

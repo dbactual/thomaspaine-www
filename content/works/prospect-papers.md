@@ -3,35 +3,17 @@ Slug: essays/religion/prospect-papers
 Title: Prospect Papers
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-   Philip Foner's introduction:
-
-   When Paine returned to the United States in 1802, he found a growing
-   deistic movement in existence in New York. Elihu Palmer, who was the
-   foremost figure in promoting the religion of Deism in New York, was a
-   graduate of Dartmouth College, had entered the Presbyterian ministry, but
-   left it on discovering that he could not subscribe to Presbyterian
-   doctrines. Palmer was greatly influenced by Paine, of whom he once wrote:
-   "He is one of the first and best writers, and probably the most useful man
-   that ever existed upon the face of the earth. His moral and political
-   writings are equally excellent and the beneficial influence of the
-   principles for which he contended, will be felt through all the succeeding
-   ages." (Elihu Palmer, Principles of Nature; or a Developement of the Moral
-   Causes of Happiness and Misery among the Human Species, London, 1823, p.
-   112.)
-
-   Paine heartily sympathized with Palmer's deistic activities in New York,
-   joined with him in founding the Theistic Society in 1804, and became an
-   important contributor to the deistical monthly journal edited by Palmer,
-   The Prospect, or View of the Moral World. The seventeen papers printed
-   below under the heading of "Prospect Papers" were contributed by Paine to
-   Palmer's journal during 1804. The magazine failed in the spring of 1805,
-   and the activities of organized Deism in New York gradually came to an
-   end. Palmer himself died suddenly in Philadelphia in 1804, and Paine could
-   not, at this late date in his life and in his state of health, take over
-   the active leadership of the movement.
-
-   ***
-
+  
+   The articles below are from the Prospect Magazine, started by Elihu Palmer, and to which Paine contributed 13 essays. Four 
+   essays in this collection below are deattributed works: "Of Cain and Abel" (Palmer is the author), "Of the Old and New Testaments"
+   (author unknown), "To the Members of the Society"(unknown), and "On the Sabbath Day in Connecticut"(unknown). However we left 
+   them in this collection from the Prospect.
+   
+   Here is a test on each:
+   
+   (IMAGE: Cain and Abel Palmer.png)  (IMAGE: Of Old and New W.png) (IMAGE: To Members of Society W. png) 
+   
+   (IMAGE: On the Sabbath W.png)
 
 
    REMARKS ON R. HALL'S SERMON

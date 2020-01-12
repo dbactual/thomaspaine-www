@@ -12,23 +12,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > posted here until it is decided how they will be released to the
 > public.
 
+   Frank Smith points out this essay was a chapter in a book in French written by a woman in France. Testing confirms this 
+   is not Paine, and Foner even indicates that in his introduction to it. But by August, 1775 Paine however had no influence 
+   in the *PennsylvaniA Magazine*where it was published.
+   
+   (IMAGE: An Occassional Letter on Female Sex B.png)  (IMAGE: An Occassional Letter on Female Sex X.png)
+
 
    AN OCCASIONAL LETTER ON THE FEMALE SEX
-
-   Philip Foner's introduction:
-
-   Although there is evidence to prove that this article, which appeared in
-   the Pennsylvania Magazine of August, 1775, was not written by Paine (see
-   Frank Smith, "The Authorship of 'An Occasional Letter on the Female Sex,'
-   " American Literature, vol. II, Nov. 1930, pp. 277-280), it has been
-   included in the present edition of Paine's writings because it indicates
-   his interest as editor of the magazine in the subject, and because some of
-   the language of the essay is his. The article represents one of the
-   earliest pleas for the emancipation of women published in America.
-
-   ***
-
-
 
    O Woman! lovely Woman!
 

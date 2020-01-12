@@ -3,8 +3,16 @@ Slug: essays/other/new-anecdotes-of-alexander-the-great
 Title: New Anecdotes of Alexander the Great
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-   This essay appeared in the February, 1775 issue of the Pennsylvania
-   Magazine.]
+   Probably written by Philip Freneau who wrote many articles in 1775, but Hopkinson is strong as well. 
+   Testing yeilds:
+   
+   (IMAGE: New Anecdotes of Alexander A.png)  (IMAGE: New Anecdotes of Alexander B.png)  (IMAGE: New Anecdotes of Alexander c.png)
+   
+   The writing is not in the style that Paine ever used elsewhere, using references to the “happy wilderness”, 
+   “the two terrestrial Charons, who ferried me over the Schuykill”, is not Paine; and especially the reference 
+   to “the servants of great men always imitate their masters” is definitely not Paine.
+   
+   New Anecdaotes of Alexander the Great
 
    ON one of those calm and gloomy days, which have a strange effect in
    disposing the mind to pensiveness, I quitted the busy town and withdrew

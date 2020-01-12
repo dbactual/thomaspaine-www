@@ -3,25 +3,15 @@ Slug: essays/french-revolution/citizen-of-america-to-citizens-of-europe
 Title: Citizen of America to Citizens of Europe
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-
+   The document in French Archives (Etats-Unis, vol. 38, Part II, July, 1793 – October) is dated “Philadelphia, July 28, 1793; 
+   18th year of Independence”. Paine’s name is penciled on the document. So context is in question, as Paine was in Paris at 
+   the time of writing. Paine may have received it from America, and it may have eventually been given to the government 
+   for printing (which would account for his name penciled on it). It does not test well for Paine at all, we would guess 
+   that it is Monroe:
+   
+   (IMAGE: Citizen of America H.png) (IMAGE: Citizen of America I.png)  (IMAGE: Citizen of America O.png)
 
    A CITIZEN OF AMERICA TO THE CITIZENS OF EUROPE
-
-   Philip Foner's introduction:
-
-   In the collections of the French Archives, marked "Etats-Unis, vol. 38,
-   Part II, July, 1793-October," is a document entitled "A Citizen of America
-   to the Citizens of Europe." The name of Paine is pencilled on the
-   document, and it is said to have been written in America, and is dated
-   "Philadelphia, July 28, 1793; 18th Year of Independence." The document was
-   undoubtedly written by Paine when he was still in Paris, but it is not
-   clear who was responsible for placing its origin in Philadelphia.
-
-   The copy printed below is from a photostat of the original in the French
-   Archives, and is published through the courtesy of the Library of
-   Congress.
-
-   *******
 
    UNDERSTANDING that a proposal is intended to be made at the ensuing
    meeting of the Congress of the United States of America "to send
@@ -30,13 +20,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    this letter to you on that subject, and on the several matters connected
    therewith.
 
-    In order to discuss this subject through all its circumstances, it will
+   In order to discuss this subject through all its circumstances, it will
    be necessary to take a review of the state of Europe, prior to the French
    Revolution. It will from thence appear, that the powers leagued against
    France are fighting to attain an object, which, were it possible to be
    attained, would be injurious to themselves.
 
-    This is not an uncommon error in the history of wars and governments, of
+   This is not an uncommon error in the history of wars and governments, of
    which the conduct of the English Government in the war against America is
    a striking instance. She commenced that war for the avowed purpose of
    subjugating America; and after wasting upwards of one hundred millions
@@ -87,7 +77,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    complained; and the first question of discord will be whose ally is that
    monarchy to be?
 
-    Will England agree to the restoration of the family compact against which
+   Will England agree to the restoration of the family compact against which
    she has been fighting and scheming ever since it existed? Will Prussia
    agree to restore the alliance between France and Austria, or will Austria
    agree to restore the former connection between France and Prussia, formed
@@ -98,7 +88,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    original question of the restoration of the Bourbons; and, on the other
    hand, all of them disappear by the neutrality of France.
 
-    If their object is not to restore the Bourbons it must be the
+   If their object is not to restore the Bourbons it must be the
    impracticable project of a partition of the country. The Bourbons will
    then be out of the question, or, more properly speaking, they will be put
    in a worse condition; for as the preservation of the Bourbons made a part
@@ -107,7 +97,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    because it is favorable to the purpose of partition that none of the
    nominal claimants should be left in existence.
 
-    But however the project of a partition may at first blind the eyes of the
+   But however the project of a partition may at first blind the eyes of the
    Confederacy, or however each of them may hope to outwit the other in the
    progress or in the end, the embarrassments that will arise are
    insurmountable. But even were the object attainable, it would not be of
@@ -117,43 +107,43 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    OF THE PRESENT STATE OF EUROPE, AND THE CONFEDERACY
 
-    In the first place the Confederacy is not of that kind that forms itself
+   In the first place the Confederacy is not of that kind that forms itself
    originally by concert and consent. It has been forced together by chance-a
    heterogeneous mass, held only by the accident of the moment; and the
    instant that accident ceases to operate, the parties will retire to their
    former rivalships.
 
-    I will now, independently of the impracticability of a partition project,
+   I will now, independently of the impracticability of a partition project,
    trace out some of the embarrassments which will arise among the
    confederated parties; for it is contrary to the interest of a majority of
    them that such a project should succeed.
 
-    To understand this part of the subject it is necessary, in the first
+   To understand this part of the subject it is necessary, in the first
    place, to cast an eye over the map of Europe and observe the geographical
    situation of the several parts of the Confederacy; for however strongly
    the passionate politics of the moment may operate, the politics that arise
    from geographical situation are the most certain and will in all cases
    finally prevail.
 
-    The world has been long amused with what is called the "balance of
+   The world has been long amused with what is called the "balance of
    power." But it is not upon armies only that this balance depends. Armies
    have but a small circle of action. Their progress is slow and limited. But
    when we take maritime power into the calculation, the scale extends
    universally. It comprehends all the interests connected with commerce.
 
-    The two great maritime powers are England and France. Destroy either of
+   The two great maritime powers are England and France. Destroy either of
    those and the balance of naval power is destroyed. The whole world of
    commerce that passes on the ocean would then lie at the mercy of the
    other, and the ports of any nation in Europe might be blocked up.
 
-    The geographical situation of those two maritime powers comes next under
+   The geographical situation of those two maritime powers comes next under
    consideration. Each of them occupies one entire side of the channel from
    the straits of Dover and Calais to the opening into the Atlantic. The
    commerce of all the Northern nations, from Holland to Russia, must pass
    the straits of Dover and Calais and along the channel, to arrive at the
    Atlantic.
 
-    This being the case, the systematical politics of all the nations,
+   This being the case, the systematical politics of all the nations,
    north-ward of the straits of Dover and Calais, can be ascertained from
    their geographical situation; for it is necessary to the safety of their
    commerce that the two sides of the Channel, either in whole or in part,
@@ -163,7 +153,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    things their commerce will always find protection on one side or the
    other. It may sometimes be that of England and sometimes that of France.
 
-    Again, while the English Navy continues in its present condition it is
+   Again, while the English Navy continues in its present condition it is
    necessary that another navy should exist to control the universal sway the
    former would otherwise have over the commerce of all nations. France is
    the only nation in Europe where this balance can be placed. The navies of
@@ -172,7 +162,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    lies too remote; besides which it is only for the sake of her American
    mines that she keeps up her navy.
 
-    Applying these cases to the project of a partition of France, it will
+   Applying these cases to the project of a partition of France, it will
    appear, that the project involves with it a DESTRUCTON OF THE BALANCE OF
    MARITIME POWER; because it is only by keeping France entire and
    indivisible that the balance can be kept up. This is a case that at first
@@ -185,7 +175,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    aspect. This was the case in the last great confederacy in what is called
    the Succession War, and most probably will be the case in the present.
 
-    I have now thrown together such thoughts as occurred to me on the several
+   I have now thrown together such thoughts as occurred to me on the several
    subjects connected with the confederacy against France, and interwoven
    with the interest of the neutral powers. Should a conference of the
    neutral powers take place, these observations will, at least, serve to
@@ -195,7 +185,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    partition of France, will have the calm opportunity of being fully
    discussed.
 
-    On the part of England, it is very extraordinary that she should have
+   On the part of England, it is very extraordinary that she should have
    engaged in a former confederacy, and a long expensive war, to prevent the
    family compact, and now engage in another confederacy to preserve it. And
    on the part of the other powers, it is as inconsistent that they should
