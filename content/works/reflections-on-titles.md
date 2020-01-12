@@ -14,18 +14,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 > public.
 
 
-   Philip Foner's introduction:
+   Paine does not test well at all, Jefferson is the leading candidate, but he does not reach 40% on most 
+   tests with several others. We may not have the author on file:
+   
+   (Image: Refections on Titles G.png)  (Image: Refections on Titles H.png)  (Image: Refections on Titles J.png)
 
-   This brief essay appeared in the Pennsylvania Magazine of May, 1775. It
-   anticipated Paine's remarks on the King of England in Common Sense and his
-   more elaborate discussion of the subject of titles in Rights of Man. The
-   only ones deserving of titles, Paine argued, was a body of public-spirited
-   men who had the welfare of the people in mind. The only titles kings and
-   their courtiers were worthy of were such designations as "the Right
-   Honorable murderer of mankind."
-
-
-
+   Reflections on Titles
+   
    Ask me what's honor? I'll the truth impart:
 
    Know, honor then, is Honesty of Heart.         WHITEHEAD.
@@ -36,7 +31,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    create such a contrast of ideas as exhibit a monster rather than a man.
    Virtue is inflamed at the violation, and sober reason calls it nonsense.
 
-    Dignities and high sounding names have different effects on different
+   Dignities and high sounding names have different effects on different
    beholders. The lustre of the Star and the title of My Lord, overawe the
    superstitious vulgar, and forbid them to inquire into the character of the
    possessor: Nay more, they are, as it were, bewitched to admire in the
@@ -45,7 +40,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    freedom; for when men yield up the privilege of thinking, the last shadow
    of liberty quits the horizon.
 
-    But the reasonable freeman sees through the magic of a title, and
+   But the reasonable freeman sees through the magic of a title, and
    examines the man before he approves him. To him the honors of the
    worthless serve to write their masters' vices in capitals, and their stars
    shine to no other end than to read them by. The possessors of undue honors
