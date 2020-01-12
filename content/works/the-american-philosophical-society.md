@@ -3,32 +3,15 @@ Slug: essays/other/the-american-philosophical-society
 Title: The American Philosophical Society
 Date: Mon Aug  4 09:08:53 EDT 2014
 
+   Analysis: Paine signed it as Clerk, but was not the author. He shows no presence at all. When printed in London 
+   they attributed it to Paine because his name was on it. Adams (John) is the leading candidate, but that makes 
+   little sense in context. 
+   
+   (IMAGE: Amer Philo Act B.png)   (IMAGE: Amer Philo Act H.png)
+   
    AN ACT FOR INCORPORATING THE AMERICAN PHILOSOPHICAL SOCIETY,
 
    HELD AT PHILADELPHIA FOR PROMOTING USEFUL KNOWLEDGE
-
-   Philip Foner's introduction:
-
-   This Bill was entered by Paine, as Clerk of the General Assembly of
-   Pennsylvania during its second reading on February 14, 1780. It was later
-   published as his in London, and a copy deposited in the British Museum.
-   The Society emerged from the Junto, a club organized by Benjamin Franklin
-   in 1727 in Philadelphia. Ironically enough, Paine was rejected for
-   membership in the Society in 1781, and was not elected a member until
-   January 22, 1785. See Library Bulletin of the American Philosophical
-   Society, 1943, p. 71.
-
-   Paine's interest in "the cultivation of useful knowledge, and the
-   advancement of the liberal arts and sciences" was so great that he
-   believed that a historical "society for inquiring into the ancient state
-   of the worker and the state of ancient history, so far as history is
-   connected with systems of religion ancient and modern, may be a useful and
-   instructive institution." See Paine's letter to Lewis Morris for further
-   discussion of Philosophical Societies.
-
-   ***
-
-
 
    WHEREAS the cultivation of useful knowledge, and the advancement of the
    liberal arts and sciences in any country, have the most direct tendency
