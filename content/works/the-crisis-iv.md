@@ -3,27 +3,11 @@ Slug: major-works/american-crisis/the-crisis-iv
 Title: The Crisis IV
 Date: Mon Aug  4 09:08:53 EDT 2014
 
+   The AMERICAN CRISIS. No. 4.
+   
+   from Pennsylvanis Evening Post, September 13, 1777
 
-
-   Foner's introduction:
-
-   The fourth number of the Crisis was written on the day following the
-   Battle of Brandy wine, September 11, 1777. The British won the battle but
-   at a considerable price losing many more men than the Americans. When the
-   news reached Philadelphia that the American army had retreated to Chester,
-   people began to flee from the city and Congress itself left for Lancaster.
-   Paine was convinced that "unless something was done the City
-   [Philadelphia] would be lost." (Letter to Benjamin Franklin, May 16,
-   1778.) To arouse the citizens to a sense of their duty, and to stimulate
-   Washington's weary and ill-clad soldiers, he penned the Crisis IV. Howe,
-   Paine assured the fighting men, was weaker than before the battle, and the
-   Americans could not lose, "unless we sit down and suffer them to do it."
-   He ends his paper with one of his most famous utterances: "We fight not to
-   enslave, but to set a country free, and to make room upon the earth for
-   honest men to live in."
-
-   **********
-
+ 
    THOSE who expect to reap the blessings of freedom, must, like men, undergo
    the fatigues of supporting it. The event of yesterday was one of those
    kind of alarms which is just sufficient to rouse us to duty, without being
@@ -38,9 +22,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    masters at the last push, and always shall be while we do our duty. Howe
    has been once on the banks of the Delaware, and from thence driven back
    with loss and disgrace: and why not be again driven from the Schuylkill?
-   His condition and ours are very different. He has everybody to fight, we
-   have only his one army to cope with, and which wastes away at every
-   engagement: we can not only reinforce, but can redouble our numbers; he is
+   His condition and ours are very different. He has every body to fight, we
+   have only his *one* army to cope with, and which wastes away at every
+   engagement; we can not only reinforce, but can redouble our numbers; he is
    cut off from all supplies, and must sooner or later inevitably fall into
    our hands.
 
@@ -49,7 +33,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    conquer America, or subdue even a single state? The thing cannot be,
    unless we sit down and suffer them to do it. Another such a brush,
    notwithstanding we lost the ground, would, by still reducing the enemy,
-   put them in a condition to be afterwards totally defeated. Could our whole
+   put them in a condition to be afterwards totally defeated. 
+   
+   Could our whole
    army have come up to the attack at one time, the consequences had probably
    been otherwise; but our having different parts of the Brandywine creek to
    guard, and the uncertainty which road to Philadelphia the enemy would
@@ -72,39 +58,39 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    enemy advancing into a country, but it is the only place in which we can
    beat them, and in which we have always beaten them, whenever they made the
    attempt. The nearer any disease approaches to a crisis, the nearer it is
-   to a cure. Danger and deliverance make their advances together, and it is
+   to a cure: Danger and deliverance make their advances together, and it is
    only the last push, in which one or the other takes the lead.
 
    There are many men who will do their duty when it is not wanted; but a
    genuine public spirit always appears most when there is most occasion for
-   it. Thank God! our army, though fatigued, is yet entire. The attack made
+   it. Thank God! Our army, though fatigued, is yet intire. The attack made
    by us yesterday, was under many disadvantages, naturally arising from the
-   uncertainty of knowing which route the enemy would take; and, from that
+   uncertainty of knowing which route the enemy would take; and from that
    circumstance, the whole of our force could not be brought up together time
    enough to engage all at once. Our strength is yet reserved; and it is
    evident that Howe does not think himself a gainer by the affair, otherwise
-   he would this morning have moved down and attacked General Washington.
+   he would this morning have moved down and attacked general Washington.
 
    Gentlemen of the city and country, it is in your power, by a spirited
    improvement of the present circumstance, to turn it to a real advantage.
    Howe is now weaker than before, and every shot will contribute to reduce
    him. You are more immediately interested than any other part of the
-   continent: your all is at stake; it is not so with the general cause; you
-   are devoted by the enemy to plunder and destruction: it is the
+   continent; your all is at stake; it is not so with the general cause; you
+   are devoted by the enemy to plunder and destruction: It is the
    encouragement which Howe, the chief of plunderers, has promised his army.
    Thus circumstanced, you may save yourselves by a manly resistance, but you
-   can have no hope in any other conduct. I never yet knew our brave general,
+   can have no hope in any other conduct. I never yet knew our brave gen.
    or any part of the army, officers or men, out of heart, and I have seen
    them in circumstances a thousand times more trying than the present. It is
    only those that are not in action, that feel languor and heaviness, and
    the best way to rub it off is to turn out, and make sure work of it.
 
-   Our army must undoubtedly feel fatigue, and want a reinforcement of rest
-   though not of valor. Our own interest and happiness call upon us to give
+   Our army must undoubtedly feel fatigue, and want a reinforcement of rest,
+   though not of valour. Our own interest and happiness call upon us to give
    them every support in our power, and make the burden of the day, on which
    the safety of this city depends, as light as possible. Remember,
    gentlemen, that we have forces both to the northward and southward of
-   Philadelphia, and if the enemy be but stopped till those can arrive, this
+   Philadelphia, and if the enemy be but stopt till those can arrive, this
    city will be saved, and the enemy finally routed. You have too much at
    stake to hesitate. You ought not to think an hour upon the matter, but to
    spring to action at once. Other states have been invaded, have likewise
@@ -113,7 +99,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    have been saved from, and reflect on the success we have been blessed
    with, it would be sinful either to be idle or to despair.
 
-   I close this paper with a short address to General Howe. You, sir, are
+   I close this paper with a short address to gen. Howe. You, sir, are
    only lingering out the period that shall bring with it your defeat. You
    have yet scarce began upon the war, and the further you enter, the faster
    will your troubles thicken. What you now enjoy is only a respite from
@@ -130,6 +116,6 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    COMMON SENSE.
 
-   PHILADELPHIA, Sept. 12, 1777.
+   PHILADELPHIA, Sept. 12, at noon.
 
 
