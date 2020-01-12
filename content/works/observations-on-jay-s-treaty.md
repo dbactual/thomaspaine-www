@@ -3,29 +3,16 @@ Slug: essays/american-politics-&-government/observations-on-jay-s-treaty
 Title: Observations on Jay's Treaty
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-   Philip Foner's introduction:
-
-   After he was released from prison Paine stayed as a guest for
-   eighteen months at the house of James Monroe. It was there in Paris, early
-   in 1795, that he penned these observations on Jay's Treaty with Great
-   Britain. This agreement was signed in London in November, 1794, and it is
-   not clear just how Paine knew of its terms before they were made public.
-   At any rate, his criticism of the treaty was echoed by many people in
-   America after its text was published in the Philadelphia Aurora of July 2,
-   1795. For the agreement obtained no assurance that the British would stop
-   the seizure of American ships or the impressment of American seamen. In
-   return for Britain's agreement to give up the Northwestern posts and for
-   permission for American vessels to enter the British West Indies, Jay
-   agreed to the prohibition of export from the United States, in American
-   vessels, of sugar, coffee, cocoa and cotton. He also agreed to permit
-   British creditors to collect private debts from southern planters in
-   America. Washington signed the treaty reluctantly, and only because he was
-   led to believe that the only alternative was a war with England. But his
-   action alienated many people including his fellow-planters in the South.
-   The criticism of the President, heretofore subdued, was now openly
-   expressed.
-
-   *******
+   Somehow the author knew the contents of Jay's Treaty months before its release. Paine was just out of prison and ill. 
+   The two people in the American government close to Paine may have had access to that information, Barlow and Monroe, 
+   may have supplied him with it, but testing shows Paine was not the author. Perhaps Barlow or Monroe:
+   
+   (IMAGE:Observations Jays Treaty R.png)  (IMAGE:Observations Jays Treaty H.png)  (IMAGE:Observations Jays Treaty PBarlow.png) 
+   
+   (IMAGE:Observations Jays Treaty PMonroe.png)
+   
+  
+   Observations on Jay's Treaty
 
    The United States of America are negotiating with Spain respecting the
    free navigation of the Mississippi1, and the territorial limits of this
@@ -105,8 +92,6 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    AN AMERICAN.
 
-   1. The negotiations resulted in Pinckney's Treaty under which citizens of
-   the United States were granted, for a few years, the right to navigate the
-   Mississippi and the right to deposit in New Orleans.-Editor.
+  
 
 
