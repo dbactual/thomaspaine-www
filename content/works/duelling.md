@@ -13,26 +13,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > public.
 
 
-   Philip Foner's introduction:
-
-   This article was written after Paine read a pamphlet entitled Cursory
-   Reflections on the Single Combat or Modern Duel. Addressed to Gentlemen in
-   every Class of Life, the author of which remains unknown. Paine's article
-   appeared in the Pennsylvania Magazine of May, 1775.
-
-   Paine and Jefferson both voiced disapproval of the "murderous Practice of
-   Duelling," regarding it as a hang-over from the age of feudalism and
-   entirely out of date in civilized society. Paine was not too confident
-   that the practice would soon disappear, and the number of duels fought
-   during and immediately after the War for Independence proves that his
-   pessimism was justified. For an excellent discussion of the practice of
-   duelling in the Revolutionary period, see Evarts B. Greene, "The Code of
-   Honor in Colonial and Revolutionary Times, with Special Reference to New
-   England," in Colonial Society of Massachusetts, Publications, vol. XXVI,
-   1925, pp. 367-388.
-
-   ***
-
+   Definitely not Paine in tests or sound. When taking out the quotes from others, Jefferson is the leading candidate, 
+   but it doesn’t read like him, and the tests are weak for him even though he leads. I suspect this is a British 
+   piece with the quotes from a British writer. So I tested it against English writers. The author is most probably 
+   not in the authors we have for America. However, testing against British authors, there is a strong showing for Macaulay. 
+   The 3 who came up strongest when tested against each other:
+   
+   (Image: Dueling.png)
 
 
    GOTHIC and absurd as the custom of duelling is generally allowed to be,
