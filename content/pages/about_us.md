@@ -40,8 +40,6 @@ Matthew Jacobs, Larchmont, NY, Finance Professional
 
 Roderick Bradford, San Diego, CA - documentarian, editor of the Truth Seeker
 
-John Ward Regan, NYC - professor of Liberal Studies at NYU
-
 Lawrence Goodheart, Connecticut - professor of American History at U of Connecticut
 
 Ted Marotta, Johnstown, NY - instructor of History at Fulton-Montgomery CC, SUNY
