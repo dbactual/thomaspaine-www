@@ -8,49 +8,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    OF THE POLITICS TO BE AGITATED AT THE
 
    NEXT MEETING OF PARLIAMENT
-
-   Philip Foner's introduction:
-
-   Paine dates this pamphlet London, August 20, 1787, but since he did not
-   arrive in the English city before September 3, it is probable that he
-   wrote the first draft while he was in Paris at the behest of Condorcet,
-   Lafayette and Cardinal De Brienne. Indeed, his mission to London was
-   connected with his desire to cement friendly relations between England and
-   France, and it was with this purpose in mind that he published this
-   pamphlet. The French were in close alliance with the Dutch republican
-   party, but the Prussians intervened to support the Stadtholder, who
-   represented the opposite politics. William Pitt made a secret treaty with
-   the king of Prussia, and was prepared to support him in a war with France.
-   Paine's pamphlet is directed against Pitt's scheme, and insists chiefly
-   upon the incapacity of England to stand another war against France. "I
-   defend the cause of the poor," he writes, "of the manufacturers, of the
-   tradesmen, of the farmers, and of all those on whom the real burden of
-   taxes falls-but above all, I defend the cause of humanity." He reminds the
-   English people that those who want a war did so because they profited from
-   wars. "It will always happen," he observes, "that any rumor of war will be
-   popular among a great number of people in London. There are thousands who
-   live by it; it is their harvest; and the clamor which those people keep up
-   in newspapers and conversations passes unsuspiciously for the voice of the
-   people, and it is not till after the mischief is done, that the deception
-   is discovered." Thus Paine, who was the first to champion a people's war
-   for a progressive cause, was just as ready to denounce a war from which
-   only the wealthy and powerful stood to gain.
-
-   Pitt succeeded in his scheme to aid the Stadtholder, but Paine's
-   predictions were not quickly forgotten in England. The prefatory note to
-   the 1793 English edition of Paine's pamphlet points out: "The person who
-   has the authority to bring forward this pamphlet in its present shape
-   thinks his doing so a duty which he owes both to Mr. P and the people of
-   England, in order that the latter may judge what credit is due to (what a
-   great judge calls) the wild theories of Mr. Paine."
-
-   ***
-
-
+   
+   from the 1787 London pamphlet.
 
    PREFACE
 
-   AN EXPRESSION in the British Parliament respecting the American war,
+   AN expression in the British Parliament respecting the American war,
    alluding to Julius Caesar having passed the Rubicon, has on several
    occasions introduced that river as the figurative river of war.
 
@@ -60,11 +23,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    began.
 
    But while the calm lasts, it may answer a very good purpose to take a view
-   of the prospects, consistent with the maxim, that he that goes to war
+   of the prospects, consistent with the maxim, that he that goeth to war
    should first sit down and count the cost.
 
    The nation has a young and ambitious Minister at its head, fond of
-   himself, and deficient in experience: and instances have often shown that
+   himself, and deficient in experience; and instances have often shewn that
    judgment is a different thing from genius, and that the affairs of a
    nation are but unsafely trusted where the benefit of experience is
    wanting.
@@ -77,22 +40,19 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    It was then Great Britain and America against France singly, for Spain did
    not join till near the end of the war. The great number of troops which
-   the American colonies then raised and paid themselves were sufficient to
+   the American Colonies then raised and paid themselves, were sufficient to
    turn the scale, if all other parts had been equal. France had not at that
-   time attended to naval affairs so much as she has done since; arid the
-   capture of French sailors before any declaration of war was made, which,
+   time attended to Naval Affairs so much as she has done since, and the
+   capture of French sailors before any declaration of war was made, which
    however it may be justified upon policy, will always be ranked among the
    clandestine arts of war, assured a certain, but unfair advantage against
-   her, because it was like a man administering a disabling dose over night
+   her, because it was like a man administering a disabling dose over-night
    to the person whom he intends to challenge in the morning.
 
-   THE AUTHOR
 
+   PROSPECTS ON THE RUBICON, &c.
 
-
-   PROSPECTS ON THE RUBICON
-
-   RIGHT by chance and wrong by system are things so frequently seen in the
+   RIGHT by chance and wrong by system, are things so frequently seen in the
    political world, that it becomes a proof of prudence neither to censure
    nor applaud too soon.
 
@@ -103,35 +63,35 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    without being permitted to know the object or the reason why.
 
    Expensive preparations have been gone into; fears, alarms, dangers,
-   apprehensions, have been mystically held forth, as if the existence of the
+   apprehensions, have been mistically held forth, as if the existence of the
    nation was at stake, and at last the mountain has brought forth a Dutch
    mouse.
 
    Whoever will candidly review the present national characters of England
-   and France, cannot but be struck with surprise at the change that is
+   and France, cannot but be struck with surprize at the change that is
    taking place. The people of France are beginning to think for themselves,
    and the people of England are resigning up the privilege of thinking.
 
    The affairs of Holland have been the bubble of the day; and a tax is to be
-   laid on shoes and boots (so say the newspapers) for the service of the
-   Stadtholder of Holland. This will undoubtedly do honor to the nation, by
+   laid on shoes and boots (so say the news-papers) for the service of the
+   Stadtholder of Holland. This will undoubtedly do honour to the nation by
    verifying the old English proverb, "Over shoes, over boots."
 
-   But though Democritus could scarcely have forborne laughing at the folly,
-   yet, as serious argument and sound reasoning are preferable to ridicule,
-   it will be best to quit the vein of unprofitable humor, and give the cause
-   a fair investigation. But before we do this it may not be improper to take
+   But tho' Democritus could scarcely have forborne laughing at the folly,
+   yet as serious argument and sound reasoning are preferable to ridicule,
+   it will be best to quit the vein of unprofitable humour, and give the cause
+   a fair investigation. But before we do this, it may not be improper to take
    a general review of sundry political matters that will naturally lead to a
    better understanding of the subject.
 
-   What has been the event of all the wars of England but an amazing
-   accumulation of debt, and an unparalleled burden of taxes? Sometimes the
-   pretense has been to support one outlandish cause, and sometimes another.
-   At one time Austria, at another time Prussia, another to oppose Russia,
-   and so on; but the consequence has always been TAXES. A few men have
+   What has been the event of all the wars of England, but an amazing
+   accumulation of debt, and an unparalleled burthen of taxes. Sometimes the
+   pretence has been to support one outlandish cause, and sometimes another.
+   At one time Austria, at another time Prussia,
+   and so on; but the consequence has always been taxes. A few men have
    enriched themselves by jobs and contracts, and the groaning multitude bore
-   the burden. What has England gained by war since the year 1738, only fifty
-   years ago, to recompense her for TWO HUNDRED MILLIONS sterling, incurred
+   the burthen. What has England gained by war since the year 1738, only fifty
+   years ago, to recompense her for two hundred millions sterling, incurred
    as a debt within that time, and under the annual interest of which,
    besides what was incurred before, she is now groaning? Nothing at all.
 
@@ -143,117 +103,116 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    means he takes not to be deceived.
 
    That jealousy which individuals of every nation feel at the supposed
-   design of foreign powers, fits them to be the prey of ministers, and of
+   design of foreign powers, fits them to be the prey of Ministers, and of
    those among themselves whose trade is war, or whose livelihood is jobs and
    contracts. "Confusion to the politics of Europe, and may every nation be
-   at war in six months," was a toast given in my hearing not long since. The
-   man was in court to the Ministry for a job.
+   at war in six months," was a toast given in the hearing of the writer. &mdash;  
+   The man was in court to the Ministry for a job. &mdash; Ye gentle Graces, 
+   if any such there be, who preside over human actions, how
+   must ye weep at the viciousness of man.
 
-   Ye gentle Graces, if any such there be who preside over human actions, how
-   must ye weep at the viciousness of man!
-
-   When we consider, for the feelings of nature cannot be dismissed, the
+   When we consider, for the feelings of Nature cannot be dismissed, the
    calamities of war and the miseries it inflicts upon the human species, the
    thousands and tens of thousands of every age and sex who are rendered
    wretched by the event, surely there is something in the heart of man that
-   calls upon him to think! Surely there is some tender chord tuned by the
+   calls upon him to think! Surely there is some tender cord, tuned by the
    hand of its Creator, that struggles to emit in the hearing of the soul a
    note of sorrowing sympathy. Let it then be heard, and let man learn to
    feel, that the true greatness of a nation is founded on the principles of
    humanity; and that to avoid a war when our own existence is not
    endangered, and wherein the happiness of man must be wantonly sacrificed,
-   is a higher principle of true honor than madly to engage in it.
+   is a higher principle of true honour than madly to engage in it.
 
    But independent of all civil and moral considerations, there is no
-   possible event that a war could produce benefits to England or France, on
-   the present occasion, that could in the most distant proportion recompense
-   to either the expense she must be at. War involves in its progress such a
+   possible event that a war could produce either to England or France, on
+   the present occasion, that could in the most distant proportion recompence
+   to either the expence she must be at. War involves in its progress such a
    train of unforeseen and unsupposed circumstances, such a combination of
    foreign matters, that no human wisdom can calculate the end. It has but
-   one thing certain, and that is increase of TAXES. The policy of European
-   courts is now so cast, and their interests so interwoven with each other,
+   one thing certain, and that is increase of taxes. The policy of European
+   Courts is now so cast, and their interest so interwoven with each other,
    that however easy it may be to begin a war, the weight and influence of
    interfering nations compel even the conqueror to unprofitable conditions
    of peace.
 
    Commerce and maritime strength are now becoming the fashion, or rather the
    rage of Europe, and this naturally excites in them a combined wish to
-   prevent either England or France increasing its comparative strength by
-   destroying, or even relatively weakening, the other, and therefore
+   prevent either England or France encreasing its comparative strength by
+   destroying, or even relatively weakening the other, and therefore,
    whatever views each may have at the commencement of a war, new enemies
-   will arise as either gains the advantage, and continued obstacles ensue to
+   will arise as either gains the advantage, and continual obstacles ensue to
    embarrass success.
 
-   The greatness of Louis XIV made Europe his enemy, and the same cause will
-   produce the same consequence to any other European power. That nation,
-   therefore, is only truly wise, who, contenting herself with the means of
-   defense, creates to herself no unnecessary enemies by seeking to be
-   greater than the system of Europe admits. The monarch or the minister who
+   The greatness of Lewis the Fourteenth made Europe his enemy, and the 
+   same cause will
+   produce the same consequence to any other European Power. That nation,
+   therefore, is only truly wise, who contenting herself with the means of
+   defence, creates to herself no unnecessary enemies by seeking to be
+   greater than the system of Europe admits. The Monarch or the Minister who
    exceeds this line, knows but little of his business. It is what the poet
-   on another occasion calls-
+   on another occasion calls &mdash;
 
-   The point where sense and nonsense join.
+   "The point where sense and nonsense join."
 
    Perhaps there is not a greater instance of the folly of calculating upon
    events, than are to be found in the treaties of alliance. As soon as they
-   have answered the immediate purpose of either of the parties they are but
-   little regarded. Pretenses afterward are never wanting to explain them
+   have answered the immediate purpose of either of the parties, they are but
+   little regarded. Pretences, afterwards, are never wanting to explain them
    away, nor reasons to render them abortive. And if half the money which
    nations lavish on speculative alliances were reserved for their own
    immediate purpose, whenever the occasion shall arrive, it would be more
    productively and advantageously employed.
 
-   Monarchs and ministers, from ambition or resentment, often contemplate to
+   Monarchs and Ministers, from ambition or resentment, often contemplate to
    themselves schemes of future greatness, and set out with what appears to
-   them the fairest prospect. In the meanwhile, the great wheel of time and
-   fate revolves unobserved, and something never dreamed of turns up and
+   them the fairest prospect: In the mean while, the great wheel of time and
+   fate revolves unobserved, and something, never dreamed of, turns up and
    blasts the whole. A few fancied or unprofitable laurels supply the absence
-   of success, and the exhausted nation is HUZZA'D INTO NEW TAXES.
+   of success, and the exhausted nation is huzza'd into new Taxes.
 
-   The politics and interests of European courts are so frequently varying
+   The politics and interests of European Courts are so frequently varying
    with regard to each other, that there is no fixing even the probability of
    their future conduct. But the great principle of alliancing seems to be
-   but little understood, or little cultivated in courts, perhaps the least
-   of all, in that of England. No alliance can be operative that does not
-   embrace within itself, not only the attachment of the sovereigns, but the
+   but little understood, or little cultivated in Courts, perhaps the least
+   of all, in that of England. &mdash; No alliance can be operative, that does not
+   embrace within itself, not only the attachment of the Sovereigns, but the
    real interest of the nations.
 
    The alliance between France and Spain, however it may be spoken of as a
    mere family compact, derives its greatest strength from national interest.
-   The mines of Peru and Mexico are the soul of this alliance. Were those
+   The mines of Peru and Mexico are the Soul of this alliance. Were those
    mines extinct, the family compact would most probably dissolve.
 
    There exists not a doubt in the mind of Spain, what part England would
    act, respecting those mines, could she demolish the maritime power of
    France; and therefore the interest of Spain feels itself continually
-   united with France. Spain has high ideas of honor, but has not the same
-   ideas of English honor. They consider England as wholly governed by
+   united with France. Spain has high ideas of honour, but has not the same
+   ideas of English honour. They consider England as wholly governed by
    principles of interest, and that whatever she thinks it her interest to
    do, and supposes she has the power of doing, she makes very little
-   ceremony of attempting.
-
-   But this is not all-there is not a nation in Europe but what is more
+   ceremony of attempting. But this is not all &mdash; There is not a nation in 
+   Europe but what is more
    satisfied that those mines should be in the possession of Spain, than in
-   that of any other European nation; because the wealth of those mines,
+   that of any other European nation, because the wealth of those mines,
    sufficient to ruin Europe in the hands of some of its powers, is
    innocently employed with respect to Europe, and better and more peaceably
    distributed among them all, through the medium of Spain, than it would be
    through that of any other nation. This is one of the secret causes that
    combine so large a part of Europe in the interest of France, because they
-   cannot but consider her as a standing barrier to secure to them the free
+   cannot but consider her as standing as a barrier to secure to them the free
    and equal distribution of this wealth throughout all the dominions of
    Europe.
 
    This alliance of interest is likewise one of the unseen cements that
    prevents Spain and Portugal, two nations not very friendly to each other,
-   proceeding to hostilities. They are both in the same situation, and,
-   whatever their dislikes may be, they cannot fail to consider that by
+   proceeding to hostilities. They are both in the same situation, and
+   whatever their dislikes may be, they cannot fail to consider, that by
    giving way to resentment that would weaken and exhaust themselves, each
    would be exposed a prey to some stronger power.
 
    In short, this alliance of national interest is the only one that can be
    trusted, and the only one that can be operative. All other alliances
-   formed on the mere will and caprice of sovereigns, of family connections,
+   formed on the mere will and caprice of Sovereigns, of family connections,
    uncombined with national interests, are but the quagmire of politics, and
    never fail to become a loss to that nation who wastes its present
    substance on the expectancy of distant returns.
@@ -261,7 +220,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    With regard to Holland, a man must know very little of the matter, not to
    know that there exists a stronger principle of rivalship between Holland
    and England in point of commerce, than prevails between England and France
-   in point of power: and, therefore, whenever a Stadtholder of Holland shall
+   in point of power; and, therefore, whenever a Stadtholder of Holland shall
    see it his interest to unite with the principle of his country, and act in
    concert with the sentiments of the very people who pay him for his
    services, the means now taken by England to render him formidable, will
@@ -272,9 +231,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    thing with a design that it shall answer such or such an end, that will
    cause it to produce that end; the means taken must have a natural ability
    and tendency within themselves to produce no other, for it is this, and
-   not our wishes of policy, that governs the event.
+   not our wishes or policy, that governs the event.
 
-   The English Navigation Act was leveled against the interest of the Dutch
+   The English Navigation Act was levelled against the interest of the Dutch
    as a whole nation, and therefore it is not to be supposed that the
    catching at the accidental circumstances of one man, as in the case of the
    present Stadtholder, can combine the interest of that country with this. A
@@ -284,24 +243,25 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    and to repose himself on the interests of his country, in preference to
    the accidental and tumultuous assistance of exterior power.
 
-   England herself exhibits at this day a species of this kind of policy. The
-   present reign, by embracing the Scotch, has tranquillized and conciliated
-   the spirit that disturbed the two former reigns. Accusation were not
+   England herself exhibits at this day, a species of this kind of policy. The
+   present reign, by embracing the Scotch, has tranquilized and conciliated
+   the spirit that disturbed the two former reigns. Accusations were not
    wanting at that time to reprobate the policy as tinctured with ingratitude
-   toward those who were the immediate means of the Hanover Succession. The
-   brilliant pen of JUNIUS was drawn forth, but in vain. It enraptured
-   without convincing; and though in the plenitude of its rage it might be
+   toward those who were the immediate means of the Hanover succession. The
+   brilliant pen of Junius was drawn forth, but in vain. It enraptured
+   without convincing; and tho' in the plenitude of its rage it might be
    said to give elegance to bitterness, yet the policy survived the blast.
 
-   What then will be the natural consequence of this expense, on account of
+   What then will be the natural consequence of this expence, on account of
    the Stadtholder, or of a war entered into from that cause? Search the
    various windings and caverns of the human heart, and draw from thence the
    most probable conclusion, for this is more to be depended upon than the
-   projects or declarations of ministers.
+   projects or declarations of Ministers.
 
-   It may do very well for a paragraph in a miserable common newspaper, or
-   the wild effusions of romantic politicians or the mercenary views of those
-   who wish for war on any occasion, merely for the sake of jobs and
+   It may do very well for a paragraph in a miserable common news-paper, or
+   the wild effusions of romantic politicians, or the mercenary views of those
+   who wish for war on any occasion, or no occasion at all, 
+   but for the sake of jobs and
    contracts, to talk of French finesse or French intrigue; but the Dutch are
    not a people to be impressed by the finesse or intrigue of France or
    England, or any other nation. If there has been any finesse in the case,
@@ -318,19 +278,19 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    The Opposition in Holland were the enemies of the Stadtholder, upon a
    conviction that he was not the friend of their national interests. They
    wanted no other impulse but this. Whether this defect in him proceeded
-   from foreign attachment, from bribery or corruption, or from the well
-   known defects of his understanding is not the point of inquiry. It was the
-   effect rather than the cause that irritated the Hollanders.
+   from foreign attachment, from bribery or corruption, or from the 
+   well-known   defects of his understanding is not the point of inquiry. 
+   It was the effect rather than the cause that irritated the Hollanders.
 
    If the Stadtholder made use of the power he held in the government to
    expose and endanger the interests and property of the very people who
-   supported him, what other incentive does any man in any country require?
+   supported him, what other incentive does any man in any country require.
    If the Hollanders conceived the conduct of the Stadtholder injurious to
    their national interest, they had the same right to expel him which
    England had to expel the Stuarts; and the interference of England to
    re-establish him serves only to confirm in the Hollanders the same hatred
-   against England which the attempt of Louis XIV to reestablish the Stuarts
-   caused in England against France; therefore if the present policy is
+   against England which the attempt of Lewis the XIVth, to re-establish the Stuarts
+   caused in England against France; therefore, if the present policy is
    intended to attach Holland to England, it goes on a principle exceedingly
    erroneous.
 
@@ -338,14 +298,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    part of the question.
 
    He must place the cause of his troubles to some secret influence which
-   governed his conduct during the late war, or, in other words, that he was
+   governed his conduct during the late war, or in other words, that he was
    suspected of being the tool of the then British Administration. Therefore,
    as every part of an argument ought to have its weight, instead of charging
    the French with intriguing with the Hollanders, the charge more
-   consistently lies against the British Ministry for intriguing with the
+   consistently lies against the British Ministry, for intriguing with the
    Stadtholder, and endangering the nation in a war without a sufficient
    object. That which the Ministry are now doing confirms the suspicion, and
-   explains to the Hollanders that collusion of the Stadtholder, against
+   explains to the Hollanders that collusion of the Stadtholder against
    their national interests, which he must wish to have concealed, and the
    explanation does him more hurt than the unnecessary parade of service has
    done him good.
@@ -354,13 +314,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    in a case that must put the Stadtholder on still worse terms with his
    countrymen. Had France made any disposition for war, had she armed, had
    she made any one hostile preparation, there might then have been some
-   pretense for England taking a step that cannot fail to expose to the world
+   pretense for England taking a step, that cannot fail to expose to the world
    that the suspicions of the Hollanders against the Stadtholder were well
    founded, and that their cause was just, however unsuccessful has been the
    event.
 
    As to the consequence of Holland in the scale of Europe (the great stake,
-   say some of the newspapers, for which England is contending), that is
+   say some of the news-papers, for which England is contending), that is
    naturally pointed out by her condition: As merchants for other nations her
    interest dictates to her to be a neutral power, and this she always will
    be unless she is made war upon, as was the case in the last war; and any
@@ -373,16 +333,16 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Let Holland be allied with England or with France, or with neither, or
    with both, her national conduct, consequently arising out of her
    circumstances, will be nearly the same, that is, she will be neutral.
-   Alliances have such a natural tendency to sink into harmless, unoperative
+   Alliances have such a natural tendency to sink into harmless unoperative
    things, that to make them a cause for going to war, either to prevent
    their being formed, or to break any already formed, is the silliest
    speculation that war can be made upon, or wealth wasted to accomplish. It
    would scarcely be worth the attempt, if war could be carried on without
-   expense, because almost the whole that can be hoped at the risk and
-   expense of a war, is effected by their natural tendency to inactivity.
+   expence, because almost the whole that can be hoped at the risk and
+   expence of a war, is effected by their natural tendency to inactivity.
 
    However pompous the declarations of an alliance may be, the object of many
-   of them is no other than good-will, and reciprocally securing, as far as
+   of them is no other than good-will and reciprocally securing, as far as
    such security can go, that neither shall join the enemies of the other in
    any war that may happen. But the national circumstances of Holland,
    operate to insure this tranquility on her part as effectually to the power
@@ -391,13 +351,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    as the security from engagement.
 
    As to a cordial union of interest between Holland and England, it is as
-   unnatural to happen as between two individual rivals in the same trade.
+   unnatural to happen as between two individual rivals in the same trade:
    And if there is any step that England could take to put it at a still
    greater distance, it is the part she is now acting. She has increased the
    animosity of Holland on the speculative politics of interesting the
    Stadtholder, whose future repose depends upon uniting with the Opposition
    in Holland, as the present reign did with the Scotch. How foolish then has
-   been the policy, how needless the expense, of engaging in a war on account
+   been the policy, how needless the expence, of engaging in a war on account
    of the affairs of Holland.
 
    A cordiality between England and France is less improbable than between
@@ -408,37 +368,35 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    that keeps up the animosity. But on the part of Holland toward England,
    there is over and above the spirit of animosity, the more powerful motives
    of interested commercial rivalship, and the galling remembrance of past
-   injuries.
-
-   The making war upon them under Lord North's administration, when they were
+   injuries. The making war upon them under Lord North's administration, 
+   when they were
    taking no part in the hostilities, but merely acting the business of
    merchants, is a circumstance that will not easily be forgotten by them. On
    these reasons, therefore, which are naturally deduced from the operative
    feelings of mankind, any expectation of attaching Holland to England as a
-   friendly power is vague and futile. Nature has her own way of working in
+   friendly power, is vague and futile. Nature has her own way of working in
    the heart, and all plans of politics not founded thereon will disappoint
    themselves.
 
-   Anyone who will review the history of English politics for several years
-   past must perceive they have been directed without system. To establish
-   this it is only necessary to examine one circumstance, fresh in the mind
+   Any one who will review the history of English politics for several years
+   past, must perceive they have been directed without system. To establish
+   this, it is only necessary to examine one circumstance fresh in the mind
    of every man.
 
-   The American war was prosecuted at a very great expense, on the publicly
-   declared opinion that the retaining America was necessary to the existence
+   The American war was prosecuted at a very great expence, on the publicly
+   declared opinion, that the retaining America was necessary to the existence
    of England; but America being now separated from England, the present
    politics are that she is better off without her than with her. Both these
-   cannot be true, and their contradiction to each other shows want of
+   cannot be true, and their contradiction to each other shews want of
    system. If the latter is true, it amounts to an impeachment of the
-   political judgment of government, because the discovery ought to have been
-   made before the expense was gone into.
-
-   This single circumstance, yet fresh in every man's mind, is sufficient to
+   political judgment of Government, because the discovery ought to have been
+   made before the expence was gone into. This single circumstance, yet fresh 
+   in every man's mind, is sufficient to
    create a suspicion, whether the present measures are more wisely founded
    than the former ones; and whether experience may not prove, that going to
    war for the sake of the Stadtholder, or for the hope of retaining a
-   partial interest in Holland, who under any connection, can from
-   circumstances be no more than a neutral power, is not as weak policy as
+   partial interest in Holland, who, under any connection can from
+   circumstances, be no more than a neutral power, is not as weak policy as
    going to war to retain America.
 
    If England is powerful enough to maintain her own ground and consequence
@@ -449,68 +407,66 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    her politics, or renounce her politics to vindicate her opinion.
 
    If some kind of connection with Holland is supposed to be an object worthy
-   some expense to obtain, it may be asked why was that connection broken by
-   making war upon her in the last war? If it was not then worth preserving
-   without expense, is it now worth re-obtaining at a vast expense? If the
+   some expence to obtain, it may be asked why was that connection broken by
+   making war upon her in the last war. If it was not then worth preserving
+   without expence, is it now worth re-obtaining at a vast expense? If the
    Hollanders do not like the English, can they be made to like them against
    their wills? If it shall be said that under the former connection they
-   were unfriendly, will they be more friendly under any other?
-
-   They were then in as free a situation to choose as any future
+   were unfriendly, will they be more friendly under any other? They were 
+   then in as free a situation to choose as any future
    circumstances can make them, and, therefore, the national governing
-   sentiment of the country can be easily discovered; for it signifies not
+   sentiment of the country can be easily discovered, for it signifies not
    what or who a Stadtholder may be, that which governs Holland is, and
    always must be, a commercial principle, and it will follow this line in
    spite of politics. Interest is as predominant and as silent in its
    operations as love; it resists all the attempts of force, and countermines
-   all the stratagem of control.
+   all the stratagem of controul.
 
-   The most able English statesmen and politicians have always held it as a
+   The most able English Statesmen and Politicians have always held it as a
    principle, that foreign connections served only to embarrass and exhaust
    England. That, surrounded by the ocean, she could not be invaded, as
    countries are on the Continent of Europe, and that her insular situation
    dictated to her a different system of politics to what those countries
    required, and that to be enleagued with them was sacrificing the
-   advantages of situation to a capricious system of politics. That though
-   she might serve them they could not much serve her, and that as the
+   advantages of situation to a capricious system of politics. That tho'
+   she might serve them, they could not much serve her, and that as the
    service must at all times be paid for, it could always be procured when it
    was wanted; and that it would be better to take it up in this line than to
    embarrass herself with speculative alliances that served rather to draw
-   her into a continental war on their account, than extricate her from a war
+   her into a Continental war on their account, than extricate her from a war
    undertaken on her own account.
 
    From this discussion of the affairs of Holland, and of the inadequacy of
-   Holland as an object of war, we will proceed to show that neither England
+   Holland as an object of war, we will proceed to shew that neither England
    nor France is in a condition to go to war, and that there is no present
-   object to the one or the other to recompense the expense that each must be
-   at, or atone to the subjects of either for the additional burdens that
+   object to the one or the other to recompence the expence that each must be
+   at, or atone to the subjects of either for the additional burthens that
    must be brought upon them. I defend the cause of the poor, of the
    manufacturers, of the tradesmen, of the farmers, and of all those on whom
-   the real burden of taxes falls-but above all, I defend the cause of
+   the real burthen of taxes fall &mdash; but above all, I defend the cause of
    humanity.
 
-   It will always happen, that any rumor of war will be popular among a great
+   It will always happen, that any rumour of war will be popular among a great
    number of people in London. There are thousands who live by it; it is
-   their harvest; and the clamor which those people keep up in newspapers and
+   their harvest; and the clamour which those people keep up in news-papers and
    conversations passes unsuspiciously for the voice of the people, and it is
    not till after the mischief is done, that the deception is discovered.
 
-   Such people are continually holding up, in very magnified terms, the
+   Such people are continually holding up in very magnified terms the
    wealth of the nation, and the depressed condition of France, as reasons
    for commencing a war, without knowing anything of either of these
    subjects.
 
-   But admitting them to be as true as they are false, as will be here-after
-   shown, it certainly indicates a vileness in the national disposition of
-   any country that will make the accidental, internal difficulties to which
+   But admitting them to be as true, as they are false, as will be hereafter
+   shewn, it certainly indicates a vileness in the national disposition of
+   any country, that will make the accidental internal difficulties to which
    all nations are subject, and sometimes encumbered with, a reason for
-   making war upon them. The amazing increase and magnitude of the paper
+   making war upon them. The amazing encrease and magnitude of the paper
    currency now floating in all parts of England, exposes her to a shock as
    much more tremendous than the shock occasioned by the bankruptcy of the
    South Sea funds, as the quantity of credit and paper currency is now
-   greater than they were at that time.
-
-   Whenever such a circumstance shall happen, and the wisest men in the
+   greater than they were at that time. Whenever such a circumstance shall 
+   happen, and the wisest men in the
    nation are, and cannot avoid being, impressed with the danger, it would be
    looked upon as baseness in France to make the distress and misfortune of
    England a cause and opportunity for making war upon her, yet this hideous
@@ -530,14 +486,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    life, the end is always nearer than was expected; and we become bankrupts
    in time by the same delusion that nations become bankrupts in property.
 
-   The little which nations know, or are sometimes willing to know, of each
+   The little which nations know, or are some times willing to know, of each
    other, serves to precipitate them into wars which neither would have
    undertaken, had they fully known the extent of the power and circumstances
    of each other; it may therefore be of some use to place the circumstances
    of England and France in a comparative point of view.
 
    In order to do this the accidental circumstances of a nation must be
-   thrown out of the account. By accidental circumstances is meant those
+   thrown out of the account. By accidental circumstances is meant, those
    temporary disjointings and derangements of its internal system which every
    nation in the world is subject to, and which, like accidental fits of
    sickness in the human body, prevent in the interim the full exertion and
@@ -547,71 +503,74 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    population, its wealth and its revenues. To these may be added the
    disposition of the people. Each of these will be spoken of as we proceed.
 
-   Instances are not wanting to show that a nation confiding too much on its
+   Instances are not wanting to shew that a nation confiding too much on its
    natural strength, is less inclined to be active in its operations than one
    of less natural powers who is obliged to supply that deficiency by
    increasing its exertions. This has often been the case between England and
-   France. The activity of England, arising from its fears, has sometimes
-   exceeded the exertions of France, reposing on its confidence.
+   France. The activity of England arising from its fears, has sometimes
+   exceeded the exertions of France reposing on its confidence.
 
    But as this depends on the accidental disposition of a people, it will not
    always be the same. It is a matter well known to every man who has lately
    been in France, that a very extraordinary change is working itself in the
    minds of the people of that nation. A spirit that will render France
    exceedingly formidable whenever its government shall embrace the fortunate
-   opportunity of doubling its strength by allying, if it may be so expressed
-   (for it is difficult to express a new idea by old terms), the majesty of
+   opportunity of doubling its strength by allying, if it may be so expressed,
+   (for it is difficult to express a new idea by old terms) the Majesty of
    the sovereign with the majesty of the nation; for of all alliances, that
    is infinitely the strongest and the safest to be trusted to, because the
    interest so formed, and operating against external enemies, can never be
    divided.
 
    It may be taken as a certain rule, that a subject of any country attached
-   to the government on the principles above mentioned, is of twice the value
+   to the government on the principles above-mentioned, is of twice the value
    he was before. Freedom in the subject is not a diminution, as was formerly
    believed, of the power of government, but an increase of it. Yet the
    progress by which changes of this kind are affected, requires to be nicely
    attended to.
 
-   Were governments to offer freedom to the people, or to show an anxiety for
+   Were governments to offer freedom to the people, or to shew an anxiety for
    that purpose, the offer most probably would be rejected. The purpose for
-   which it was offered might be mistrusted. Therefore the desire must
+   which it was offered, might be mistrusted. Therefore the desire must
    originate with, and proceed from the mass of the people, and when the
    impression becomes universal, and not before, is the important moment for
    the most effectual consolidation of national strength and greatness that
    can take place.
 
-   While this change is working, there will appear a kind of chaos in the
+   While this change is working, there will appear a kind of chaos on the
    nation; but the creation we enjoy arose out of chaos, and our greatest
    blessings appear to have a confused beginning.
 
-   Therefore we may take it for granted, that what has at this moment the
-   appearance of disorder in France, is no more than one of the links in that
+   Therefore, we may take it for granted, that what has at this moment the
+   appearance of disorder in France, is no more than one of the natural links 
+   in that
    great chain of circumstances by which nations acquire the summit of their
-   greatness. The provincial assemblies already begun in France, are as full,
+   greatness. The Provincial Assemblies already begun in France, are as full,
    or rather a fuller representation of the people than the Parliaments of
    England are.
 
-   The French, or, as they were formerly called, the Franks (from whence came
-   the English words frank and free), were once the freest people in Europe;
+   The French, or, as they were formerly called, the Franks, (from whence came
+   the English words Frank and Free), were once the freest people in Europe;
    and as nations appear to have their periodical revolutions, it is very
    probable they will be so again. The change is already begun. The people of
    France, as it was before observed, are beginning to think for themselves,
    and the people of England resigning up the prerogative of thinking.
 
    We shall now proceed to compare the present condition of England and
-   France as to population, revenues and wealth, and show that neither is in
+   France as to population, revenues and wealth, and shew that neither is in
    a condition of going to war, and that war can end in nothing but loss,
    and, most probably, a temporary ruin to both nations.
 
    To establish this point so necessary for both nations to be impressed
    with, a free investigation of all matters connected with it is
-   indispensable. If, therefore, anything herein advanced shall be
+   indispensable: If, therefore, any thing herein advanced shall be
    disagreeable, it must be justified on the ground that it is better to be
    known in order to prevent ruin, than to be concealed, when such
    concealment serves only to hasten the ruin on.
 
-   POPULATION.-The population of France, being upwards of twenty-four
+   OF POPULATION. 
+   
+   The Population of France being upwards of twenty-four
    millions, is more than double that of Great Britain and Ireland; besides
    which France recruits more soldiers in Switzerland than England does in
    Scotland and Ireland. To this may likewise be added, that England and
@@ -620,24 +579,27 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    rival in trade and manufactures, will always operate to hold Ireland in a
    state of sentimental hostility with England.
 
-   REVENUES.-The revenues of France are twenty-four millions sterling. The
-   revenues of England fifteen millions and a half. The taxes per head in
+   REVENUES. 
+   
+   The Revenues of France are twenty-four millions sterling. The
+   Revenues of England fifteen millions and an half. The taxes per head in
    France are twenty shillings sterling; the taxes per head in England are
    two pounds four shillings and two pence. The national debt of France,
    including the life annuities (which are two-fifths of the whole debt, and
    are annually expiring) at eleven years purchase, is one hundred and
    forty-two millions sterling. The national debt of England, the whole of
    which is on perpetual interest, is two hundred and forty-five millions.
-
    The national debt of France contains a power of annihilating itself
    without any new taxes for that purpose; because it needs no more than to
    apply the life annuities, as they expire, to the purchase of the other
-   three-fifths, which are on perpetual interest. But the national debt of
+   three-fifths, which are on perpetual interest: But the national debt of
    England has not this advantage, and therefore the million a year that is
    to be applied toward the reducing it is so much additional tax upon the
    people, over and above the current service.
 
-   WEALTH.-This is an important investigation: it ought therefore to be heard
+   WEALTH. 
+   
+   This is an important investigation, it ought therefore to be heard
    with patience, and judged of without prejudice.
 
    Nothing is more common than for people to mistake one thing for another.
@@ -652,18 +614,18 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    that sum. Yet this is no more money than what the nation possessed twenty
    years ago, and therefore, whatever her trade may be, it has produced to
    her no profit. Certainly no man can be so unwise as to suppose that
-   increasing the quantity of bank notes, which is done with as little
-   trouble as printing of newspapers, is national wealth.
+   encreasing the quantity of bank notes, which is done with as little
+   trouble as printing of news-papers, is national wealth.
 
    The quantity of money in the nation was very well ascertained in the years
-   1773, '74? and '75? by calling in the light gold coin.
+   1773, 74, and 76, by calling in the light gold coin.
 
    There were upwards of fifteen millions and a half of gold coin then called
    in, which, with upwards of two millions of heavy guineas that remained
    out, and the silver coin, made above twenty millions, which is more than
    there is at this day. There is an amazing increase in the circulation of
-   bank paper, which is no more national wealth than newspapers are; because
-   an increase of promissory notes, the capital remaining unincreasing, or
+   Bank paper, which is no more national wealth than news-papers are; because
+   an increase of promissory notes, the capital remaining unincreased, or
    not increasing in the same proportion, is no increase of wealth. It serves
    to raise false ideas which the judicious soon discover, and the ignorant
    experience to their cost.
@@ -672,46 +634,46 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    nation, it would be too great an allowance to say that one-fourth of that
    sum, which is five millions, was in London. But even admitting this to be
    the case, it would require no very superior powers to ascertain pretty
-   nearly what proportion of that sum of five millions could be in the bank.
+   nearly what proportion of that sum of five millions could be in the Bank.
    It would be ridiculous to suppose it could be less than half a million,
    and extravagant to suppose it could be two millions.
 
    It likewise requires no very extraordinary discernment to ascertain how
-   immense the quantity of bank notes, compared to the capital in the bank
-   must be, when it is considered that the national taxes are paid in bank
-   notes, that all great transactions are done in bank notes, and that were a
+   immense the quantity of Bank Notes, compared to the capital in the Bank
+   must be, when it is considered, that the national taxes are paid in Bank
+   Notes, that all great transactions are done in Bank Notes, and that were a
    loan for twenty millions to be opened at the meeting of Parliament, it
-   would most probably be subscribed in a few days. Yet all men must know the
+   would most probably be subscribed in a few days: Yet all men must know the
    loan could not be paid in money, because it is at least four times greater
-   than all the money in London, including the bankers and the bank amount,
-   too. In short, everything shows, that the rage that overran America, for
-   paper money or paper currency, has reached to England under another name.
-   There it was called continental money, and here it is called bank notes.
+   than all the money in London, including the Bankers and the Bank amount
+   too. In short, every thing shows, that the rage that overran America, for
+   paper money, or paper currency, has reached to England under another name.
+   There it was called Continental Money, and here it is called Bank Notes.
    But it signifies not what name it bears, if the capital is not equal to
    the redemption.
 
    There is likewise another circumstance that cannot fail to strike with
-   some force when it is mentioned, because every man that has anything to do
-   with money transactions will feel the truth of it, though tie may not
+   some force when it is mentioned, because every man that has any thing to do
+   with money transactions will feel the truth of it, tho' he may not
    before have reflected upon it. It is the embarrassed condition into which
    the gold coin is thrown by the necessity of weighing it, and by refusing
    guineas that are even standing weight, and there appears to be but few
-   heavy ones. Whether this is intended to force the paper currency into
+   heavy ones. Whether this is intended to force the Paper Currency into
    circulation, is not here attempted to be asserted, but it certainly has
    that effect to a very great degree, because people, rather than submit to
    the trouble and hazard of weighing, will take paper in preference to
    money. This was once the case in America.
 
-   The natural effect of increasing and continuing to increase paper
+   The natural effect of encreasing and continuing to increase paper
    currencies is that of banishing the real money. The shadow takes place of
    the substance till the country is left with only shadows in its hands.
 
-   A trade that does not increase the quantity of real money in a country
-   cannot be styled a profitable trade; yet this is certainly the case with
+   A trade that does not increase the quantity of real money in a country,
+   cannot be stiled a profitable trade; yet this is certainly the case with
    England: and as to credit, of which so much has been said, it may be
    founded on ignorance or a false belief, as well as on real ability.
 
-   In Amsterdam, the money deposited in the bank is never taken out again.
+   In Amsterdam, the money deposited in the Bank is never taken out again.
    The depositors, when they have debts to pay, transfer their right to the
    persons to whom they are indebted and those again proceed by the same
    practice, and the transfer of the right goes for payment; now could all
@@ -726,76 +688,76 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    and silver except England. By the registers kept at Lisbon and Cadiz, the
    two ports into which the gold and silver from South America are imported,
    it appears that above eighty millions sterling have been imported within
-   twenty years. (From 1763 to 1777, a period of fifteen years of peace, the
-   registered importation of gold and silver into Lisbon and Cadiz, was
-   seventy millions sterling, besides what was privately landed.-Author.)
+   twenty years. (1)
    This has spread itself over Europe, and increased the quantity in all the
-   countries on the Continent; yet twenty years ago there was as much gold
+   countries on the Continent, yet twenty years ago there was as much gold
    and silver in England as there is at this time.
 
    The value of the silver imported into Europe exceeds that of the gold, yet
-   everyone can see there is no increase of silver coin in England; very
+   every one can see there is no increase of silver coin in England; very
    little silver coin appearing except what are called Birmingham shillings,
    which have a faint impression of King William on one side, and are smooth
    on the other.
 
-   In what is the profit of trade to show itself but by increasing the
-   quantity of that which is the object of trade, money? An increase of paper
+   In what is the profits of trade to shew itself but by increasing the
+   quantity of that which is the object of trade, money. An increase of paper
    is not an increase of national money, and the confounding paper and money
    together, or not attending to the distinction, is a rock that the nation
    will one day split upon.
 
-   Whether the payment of interest to foreigners, or the trade to the East
-   Indies, or the nation embroiling itself in foreign wars, or whether the
+   Whether the payment of interest to foreigners, or the trade to the East-Indies, 
+   or the nation embroiling itself in foreign wars, or whether the
    amount of all the trade which England carries on with different parts of
    the world, collectively taken, balances itself without profit; whether one
-   or all of these is the cause, why the quantity of money does not increase
-   in England, is not, in this place the object of inquiry. It is the fact
+   or all of these is the cause, why the quantity of money does not encrease
+   in England is not, in this place, the object of enquiry. It is the fact
    and not the cause that is the matter here treated of.
 
-   Men immersed in trade and the concerns of a counting-house are not the
+   Men immersed in trade and the concerns of a counting house, are not the
    most speculative in national affairs, or always the best judges of them.
    Accustomed to run risks in trade, they are habitually prepared to run
-   risks with government, and though they are the first to suffer, they are
+   risks with Government, and tho' they are the first to suffer, they are
    often the last to foresee an evil.
 
    Let us now cast a look toward the manufactures. A great deal has been said
    of their flourishing condition, and perhaps a great deal too much, for it
-   may again be asked, where is the profit if there is no increase of money?
+   may again be asked, where is the profit if there is no encrease of money 
+   in the nation.
 
    The woolen manufacture is the staple manufacture of England, and this is
    evidently on the decline, in some, if not in all its branches. The city of
    Norwich, one of the most populous cities in England, and wholly dependent
-   on the woolen manufacture, is at this day, in a very impoverished
-   condition owing to the decline of its trade.
+   on the woollen manufacture, is, at this day in a very impoverished
+   condition, owing to the decline of its trade.
 
    But not to rest the matter on a general assertion, or embarrass it with
    numerous statements, we will produce a circumstance by which the whole
    progress of the trade may be ascertained.
 
    So long as thirty years ago the price paid to the spinners of wool was one
-   shilling for twenty-four skeins, each skein containing 560 yards. This,
+   shilling for twenty-four skains, each skain containing five hundred and 
+   sixty yards. This,
    according to the term of the trade, was called giving a shilling for a
-   shilling. A good hand would spin twelve skeins, which was six pence a day.
+   shilling. A good hand would spin twelve skains, which was six pence a day.
 
    According to the increase of taxes, and the increased price of all the
    articles of life, they certainly ought now to get at least fifteen pence,
    for what thirty years ago they got a shilling for. But such is the decline
-   of the trade that the case is directly the contrary. They now get but nine
-   pence for the shilling, that is, they get but nine pence for what thirty
-   years ago they got a shilling for. Can these people cry out for war when
+   of the trade that the case is directly the contrary. They now get but 
+   nine pence for the shilling, that is, they get but nine pence for what thirty
+   years ago they got a shilling for. Can these people cry out for war, when
    they are already half ruined by the decline of trade, and half devoured by
-   the increase of taxes?
+   the increase of taxes.
 
    But this is not the whole of the misfortunes which that part of the
    country suffers, and which will extend to others. The Norfolk farmers were
-   the first who went into the practice of manuring their land with marl; but
-   time has shown that though it gave a vigor to the land for some years, it
+   the first who went into the practice of manuring their land with marle: But
+   time has shewn, that though it gave a vigour to the land for some years, it
    operated in the end to exhaust its stamina; that the lands in many parts
-   are worse than before they began to marl, and that it will not answer to
-   marl a second time.
+   are worse than before they began to marle, and that it will not answer to
+   marle a second time.
 
-   The manufacturers of Manchester, Birmingham and Sheffield have had of late
+   The manufactures of Manchester, Birmingham and Sheffield have had of late
    a considerable spring, but this appears to be rather on speculation than
    certainty. The speculations on the American market have failed, and that
    on Russia is becoming very precarious. Experience likewise was wanting to
@@ -806,34 +768,34 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    But in the best state which manufactures can be in, they are very unstable
    sources of national wealth. The reasons are, that they seldom continue
-   long in one state. The market for them depends upon the caprice of
+   long in one stay. The market for them depends upon the caprice of
    fashions, and sometimes of politics in foreign countries, and they are at
    all times exposed to rivalship as well as to change. The Americans have
    already several manufactures among them, which they prefer to the English,
-   such as axes, scythes, sickles, ploughs, planes, nails, etc. Window glass,
+   such as axes, scythes, sickles, houghs, planes, nails, &c. Window glass,
    which was once a considerable article of export from England to America,
    the Americans now procure from other countries, nearly as good as the
-   English crown glass, and but little dearer than the common green window
+   English Crown glass, and but little dearer than the common green window
    glass.
 
-   It is somewhat remarkable that so many pens have been displayed to show
+   It is somewhat remarkable that so many pens have been displayed to shew,
    what is called the increase of the commerce of England, and yet all of
    them have stopped short of the grand point, that is, they have gone no
-   further than to show that a larger proportion of shipping, and a greater
-   quantity of tonnage have been employed of late years than formerly. But
+   further than to shew that a larger number of shipping, and a greater
+   quantity of tonnage have been employed of late years than formerly: But
    this is no more than what is happening in other parts of Europe. The
    present fashion of the world is commerce, and the quantity increases in
    France as well as in England.
 
-   But the object of all trade is profit, and profit shows itself, not by an
+   But the object of all trade is profit, and profit shews itself, not by an
    increase of paper currency, for that may be nationally had without the
    trouble of trade, but by an increase of real money: therefore the
    estimation should have ended, not in the comparative quantity of shipping
    and tonnage, but in the comparative quantity of gold and silver.
 
    Had the quantity of gold and silver increased in England, the ministerial
-   writers would not have stopped short at shipping and tonnage; but if they
-   know anything of the matter they must know that it does not increase, and
+   writers would not have stopt short at shipping and tonnage; but if they
+   know any thing of the matter they must know that it does not increase, and
    that the deception is occasioned by the increase of paper instead of
    money, and that as paper continues to increase, gold and silver will
    diminish. Poorer in wealth and richer in delusion.
@@ -846,10 +808,10 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    peace before last, it does not appear that England has derived or retains
    any portion of it.
 
-   M. Necker states the annual increase of gold and silver in France, that
-   is, the proportion which France draws of the annual importation into
-   Europe, to be upwards of one million sterling. But England, in the space
-   of twenty years, does not appear to have increased in anything but paper
+   M. Neckar states the annual increase of gold and silver in France, that
+   is, the proportion which France draws of the annual importation in to
+   Europe, to be upwards of one million sterling: But England, in the space
+   of twenty years, does not appear to have encreased in anything but paper
    currency.
 
    Credulity is wealth while credulity lasts, and credit is, in a thousand
@@ -864,13 +826,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    In short, to whatever point the eye is directed, whether to the money, the
    paper, the manufactures, the taxes, or the debt, the inability of
    supporting a war is evident, unless it is intended to carry it on by
-   fleecing the skin over people's ears by taxes; and therefore the
+   fleecing the skin over peoples ears by taxes; and therefore the
    endangering the nation in a war for the sake of the Stadtholder of
    Holland, or the King of Prussia, or any other foreign affairs, from which
    England can derive no possible advantage, is an absurd and ruinous system
    of politics.
 
-   France, perhaps, is not in a better situation, and therefore, a war where
+   France perhaps is not in a better situation, and, therefore, a war where
    both must lose, and wherein they could only act the part of seconds, must
    historically have been denominated a boyish, foolish, unnecessary quarrel.
 
@@ -879,11 +841,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the Revolution to what was the practice before.
 
    Before the Revolution the intervals of peace and war always found means to
-   pay off the expense, and leave the nation clear of incumbrance at the
+   pay off the expence, and leave the nation clear of incumbrance at the
    commencement of any succeeding war; and even for some years after the
    Revolution this practice was continued.
 
-   From the year 1688 (the era of the Revolution) to the year 1702, a period
+   From the year 1688 (the aera of the Revolution) to the year 1702, a period
    of fourteen years, the sums borrowed by Government at different times,
    amounted to forty-four millions; yet this sum was paid off almost as fast
    as it was borrowed; thirty-four millions being paid off, at the
@@ -892,7 +854,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    From that time wars have been carried on by borrowing and funding the
    capital on a perpetual interest, instead of paying it off, and thereby
-   continually carrying forward and accumulating the weight and expense of
+   continually carrying forward and accumulating the weight and expence of
    every war into the next. By this means that which was light at first
    becomes immensely heavy at last. The nation has now on its shoulders the
    weight of all the wars from the time of Queen Anne. This practice is
@@ -908,33 +870,32 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    proportioned rapidity with which those capitals accumulated; because by
    continuing the practice, not only higher and higher premiums must be given
    for loans, but the money, or rather the paper, will not go so far as it
-   formerly did, and therefore the debt will increase with a continually
-   increasing velocity.
+   formerly did, and therefore the debt will encrease with a continually
+   encreasing velocity.
 
-   The expense of every war, since the national debt began, has, upon an
-   average, been double the expense of the war preceding it; the expense
+   The expence of every war, since the national debt began, has, upon an
+   average, been double the expense of the war preceding it: the expence
    therefore of the next war will be at least two hundred millions, which
-   will increase the annual interest to at least seventeen millions, and
+   will encrease the annual interest to at least seventeen millions, and
    consequently the taxes in the same proportion; the following war will
-   increase the interest to thirty-three millions, and a third war will mount
-   up the interest to sixty-five millions.
-
-   This is not going on in the spirit of prediction, but taking what has
+   encrease the interest to thirty-three millions, and a third war will mount
+   up the interest to sixty-five millions. This is not going on in the 
+   spirit of prediction, but taking what has
    already been as a rule for what will yet be, and therefore the nation has
    but a miserable prospect to look at. The weight of accumulating interest
    is not much felt till after many years have passed over; but when it
-   begins to be heavy, as it does now, the burden increases like that of
+   begins to be heavy, as it does now, the burthen encreases like that of
    purchasing a horse with a farthing for the first nail of the shoe and
    doubling it.
 
    As to Mr. Pitt's scheme of reducing the national debt by a million a year,
-   applied to the purchase of stock, it will turn out, to say the least of
-   it, a ridiculous and frivolous project. For if a minister has not
+   applied to the purchase of stock, it will turn out, to say no worse of
+   it, a ridiculous and frivolous project: For if a Minister has not
    experience enough to distinguish a feather in the air, and such there
-   always will be, from the God of War, nor the clamors and interest of those
-   who are seeking for jobs and contracts from the voice and interests of the
-   people, he will soon precipitate the nation into some unnecessary war; and
-   therefore any scheme of redemption of the debt, founded on the supposed
+   always will be, from the God of War, nor the clamours and interest of those
+   who are seeking for jobs and contracts, from the voice and interests of the
+   people, he will soon precipitate the nation into some unnecessary war: and
+   therefore, any scheme of redemption of the debt, founded on the supposed
    continuance of peace, will, with such conduct, be no more than a balloon.
 
    That the funding system contains within itself the seeds of its own
@@ -943,42 +904,42 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    as a proof that because we are not dead we are not to die.
 
    The consequence of the funding scheme, even if no other event takes place,
-   will be to create two violent parties in the nation. The one, goaded by
-   taxes continually increasing to pay the interest, the other reaping a
+   will be to create two violent parties in the nation. The one goaded by
+   taxes continually encreasing to pay the interest, the other reaping a
    benefit from the taxes by receiving the interest. This is very strongly
-   shadowed forth, like the handwriting on the wall, by the ingenious author
-   of the "Commercial Atlas," in his observations on the national debt.
+   shadowed forth, like the hand-writing on the wall, by the ingenious author
+   of the Commercial Atlas, in his observations on the national debt.
 
-   The slumber that for several years has overshadowed the nation in all
-   matters of public finance, cannot be supposed to last forever. The people
+   The slumber that for several years has over-shadowed the nation in all
+   matters of public finance, cannot be supposed to last for ever. The people
    have not yet awakened to the subject, and it is taken for granted that
    they never will. But, if a supposed unnecessary expenditure of between
-   five and six millions sterling in the finances of France (for the writer
+   five and six millions sterling in the finances of France, (for the writer
    undertakes not to judge of the fact) has awakened that whole nation, a
    people supposed to be perfectly docile in all national matters, surely the
    people of England will not be less attentive to their rights and
    properties. If this should not be the case, the inference will be fairly
-   drawn that England is losing the spirit that France is taking up, and that
+   drawn, that England is losing the spirit that France is taking up, and that
    it is an ingenious device in the Ministry to compose the nation to
    unpopular and unnecessary taxes, by shamming a victory when there was no
    enemy at hand.
 
-   In short, every war serves to increase every kind of paper currency in the
+   In short, every war serves to encrease every kind of paper currency in the
    nation, and to diminish the quantity of gold and silver, by sending it to
    Prussia and other foreign countries.
 
-    It will not be denied that credulity is a strong trait in the English
-   character; and this has in no instance shown itself more than in mistaking
+   It will not be denied that credulity is a strong trait in the English
+   character; and this has in no instance shewn itself more than in mistaking
    paper for money, except it be in the unaccountable ignorance of mistaking
    the debt of the nation for riches. But the suspicion is beginning to
    awake.
 
    We will close this article with observing, that a new kind of paper
-   currency has arisen within a few years, which is that of country bank
-   notes; almost every town now has its bank, its paper mint, and the coinage
+   currency has arisen within a few years, which is that of country Bank
+   Notes; almost every town now has its Bank, its Paper Mint, and the coinage
    of paper is become universal. In the meantime the melting down the light
-   guineas, and recoining them, passes, with those who know no better, for an
-   increase of money; because every new guinea they see, and which is but
+   guineas, and recoining them, passes with those who know no better for an
+   encrease of money; because every new guinea they see, and which is but
    seldom, they naturally suppose to be a guinea more, when it is really
    nothing else than an old guinea new cast.
 
@@ -987,40 +948,39 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    It is very well known that paper has not the same credit in France which
    it has in England, and that, consequently, there is much less of it. This
-   has naturally operated to increase the quantity of gold and silver in
-   France and prevent the increase of paper.
+   has naturally operated to encrease the quantity of gold and silver in
+   France and prevent the encrease of paper.
 
    The highest estimation of the quantity of gold and silver in England, as
    already stated, is twenty millions sterling, and the quantity of paper
-   grafted thereon immense.
+   grafted thereon, immense.
 
-   The quantity of gold and silver in France is ninety millions sterling, and
-   the quantity of paper grafted thereon trifling. France, therefore, has a
+   The quantity of gold and silver in France, is upwards of ninety millions 
+   sterling, and
+   the quantity of paper grafted thereon, trifling. France, therefore, has a
    long run of credit yet in reserve, which England has already expended; and
    it will naturally follow, that when the Government of France and the
    nation shall adjust their differences by an amicable embrace of each
    other, that this reserved credit will be brought forth, and the power of
-   France will be doubly increased.
-
-   The adjustment of these differences is but the business of a day, whenever
-   its government shall see the proper moment for doing it; and nothing would
-   precipitate this event more than a war. The cry of war from the
+   France will be doubly encreased. The adjustment of these differences is 
+   but the business of a day, whenever
+   its government shall see the proper moment for doing it, and nothing would
+   precipitate this event more than a war. The cry of war, from the
    injudicious provocations given by the British Ministry, and the
    disadvantageous effect of the Commercial Treaty, is becoming popular in
    France.
 
    The near situation of France to Spain and Portugal, the two countries
    which import gold and silver, and her manufactures being better adapted to
-   the warm climate of those countries than the manufactures of England, give
-   her superior opportunities of drawing money into the nation; and as she
+   the warm climate of those countries, than the manufactures of England, give
+   her superior opportunities of drawing money into the nation, and as she
    has but little trade to the East Indies, the money so drawn in is not
-   drawn out again, as in England.
-
-   Another advantage is that, from the greatness of her dominions, she has no
+   drawn out again as in England. Another advantage is that, from the 
+   greatness of her dominions she has no
    occasion to waste her wealth in hiring foreign troops, as is the practice
    with England; and a third advantage is, that the money which England
    squanders in Prussia and other countries on the Continent serves to
-   increase the wealth of France, because a considerable part of it, centers
+   encrease the wealth of France, because a considerable part of it centers
    there through the medium of her commerce.
 
    Admitting Great Britain and Ireland to contain ten millions of
@@ -1029,14 +989,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    double.
 
    The national debt of England, compared to the whole amount of money in the
-   nation, is as twelve to one, that is, the debt is twelve times greater
+   nation, is as twelve is to one, that is, the debt is twelve times greater
    than all the money amounts to.
 
    The national debt of France, compared to the whole amount of her money, is
-   considerably less than as two is to one; that is, her debt is not so much
+   considerably less than as two is to one, that is, her debt is not so much
    as twice the amount of her money. France, therefore, as already stated,
    has an immense credit in reserve whenever the settlement of her present
-   internal differences shall furnish her with the means of employing it; and
+   internal differences shall furnish her with the means of employing it, and
    that period, so much to be dreaded by England, is hastening on.
 
    The annual interest of the national debt of England and France is nearly
@@ -1056,15 +1016,15 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    to undermine the interest of its creditors, or the value of the funds, for
    the purpose of purchasing at a cheaper rate.
 
-   The plan is founded on the presumption of a long, uninterrupted peace, and
+   The plan is founded on the presumption of a long uninterrupted peace, and
    that future loans would not be wanted, which cannot now be expected, for
    France in her turn is getting into a temper for war. The plan naturally
-   strikes at the. credit of Government, in contracting further debts; for
+   strikes at the credit of Government, in contracting further debts, for
    were a loan to be opened to-morrow, the subscribers, naturally perceiving
    that it was the interest of Government to undermine them as soon as they
    became creditors, would consequently seek to secure themselves by
    demanding higher premiums at first. It is a question whether a premium of
-   thirty per cent is now as good as ten was before, and therefore the plan,
+   thirty per cent. is now as good as ten was before, and therefore the plan,
    in case of a war, instead of lessening the debt, serves to push it more
    rapidly on.
 
@@ -1075,54 +1035,54 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    The gentleman who originally furnished the Minister with this plan, now
    gives it totally up. He knew its operation both in peace and war, but the
-   Minister appears not to have comprehended it. But if he has made a
+   Minister appears not to have comprehended it: But if he has made a
    mistake, his youth and inexperience must be his apology.
 
    The plan, unless it should be altered, that is given out for providing for
-   the expense of the late armaments, is in reality no other than the
+   the expence of the late armaments, is in reality no other than the
    American plan of paper money, and it is very probable that the Minister
    has received it from some American refugee.
 
    The plan given out is that the Minister is to borrow the MONEY of the
-   bank. Here is the delusion. The name of MONEY covers the deception. For
-   the case is that the bank docs not lend the real money, but it issues out
-   an emission of bank-paper, and the presumption is that there will be no
-   run upon the bank in consequence of such an extraordinary emission; but if
+   Bank. Here is the delusion. The name of MONEY covers the deception. For
+   the case is, that the Bank do not lend the real money, but it issues out
+   an emission of Bank-paper, and the presumption is, that there will be no
+   run upon the Bank in consequence of such an extraordinary emission, but if
    there should, no man can be at a loss in foreseeing the issue.
 
-   There are those who remember that on a former run the bank was obliged to
+   There are those who remember that on a former run, the Bank was obliged to
    prolong the time of paying shillings and sixpences, and it is universally
-   credited that a quantity of silver is now preserved in the bank for the
+   credited that a quantity of silver is now preserved in the Bank for the
    same purpose; but the device, to every person of reflection, shows that
    the capital is not equal to the demands, and that the Chapter of Accidents
    is part of the Bible of Bank.
 
-   It may be asked, why does not the Government issue the paper instead of
-   the bank? The answer is that it is exactly the same thing in the end, only
+   It may be asked why do not the Government issue the paper instead of
+   the Bank? The answer is that it is exactly the same thing in the end, only
    with this difference in the mode, that were the Government to do it, it
    would be too visible a system of paper currency, and that a disguise is
    necessary.
 
-   Having recourse to the bank is a kind of playing the bank off against the
-   funds, fighting one kind of paper against another, and in the combat both
+   Having recourse to the Bank, is a kind of playing the Bank off against the
+   Funds. Fighting one kind of paper against another, and in the combat both
    will be sufferers.
 
    In short, the delusion of paper riches is working as rapidly in England as
    it did in America. A young and inexperienced Minister, like a young and
    inexperienced Congress, may suppose that he sees mines of wealth in a
-   printing press, and that a nation cannot be exhausted while there is paper
+   printing-press, and that a nation cannot be exhausted while there is paper
    and ink enough to print paper money. Every new emission, until the
    delusion bursts, will appear to the nation an increase of wealth. Every
    merchant's coffers will appear a treasury, and he will swell with paper
    riches till he becomes a bankrupt.
 
-   When a bank makes too free with its paper, it exposes itself in much the
-   same manner which a government does that makes too free with its power;
+   When a Bank makes too free with its paper, it exposes itself in much the
+   same manner which a Government does that makes too free with its power;
    too much credit is as bad as too little; and there is such a thing as
-   governing too much, as well in a bank, as in a government. But nothing
-   exposes a bank more than being under the influence instead of the
-   protection of government, and whenever either the property or the credit
-   of a bank, can be commanded or influenced by a government, or a minister,
+   governing too much as well in a Bank as in a Government. But nothing
+   exposes a Bank more than being under the influence, instead of the
+   protection of Government, and whenever either the property or the credit
+   of a Bank can be commanded or influenced by a Government, or a Minister,
    its destruction is not far off.
 
    We have now stated the comparative condition of England and France as to
@@ -1138,7 +1098,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    apparent disposition in England for war is mistaken by her for a condition
    to undertake and carry one on.
 
-   There appears a uniformity in all the works of nature, from individual
+   There appears a uniformity in all the works of Nature, from individual
    animals up to nations. The smaller animals are always the most fretful,
    passionate and insulting. They mistake temper for strength, and often fall
    a sacrifice to vexatious impetuosity, while larger ones go calmly on, and
@@ -1147,14 +1107,14 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the disposition may at any time take place. We may create temper, but we
    cannot create strength.
 
-   While the literature of England preserves an honorable rank among the
+   While the literature of England preserves an honourable rank among the
    nations of Europe, her national character is most miserably suffering in
-   the world through her newspapers. The most barefaced perfidiousness, the
+   the world through her news-papers. The most barefaced perfidiousness, the
    most abandoned principles are daily propagated. A total disregard to all
-   the obligations of national faith and honor are publicly professed.
+   the obligations of national faith and honour are publicly professed.
    Instead of that true greatness of heart, that calm grandeur of sentiment,
    that generous disdain of vulgar littleness that ought always to accompany
-   the disputes of nations, scarcely anything is to be seen but mean abuse
+   the disputes of nations, scarcely any thing is to be seen but mean abuse
    and low scurrility. This is not the case in any other country in the world
    but England.
 
@@ -1165,13 +1125,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    great Cabinet secret, and admiring how profoundly the secret was kept,
    when the only secret was that there was no secret to divulge.
 
-   But this opinion of a secret very well shows that the opinion of the
+   But this opinion of a secret very well shews that the opinion of the
    nation was opposed to the opinion of the Minister, or the supposition of
    some great secret would not have taken place, as the affairs of the
-   Stadtholder were then publicly known. It shows that the nation did not
+   Stadtholder were then publicly known. It shews that the nation did not
    think the Stadtholder of Holland a sufficient reason for laying new taxes
-   on England, and running into the risk and expense of a war, and great was
-   the surprise when the declaration and counter-declaration, like twin mice,
+   on England, and running into the risk and expence of a war, and great was
+   the surprise when the declaration and counter declaration, like twin mice
    peeped from the Cabinet.
 
    But there is one secret that requires to be investigated, which is,
@@ -1180,10 +1140,10 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    knowledge.
 
    Whether it was not meanly putting England under the banners of Prussia,
-   and taking thereby a dishonorable advantage of the internal perplexity
+   and taking thereby a dishonourable advantage of the internal perplexity
    which France was then in, and which in its turn may happen to England, to
    assume the air of a challenge, which it must be known would not be
-   accepted because there was nothing to make the acceptance necessary.
+   accepted, because there was nothing to make the acceptance necessary.
 
    Whether this conduct in the Minister does not mischievously operate to
    destroy the harmony that appeared to be growing up between the two
@@ -1192,8 +1152,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    prospect of a long and uninterrupted peace.
 
    When there are two ways of accomplishing the same object it almost always
-   happens that the one is better than the other; and whether the minister
-   has not chosen the worst, a few observations will elucidate.
+   happens that the one is better than the other, and whether the Minister
+   has not chosen the worst. A few observations will elucidate.
 
    It signifies not what airy schemes, projects, or even treaties may be
    formed, especially if done under the point of the bayonet, for all that
@@ -1207,27 +1167,25 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    joining France in a war, neither will she expose it to France by joining
    England. It may very well be asked, what are England or France to Holland,
    that she should join with either in a war, unless she is compelled to it
-   by one or the other making war upon her, as was the case in the last war?
+   by one or the other making war upon her, as was the case in the last war.
 
    Events may soon happen in Europe to make all the force that Prussia can
-   raise necessary to her own defense, and Holland must be wise enough to see
-   that by joining England she not only exposes her trade to France, but
+   raise necessary to her own defence, and Holland must be wise enough to see,
+   that by joining England she not only exposes her trade to France but
    likewise her dominions, because France can invade her in a quarter in
-   which England cannot defend her, provided her generals prove true, for
-   Holland lies open to France by land.
-
+   which England cannot defend her, for Holland lies open to France by land.
    It is, therefore, more immediately the interest of Holland to keep on good
-   terms with France; neither can England give her any equivalent to balance
+   terms with France, neither can England give her any equivalent to balance
    this circumstance. How foolish then are the politics which are directed to
-   unnatural and impossible objects! Surely the experience of a century past
-   is sufficient to show to any man, except one of yesterday, what the
+   unnatural and impossible objects. Surely the experience of a century past
+   is sufficient to shew to any man, except one of yesterday, what the
    conduct of Holland in all cases must be.
 
    But there is another circumstance that does not fail to impress
-   foreigners, and especially Holland; which is, that the immensity of the
-   national debt of England, the prospect of its still increasing, and the
+   foreigners, and especially Holland, which is, that the immensity of the
+   national debt of England, the prospect of its still encreasing, and the
    exorbitancy of her paper currencies, render her too insecure in herself to
-   be much confided in ,by foreign nations for any length of time. Because
+   be much confided in by foreign nations for any length of time. Because
    that which must happen may soon happen.
 
    Concerning the rescript delivered by the French Minister, there is one
@@ -1235,21 +1193,21 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    disposed for war, she would not have made that communication. The very
    making it goes to a full explanation of the parts; and as soon as Mr. Pitt
    obtained this knowledge, it appeared to him a safe moment to gird on his
-   sword; and when he found that France was as well weaponed as himself, to
+   sword, and when he found that France was as well weaponed as himself to
    propose to take it off again. This is in a few words the whole history of
    the campaign. A war Minister in peace, and a peace Minister in war. Brave
    where there is no danger, and prudent when there is.
 
-   The rescript could be; nothing else than an explanation, on the part of
+   The rescript could be nothing else than an explanation, on the part of
    France, of the situation she conceived herself to be subject to, and the
    probable consequences that might follow from it. This she was not obliged
    to make, and therefore her making it was a matter of civil communication
-   toward a power she was at peace with, and which in return entitled her to
+   towards a power she was at peace with, and which in return entitled her to
    a similar communication on the part of the British Cabinet. All this might
-   have been done without either the expense, the tumult, the provocations or
-   the ill blood that has been created.
+   have been done without either the expence, the tumult, the provocations, or
+   the ill-blood that has been created.
 
-   The alliance between France and the Dutch was formed while the Stadtholder
+   The alliance between France and the Dutch, was formed while the Stadtholder
    was a part of the Government, therefore France could not, from that
    alliance, take a part either for or against him. She could only act when
    the whole interest of the Republic was exposed to a foreign enemy, and it
@@ -1259,15 +1217,15 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    in itself a ground for peace, because it tended to bring on a discussion
    of all the circumstances of France and England relative to Holland, which
    would not have failed to place Holland in a state of neutrality, and that
-   only will be the final event now; because; independent of all parties, no
-   other is consistent with the whole national interest of that republic.
+   only will be the final event now; because, independent of all parties, no
+   other is consistent with the whole national interest of that Republic.
 
    But this is not being done, it is now left to the Dutch to do it for
    themselves.
 
    An alliance with England, at the same time there is one existing with
-   France, will secure this neutrality, so necessary to the Dutch Republic.
-   By this stroke of politics she will be free from all obligations to join
+   France, will secure this neutrality so necessary to the Dutch republic.
+   By this stroke of Politics she will be free from all obligations to join
    with either in a war, and be guaranteed by both. Her alliance with England
    will debar England from molesting her trade by sea, and that with France
    will debar France from the same thing, and likewise from invading her by
@@ -1277,7 +1235,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    connection.
 
    The rising greatness of the Russian Empire, the probable union of this
-   empire with those of Germany and France, and consequently with Spain,
+   Empire with those of Germany and France, and consequently with Spain,
    whose interests cannot be separated, and the probability of a rupture
    between the Emperor and the King of Prussia, are matters that cannot fail
    to impress the Dutch with the necessity of securing themselves by land as
@@ -1290,12 +1248,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    A disposition for peace was growing up in every part of France, and there
    appeared at the same time a mutual one rising in England. A silent wish on
-   both sides was universally expanding itself, that wars, so fatal to the
-   true interest and burdensome by taxes to the subjects of both countries,
+   both sides, was universally expanding itself, that wars, so fatal to the
+   true interest and burthensome by taxes to the subjects of both countries
    might exist no more, and that a long and lasting peace might take place.
 
    But instead of cultivating this happy opportunity, the pettish vanity of a
-   young and inexperienced Minister, who balanced himself between peace and
+   young and unexperienced Minister, who balanced himself between peace and
    war to take his choice of circumstances, instead of principles, and who
    went into an expensive armament when there was none to contend with, and
    not till after the affairs of Holland might be said to be terminated, has
@@ -1305,16 +1263,25 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    He has permitted the nation to run mad under the universal influence of a
    groundless belief of vast hostile armaments in the East and West Indies,
    and the supposition of a secret that never existed. By this means the
-   sparks of ill will are kindled up afresh between the nations, the fair
+   sparks of ill-will are kindled up afresh between the nations, the fair
    prospects of lasting peace are vanished, and a train of future evils fills
    up the scene, and that at a time when the internal affairs of France,
    however confused they at present appear, are naturally approaching to a
-   great and harmonious increase of its power.
+   great and harmonious encrease of its power.
+   
+   FINIS.
 
-   THOMAS PAINE.
+   (THOMAS PAINE.
 
-   YORK STREET, ST. JAMES' SQUARE,
+   YORK STREET, ST. JAMES SQUARE,
 
-   August 20th, 1787.
+   August 20th, 1787.)
+   
+   Footnotes:
+   
+   1. From 1763 to 1777, a period of fifteen years of peace, the
+   registered importations of gold and silver into Lisbon and Cadiz, was
+   seventy millions sterling, besides what was privately landed.
+   
 
 
