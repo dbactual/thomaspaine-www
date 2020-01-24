@@ -4,242 +4,224 @@ Title: Prospect Papers
 Date: Mon Aug  4 09:08:52 EDT 2014
 
   
-   The articles below are from the Prospect Magazine, started by Elihu Palmer, and to which Paine contributed 13 essays. Four 
-   essays in this collection below are deattributed works: "Of Cain and Abel" (Palmer is the author), "Of the Old and New Testaments"
-   (author unknown), "To the Members of the Society"(unknown), and "On the Sabbath Day in Connecticut"(unknown). However we left 
-   them in this collection from the Prospect.
+   The articles below are from *The Prospect Magazine*, started by Elihu Palmer, and to which Paine 
+   contributed 13 essays. Four essays in this collection below are deattributed works: 
+   "Of Cain and Abel" (Palmer is the author), "Of the Old and New Testaments" (author unknown), 
+   "To the Members of the Society"(unknown), and "On the Sabbath Day in Connecticut"(unknown). 
+   However we left them in this collection from the *Prospect*.
    
-   Here is a test on each:
+   Here is a typical test of many on each of the deattributed articles:
    
    (IMAGE: Cain and Abel Palmer.png)  (IMAGE: Of Old and New W.png) (IMAGE: To Members of Society W. png) 
    
    (IMAGE: On the Sabbath W.png)
-
-
-   REMARKS ON R. HALL'S SERMON
+   
+   From the February 18, 1804 *Prospect* issue:
 
    ROBERT HALL, a Protestant minister in England, preached and published a
-   sermon against what he called Modern Infidelity. A copy of it was sent to
-   a gentleman in America with a request for his opinion thereon. That
-   gentleman sent it to a friend of his in New York, with the request written
-   on the cover-and this last gentleman sent it to Thomas Paine, who wrote
-   the following observations on the blank leaf at the end of the sermon:
+   sermon against what he called "*Modern Infidelity*." A copy of it was sent to
+   a gentleman in America, with a request for his opinion thereon. That
+   gentleman sent it to a friend of his in New-York, with the request written
+   on the cover &mdash; and this last sent it to Thomas Paine, who wrote
+   the following observations on the blank leaf at the end of the Sermon.
+   
+   REMARKS ON THE FOREGOING SERMON.
 
-   The preacher of the foregoing sermon speaks a great deal about infidelity,
+   The preacher of the foregoing sermon speaks a great deal about *infidelity*,
    but does not define what he means by it. His harangue is a general
    exclamation. Everything, I suppose, that is not in his creed is infidelity
    with him, and his creed is infidelity with me. Infidelity is believing
-   falsely. If what Christians believe is not true, it is the Christians that
+   falsely. If what christians believe is not true, it is the christians that
    are the infidels.
 
-   The point between Deists and Christians is not about doctrine, but about
-   fact-for if the things believed by the Christians to be facts are not
+   The point between deists and christians is not about doctrine, but about
+   fact &mdash; for if the things believed by the christians to be facts, are not
    facts, the doctrine founded thereon falls of itself. There is such a book
-   as the Bible, but is it a fact that the Bible is revealed religion? The
-   Christians cannot prove it is. They put tradition in place of evidence,
+   as the bible, but is it a fact that the bible is *revealed religion*? The
+   christians cannot prove it is. They put tradition in place of evidence,
    and tradition is not proof. If it were, the reality of witches could be
    proved by the same kind of evidence.
 
-   The Bible is a history of the times of which it speaks, and history is not
-   revelation. The obscene and vulgar stories in the Bible are as repugnant
+   The bible is a history of the times of which it speaks, and history is not
+   revelation. The obscene and vulgar stories in the bible are as repugnant
    to our ideas of the purity of a divine Being, as the horrid cruelties and
-   murders it ascribes to Him are repugnant to our ideas of His justice. It
-   is the reverence of the Deists for the attributes of the DEITY that causes
-   them to reject the Bible.
+   murders it ascribes to him, are repugnant to our ideas of His justice. It
+   is the reverence of the *Deists* for the attributes of the DEITY, that causes
+   them to reject the bible.
 
-   Is the account which the Christian Church gives of the person called Jesus
-   Christ a fact, or a fable? Is it a fact that he was begotten by the Holy
-   Ghost? The Christians cannot prove it, for the case does not admit of
-   proof.
-
-   The things called miracles in the Bible, such for instance as raising the
-   dead, admitted if true of occular demonstration, but the story of the
+   Is the account which the christian church gives of the person called Jesus
+   Christ, a fact or a fable? Is it a fact that he was begotten by the holy
+   Ghost? The christians cannot prove it, for the case does not admit of
+   proof. The things called miracles in the bible, such, for instance as raising the
+   dead, admitted, *if true*, of occular demonstration, but the story of the
    conception of Jesus Christ in the womb is a case beyond miracle, for it
-   did not admit of demonstration.
-
-   Mary, the reputed mother of Jesus, who must be supposed to know best,
-   never said so herself, and all the evidence of it is that the book of
-   Matthew says that Joseph dreamed an angel told him so. Had an old maid two
-   or three hundred years of age brought forth a child it would have been
+   did not admit of demonstration. Mary, the reputed mother of Jesus, who must be supposed to know best,
+   never said so herself, and all the evidence of it is, that the book of
+   Matthew says, that Joseph dreamed an angel told him so. Had an old maid two
+   or three hundred years of age, brought forth a child, it would have been
    much better presumptive evidence of a supernatural conception than
    Matthew's story of Joseph's dream about his young wife.
 
    Is it a fact that Jesus Christ died for the sins of the world, and how is
-   it proved? If a God, he could not die, and as a man he could not redeem.
-   How then is this redemption proved to be fact? It is said that Adam ate of
+   it proved? If a God, he could not die, and as a man he could not redeem,
+   how then is this redemption proved to be fact? It is said that Adam eat of
    the forbidden fruit, commonly called an apple, and thereby subjected
-   himself and all his posterity forever to eternal damnation.
-
-   This is worse than visiting the sins of the fathers upon the children unto
-   the third and fourth generations. But how was the death of Jesus Christ to
-   affect or alter the case? Did God thirst for blood? If so, would it not
+   himself and all his posterity for ever to eternal damnation. &mdash; This is 
+   worse than visiting the sins of the fathers upon the children unto
+   *the third and fourth generations*. But how was the death of Jesus Christ to
+   affect or alter the case? &mdash; Did God thirst for blood? If so, would it not
    have been better to have crucified Adam at once upon the forbidden tree,
-   and made a new man? Would not this have been more creator-like than
-   repairing the old one?
-
-   Or did God, when He made Adam, supposing the story to be true, exclude
-   Himself from the right of making another? or impose on Himself the
+   and made a new man? Would not this have been more creator like than
+   repairing the old one? Or did God, when He made Adam, supposing the story to be true, exclude
+   Himself from the right of making another? Or impose on himself the
    necessity of breeding from the old stock? Priests should first prove
-   facts, and deduce doctrines from them afterwards. But instead of this they
-   assume everything and prove nothing. Authorities drawn from the Bible are
+   facts and deduce doctrines from them afterwards. But instead of this they
+   assume every thing and prove nothing. Authorities drawn from the bible are
    no more than authorities drawn from other books, unless it can be proved
-   that the Bible is revelation.
+   that the bible is revelation.
 
    The story of the redemption will not stand examination. That man should
    redeem himself from the sin of eating an apple by committing a murder on
    Jesus Christ, is the strangest system of religion ever set up. Deism is
-   perfect purity compared with this.
-
-   It is an established principle with the Quakers not to shed blood: suppose
-   then all Jerusalem had been Quakers when Christ lived, there would have
+   perfect purity compared with this. It is an established principle with the Quakers 
+   not to shed blood &mdash; suppose
+   then all Jerusalem had been quakers when Christ lived, there would have
    been nobody to crucify him, and in that case, if man is redeemed by his
-   blood, which is the belief of the Church, there could have been no
-   redemption; and the people of Jerusalem must all have been damned because
-   they were too good to commit murder. The Christian system of religion is
+   blood, which is the belief of the church, there could have been no
+   redemption &mdash; and the people of Jerusalem must all have been damned because
+   they were too good to commit murder. The christian system of religion is
    an outrage on common sense. Why is man afraid to think?
 
-   Why do not the Christians, to be consistent, make saints of Judas and
-   Pontius Pilate? For they were the persons who accomplished the acts of
+   Why do not the christians, to be consistent, make saints of Judas and
+   Pontius Pilate, for they were the persons who accomplished the acts of
    salvation. The merit of a sacrifice, if there can be any merit in it, was
    never in the thing sacrificed, but in the persons offering up the
-   sacrifice- and, therefore, Judas and Pontius Pilate ought to stand first
+   sacrifice &mdash; and therefore Judas and Pontius Pilate ought to stand first
    on the calendar of saints.
 
    THOMAS PAINE.
 
 
+   From the March 3, 1804 *Prospect* issue:
 
-   OF THE WORD "RELIGION," AND OTHER WORDS OF
+   OF THE WORD RELIGION, AND OTHER WORDS OF UNCERTAIN SIGNIFICATION.
 
-   UNCERTAIN SIGNIFICATION
-
-   The word religion is a word of forced application when used with respect
-   to the worship of God. The root of the word is the Latin verb ligo, to tie
-   or bind. From ligo, comes religo, to tie or bind over again, to make more
-   fast-from religo, comes the substantive religio, which, with the addition
-   of n makes the English substantive religion.
-
-   The French use the word properly: when a woman enters a convent she is
-   called a novitiate, that is, she is upon trial or probation. When she
-   takes the oath, she is called a religieuse, that is, she is tied or bound
+   The word *religion* is a word of forced application when used with respect
+   to the worship of God. The root of the word is the Latin verb *ligo*, to tie
+   or bind. From *ligo*, comes *religo*, to tie or bind over again, to make more
+   fast &mdash; from *religo*, comes the substantive *religio*, which with the addition
+   of n makes the English substantive religion.  The French use the word properly &mdash;  
+   when a woman enters a convent she is
+   called a *noviciate*, that is, she is upon trial or probation. When she
+   takes the oath, she is called a *religieuse*, that is, she is tied or bound
    by that oath to the performance of it. We use the word in the same kind of
    sense when we say we will religiously perform the promise that we make.
 
-   But the word, without referring to its etymology, has, in the manner it is
+   But the word, without referring to its etymology has, in the manner it is
    used, no definite meaning, because it does not designate what religion a
    man is of. There is the religion of the Chinese, of the Tartars, of the
-   Bramins, of the Persians, of the Jews, of the Turks, etc.
+   Bramins, of the Persians, of the Jews, of the Turks, &c.
 
-   The word Christianity is equally as vague as the word religion. No two
-   sectaries can agree what it is. It is lo here and lo there. The two
+   The word *christianity* is equally as vague as the word religion. No two
+   sectaries can agree what it is. It is *lo here* and *lo there*. The two
    principal sectaries, Papists and Protestants, have often cut each other's
-   throats about it.
-
-   The Papists call the Protestants heretics, and the Protestants call the
-   Papists idolators. The minor sectaries have shown the same spirit of
-   rancor, but as the civil law restrains them from blood, they content
+   throats about it: &mdash; The papists call the protestants heretics, and the protestants call the
+   papists idolators. The minor sectaries have shewn the same spirit of
+   rancour, but as the civil law restrains them from blood, they content
    themselves with preaching damnation against each other.
 
-   The word protestant has a positive signification in the sense it is used.
+   The word *protestant* has a positive signification in the sense it is used.
    It means protesting against the authority of the Pope, and this is the
-   only article in which the Protestants agree. In every other sense, with
-   respect to religion, the word protestant is as vague as the word
-   Christian.
-
-   When we say an Episcopalian, a Presbyterian, a Baptist, a Quaker, we know
-   what those persons are, and what tenets they hold; but when we say a
-   "Christian," we know he is not a Jew nor a Mahometan, but we know not if
+   only article in which the protestants agree. In every other sense, with
+   respect to religion, the word protestant, is as vague as the word
+   christian. When we say an episcopalian, a presbyterian, a baptist, a quaker, we know
+   what those persons are, and what tenets they hold &mdash; but when we say a
+   christian we know he is not a Jew nor a Mahometan, but we know not if
    he be a trinitarian or an anti-trinitarian, a believer in what is called
-   the immaculate conception, or a disbeliever, a man of seven sacraments, or
-   of two sacraments, or of none. The word "Christian" describes what a man
+   the immaculate conception or a disbeliever, a man of seven sacraments, or
+   of two sacraments, or of none. The word christian describes what a man
    is not, but not what he is.
 
-   The word theology, from Theos, the Greek word for God, and meaning the
-   study and knowledge of God, is a word that strictly speaking belongs to
-   Theists or Deists, and not to the Christians. The head of the Christian
-   Church is the person called Christ, but the head of the Church of the
-   Theists, or Deists, as they are more commonly called (from Deus, the Latin
-   word for God), is God Himself; and therefore the word "Theology" belongs
-   to that Church which has Theos or God for its head, and not to the
-   Christian Church which has the person called Christ for its head. Their
-   technical word is Christianity, and they cannot agree on what Christianity
+   The word *Theology*, from *Theos*, the Greek word for God, and meaning the
+   study and knowledge of God, is a word, that strictly speaking, belongs to
+   Theists or Deists, and not to the christians. The head of the christian
+   church is the person called Christ &mdash; but the head of the church of the
+   Theists, or Deists, as they are more commonly called, from *Deus*, the Latin
+   word for God, is God himself, and therefore the word Theology belongs
+   to that church which has Theos or God for its head, and not to the
+   christian church which has the person called Christ for its head. Their
+   technical word is *christianity* and they cannot agree on what christianity
    is.
 
-   The words revealed religion and natural religion also require explanation.
-   They are both invented terms, contrived by the Church for the support of
-   priestcraft. With respect to the first, there is no evidence of any such
-   thing, except in the universal revelation that God has made of His power,
-   His wisdom, His goodness, in the structure of the universe, and in all the
-   works of creation.
-
-   We have no cause for ground from anything we behold in those works to
+   The words *revealed religion* and *natural religion*, require also explanation.
+   They are both invented terms, contrived by the church for the support of
+   priest-craft. With respect to the first, there is no evidence of any such
+   thing, except in the universal revelation, that God has made of his power,
+   his wisdom, his goodness, in the structure of the universe, and in all the
+   works of creation. We have no cause for ground from any thing we behold in those works, to
    suppose God would deal partially by mankind, and reveal knowledge to one
    nation and withhold it from another, and then damn them for not knowing
-   it. The sun shines an equal quantity of light all over the world-and
+   it. The sun shines an equal quantity of light all over the world &mdash; and
    mankind in all ages and countries are endued with reason, and blessed with
    sight, to read the visible works of God in the creation, and so
-   intelligent is this book that he that runs may read.
+   intelligent is this book that *he that runs may read*. We admire the wisdom of 
+   the ancients, yet they had no bibles nor books
+   called revelation. They cultivated the reason that God gave them,
+   studied him in His works, and arose to eminence.
 
-   We admire the wisdom of the ancients, yet they had no Bibles nor  books
-   called "revelation." They cultivated the reason that God gave them,
-   studied Him in His works, and arose to eminence.
-
-   As to the Bible, whether true or fabulous, it is a history, and history
-    is not a revelation. If Solomon had seven hundred wives, and three
-   hundred concubines, and if Samson slept in Delilah's lap, and she cut his
+   As to the Bible, whether true or fabulous, it is a history, and history 
+   is not revelation. If Solomon had seven hundred wives, and three
+   hundred concubines, and if Samson slept in Delila's lap, and she cut his
    hair off, the relation of those things is mere history that needed no
    revelation from heaven to tell it; neither does it need any revelation to
-   tell us that Samson was a fool for his pains, and Solomon too.
+   tell us that Samson was a fool for his pains and Solomon too.
 
-   As to the expressions so often used in the Bible, that the word of the
-   Lord came to such an one, or such an one, it was the fashion of speaking
-   in those times, like the expression used by a Quaker, that the spirit
-   moveth him, or that used by priests, that they have a call. We ought not
+   As to the expressions so often used in the bible, that *the word of the
+   Lord*, came to such an one, or such an one, it was the fashion of speaking
+   in those times, like the expression used by a quaker, that the *spirit
+   moveth him*, or that used by priests, that they *have a call*. We ought not
    to be deceived by phrases because they are ancient. But if we admit the
-   supposition that God would condescend to reveal Himself in words, we ought
+   supposition that God would condescend to reveal himself in words, we ought
    not to believe it would be in such idle and profligate stories as are in
-   the Bible; and it is for this reason, among others which our reverence to
-   God inspires, that the Deists deny that the book called the Bible is the
-   Word of God, or that it is revealed religion.
+   the bible, and it is for this reason, among others which our reverence to
+   God inspires, that the Deists deny that the book called the bible is the
+   word of God, or that it is revealed religion.
 
-   With respect to the term natural religion, it is upon the face of it, the
+   With respect to the term, *natural religion*, it is upon the face of it, the
    opposite of artificial religion, and it is impossible for any man to be
-   certain that what is called revealed religion is not artificial.
-
-   Man has the power of making books, inventing stories of God, and calling
-   them revelation, or the Word of God. The Koran exists as an instance that
+   certain that what is called *revealed religion* is not artificial. Man has 
+   the power of making books, inventing stories of God, and calling
+   them revelation or the Word of God. The Koran exists as an instance that
    this can be done, and we must be credulous indeed to suppose that this is
-   the only instance and Mahomet the only impostor. The Jews could match him,
-   and the Church of Rome could overmatch the Jews. The Mahometans believe
+   the only instance, and Mahomet the only impostor. The Jews could match him,
+   and the church of Rome could overmatch the Jews. The Mahometans believe
    the Koran, the Christians believe the Bible, and it is education makes all
    the difference.
 
    Books, whether Bibles or Korans, carry no evidence of being the work of
    any other power than man. It is only that which man cannot do that carries
    the evidence of being the work of a superior power. Man could not invent
-   and make a universe-he could not invent nature, for nature is of divine
-   origin. It is the laws by which the universe is governed.
-
-   When, therefore, we look through nature up to nature's God, we are in the
-   right road of happiness, but when we trust to books as the Word of God,
+   and make a universe &mdash; he could not invent nature, for nature is of divine
+   origin. It is the laws by which the universe is governed. When, therefore, we 
+   look through nature up to nature's God, we are in the
+   right road of happiness, but when we trust to books as the word of God,
    and confide in them as revealed religion, we are afloat on the ocean of
    uncertainty, and shatter into contending factions. The term, therefore,
-   natural religion, explains itself to be divine religion, and the term
-   revealed religion involves in it the suspicion of being artificial.
+   *natural religion*, explains itself to be *divine religion*, and the term
+   *revealed religion* involves in it the suspicion of being *artificial*.
 
-   To show the necessity of understanding the meaning of words, I will
-   mention an instance of a minister, I believe of the Episcopalian Church of
-   Newark, in [New] Jersey. He wrote and published a book, and entitled it
-   "An Antidote to Deism." An antidote to Deism must be Atheism. It has no
-   other antidote - for what can be an antidote to the belief of a God, but
-   the disbelief of God? Under the tuition of such pastors, what but
+   To shew the necessity of understanding the meaning of words, I will
+   mention an instance of a minister, I believe of the episcopalian church of
+   Newark, in Jersey. He wrote and published a book, and entitled it,
+   "*An Antidote to Deism*." An antidote to *Deism* must be *Atheism*. It has no
+   other antidote &mdash; for what can be an antidote to the belief of a God, but
+   the disbelief of God. Under the tuition of such pastors, what but
    ignorance and false information can be expected?
 
-   T.P.
+   *T.P.*
 
 
-
-   OF CAIN AND ABEL
+   OF CAIN AND ABEL (Editor's Note: this article has not been edited for accuracy.)
 
    The story of Cain and Abel is told in Genesis iv. Cain was the elder
    brother and Abel the younger, and Cain killed Abel. The Egyptian story of
@@ -287,51 +269,44 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Light, which answered very well as an allegory without being believed as a
    fact.
 
-
+   From the March 24, 1804 *Prospect* issue:
 
    THE TOWER OF BABEL
 
-   The story of the tower of Babel is told in Genesis xi. It begins thus:
-   "And the whole earth [it was but a very little part of it they knew] was
-   of one language and of one speech. And it came to pass, as they journeyed
-   from the East, that they found a plain in the land of Shinar, and they
-   dwelt there. And they said one to another, Go to, let us make brick and
+   The story of the tower of Babel is told in the eleventh chapter of Genesis. It begins thus. &mdash; 
+   "And the whole earth (it was but a very little part of it they knew) was
+   of one language and of one speech. &mdash; And it came to pass, as they journeyed
+   from the east, that they found a plain in the land of Shinar and they
+   dwelt there. &mdash; And they said one to another, *Go to*, let us make brick and
    burn them thoroughly, and they had brick for stone, and slime had they for
-   mortar.
-
-   "And they said, Go to, let us build us a city, and a tower whose top may
+   mortar. &mdash; And they said, *Go to*, let us build us a city, and a tower whose top may
    reach unto heaven, and let us make us a name, lest we be scattered abroad
-   upon the face of the whole earth. And the Lord came down to see the city
-   and the tower which the children of men builded.
-
-   "And the Lord said, Behold the people is one, and they have all one
-   language; and this they begin to do; and now nothing will be restrained
-   from them which they have imagined to do. Go to, let us go down and there
+   upon the face of the whole earth. &mdash; And the Lord came down to see the city
+   and the tower which the children of men builded. &mdash; And the Lord said, behold 
+   the people is one, and they have all one
+   language, and this they begin to do, and now nothing will be restrained
+   from them which they have imagined to do. &mdash; *Go to*, let us go down and there
    confound their language, that they may not understand one another's
-   speech.
+   speech. &mdash; So (that is, by that means) the Lord scattered them abroad from thence
+   upon the face of all the earth, and they left off building the city."
 
-   "So [that is, by that means] the Lord scattered them abroad from thence
-   upon the face of all the earth; and they left off building the city."
-
-   This is the story, and a very foolish, inconsistent story it is. In the
-   first place, the familiar and irreverend manner in which the Almighty is
-   spoken of in this chapter is offensive to a serious mind.
-
-   As to the project of building a tower whose top should reach to heaven,
+   This is the story, and a very foolish inconsistent story it is. In the
+   first place, the familiar and irreverend manner in which the almighty is
+   spoken of in this chapter is offensive to a serious mind. As to the project 
+   of building a tower whose top should reach to heaven,
    there never could be a people so foolish as to have such a notion; but to
    represent the Almighty as jealous of the attempt, as the writer of the
-   story has done, is adding profanation to folly. "Go to" says the builders,
-   "let us build us a tower whose top shall reach to heaven." "Go to" says
-   God, "let us go down and confound their language."
-
-   This quaintness is indecent, and the reason given for it is worse, for,
+   story has done, is adding profanation to folly. &mdash; "*Go to*," says the builders,
+   "let us build us a tower whose top shall reach to heaven. *Go to,* says
+   God, let us go down and confound their language." This quaintness is indecent, 
+   and the reason given for it is worse, for,
    "now nothing will be restrained from them which they have imagined to do."
    This is representing the Almighty as jealous of their getting into heaven.
    The story is too ridiculous, even as a fable, to account for the diversity
    of languages in the world, for which it seems to have been intended.
 
    As to the project of confounding their language for the purpose of making
-   them separate, it is altogether inconsistent; because instead of producing
+   them separate, it is altogether inconsistent; because, instead of producing
    this effect, it would, by increasing their difficulties, render them more
    necessary to each other, and cause them to keep together. Where could they
    go to better themselves?
@@ -341,29 +316,27 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    information of mankind; for nothing could so effectually prevent such a
    word from being known by mankind as confounding their language. The
    people, who after this spoke different languages, could no more understand
-   such a Word generally than the builders of Babel could understand one
-   another. It would have been necessary, therefore, had such Word ever been
+   such a word generally, than the builders of Babel could understand one
+   another. It would have been necessary, therefore, had such word ever been
    given or intended to be given, that the whole earth should be, as they say
    it was at first, of one language and of one speech, and that it should
    never have been confounded.
 
-   The case, however, is, that the Bible will not bear examination in any
-   part of it, which it would do if it was the Word of God. Those who most
+   The case however is, that the bible will not bear examination in any
+   part of it, which it would do if it was the word of God. Those who most
    believe it are those who know least about it, and priests always take care
    to keep the inconsistent and contradictory parts out of sight.
 
    T. P.
+   
+   
 
+   From the June 30, and July 7, 1804 *Prospect* issues:
 
-
-   OF THE RELIGION OF DEISM COMPARED WITH THE CHRISTIAN
-
-   RELIGION, AND THE SUPERIORITY OF THE FORMER
-
-   OVER THE LATTER
-
-   Every person, of whatever religious denomination he may be, is a DEIST in
-   the first article of his Creed. Deism, from the Latin word Deus, God, is
+   Of the Religion of Deism compared with the Christian Religion, and the superiority of the former over the latter.
+   
+   Every person, of whatever religious denomination he may be is a DEIST in
+   the first article of his Creed. Deism from the Latin word Deus, God, is
    the belief of a God, and this belief is the first article of every man's
    creed.
 
@@ -371,254 +344,250 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Deist builds his church, and here he rests. Whenever we step aside from
    this article, by mixing it with articles of human invention, we wander
    into a labyrinth of uncertainty and fable, and become exposed to every
-   kind of imposition by pretenders to revelation.
-
-   The Persian shows the Zend-Avesta of Zoroaster, the lawgiver of Persia,
-   and calls it the divine law; the Bramin shows the Shaster, revealed, he
-   says, by God to Brama, and given to him out of a cloud; the Jew shows what
-   he calls the Law of Moses, given, he says, by God, on the Mount Sinai; the
-   Christian shows a collection of books and epistles, written by nobody
-   knows who, and called the New Testament; and the Mahometan shows the
-   Koran, given, he says, by God to Mahomet: each of these calls itself
-   revealed religion, and the only true Word of God, and this the followers
+   kind of imposition by pretenders to revelation. The Persian shews the *Zendavista* 
+   of Zoroaster the lawgiver of Persia, and calls it the *divine law*; the Bremen shews the *shaster*, 
+   revealed, he says by God to Brama, and given to him out of a cloud; the Jew shews what
+   he calls the law of Moses, given, he says, by God on the Mount Sinai; the
+   Christian shews a collection of books and epistles written by nobody
+   knows who, and called the New Testament, and the Mahometan shews the
+   Koran, given, he says, by God to Mahomet; each of these calls itself
+   *revealed religion*, and the *only* true Word of God, and this the followers
    of each profess to believe from the habit of education, and each believes
    the others are imposed upon.
 
    But when the divine gift of reason begins to expand itself in the mind and
-   calls man to reflection, he then reads and contemplates God and His works,
-   and not in the books pretending to be revelation. The creation is the
-   Bible of the true believer in God. Everything in this vast volume inspires
+   calls man to reflection, he then reads and contemplates God and his works
+   and not in the books pretending to be revelation. The Creation is the
+   bible of the true believer in God. Every thing in this vast volume inspires
    him with sublime ideas of the Creator. The little and paltry, and often
-   obscene, tales of the Bible sink into wretchedness when put in comparison
-   with this mighty work.
-
-   The Deist needs none of those tricks and shows called miracles to confirm
+   obscene, tales of the bible sink into wretchedness when put in comparison
+   with this mighty work. The Deist needs none of those tricks and shows called miracles to confirm
    his faith, for what can be a greater miracle than the creation itself and
-   his own existence?
+   his own existence.
 
    There is a happiness in Deism, when rightly understood, that is not to be
    found in any other system of religion. All other systems have something in
-   them that either shock our reason, or are repugnant to it, and man, if he
+   them that either shock our reason or are repugnant to it, and man, if he
    thinks at all, must stifle his reason in order to force himself to believe
-   them.
-
-   But in Deism our reason and our belief become happily united. The
-   wonderful structure of the universe, and everything we behold in the
-   system of the creation, prove to us, far better than books can do, the
-   existence of a God, and at the same time proclaim His attributes.
-
-   It is by the exercise of our reason that we are enabled to contemplate God
-   in His works, and imitate Him in His way. When we see His care and
-   goodness extended over all His creatures, it teaches us our duty toward
-   each other, while it calls forth our gratitude to Him. It is by forgetting
-   God in His works, and running after the books of pretended revelation,
-   that man has wandered from the straight path of duty an happiness, and
+   them. But in Deism our reason and our belief become happily united. The
+   wonderful structure of the universe and every thing we behold in the
+   system of the creation prove to us, far better than books can do, the
+   existence of a God, and at the same time proclaim his attributes. It is 
+   by the exercise of our reason that we are enabled to contemplate God
+   in His works, and imitate him in his ways. When we see his care and
+   goodness extended over all his creatures, it teaches us our duty toward
+   each other, while it calls forth our gratitude to him. It is by forgetting
+   God in his works, and running after the books of pretended revelation
+   that man has wandered from the strait path of duty and happiness, and
    become by turns the victim of doubt and the dupe of delusion.
 
    Except in the first article in the Christian creed, that of believing in
    God, there is not an article in it but fills the mind with doubt as to the
-   truth of it, the instant man begins to think. Now every article in a creed
+   truth of it the instant man begins to think. Now every article in a creed
    that is necessary to the happiness and salvation of man ought to be as
    evident to the reason and comprehension of man as the first article is,
    for God has not given us reason for the purpose of confounding us, but
-   that we should use it for our own happiness and His glory.
+   that we should use it for our own happiness and his glory.
 
-   The truth of the first article is proved by God Himself, and is universal;
-   for the creation is of itself demonstration of the existence of a Creator.
+   The truth of the first article is proved by God himself and is universal,
+   for *the creation is of itself demonstration of the existence of a Creator*.
    But the second article, that of God's begetting a son, is not proved in
-   like manner, and stands on no other authority than that of a tale.
-
-   Certain books in what is called the New Testament tell us that Joseph
-   dreamed that the angel told him so (Matthew i, 20): "And behold the angel
-   of the Lord appeared to Joseph, in a dream, saying, Joseph, thou son of
+   like manner, and stands on no other authority than that of tale. Certain books in 
+   what is called the New Testament tell us that Joseph
+   dreamed that the angel told him so. (Matthew chap. 1, v. 20) "And behold the angel
+   of the Lord appeared to Joseph in a dream, saying, Joseph thou son of
    David, fear not to take unto thee Mary thy wife, for that which is
-   conceived in her is of the Holy Ghost."
-
-   The evidence upon this article bears no comparison with the evidence upon
+   conceived in her is of the holy ghost." The evidence upon this article bears no comparison with the evidence upon
    the first article, and therefore is not entitled to the same credit, and
    ought not to be made an article in a creed, because the evidence of it is
-   defective, and what evidence there is is doubtful and suspicious. We do
+   defective, and what evidence there is, is doubtful and suspicious. We do
    not believe the first article on the authority of books, whether called
    Bibles or Korans, nor yet on the visionary authority of dreams, but on the
-   authority of God's own visible works in the creation.
-
-   The nations who never heard of such books, nor of such people as Jews,
+   authority of God's own visible works in the creation. The nations who never heard 
+   of such books, nor of such people as Jews,
    Christians or Mahometans, believe the existence of a God as fully as we
-   do, because it is self-evident. The work of man's hands is a proof of the
-   existence of man as fully as his personal appearance would be.
-
-   When we see a watch, we have as positive evidence of the existence of a
-   watchmaker, as if we saw him; and in like manner the creation is evidence
+   do, because it is self evident. The work of man's hands is a proof of the
+   existence of man as fully as his personal appearance would be. When we see 
+   a watch, we have as positive evidence of the existence of a
+   watchmaker as if we saw him; and in like manner the creation is evidence
    to our reason and our senses of the existence of a Creator. But there is
-   nothing in the works of God that is evidence that He begat a son, nor
-   anything in the system of creation that corroborates such an idea, and,
-   therefore, we are not authorized in believing it.
-
-   What truth there may be in the story that Mary, before she was married to
+   nothing in the works of God that is evidence that he begat a son, nor
+   any thing in the system of creation that corroborates such an idea, and
+   therefore, we are not authorised in believing it. What truth there may be in 
+   the story that Mary, before she was married to
    Joseph, was kept by one of the Roman soldiers, and was with child by him,
    I leave to be settled between the Jews and the Christians. The story,
-   however, has probability on its side, for her husband Joseph suspected and
-   was jealous of her, and was going to put her away. "Joseph, her husband,
+   however has probability on its side, for her husband Joseph suspected and
+   was jealous of her, and was going to put her away. "Joseph her husband
    being a just man, and not willing to make her a public example, was going
-   to put her away, privately." (Matt, i, 19.)
+   to put her away privately." (Matthew chap. I, v. 19).
 
    I have already said that "whenever we step aside from the first article
    (that of believing in God), we wander into a labyrinth of uncertainty,"
    and here is evidence of the justness of the remark, for it is impossible
-   for us to decide who was Jesus Christ's father.
-
-   But presumption can assume anything, and therefore it makes Joseph's dream
+   for us to decide who was Jesus Christ's father. But presumption can assume 
+   any thing, and therefore it makes Joseph's dream
    to be of equal authority with the existence of God, and to help it on
    calls it revelation. It is impossible for the mind of man in its serious
    moments, however it may have been entangled by education, or beset by
-   priestcraft, not to stand still and doubt upon the truth of this article
-   and of its creed.
+   priest craft, not to stand still and doubt upon the truth of this article
+   and of its creed. But this is not all.
 
-   But this is not all. The second article of the Christian creed having
-   brought the son of Mary into the world (and this Mary, according to the
-   chronological tables, was a girl of only fifteen years of age when this
-   son was born), the next article goes on to account for his being begotten,
+   The second article of the Christian creed having
+   brought the son of Mary into the world (and this Mary according to the
+   Chronological tables, was a girl of only fifteen years of age when this
+   son was born) the next article goes on to account for his being begotten,
    which was that when he grew a man he should be put to death, to expiate,
    they say, the sin that Adam brought into the world by eating an apple or
    some kind of forbidden fruit.
 
-   But though this is the creed of the Church of Rome, from whence the
+   But though this is the creed of the church of Rome, from whence the
    Protestants borrowed it, it is a creed which that Church has manufactured
-   of itself, for it is not contained in nor derived from, the book called
-   the New Testament.
-
-   The four books called the Evangelists, Matthew, Mark, Luke and John, which
+   of itself, for it is not contained in, nor derived from, the book called
+   the New Testament. The four books called the Evangelists, Matthew, Mark, Luke and John, which
    give, or pretend to give, the birth, sayings, life, preaching, and death
-   of Jesus Christ, make no mention of what is called the fall of man; nor is
+   of Jesus Christ, make no mention of what is called the fall of man, nor is
    the name of Adam to be found in any of those books, which it certainly
-   would be if the writers of them believed that Jesus was begotten, born and
-   died for the purpose, of redeeming mankind from the sin which Adam had
+   would be if the writers of them believed that Jesus was begotten, born, and
+   died for the purpose of redeeming mankind from the sin which Adam had
    brought into the world. Jesus never speaks of Adam himself, of the Garden
-   of Eden, nor of what is called the fall of man.
-
+   of Eden, nor of what is called the fall of man. Neither did the early 
+   Christians believe the story of the fall of man to be fact, but held it 
+   to be allegory. The person called St. Augustine, says in his City of God, 
+   that the adventure of Eve and the serpent, and the account of Paradise, 
+   were generally considered at the time as allegory, and he treats them as 
+   such himself without attempting to give any explanation of them, but 
+   thinks a better might be given than had been offered.
+   
+   Origen, another of the ancient fathers of the Church, treats the account 
+   of the creation in Genesis, and the story of the Garden of Eden and the 
+   fall of man, as fable or fiction.
+   
+   What man of good sense, says he, can ever persuade himself that there was 
+   a first, a second, and a third day, and that each of those days had a night, 
+   when there was yet neither sun, moon, nor stars! (N.B. According to the 
+   account of Genesis, chap. I, the sun and moon was not made until the fourth 
+   day) &mdash; What man, continues he can be stipid enough to believe that God 
+   acting the part of gardener had planted a garden in the east; that the tree 
+   of life  was a real tree, and that the fruit of it had the virtue of making 
+   those who eat it live forever.
+   
+   The Jews did not believe the first chapters of Genisis to be fact. Muimonides, 
+   one of the most learned and celebrated of the Jewish authors who lived in the 
+   eleventh century, says, in is book MORE NEBACHIM. We ought not to understand nor take 
+   according to the letter that which is written in the book of the creation, (the book of Genesis.) 
+   Taken, says he, according to the letter, especially with respect to the work of four 
+   days, it gives the most absurd and extravagant ideas of God.
+   
    But the Church of Rome having set up its new religion, which it called
-   Christianity, invented the creed which it named the Apostles's Creed, in
-   which it calls Jesus the only son of God, conceived by the Holy Ghost, and
-   born of the Virgin Mary; things of which it is impossible that man or
-   woman can have any idea, and consequently no belief but in words; and for
+   Christianity, and invented the creed which it named the apostles's creed, in
+   which it calls Jesus the *only son of God, conceived by the Holy Ghost, and
+   born of the Virgin Mary*, things of which it is impossible that man or
+   woman can have any idea, and consequently no belief but in words, and for
    which there is no authority but the idle story of Joseph's dream in the
    first chapter of Matthew, which any designing impostor or foolish fanatic
-   might make.
-
-   It then manufactured the allegories in the book of Genesis into fact, and
+   might make, it then manufactured the allegories in the book of Genesis into fact, and
    the allegorical tree of life and the tree of knowledge into real trees,
-   contrary to the belief of the first Christians, and for which there is not
-   the least authority in any of the books of the New Testament; for in none
+   contrary to the belief of the first christians, and for which there is not
+   the least authority in any of the books of the New Testament, for in none
    of them is there any mention made of such place as the Garden of Eden, nor
-   of anything that is said to have happened there.
+   of any thing that is said to have happened there.
 
    But the Church of Rome could not erect the person called Jesus into a
-   Savior of the world without making the allegories in the book of Genesis
+   Saviour of the World without making the allegories in the book of Genesis
    into fact, though the New Testament, as before observed, gives no
    authority for it. All at once the allegorical tree of knowledge became,
-   according to the Church, a real tree, the fruit of it real fruit, and the
-   eating of it sinful.
-
-   As priestcraft was always the enemy of knowledge, because priestcraft
+   according to the church, a real tree, the fruit of it real fruit, and the
+   eating of it sinful. As priest-craft was always the enemy of knowledge, because priest craft
    supports itself by keeping people in delusion and ignorance, it was
    consistent with its policy to make the acquisition of knowledge a real
    sin.
 
-   The Church of Rome having done this, it then brings forward Jesus the son
+   The church of Rome having done this, it then brings forward Jesus the son
    of Mary as suffering death to redeem mankind from sin, which Adam, it
    says, had brought into the world by eating the fruit of the tree of
    knowledge. But as it is impossible for reason to believe such a story,
    because it can see no reason for it, nor have any evidence of it, the
-   Church then tells us we must not regard our reason, but must believe, as
+   church then tells us we must not regard our reason, but must *believe*, as
    it were, and that through thick and thin, as if God had given man reason
-   like a plaything, or a rattle, on purpose to make fun of him.
-
-   Reason is the forbidden tree of priestcraft and may serve to explain the
+   like a plaything, or a rattle, on purpose to make fun of him. Reason is the 
+   forbidden tree of priest-craft, and may serve to explain the
    allegory of the forbidden tree of knowledge, for we may reasonably suppose
    the allegory had some meaning and application at the time it was invented.
-   It was the practise of the Eastern nations to convey their meaning by
+   It was the practice of the Eastern nations to convey their meaning by
    allegory, and relate it in the manner of fact. Jesus followed the same
-   method, yet nobody ever supposed the allegory or parable of the rich man
-   and Lazarus, the Prodigal Son, the ten Virgins, etc., were facts.
-
-   Why then should the tree of knowledge, which is far more romantic in idea
-   than the parables in the New Testament are, be supposed to be a real tree?
-   (The remark of the Emperor Julian on the story of the Tree of Knowledge is
+   method, yet nobody ever supposed the allegory or parable of the Rich Man
+   and Lazarus, the Prodigal Son, the Ten Virgins, &c. were facts. Why then 
+   should the tree of knowledge, which is far more romantic in idea
+   than the parables in the New Testament are, be supposed to be a real tree. 
+   (The remark of the Emperor Julien, on the story of the Tree of Knowledge is
    worth observing. "If," said he, "there ever had been, or could be, a Tree
    of Knowledge, instead of God forbidding man to eat thereof, it would be
-   that of which he would order him to eat the most."-Author.)  The answer to
+   that of which he would order him to eat the most.")  The answer to
    this is, because the Church could not make its new-fangled system, which
    is called Christianity, hold together without it. To have made Christ to
-   die on account of an allegorical tree would have been too barefaced a
+   die on account of an allegorical tree would have been too bare-faced a
    fable.
 
-   But the account, as it is given of Jesus in the New Testament, even
-   visionary as it is, does not support the creed of the Church that he died
+   But the account, as it is given of Jesus in the New Testament even
+   visionary as it is, does not support the creed of the church that he died
    for the redemption of the world. According to that account he was
-   crucified and buried on the Friday, and rose again in good health on the
+   crucified and buried on the Friday and rose again in good health on the
    Sunday morning, for we do not hear that he was sick. This cannot be called
-   dying, and is rather making fun of death than suffering it.
-
-   There are thousands of men and women also, who if they could know they
+   dying, and is rather making fun of death than suffering it. There are thousands 
+   of men and women also, who if they could know they
    should come back again in good health in about thirty-six hours, would
    prefer such kind of death for the sake of the experiment, and to know what
    the other side of the grave was. Why then should that which would be only
    a voyage of curious amusement to us be magnified into merit and suffering
-   in him? If a God, he could not suffer death, for immortality cannot die,
+   in him? If a God he could not suffer death, for immortality cannot die,
    and as a man his death could be no more than the death of any other
    person.
 
    The belief of the redemption of Jesus Christ is altogether an invention of
-   the Church of Rome, not the doctrine of the New Testament. What the
-   writers of the New Testament attempted to prove by the story of Jesus is
-   the resurrection of the same body from the grave, which was the belief of
+   the church of Rome, not the doctrine of the New Testament. What the
+   writers of the New Testament attempted to prove by the story of Jesus is,
+   the *resurrection of the same body from the grave*, which was the belief of
    the Pharisees, in opposition to the Sadducees (a sect of Jews) who denied
-   it.
-
-   Paul, who was brought up a Pharisee, labors hard at this point, for it was
-   the creed of his own Pharisaical Church: I Corinthians xv is full of
+   it. Paul, who was brought up a Pharisee, labours hard at this point for it, was
+   the creed of his own Pharisaical Church. The XV chap, I of Corinthians is full of
    supposed cases and assertions about the resurrection of the same body, but
    there is not a word in it about redemption. This chapter makes part of the
-   funeral services of the Episcopal Church.
-
-   The dogma of the redemption is the fable of priestcraft invented since the
+   funeral services of the Episcopal church. The dogma of the redemption is the 
+   fable of priest-craft invented since the
    time the New Testament was compiled, and the agreeable delusion of it
    suited with the depravity of immoral livers. When men are taught to
-   ascribe all their crimes and vices to the temptations of the devil, and to
-   believe that Jesus, by his death, rubs all off, and pays their passage to
+   ascribe all their crimes and vices to the temptations of the Devil, and to
+   believe that Jesus, by his death, rubs all off and pays their passage to
    heaven gratis, they become as careless in morals as a spendthrift would be
-   of money were he told that his father had engaged to pay off all his
-   scores.
-
-   It is a doctrine not only dangerous to morals in this world, but to our
+   of money, were he told that his father had engaged to pay off all his
+   scores. It is a doctrine not only dangerous to morals in this world, but to our
    happiness in the next world, because it holds out such a cheap, easy, and
-   lazy way of getting to heaven, as has a tendency to induce men to hug the
+   lazy way of getting to heaven as has a tendency to induce men to hug the
    delusion of it to their own injury.
 
    But there are times when men have serious thoughts, and it is at such
    times, when they begin to think, that they begin to doubt the truth of the
-   Christian religion; and well they may, for it is too fanciful and too full
-   of conjecture, inconsistency, improbability and irrationality to afford
+   Christian Religion, and well they may, for it is too fanciful and too full
+   of conjecture, inconsistency, improbability, and irrationality, to afford
    consolation to the thoughtful man. His reason revolts against his
    creed. He sees that none of its articles are proved, or can be proved.
-
    He may believe that such a person as is called Jesus (for Christ was not
    his name) was born and grew to be a man, because it is no more than a
    natural and probable case. But who is to prove he is the son of God, that
-   he was begotten by the Holy Ghost? Of these things there can be no proof;
+   he was begotten by the Holy Ghost? Of these things there can be no proof,
    and that which admits not of proof, and is against the laws of probability
-   and the order of nature, which God Himself has established, is not an
+   and the order of nature, which God himself has established, is not an
    object for belief. God has not given man reason to embarrass him, but to
    prevent his being imposed upon.
 
    He may believe that Jesus was crucified, because many others were
-   crucified, but who is to prove he was crucified for the sins of the world?
-   This article has no evidence, not even in the New Testament; and if it
+   crucified, but who is to prove he was crucified *for the sins of the world*?
+   This article has no evidence not even in the New Testament; and if it
    had, where is the proof that the New Testament, in relating things neither
-   probable nor provable, is to be believed as true?
-
-   When an article in a creed does not admit of proof nor of probability, the
-   salvo is to call it revelation; but this is only putting one difficulty in
+   probable nor proveable, is to be believed as true? When an article in a 
+   creed does not admit of proof nor of probability the
+   salvo is to call it revelation; But this is only putting one difficulty in
    the place of another, for it is as impossible to prove a thing to be
    revelation as it is to prove that Mary was gotten with child by the Holy
    Ghost.
@@ -627,11 +596,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    religion. It is free from all those invented and torturing articles that
    shock our reason or injure our humanity, and with which the Christian
    religion abounds. Its creed is pure, and sublimely simple. It believes in
-   God, and there it rests.
-
-   It honors reason as the choicest gift of God to man, and the faculty by
-   which he is enabled to contemplate the power, wisdom and goodness of the
-   Creator displayed in the creation; and reposing itself on His protection,
+   God and there it rests. It honours reason as the choicest gift of God to man, and the faculty by
+   which he is enabled to contemplate the power, wisdom, and goodness of the
+   Creator displayed in the creation; and reposing itself on his protection,
    both here and hereafter, it avoids all presumptuous beliefs, and rejects,
    as the fabulous inventions of men, all books pretending to revelation.
 
@@ -639,9 +606,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
 
 
-   To THE MEMBERS OF THE SOCIETY, STYLING ITSELF
-
-   THE MISSIONARY SOCIETY
+   To THE MEMBERS OF THE SOCIETY, STYLING ITSELF THE MISSIONARY SOCIETY
+   
+   (Editor's Note: This article has not been edited for accuracy, as it is not Paine's work.)
 
    The New York Gazette of the sixteenth (August) contains the following
    article-"On Tuesday, a committee of the Missionary Society, consisting
@@ -672,7 +639,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the horrid story of Samuel's hewing Agag in pieces like a block of wood,
    or David's putting them under harrows of iron?
 
-    Will not the shocking accounts of the destruction of the Canaanites, when
+   Will not the shocking accounts of the destruction of the Canaanites, when
    the Israelites invaded their country, suggest the idea that we may serve
    them in the same manner, or the accounts stir them up to do the like to
    our people on the frontiers, and then justify the assassination by the
@@ -691,7 +658,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    any person among them, but with the knowledge and consent of the
    Government.
 
-   The present Administration [Jefferson's] has brought the Indians into a
+   The present Administration has brought the Indians into a
    good disposition, and is improving them in the moral and civil comforts of
    life; but if these self-created societies be suffered to interfere, and
    send their speculating missionaries among them, the laudable object of
@@ -701,8 +668,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    government.
 
    A FRIEND TO THE INDIANS.
+   
 
    OF THE SABBATH-DAY IN CONNECTICUT
+   
+   (Editor's Note: This article has not been edited for accuracy, as it is not Paine's work.)
 
    The word Sabbath, means REST; that is, cessation from labor, but the
    stupid Blue Laws (They were called Blue Laws because they were originally
@@ -751,8 +721,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    he shuns the sight of them on a Sabbath-day.
 
    AN ENEMY TO CANT AND IMPOSITION.
+   
+  
 
    OF THE OLD AND NEW TESTAMENT
+   
+   (Editor's Note: This article has not been edited for accuracy as it is not Paine's work.)
 
    Archbishop Tillotson says: "The difference between the style of the Old
    and New Testament is so remarkable, that one of the greatest sects in the
@@ -790,67 +764,60 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    ascribing it to Him.
 
    A TRUE DEIST.
+   
+   
+   From the July 21, 1804 *prospect* issue:
 
-   HINTS TOWARD FORMING A SOCIETY FOR INQUIRING INTO THE
+   *Hints towards forming a Society for enquiring into the Truth or Falshood of Ancient History, 
+   so far as History is connected with systems of Religion ancient and modern.*
 
-   TRUTH OR FALSEHOOD OF ANCIENT HISTORY, SO FAR AS
-
-   HISTORY IS CONNECTED W I T H SYSTEMS OF RELIGION
-
-   ANCIENT AND MODERN
-
-   It has been customary to class history into three divisions, distinguished
-   by the names of Sacred, Profane and Ecclesiastical. By the first is meant
-   the Bible; by the second, the history of nations, of men and things; and
+   It has been customary to class History into three divisions, distinguished
+   by the names of *Sacred, Profane* and Ecclesiastical. By the first is meant
+   the *Bible*; by the second, the history of nations, of men and things; and
    by the third, the history of the church and its priesthood.
 
-   Nothing is more easy than to give names, and, therefore, mere names
+   Nothing is more easy than to give names, and therefore mere names
    signify nothing unless they lead to the discovery of some cause for which
-   that name was given. For example, Sunday is the name given to the first
+   that name was given. For example, *Sunday* is the name given to the first
    day of the week, in the English language, and it is the same in the Latin,
-   that is, it has the same meaning (Dies solis), and also in the German and
-   in several other languages.
-
-   Why then was this name given to that day? Because it was the day dedicated
-   by the ancient world to the luminary which in the English we call the Sun,
-   and therefore the day Sun-day, or the day of the Sun; as in the like
+   that is, it has the same meaning *(Dies Solis*), and also in the German and
+   in several other languages. Why then was this name given to that day? Because it was the day dedicated
+   by the ancient world to the luminary, which in the English we call the Sun,
+   and therefore the day *Sun-day*, or the day of the Sun; as in the like
    manner we call the second day Monday, the day dedicated to the Moon.
 
-   Here the name Sunday leads to the cause of its being called so, and we
+   Here the name, *Sunday*, leads to the cause of its being called so, and we
    have visible evidence of the fact, because we behold the Sun from whence
    the name comes; but this is not the case when we distinguish one part of
-   history from another by the name of Sacred.
-
-   All histories have been written by men. We have no evidence, nor any cause
+   history from another by the name of *sacred.* All histories have been written 
+   by men. We have no evidence, nor any cause
    to believe, that any have been written by God. That part of the Bible
-   called the Old Testament, is the history of the Jewish nation, from the
-   time of Abraham, which begins in Genesis xi, to the downfall of that
-   nation by Nebuchadnezzar, and is no more entitled to be called sacred than
-   any other history. It is altogether the contrivance of priest- craft that
-   has given it that name. So far from its being sacred, it has not the
-   appearance of being true in many of the things it relates.
-
-   It must be better authority than a book which any impostor might make, as
-   Mahomet made the Koran, to make a thoughtful man believe that the sun and
-   moon stood still, or that Moses and Aaron turned the Nile, which is larger
-   than the Delaware, into blood; and that the Egyptian magicians did the
+   called the Old Testament, is the History of the Jewish nation, from the
+   time of Abraham, which begins in the 11th chap. of Genesis to the downfall of that
+   nation by Nebuchadnezar, and is no more entitled to be called sacred than
+   any other history. It is altogether the contrivance of priestcraft that
+   has given it that name. So far from its being *sacred* it has not the
+   appearance of being true in many of the things it relates. It must be better
+   authority than a book, which any impostor might make, as
+   Mahomet made the Koran, to make a thoughtful man believe that the Sun and
+   Moon stood still, or that Moses and Aaron turned the Nile, which is larger
+   than the Delaware, into blood, and that the Egyptian magicians did the
    same. These things have too much the appearance of romance to be believed
    for fact.
 
-   It would be of use to inquire, and ascertain the time, when that part of
+   It would be of use to enquire, and ascertain the time, when that part of
    the Bible called the Old Testament first appeared. From all that can be
    collected there was no such book till after the Jews returned from
    captivity in Babylon, and that is the work of the Pharisees of the Second
-   Temple. How they came to make Kings xix and Isaiah xxxvii word for word
-   alike, can only be accounted for by their having no plan to go by, and not
-   knowing what they were about.
-
-   The same is the case with respect to the last verses in II Chronicles, and
-   the first verses in Ezra; they also are word for word alike, which shows
+   Temple. How they came to make the 19th chapter of the 2d book of King, and 
+   the 37 of Isaiah, word for word alike, can only be accounted for by their 
+   having no plan to go by, and not knowing what they were about. The same is 
+   the case with respect to the last verses in the 2d book of Chronicles, and
+   the first verses in Ezra, they also are word for word alike, which shews
    that the Bible has been put together at random.
 
    But besides these things there is great reason to believe we have been
-   imposed upon with respect to the antiquity of the Bible, and especially
+   imposed upon, with respect to the antiquity of the bible, and especially
    with respect to the books ascribed to Moses. Herodotus, who is called the
    father of history, and is the most ancient historian whose works have
    reached to our time, and who traveled into Egypt, conversed with the
@@ -858,160 +825,146 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    purpose of obtaining all the information of it he could, and who gives an
    account of the ancient state of it, makes no mention of such a man as
    Moses, though the Bible makes him to have been the greatest hero there,
-   nor of any one circumstance mentioned in the book of Exodus respecting
+   nor of any one circumstance mentioned in the book of Exodus, respecting
    Egypt, such as turning the rivers into blood, the dust into lice, the
    death of the first born throughout all the land of Egypt, the passage of
    the Red Sea, the drowning of Pharaoh and all his host, things which could
    not have been a secret in Egypt, and must have been generally known, had
-   they been facts; and, therefore, as no such things were known in Egypt,
+   they been facts; and therefore as no such things were known in Egypt,
    nor any such man as Moses at the time Herodotus was there, which is about
-   2,200 years ago, it shows that the account of these things in the books
-   ascribed to Moses is a made story of later times; that is, after the
+   two thousand two hundred years ago, it shews that the account of these things in the books
+   ascribed to Moses is a made story of later times, that is, after the
    return of the Jews from the Babylonian captivity, and that Moses is not
    the author of the books ascribed to him.
 
-   With respect to the cosmogony, or account of the Creation, in Genesis i,
-   of the Garden of Eden in chapter ii, and of what is called the Fall of Man
-   in chapter iii, there is something concerning them we are not historically
-   acquainted with. In none of the books of the Bible, after Genesis, are any
-   of these things mentioned or even alluded to.
-
-   How is this to be accounted for? The obvious inference is that either they
+   With respect to the cosmogony, or account of the creation, in the first chapter of Genesis,
+   of the Garden of Eden in the second chapter, and of what is called the fall of man
+   in the third chapter, there is something concerning them we are not historically
+   acquainted with. In none of the books of the bible after Genesis, are any
+   of these things mentioned, or even alluded to. How is this to be accounted for? 
+   The obvious inference is, that either they
    were not known, or not believed to be facts, by the writers of the other
-   books of the Bible, and that Moses is not the author of the chapters where
+   books of the bible, and that Moses is not the author of the chapters where
    these accounts are given.
 
    The next question on the case is how did the Jews come by these notions,
-   and at what time were they written? To answer this question we must first
+   and at what time were they written? 
+   
+   To answer this question we must first
    consider what the state of the world was at the time the Jews began to be
-   a people, for the Jews are but a modern race compared with the antiquity
-   of other nations.
-
-   At the time there were, even by their own account, but thirteen Jews or
-   Israelites in the world, Jacob and his twelve sons, and four of these were
-   bastards, the nations of Egypt, Chaldea, Persia and India, were great and
+   a people, for the Jews are but a modern race, compared with the antiquity
+   of other nations. At the time there were, even by their own account, but thirteen Jews or
+   Israelites in the world, *Jacob and his twelve sons*, and four of these were
+   bastards. The nations of Egypt, Chaldea, Persia and India, were great and
    populous, abounding in learning and science, particularly in the knowledge
-   of astronomy, of which the Jews were always ignorant.
-
-   The chronological tables mention that eclipses were observed at Babylon
+   of astronomy of which the Jews were always ignorant. The chronological tables 
+   mention, that Eclypsis were observed at Babylon
    above two thousand years before the Christian era, which was before there
    was a single Jew or Israelite in the world.
 
    All those ancient nations had their cosmogonies, that is, their accounts
-   how the creation was made, before there was such people as Jews or
+   how the creation was made, long before there was such people as Jews or
    Israelites. An account of these cosmogonies of India and Persia is given
-   by Henry Lord, Chaplain to the East India Company at Surat, and published
+   by Henry Lord, Chaplain to the East India Company, at Surat, and published
    in London in 1630. The writer of this has seen a copy of the edition of
    1630, and made extracts from it. The work, which is now scarce, was
-   dedicated by Lord to the Archbishop of Canterbury.
+   dedicated by Lord to the Arch Bishop of Canterbury.
 
-   We know that the Jews were carried captive into Babylon by Nebuchadnezzar,
+   We know that the Jews were carried captive into Babylon by Nebuchadnezar,
    and remained in captivity several years, when they were liberated by
-   Cyrus, King of Persia. During their captivity they would have had an
+   Cyrus, king of Persia. During their captivity they would have had an
    opportunity of acquiring some knowledge of the cosmogony of the Persians,
    or at least of getting some ideas how to fabricate one to put at the head
    of their own history after their return from captivity. This will account
    for the cause, for some cause there must have been, that no mention nor
    reference is made to the cosmogony in Genesis in any of the books of the
-   Bible supposed to have been written before the captivity, nor is the name
+   bible supposed to have been written before the captivity, nor is the name
    of Adam to be found in any of those books.
 
-   The books of Chronicles were written after the return of the Jews from
+   The Books of Chronicles were written after the return of the Jews from
    captivity, for the third chapter of the first book gives a list of all the
    Jewish kings from David to Zedekiah, who was carried captive into Babylon,
-   and to four generations beyond the time of Zedekiah. In Chron. i, 1, the
-   name of Adam is mentioned, but not in any book in the Bible written before
+   and to four generations beyond the time of Zedekiah. In the first verse of 
+   the first chapter of this book the
+   name of Adam is mentioned, but not in any book in the bible, written before
    that time, nor could it be, for Adam and Eve are names taken from the
-   cosmogony of the Persians.
-
-   Henry Lord, in his book, written from Surat and dedicated, as I have
-   already said, to the Archbishop of Canterbury, says that in the Persian
-   cosmogony the name of the first man was Adamoh, and of the woman Hevah.
-   (In an English edition of the Bible, in 1583, the first woman is called
-   Hevah.-Author.) From hence comes the Adam and Eve of the book of Genesis.
+   cosmogony of the Persians. Henry Lord, in his book, written from Surat, and dedicated, as I have
+   already said, to the Arch Bishop of Canterbury, says that in the Persian
+   cosmogony the name of the first man was *Adamob* and of the woman *Hevah*.
+   (In an English edition of the Bible, in 1583, the first woman is called Hevah.)
+   From hence comes the Adam and Eve of the book of Genesis.
    In the cosmogony of India, of which I shall speak in a future number, the
-   name of the first man was Pourous, and of the woman Parcoutee. We want a
+   name of the first man was *Pourous*, and of the woman *Parcoutee*. We want a
    knowledge of the Sanscrit language of India to understand the meaning of
-   the names, and I mention it in this place, only to show that it is from
-   the cosmogony of Persia, rather than that of India, that the cosmogony in
+   the names, and I mentioned it in this place, only to show that it is from
+   the cosmogony of Persia rather than that of India that the cosmogony in
    Genesis has been fabricated by the Jews, who returned from captivity by
-   the liberality of Cyrus, King of Persia.
-
-   There is, however, reason to conclude, on the authority of Sir William
+   the liberality of Cyrus, King of Persia. There is, however, reason to conclude, on the authority of Sir William
    Jones, who resided several years in India, that these names were very
    expressive in the language to which they belonged, for in speaking of this
-   language, he says (see the Asiatic Researches), "The Sanscrit language,
+   language, he says (see the Asiatic researches) "The Sanscrit language,
    whatever be its antiquity, is of wonderful structure; it is more perfect
    than the Greek, more copious than the Latin, and more exquisitely re-
    fined than either."
 
-   These hints, which are intended to be continued, will serve to show that a
+   These hints, which are intended to be continued, will serve to shew that a
    society for inquiring into the ancient state of the world, and the state
    of ancient history, so far as history is connected with systems of
    religion, ancient and modern, may become a useful and instructive
-   institution.
-
-   There is good reason to believe we have been in great error with respect
+   institution. There is good reason to believe we have been in great error with respect
    to the antiquity of the Bible, as well as imposed upon by its contents.
    Truth ought to be the object of every man; for without truth there can be
    no real happiness to a thoughtful mind, or any assurance of happiness
-   hereafter. It is the duty of man to obtain all the knowledge he can, and
+   hereafter. It is the duty of man to obtain all the knowledge he can and
    then make the best use of it.
 
    T. P.
 
 
+   From the August 4, 1804 *Prospect* issue:
 
-   To MR. MOORE, OF N E W YORK, COMMONLY CALLED BISHOP MOORE
-
-   [The article appeared in The Prospect of August 4, 1804. It dealt with the
-   Holy Communion which the Rev. Dr. Moore had administered to Alexander
-   Hamilton on his death-bed. Hamilton was killed in a duel with Aaron Burr
-   in 1804.-Editor.]
+   To MR. MOORE, *of New-York, Commonly called* BISHOP MOORE.
 
    I have read in the newspapers your account of the visit you made to the
    unfortunate General Hamilton, and of administering to him a ceremony of
-   your church which you call the Holy Communion.
+   your church which you call the *Holy Communion*.
 
    I regret the fate of General Hamilton, and I so far hope with you that it
    will be a warning to thoughtless man not to sport away the life that God
    has given him; but with respect to other parts of your letter I think it
-   very reprehensible, and betrays great ignorance of what true religion is.
+   very reprehensible and betrays great ignorance of what true religion is.
    But you are a priest, you get your living by it, and it is not your
    worldly interest to undeceive yourself.
 
    After giving an account of your administering to the deceased what you
-   call the Holy Communion, you add, "By reflecting on this melancholy event
+   call the *Holy Communion*, you add, "By reflecting on this melancholy event
    let the humble believer be encouraged ever to hold fast that precious
-   faith which is the only source of true consolation in the last extremity
+   faith which is the *only source of true consolation* in the last extremity
    of nature. Let the infidel be persuaded to abandon his opposition to the
    Gospel."
 
-   To show you, Sir, that your promise of consolation from Scripture has no
+   To shew you, sir, that your promise of consolation from scripture has no
    foundation to stand upon, I will cite to you one of the greatest
-   falsehoods upon record, and which was given, as the record says, for the
+   falshoods upon record, and which was given, as the record says, for the
    purpose, and as a promise, of consolation.
 
-   In the epistle called the First Epistle of Paul to the Thessalonians, iv,
-   the writer consoles the Thessalonians as to the case of their friends who
-   were already dead.
-
-   He does this by informing them, and he does it he says, by the word of the
-   Lord (a most notorious falsehood), that the general resurrection of the
-   dead and the ascension of the living will be in his and their days; that
+   In the epistle called "the First Epistle of Paul to the Thessalonians," (chap. 4)
+   The writer consoles the Thessalonians as to the case of their friends who
+   were already dead. He does this by informing them, and he does it he says, by the word of the
+   Lord, (a most notorious falshood) that the general resurrection of the
+   dead, and the ascension of the living, will be in his and their days; that
    their friends will then come to life again; that the dead in Christ will
-   rise first.-"Then WE (says he, ver. 17, 18) which are alive and remain
-   shall be caught up together with THEM in the clouds, to meet the Lord in
-   the air, and so shall we ever be with the Lord. Wherefore comfort one
+   rise first. &mdash; "Then WE (says he, v. 17) which *are alive and remain*
+   shall be *caught up* together with THEM *in the clouds, to meet the Lord in
+   the air*, and so shall we ever be with the Lord &mdash; Wherefore *comfort* one
    another with these words."
 
-   Delusion and falsehood cannot be carried higher than they are in this
-   passage. You, Sir, are but a novice in the art. The words admit of no
-   equivocation. The whole passage is in the first person and the present
-   tense, "We which are alive!'
-
-   Had the writer meant a future time, and a distant generation, it must have
-   been in the third person and the future tense. "They who shall then be
+   Delusion and falshood cannot be carried higher than they are in this
+   passage. You, sir, are but a novice in the art. The words admit of no
+   equivocation. The whole passage is in the *first person* and the *present
+   tense*, "*We* which *are alive!*" Had the writer meant a future time, and 
+   a distant generation, it must have
+   been in the third person and the future tense. "*They* who *shall then* be
    alive." I am thus particular for the purpose of nailing you down to the
    text, that you may not ramble from it, nor put other constructions upon
    the words than they will bear, which priests are very apt to do.
@@ -1022,36 +975,33 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    confidence in a book that abounds with fable and falsehood as the New
    Testament does. This passage is but a sample of what I could give you.
 
-   You call on those whom you style "infidels'' (and they in return might
-   call you an idolator, a worshiper of false gods, a preacher of false
-   doctrines), "to abandon their opposition to the Gospel." Prove, Sir, the
-   Gospel to be true, and the opposition will cease of itself; but until you
-   do this (which we know you cannot do) you have no right to expect they
-   will notice your call. If by infidels you mean Deists (and you must be
-   exceedingly ignorant of the origin of the word Deist, and know but little
-   of Deus, to put that construction upon it), you will find yourself
-   overmatched if you begin to engage in a controversy with them.
-
-   Priests may dispute with priests, and sectaries with sectaries, about the
-   meaning of what they agree to call Scripture, and end as they began; but
+   You call on those whom you stile "*infidels,*" (and they in return might
+   call you an idolator, a worshiper of false Gods, a preacher of false
+   doctrine) "to abandon their opposition to the Gospel." Prove, sir, the
+   Gospel to be true and the opposition will cease of itself; but until you
+   do this, (which we know you cannot do) you have no right to expect they
+   will notice your call. If by *infidels* you mean *Deists* (and you must be
+   exceedingly ignorant of the origin of the word *Deist*, and know but little
+   of *Deus*, to put that construction upon it), you will find yourself
+   over-matched if you begin to engage in a controversy with them. Priests 
+   may dispute with priests, and sectaries with sectaries, about the
+   meaning of what they *agree* to call scripture and end as they began; but
    when you engage with a Deist you must keep to fact. Now, Sir, you cannot
    prove a single article of your religion to be true, and we tell you so
-   publicly. Do it if you can. The Deistical article, the belief of a God,
+   publicly. Do it, *if you can*. The Deistical article, *the belief of a God*,
    with which your creed begins, has been borrowed by your church from the
-   ancient Deists, and even this article you dishonor by putting a dream-
-   begotten phantom (The first chapter of Matthew, relates that Joseph, the
+   ancient Deists, and even this article you dishonour by putting a *dream-
+   begotten* Phantom which you call his son, over His head, and
+   treating God as if he was superannuated. (The first chapter of Matthew, relates that Joseph, the
    betrothed husband of Mary, dreamed that the angel told him that his
    intended bride was with child by the Holy Ghost. It is not every husband,
    whether carpenter or priest, that can be so easily satisfied, for lo! it
    was a dream. Whether Mary was in a dream when this was done we are not
    told. It is, however, a comical story. There is no woman living can
-   understand it.-Author.) which you call His son, over His head, and
-   treating God as if he was superannuated.
-
-   Deism is the only profession of religion that admits of worshiping and
+   understand it.) Deism is the only profession of religion that admits of worshiping and
    reverencing God in purity, and the only one on which the thoughtful mind
    can repose with undisturbed tranquility. God is almost forgotten in the
-   Christian religion. Everything, even the creation, is ascribed to the son
+   Christian religion. Every thing, even the creation, is ascribed to the son
    of Mary.
 
    In religion, as in everything else, perfection consists in simplicity. The
@@ -1059,14 +1009,12 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    a complicated machine that never goes right, and every projector in the
    art of Christianity is trying to mend it. It is its defects that have
    caused such a number and variety of tinkers to be hammering at it, and
-   still it goes wrong.
-
-   In the visible world no time-keeper can go equally true with the sun; and
+   still it goes wrong. In the visible world no time-keeper can go equally true with the sun; and
    in like manner, no complicated religion can be equally true with the pure
    and unmixed religion of Deism.
 
    Had you not offensively glanced at a description of men whom you call by a
-   false name, you would not have been troubled nor honored with this
+   false name, you would not have been troubled nor honoured with this
    address; neither has the writer of it any desire or intention to enter
    into controversy with you. He thinks the temporal establishment of your
    church politically unjust and offensively unfair; but with respect to
@@ -1076,158 +1024,145 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    A MEMBER OF THE DEISTICAL CHURCH.
 
 
+   From the August 18, 1804 *Prospect* issue:
 
-   To JOHN MASON,
+   To the Rev. JOHN MASON, *One of the Ministers of the Scotch Presbyterian church, of New-York;* 
+   With Remarks on his account of the visit he made to the late General Hamilton.
 
-   ONE OF THE MINISTERS OF THE SCOTCH PRESBYTERIAN CHURCH OF NEW
-
-   YORK, WITH REMARKS ON HIS ACCOUNT OF THE VISIT HE MADE TO THE
-
-   LATE GENERAL HAMILTON
-
-   "Come now, let us REASON together, saith the Lord." This is one of the
-   passages you quoted from your Bible, in your conversation with General
+   "*Come now, let us* REASON *together, saith the Lord.*" This is one of the
+   passages you quoted from your bible, in your conversation with General
    Hamilton, as given in your letter, signed with your name, and published in
-   the Commercial Advertiser, and other New York papers, and I requote the
-   passage to show that your text and your religion contradict each other.
+   the Commercial Advertiser, and other New York papers, and I re-quote the
+   passage to shew that your *Text* and your *Religion* contradict each other.
 
-   It is impossible to reason upon things not comprehensible by reason; and
-   therefore, if you keep to your text, which priests seldom do (for they are
-   generally either above it, or below it, or forget it), you must admit a
+   It is impossible to *reason* upon things *not comprehensible by reason*; and
+   therefore, if you keep to your text, which priests seldom do, (for they are
+   generally either above it, or below it, or forget it) you must admit a
    religion to which reason can apply, and this certainly is not the
    Christian religion.
 
    There is not an article in the Christian religion that is cognizable by
-   religion. The Deistical article of your religion, the belief of a God, is
+   religion. The Deistical article of your religion, *the belief of a God*, is
    no more a Christian article than it is a Mahometan article. It is an
    universal article, common to all religions, and which is held in greater
-   purity by Turks than by Christians; but the Deistical Church is the only
-   one which holds it in real purity; because that Church acknowledges no co-
-   partnership with God. It believes in Him solely; and knows nothing of
-   sons, married virgins, nor ghosts. It holds all these things to be the
-   fables of priestcraft.
+   purity by Turks than by Christians; but the Deistical church is the only
+   one which holds it in real purity; because that church acknowledges no co-
+   partnership with God. It believes in him solely; and knows nothing of
+   Sons, married Virgins, nor Ghosts. It holds all these things to be the
+   fables of priest-craft.
 
    Why then do you talk of reason, or refer to it, since your religion has
-   nothing to do with reason, nor reason with that? You tell people as you
-   told Hamilton, that they must have faith! Faith in what? You ought to know
-   that before the mind can have faith in anything, it must either know it as
+   nothing to do with reason, nor reason with that. You tell people, as you
+   told Hamilton, that they must have *faith.* Faith in what? You ought to know
+   that before the mind can have faith in any thing, it must either know it as
    a fact, or see cause to believe it on the probability of that kind of
-   evidence that is cognizable by reason.
-
-   But your religion is not within either of these cases; for, in the first
+   evidence that is cognizable by reason: But your religion is not within either 
+   of these cases; for, in the first
    place, you cannot prove it to be fact; and in the second place, you cannot
    support it by reason, not only because it is not cognizable by reason, but
-   because it is contrary to reason.
-
-   What reason can there be in supposing, or believing that God put Himself
-   to death to satisfy Himself, and be revenged on the devil on account of
-   Adam? For, tell the story which way you will, it comes to this at last.
+   because it is contrary to reason. What reason can there be in supposing, or 
+   believing, that God put *himself
+   to death, to satisfy himself, and be revenged on the Devil on account of
+   Adam;* for tell the story which way you will it comes to this at last.
 
    As you can make no appeal to reason in support of an unreasonable
    religion, you then (and others of your profession) bring yourselves off by
-   telling people they must not believe in reason but in revelation.
-
-   This is the artifice of habit without reflection. It is putting words in
-   the place of things; for do you not see that when you tell people to
-   believe in revelation, you must first prove that what you call revelation,
-   is revelation; and as you cannot do this, you put the word, which is
-   easily spoken, in the place of the thing you cannot prove.
-
-   You have no more evidence that your Gospel is revelation than the Turks
+   telling people, they must not believe in *reason* but in *revelation*.
+   This is the artifice of habit without reflection. It is putting *words* in
+   the place of *things*; for do you not see, that when you tell people to
+   believe in revelation, you must first prove that what you *call* revelation,
+   *is* revelation; and as you cannot do this, you put the *word* which is
+   easily spoken, in the place of the *thing* you cannot prove. You have no 
+   more evidence that your Gospel is revelation than the Turks
    have that their Koran is revelation, and the only difference between them
-   and you is, that they preach their delusion and you preach yours.
+   and you is, that they preach *their* delusion and you preach *yours*.
 
-   In your conversation with General Hamilton, you say to him, "The simple
-   truths of the Gospel which require no abstruse investigation, but faith in
-   the veracity of God who cannot lie, are best suited to your present
+   In your conversation with General Hamilton, you say to him, "The *simple
+   truths* of the Gospel which require *no abstruse investigation*, but faith in
+   the veracity of *God, who cannot lie*, are best suited to your present
    condition."
 
-   If those matters you call "simple truths" are what you call them, and
-   require no abstruse investigation, they would be so obvious that reason
+   If those matters you call "*simple truths,*" are what you call them, and
+   *require no abstruse investigation*, they would be so obvious that reason
    would easily comprehend them; yet the doctrine you preach at other times
-   is, that the mysteries of the Gospel are beyond the reach of reason.
-
-   If your first position be true, that they are simple truths, priests are
-   unnecessary, for we do not want preachers to tell us the sun shines; and
+   is, *That the mysteries of the Gospel are beyond the reach of reason.*
+   If your first position be true, that they are"* simple truths*," priests are
+   unnecessary, for we do not want preachers to tell us the sun shines: and
    if your second be true, the case, as to effect, is the same, for it is
    waste of money to pay a man to explain unexplainable things, and loss of
-   time to listen to him.
+   time to listen to him. That "*God cannot lie,*" is no advantage to your argument, because it is no
+   proof that priests cannot, or that the Bible does not. Did not Paul lie
+   when he told the Thessalonians that the general resurrection of the dead
+   would be in his life-time, and that he should go up alive along with them
+   into the clouds to meet the Lord in the air? I Thess. chap. 4, v. 27.
 
-   That God cannot lie, is no advantage to your argument, because it is no
-   proof that priests can not, or that the Bible does not. Did not Paul lie
-   when he told the Thessalonians, that the general resurrection of the dead
-   would be in his lifetime, and that he should go up alive along with them
-   into the clouds to meet the Lord in the air? I Thes. iv, 17.
-
-   You spoke of what you call, "the precious blood of Christ" This savage
-   style of language belongs to the priests of the Christian religion. The
+   You spoke of what you call, "*the precious blood of Christ.*" This savage
+   stile of language belongs to the priests of the Christian religion. The
    professors of this religion say they are shocked at the accounts of human
    sacrifices of which they read in the histories of some countries. Do they
    not see that their own religion is founded on a human sacrifice, the blood
-   of man, of which their priests talk like so many butchers?
-
-   It is no wonder the Christian religion has been so bloody in its effects,
+   of man, of which their priests talk like so many butchers. It is no wonder 
+   the Christian religion has been so bloody in its effects,
    for it began in blood, and many thousands of human sacrifices have since
    been offered on the altar of the Christian religion.
 
    It is necessary to the character of a religion, as being true, and
    immutable as God Himself is, that the evidence of it be equally the same
-   through all periods of time and circumstance.
-
-   This is not the case with the Christian religion, nor with that of the
-   Jews that preceded it (for there was a time and that within the knowledge
-   of history, when these religions did not exist); nor is it the case with
+   through all periods of time and circumstance. This is not the case with the 
+   Christian religion, nor with that of the
+   Jews that preceded it, (for there was a time, and that within the knowledge
+   of history, when these religions did not exist) nor is it the case with
    any religion we know of but the religion of Deism. In this the evidences
-   are eternal and universal. "The heavens declare the glory of God and the
-   firmament showeth His handiwork. Day unto day uttereth speech, and night
-   unto night showeth knowledge!" (This Psalm (19) which is a Deistical
-   Psalm, is so much in the manner of some parts of the book of Job (which1
-   is not a book of the Jews, and does not belong to the Bible), that it has
+   are eternal and universal &mdash;  "*The heavens declare the glory of God and the
+   firmament showeth his handiwork, &mdash; Day unto day uttereth speech, and night
+   unto night sheweth knowledge.*" (This Psalm (19) which is a *Deistical
+   Psalm,* is so much in the manner of some parts of the book of Job (which
+   is not a book of the Jews, and does not belong to the bible) that it has
    the appearance of having been translated into Hebrew from the same
    language in which the book of Job was originally written, and brought by
    the Jews from Chaldea or Persia, when they returned from captivity. The
-   contemplation of the heavens made a great part of the religious devotion
+   contemplation of the Heavens made a great part of the religious devotion
    of the Chaldeans and Persians, and their religious festivals were
    regulated by the progress of the sun through the twelve signs of the
-   zodiac. But the Jews knew nothing about the heavens, or they would not
+   Zodiac. But the Jews knew nothing about the Heavens, or they would not
    have told the foolish story of the sun's standing still upon a hill, and
    the moon in a valley. What could they want the moon for in the day
-   time?-Author.) But all other religions are made to arise from some local
+   time?) But all other religions are made to arise from some local
    circumstance, and are introduced by some temporary trifle which its
    partisans call a miracle, but of which there is no proof but the story of
    it.
 
    The Jewish religion, according to the history of it, began in a
-   wilderness, and the Christian religion in a stable. The Jewish books tell
+   *wilderness*, and the Christian religion in a *stable*. The Jewish books tell
    us of wonders exhibited upon Mount Sinai. It happened that nobody lived
-   there to contradict the account.
-
-   The Christian books tell us of a star that hung over the stable at the
+   there to contradict the account. The Christian books tell us of a star that hung over the *stable* at the
    birth of Jesus. There is no star there now, nor any person living that saw
-   it. But all the stars in the heavens bear eternal evidence to the truth of
+   it. But all the stars in the Heavens bear eternal evidence to the truth of
    Deism. It did not begin in a stable, nor in a wilderness. It began
-   everywhere. The theater of the universe is the place of its birth.
+   every where. The theater of the universe is the place of its birth.
 
-   As adoration paid to any being but God Himself is idolatry, the Christian
-   religion by paying adoration to a man, born of a woman called Mary,
-   belongs to the idolatrous class of religions; consequently the consolation
-   drawn from it is delusion.
-
-   Between you and your rival in communion ceremonies, Dr. Moore of the
-   Episcopal Church, you have, in order to make yourselves appear of some
+   As adoration paid to any being but GOD himself is idolatry, the Christian
+   religion by paying adoration to a man, born of a woman, called Mary,
+   belongs to the Idolatrous class of religions; consequently the consolation
+   drawn from it is delusion. Between you and your rival in communion ceremonies, Dr. Moore, of the
+   Episcopal church, you have, in order to make yourselves appear of some
    importance, reduced General Hamilton's character to that of a
    feeble-minded man, who in going out of the world wanted a passport from a
    priest. Which of you was first or last applied to for this purpose is a
    matter of no consequence.
 
-   The man, Sir, who puts his trust and confidence in God, that leads a just
-   and moral life, and endeavors to do good, does not trouble himself about
+   The man, sir, who puts his trust and confidence in God, that leads a just
+   and moral life, and endeavours to do good, does not trouble himself about
    priests when his hour of departure comes, nor permits priests to trouble
-   themselves about him. They are in general mischievous beings where
+   themselves about him. They are, in general, mischievous Beings where
    character is concerned; a consultation of priests is worse than
    consultation of physicians.
 
-   A MEMBER OF THE DEISTICAL CONGREGATION.
+   *A Member of the Deistical Congregation.* 
+   
+   
+   
+   
 
    ON DEISM, AND THE WRITINGS OF THOMAS PAINE
 
