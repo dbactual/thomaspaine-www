@@ -1,5 +1,5 @@
 PubDate: 1804-09-15
-Slug: questionable-authorship/Of-the-sabbath-day-in-Connecticut
+Slug: questionable-authorship/of-the-sabbath-day-in-Connecticut
 Title: Of the Sabbath Day in Connecticut
 Date: Tue Jan 28 10:56:0 EDT 2020
 
