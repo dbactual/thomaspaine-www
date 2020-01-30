@@ -3,14 +3,14 @@ Slug: recently-discovered/attack-on-paper-money-laws
 Title: Attack On Paper Money Laws
 Date: Mon Jan  1 09:08:51 EDT 2016
 
-Attack on Paper Money Laws
+Number VI.
 
-November 3, 1786
+from the *Pennsylvania Packet*, November 7, 1786.
 
 Paper Money, Paper Money, and Paper Money! is now, in several of the states, both the bubble and the 
 inequity of the day. That there are some bad people concerned in schemes of this kind cannot be 
 doubted, but the far greater part are misled. People are got so bewildered upon the subject that they 
-put and mistake one thing for another. They say Paper Money has improved the country – Paper Money 
+put and mistake one thing for another. They say Paper Money has improved the country &mdash; Paper Money 
 carried on the war, and Paper Money did a great many other fine things.
 
 Not one syllable of this is truth; it is all error from beginning to end. It was CREDIT which did these 
@@ -36,7 +36,7 @@ precedent bind a future assembly so to do, it therefore cannot with the necessar
 because people will not put confidence in the paper promises or paper emissions of those who can 
 neither perform the engagement within the time their own power exist nor compel the performance 
 after that time is past. The politicians of the project for revoking the bank charter (and it was besides 
-most wantonly done), to use a trite saying, aimed at the pidgeon and shot the crew – they fired at the 
+most wantonly done), to use a trite saying, aimed at the pidgeon and shot the crow &mdash; they fired at the 
 bank and hit their own paper.
 
 As to making those bills what are called legal tenders, we have no such thing in this state, which is one 
@@ -71,6 +71,7 @@ or contracts. That particular thing constitutes the legal tender. If a man engag
 quantity of wheat, he is not to deliver rye, any more than he who contracts to pay in hard money is at 
 liberty to pay in paper or in any thing else. Those contracts or bargains have expressed the legal tender 
 on both sides, and no assumed or presumptuous authority of ant assembly can dissolve or alter them.
+
 Another branch of this principle of civil government is, that it disowns the practice of retrospective laws. 
 An assembly or legislature cannot punish a man by any new law made after the crime is committed; he 
 can only be punished by the law which existed at the time he committed the crime. This principle of civil 
@@ -79,7 +80,7 @@ contract was entered into between individuals can no more become the law for dec
 than, in the other case, it can become the law for punishing the crime; both of those cases must be 
 referred to the laws existing at the time of the crime was done or the bargain made. Each party then 
 knew the relative situation they stood in with each other, and on that law and on that knowledge they 
-acted, and by no other can they be adjudged – Therefore all tender laws which apply to the alteration of 
+acted, and by no other can they be adjudged &mdash; Therefore all tender laws which apply to the alteration of 
 past contracts, by making them dischargable on either side, different to what was the law at the time 
 they were made, is of the same nature as that law which inflicts a punishment different to what was the 
 law at the time the crime was committed: For in all cases of civil government the law must be before the 
@@ -93,3 +94,5 @@ right of freeing itself, it cannot bind the individual, because the right of the
 ground as that of the other.
 
 Common Sense
+
+*Philadelphia, Nov. 3, 1786.
