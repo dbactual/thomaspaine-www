@@ -3,34 +3,9 @@ Slug: essays/american-politics-&-government/letters-on-the-bank
 Title: Letters on the Bank
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-   Philip Foner's introduction:
-
-   After the publication of his Dissertations Paine did not abandon the
-   controversy raging over the repeal of the Bank of North America's charter.
-   He continued to defend the bank in a series of letters in the Pennsylvania
-   Packet, the Pennsylvania Gazette and the Freeman's Journal. These letters
-   have never been reprinted and do not appear in any previous collection of
-   Paine's writings.
-
-   The first letter in this series appeared in the Pennsylvania Packet of
-   March 25, 1786, and the last one was published in the Pennsylvania Gazette
-   of March 7, 1787. During this period the bank's charter had been repealed
-   and restored. Paine's letters were extremely important in rallying popular
-   support for the restoration of the bank's charter, and he was subjected to
-   bitter attacks from the anti-bank forces in the legislature. He was
-   attacked in the press as a drunkard and turn-coat. "I cannot conceive,"
-   wrote "Atticus," "in the wide extent of creation, a being more deserving
-   of our abhorrence and contempt, than a writer, who having formerly
-   vindicated the principles of freedom, abandons them to abet the cause of a
-   faction, who exerts the little talent which Heaven has allotted him, . . .
-   to vilify measures which it is his duty to respect, and . . . [devote] his
-   pen to the ruin of his country." The city mechanics, however, supported
-   Paine, and in the autumn elections of 1786 indicated by their vote that
-   they agreed with him on the issues involved in the controversy.
-
-   ***
-
-
+   *For the* Pennsylvania Packet *and* Daily Advertiser.
+   
+   from the *Pennsylvania Packet* , March 25, 1786.
 
    AS I have always considered the bank as one of the best institutions that
    could be devised to promote the commerce and agriculture of the country,
@@ -52,12 +27,16 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    thing, however, is already proved, which is, that the late assembly have
    created one of the greatest fields of speculation ever known in
    Pennsylvania. The funding acts produce an interest, in many cases, of
-   between twenty and thirty per cent, and the country is loaded with taxes
+   between twenty and thirty per cent. and the country is loaded with taxes
    to pay the speculations. In the mean time the opposition to the bank is
    kept up to amuse the people.
-
                                                                                                               
-   Common Sense
+   Common Sense.
+   
+   
+   *For the* Pennsylvania Packet *and* Daily Advertiser.
+   
+   from the *Pennsylvania Packet* , March 28, 1786.
 
    The bubble of Silas Deane and the bubble of the opposition to the bank
    have several circumstances in them that are alike. As an honest friend to
@@ -65,13 +44,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    sincerity I shall pursue the other.
 
    The leaders of this opposition having undertaken what they did not
-   understand, are endeavoring to strengthen themselves by making it a party
+   understand, are endeavouring to strengthen themselves by making it a party
    matter between the constitutionalists and the republicans. They find
    themselves losing ground and now seek to shelter their misconduct and
    mismanagement under this resource.
 
-   The bank as a national question has nothing to do with party. As a means
-   of increasing the commerce and promoting the agriculture and prosperity of
+   The bank as a national question has nothing to do with party. &mdash; As a means
+   of encreasing the commerce and promoting the agriculture and prosperity of
    the country it is supported by numbers of the constitutionalists as well
    as republicans.
 
@@ -82,7 +61,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    produce, and retard the exportation of it, yet the loss must be submitted
    to, for it was a party matter. A man in office may live by his party, or a
    man in power, and fond of displaying it, may make some sacrifices to
-   preserve it. But what is this to the farmer; he must live by his labor and
+   preserve it. &mdash; But what is this to the farmer; he must live by his labour and
    the produce of his farm.
 
    Nothing is more certain than that if the bank was destroyed, the market
@@ -97,7 +76,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    immediately want, may lodge it until they had occasion for it; this alone,
    I say, were there no other use in a bank is a material advantage to the
    community, because it keeps the money in use and circulation that would
-   otherwise be locked up. There are in this city nearly six hundred people
+   otherwise be locked up. &mdash; There are in this city nearly six hundred people
    who constantly send their spare cash to the bank in this manner. They
    receive no interest for it, and in the mean time the country has the use
    of the money. Take away the bank and this money returns into the chests
@@ -112,9 +91,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the opposition began, and the manner it has been conducted, even to the
    writing of the report of the committee of the late house of assembly. And
    the persons concerned in this opposition have for ten years past known me
-   too well even to believe that I am governed by self-interested motives.
-
-   TO THE PRINTERS
+   too well even to believe that I am governed by self interested motives.
+   
+   COMMON SENSE.
+   
+   
+   TO THE PRINTERS.
+   
+   From the *Pennsylvania Packet*, April 4, 1786.
 
    AS the Press ought to be as sacred to liberty, as the privilege of Speech
    is to the Members of Assembly in debate, you will please to insert the
@@ -122,15 +106,15 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    THOMAS PAINE.
 
-   In the Pennsylvania Packet of last Tuesday is a publication signed Common
-   Sense which begins in the following manner.
+   In the Pennsylvania Packet of last Tuesday is a publication signed *Common
+   Sense* which begins in the following manner.
 
    "The bubble of Silas Deane. and the bubble of the opposition against the
    bank, have several circumstances in them that are alike. As an honest
    friend to the public I set myself to detect the one, and with the same
    motives of sincerity I shall pursue the other."
 
-   "The concluding paragraph in that publication is, If there are any who
+   The concluding paragraph in that publication is, "If there are any who
    suppose that I have engaged myself in this business merely on account of
    the bank, I wish them to state their reasons. I am ready to satisfy any
    man either publicly or privately on this or any other circumstance
@@ -143,8 +127,8 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Here is a fair and open opportunity given to any man either to charge me
    with it, or inform himself respecting it.
 
-   The pamphlet on the affair of the bank, under the signature of Common
-   Sense, was published on the first day of the meeting of the present
+   The pamphlet on the affair of the bank, under the signature of *Common
+   Sense*, was published on the first day of the meeting of the present
    setting of the house, nearly six weeks ago. If the arguments used in that
    pamphlet in support of a public bank as beneficial to the state could have
    been refuted, or the facts or matters stated therein contradicted, it
@@ -153,7 +137,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    been thrown thereon, either by those who were for, or those who were
    against such an institution, would have been acceptable to the public. No
    subject of debate that has been agitated before the legislature of
-   Pennsylvania ever drew together such crowded audiences as attended the
+   Pennsylvania ever drew together such crouded audiences as attended the
    house during the four days the debate lasted. And it was very easy to
    discover from the countenance of the people that the debate has
    illuminated their minds, though it has been lost upon the opposing party
@@ -198,7 +182,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    reputation; and the suspicion will naturally spread, that where such
    methods are used something bad must be at the bottom. But if Mr. Smilie
    chose to make such an attack, why did he not do it in the first day's
-   debate, I could then have answered him on the last day: but be reserved
+   debate, I could then have answered him as I now do, the next day, of if he had made 
+   it on the second day, I could have answered him on the third, or if on the third I 
+   could have answered him on the last day: but be reserved
    himself till just before the vote was taken, and when it could not be
    contradicted, for reasons too obvious to be mentioned.
 
@@ -214,7 +200,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    clause, was 30 to 39. Mr. Clymer, though strongly in support of the bank,
    voted against it in this question, because he was against the additional
    clause. If his vote had been for it, the numbers would have stood 31 to
-   38-consequently four more votes would have re-established the bank, and
+   38 &mdash; consequently four more votes would have re-established the bank, and
    restored its full usefulness again to the country.
 
    In the present house are twenty-four members who were members of the late
@@ -230,13 +216,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    COMMON SENSE.
 
-   April 3.
+   Philadelphia, April 3.
 
-   PHILADELPHIA,
-
+  
 
 
    TO THE PRINTERS
+   
+   from the *Pennsylvania Packet*, April 7, 1786.
 
    AS the Press ought to be as Sacred to Liberty, as the privilege of a
    Speech is to the Members of Assembly in debate, you will please to insert
@@ -247,23 +234,23 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    As I intend to begin and continue a series of publications on the
    usefulness of a public bank, to the trade, commerce and agriculture of the
    state, and as it is proper that a man's motives on public affairs should
-   be known, I shall, in this publication endeavor, as concisely as I can, to
-   bring into one view, such parts of my own conduct, as relates thereto. In
-   doing this, certain parts of Mr. Smilie's conduct will necessarily make
+   be known, I shall, in this publication endeavour, as concisely as I can, to
+   bring into one view, such parts of my own conduct, as relates thereto &mdash;  
+   In doing this, certain parts of Mr. Smilie's conduct will necessarily make
    their appearance.
 
    As to the improper use which that member made of the privilege of speech
-   in the house, of styling me an unprincipled author, he is welcome to it,
+   in the house, of stiling me an unprincipled author, he is welcome to it,
    and I give him my consent to repeat it as often as he pleases and where
    ever he chooses. I shall make a few remarks on this part of the subject,
    and then proceed to more material matter.
 
-   While those members of the house who style themselves constitutionalists,
+   While those members of the house who stile themselves constitutionalists,
    as well as those who act as the leaders of that party, appeared to me to
    pursue right measures and proceed on right principles, they had what
    assistance it was in my power to give them.
 
-   In the winter of 1778, a very strong opposition was made to the form of
+   In the winter of 1778, a very strong opposition was made to the *form* of
    the constitution. As the constitution was then on an experiment, and the
    enemy in full force in the country, the opposition was injudicious. To
    this may be added another reason, which is, that the constitution, by
@@ -284,16 +271,16 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    People of Pennsylvania on the Present State of Their Affairs." Before the
    appearance of those publications, the newspapers were filled with pieces
    in opposition to the constitution; none appeared afterwards, it is
-   therefore reasonable to conclude they had some effect. The
-   constitutionalists got full possession of the government-they enjoyed
+   therefore reasonable to conclude they had some effect. &mdash; The
+   constitutionalists got full possession of the government &mdash; they enjoyed
    their places and offices, and here the matter ended.
 
    When the war ceased, there were these of all parties, as well of this
-   state as of other states, who thought it unreasonable, as well as
+   state as of other states, who tho't it unreasonable, as well as
    dishonorable to the country, to suffer the service of a man who had been a
    volunteer in its cause for so many years, to pass off unacknowledged. The
    principal mover in this business was the commander in chief. The state of
-   New York (being the place where the war ended) made the first step, and I
+   New-York (being the place where the war ended) made the first step, and I
    mention it with a just sense of the generosity and gentility of their
    conduct.
 
@@ -323,23 +310,21 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    will probably be, that people will believe neither what he then said, nor
    what he now says.
 
-   Mr. Smilie then said, that "excepting General Washington, there was not a
+   Mr. Smilie then said, that "excepting general Washington, there was not a
    more disinterested patriot in America, than Mr. Paine." He now says, that
-   "Mr. Paine is an unprincipled author, whose pen is let out for hire." Thus
+   "Mr. Paine is an unprincipled author, whose pen is let out for hire." &mdash; Thus
    you see my trumpeter can blow all sorts of tunes. And I am very sorry that
    such a high encomium as he has given me should stand upon such loose
    authority as himself. But the "balance" in this case is, that what I
-   suffer by his praise, is made up to me by his censure. (Mr. Smilie, who
-   loves to talk about what he does not understand, is always exposing his
-   want of knowledge, in haranguing about the balance of trade.-Author.)
+   suffer by his praise, is made up to me by his censure. (1)
 
-   But to return to my point. As it could not be interest that induced me to
+   But to return to my point. &mdash; As it could not be interest that induced me to
    oppose their attack on the bank at the time here alluded to, it is proper
    I should declare what the motive was.
 
    It was friendship to them. I saw very clearly they were going to destroy
    themselves by a rash, mad, unjust, tyrannical proceeding, and that they
-   might not, I endeavored in the most pressing and friendly manner to
+   might not, I endeavoured in the most pressing and friendly manner to
    remonstrate with them, to point out the consequence, and caution them
    against it.
 
@@ -353,12 +338,12 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    But Mr. Smilie is not the only one that I urged the same matters to. And I
    will here take the liberty (I hope I shall be pardoned in it) in
    mentioning the name of a gentlemen whose friendship and acquaintance I
-   have always esteemed and wish to preserve-Colonel J. D. Smith.
+   have always esteemed and wish to preserve &mdash; Colonel J. D. Smith.
 
    As I knew he had a general acquaintance with the persons concerned in the
    opposition, there was scarcely a day passed, while the matter was before
    the house last year, that I did not go to him, and in the strongest and
-   sincerest terms I could use, endeavor to impress him with the danger his
+   sincerest terms I could use, endeavour to impress him with the danger his
    friends were running into. That they would ruin the whole interest of the
    constitutional party by it. That the proceeding was so arbitrary and
    unjust, so despotic and tyrannical, that no body of men who went on such
@@ -403,9 +388,9 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    given to the faith of the state, together with the arbitrary principles on
    which the late house acted, were matters that concerned the people. They
    therefore brought their complaints before the present house from different
-   parts of the state by memorial. Those memorials exhibit a charge of'
+   parts of the state by memorial. Those memorials exhibit a charge of
    delinquency against the late house and call on the present house to
-   redress the injury by undoing an just act. This is the ground the
+   redress the injury by undoing an unjust act. This is the ground the
    memorials go on. But it happens in this case that the matter of right is
    interwoven with a matter of interest. All the settled parts of
    Pennsylvania which carry on trade with the city and draw from thence
@@ -420,18 +405,18 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Influence, monopoly and danger, were held out to the people, and the
    mis-led multitude caught the bait.
 
-   But notwithstanding all this cry of influence, this clamor of monopoly, it
+   But notwithstanding all this cry of influence, this clamour of monopoly, it
    is influence and monopoly that have produced the attack on the bank. There
    are certain men in Philadelphia, whether friends or otherwise to the
-   revolution matters not, they are monied men. These men view a public bank
+   revolution matters not, *they are monied men*. These men view a public bank
    as standing in the way of their private interest. Their wealth is not of
    so much value to them as it would be if the bank was demolished, and
-   therefore they say down with the bank. To accomplish this point, so
+   therefore they say *down with the bank*. To accomplish this point, so
    agreeable to their wishes, and advantageous to their wealth, they have
    been working through the ignorance of the late house in matters of
    commerce, and the nature of banks, and on the prejudices of others as
    leaders of that party, to demolish the bank. It might be error in the
-   former, but it is willful mischief in the latter; and as mischief is not
+   former, but it is wilful mischief in the latter; and as mischief is not
    lessened by the apology of error, nor increased by the criminality of
    design, therefore those who sacrificed to prejudice, are, as to matters of
    public trust, alike the objects of public reprobation.
@@ -442,17 +427,17 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    The gentleman I here mean is Mr. George Emlen. However worthy or
    respectable a man may be in private life, yet when he from self-interested
-   motives privately opposes a public institution, or get[s] others to do it,
+   motives privately opposes a public institution, or get others to do it,
    because it puts the credit of an honest, industrious tradesman, just and
    punctual in his dealings, though not so rich as himself, on a level with
    his wealth, it is but fair those reasons should be public.
 
    The reasons Mr. Emlen has given for not signing the memorial lately
    presented to the house, and for his opposition to the bank, are, "that
-   while the bank stands a monied man has no chance-that his money is not so
-   valuable to him now as it would be then-that if the bank was demolished he
+   while the bank stands a monied man has no chance &mdash; that his money is not so
+   valuable to him now as it would be then &mdash; that if the bank was demolished he
    could buy country produce for exportation cheaper." If these are just
-   reasons for demolishing the bank, let it be demolished- if they are
+   reasons for demolishing the bank, let it be demolished &mdash; if they are
    popular reasons let them have their effect. But at any rate let them be
    known that they may be judged of.
 
@@ -463,10 +448,10 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    I say, any thing be more inconsistent than to see men of such contrary
    declarations acting in concert to destroy the bank.
 
-   This is the age of negotiation, compromise and coalition: but here is one
+   This is the age of negociation, compromise and coalition: but here is one
    that for wisdom or folly, exceeds them all. The coalition of lord North
    and Charles Fox is innocent childishness compared to this. How powerfully
-   must Mr. Emlen's reason operate on the worthy loquacious member from
+   must Mr. Emlen's reason operate on the *worthy* loquacious member from
    Fayette county. How strong must be his conviction that the bank is
    injurious to the farmer, when Mr. Emlen assures him that were it not for
    the bank he could buy the farmer's produce for less money.
@@ -482,21 +467,26 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Having now stated to the public the circumstance I alluded to in my former
    piece, I shall reserve the continuation of the subject to a future paper.
-
-   COMMON SENSE.
-
-   April 6.
-
-   PHILADELPHIA,
+   
+   Philadelphia, April 6.  COMMON SENSE.
+   
+   Footnote:
+   
+   1. *Mr. Smilie, who loves to talk about what he does not understand, is always exposing his want of knowledge, in* 
+   *haranguing about the balance of trade.*
+   
+   
 
    TO THE PUBLIC
 
-   NUMBER III
+   NUMBER III.
+   
+   from the *Pennsylvania Packet*, April 20, 1786.
 
    AS the debates and proceedings of the Assembly, on the report of the
    committee (to whom were referred the memorials of a very large and
    respectable number of freemen, in divers parts of the state, in behalf of
-   the injured honor of the fame, and complaining of the im- proper,
+   the injured honor of the same, and complaining of the improper,
    unconstitutional and faithless conduct of the late house, in their
    proceedings respecting the Bank of North-America) are advertised to be
    published in a pamphlet, by the person who usually attends the Assembly
@@ -508,30 +498,30 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    those debates are in the hands of the public.
 
    Having thus mentioned my intention, I shall confine my present remarks to
-   such matters as more immediately relate to those debates. Whoever will
+   such matters as more immediately relate to those debates. &mdash; Whoever will
    take a review of them, cannot but perceive that the speakers in opposition
    to the Bank are those, who from their remote situation feel themselves
    very little, if at all, interested in the prosperity of the more settled
    and improved parts of the state. Their ideas of government, agriculture
-   and commerce, are drawn from the limited to their own frontier
+   and commerce, are drawn from and limited to their own frontier
    habitations; and their politics seem calculated to suit their particular
-   situations, at the expense and detriment of the rest. By attempting this,
+   situations, at the expence and detriment of the rest. By attempting this,
    they injure themselves and the event in this instance, as in all others of
    narrow and contracted politics, will turn out to their own disadvantage.
 
    If those persons could not perceive that a Bank was beneficial to the
-   landed interest, it must be-either because they have yet no produce to
+   landed interest, it must be &mdash; either because they have yet no produce to
    sell or export, or because they have no commercial intercourse with the
    market where the Bank is established at. But even in this case their
    policy is ill calculated, and badly applied.
 
-   The time will come, when they will have produce for sale and exportation,
+   The time will come, when they *will have* produce for sale and exportation,
    and consequently will then want a market and a ready means of turning it
    into cash; and whether that produce is brought to Philadelphia market or
    goes to Baltimore, the consequences to themselves will be nearly the same.
    The quick intercourse of commercial intelligence that passes between the
    two markets of Philadelphia and Baltimore, immediately operates to
-   regulate the price of the one by the other; and whenever it fails here,
+   regulate the price of the one by the other; and whenever it falls here,
    from whatever cause it may be, it falls there.
 
    There are two stages or degrees into which the landed interest in
@@ -552,16 +542,16 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    otherwise.
 
    But the improved parts of the state, having undergone the hardship and
-   labor attending the making new settlements, are now become farms, and the
+   labour attending the making new settlements, are now become farms, and the
    occupiers of them are farmers. The others, as I have before observed, are
    yet but settlements, and many of them only laid out to be such, and the
    occupiers of them are settlers. Therefore, when a back county member says
    that the Bank is of no use to the farmer, he means the settler, who has
    yet no produce to sell, and knows nothing about the matter. Of the
    twenty-eight who voted for restoring the Charter of the Bank, twenty-five
-   are country members. Those gentle- men, by residing in the improved parts
+   are country members. Those gentlemen, by residing in the improved parts
    of the state, from whence the staple commodities of the country are
-   brought, are certainly better judges of the usefulness of a public bank,
+   brought, are certainly better judges of the usefulness of a public Bank,
    than those, who, from their distance, have no commercial intercourse with
    the market, and never visit it but when they are sent as representatives.
 
@@ -615,21 +605,24 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    We are frequently passing acts to encourage manufactures, but the most
    effectual encouragement would be, to banish the practice of paper money.
    We have the experience of the New England states before us, which is
-   preferable' to all the reasoning that can be offered on the subject.
+   preferable to all the reasoning that can be offered on the subject.
 
    An independent country and paper money is a ridiculous connection. It is a
    weak, flimsy, idle system of government. We have as good a chance as other
    nations to share in the current coin of the world, gold and silver, did
    those who exercise the power of government understand it.
 
-   COMMON SENSE.
+   *April 17*th. COMMON SENSE.
 
-   April 17th.
+   
+   No. IV.
 
-   ON THE ADVANTAGES OF A PUBLIC BANK
+   *On the Advantages of a PUBLIC BANK.*
+   
+   from the *Pennsylvania Packet*, June 20, 1786.
 
    IF the experience of other countries on the science of Banking be a matter
-   worth attending to, there can be no hesitation in pronouncing in favor of
+   worth attending to, there can be no hesitation in pronouncing in favour of
    a well-regulated public Bank. I shall therefore introduce this part of the
    subject by taking a concise view of the conduct of other nations on this
    subject.
@@ -668,7 +661,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Public banks, therefore, being the offspring of free countries, and of
    free countries only, or of such as approach the nearest thereto, and are
    not instituted in despotic governments, it is no reputation to the
-   political principles of those persons, who endeavored to suppress the
+   political principles of those persons, who endeavoured to suppress the
    institution of a public bank in this state.
 
    The superior advantages of a public bank in a country to those of private
@@ -698,14 +691,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    institutors of it, it would then have been held out as one of the finest
    things imaginable. But such is the intoxicating spirit of party, and such
    the operation of envy, that where it cannot do the service that is wanted,
-   it endeavors to prevent its being done. But in the instance of opposing
+   it endeavours to prevent its being done. But in the instance of opposing
    the institution of the bank, the spirit of party carries something like a
    double face. Those who have been most clamorous against it, however they
    may conduct themselves in other places are nevertheless making use of its
    convenience. If they are now convinced of the usefulness of such an
    institution, they ought to be candid enough to say it.
 
-   One of the clamors against the bank was, that none but persons interested
+   One of the clamours against the bank was, that none but persons interested
    in the institution were its advocates and supporters. This is very true,
    if rightly understood, for every man is interested in supporting an
    institution that is of general utility. The stockholders are but a very
@@ -718,7 +711,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    more or less, is in some degree benefited by an institution that serves,
    like the heart to the body, to give circulation through the state.
 
-   Another of the clamors was, that people could not borrow money as before.
+   Another of the clamours was, that people could not borrow money as before.
    For this they may in a great measure thank their representatives, who by
    the instability of their political conduct, and the levity they have shown
    in making and unmaking of laws, violating faith, and tampering with credit
@@ -727,7 +720,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    But the most beneficial system of loaning, for the general interest of the
    country, is by means of a public bank. Loans for short periods serve to
-   pay the farmer, the miller, the tradesman, the workman, etc. and hundreds
+   pay the farmer, the miller, the tradesman, the workman, &c. and hundreds
    are served in the course of a year to one that would be served by loans
    for a long period of time. The former system of loans was excellently
    adapted to the circumstances of the country at that time. It enabled
@@ -758,27 +751,31 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    the use of, and I think it safer under the care of the bank, until I have
    occasion to call for it, than in my own custody.
 
-   COMMON SENSE.
+   June 17th. *COMMON SENSE.*
 
-   June 17th.
+ 
+   No. VII. (Editor's Note: No.'s VI & VII are under Recently Attributed works, "Attack on Paper Money Laws", and 
+   "On the Affairs of Pennsylvania")
 
-   ADDRESSED TO THE OPPOSERS OF THE BANK
+   ADDRESSED *to the* OPPOSERS *of the* BANK.
+   
+   from the *Pennsylvania Gazette*, March 7, 1787.
 
    ERROR like guilt is unwilling to die. However strong the conviction, or
    clear the detection, it still disdains to yield, and though defeated
    struggles to survive. The opposers to the Bank, finding their cause as
-   unpopular as it is unjust, are endeavoring to confound what they cannot
-   confuse, and to recover by contrivance what they lost by misconduct.
+   unpopular as it is unjust, are endeavouring to confound what they cannot
+   confute, and to recover by contrivance what they lost by misconduct.
    Failing in the onset, they seek to embarrass the issue, and escape
    undefeated in the fog of perplexity.
 
    New devices, as frivolous as they are unjust, are couched under new
-   pretenses, and held out to divide or to deceive. A small reinforcement, by
+   pretences, and held out to divide or to deceive. A small reinforcement, by
    any means obtained, might serve as a prop to their consequence, or an
    apology to their defeat.
 
    When men have rashly plunged themselves into a measure, the right or wrong
-   of it is soon forgotten. Party knows no impulse but spirit, no prize but
+   of it is soon forgotten. Party knows no impulse but spirit, no prise but
    victory. It is blind to truth, and hardened against conviction. It seeks
    to justify error by perseverance, and denies to its own mind the operation
    of its own judgment. A man under the tyranny of party spirit is the
@@ -799,21 +796,21 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    and 60 per cent, was consequently opposed by the operation of the Bank,
    which discounted at the legal interest of six per cent. They were further
    supported by the speculators in the funding scheme, who were calculating
-   to draw from the public an annual interest of 20 and 30 per cent, and
+   to draw from the public an annual interest of 20 and 30 per cent. and
    encrease the value of the capital in their hands at least one hundred per
    cent. This is a caracature which the public are truly interested in having
-   explained. What but this .could bring an assemblyman of the constitutional
+   explained. What but this could bring an assemblyman of the constitutional
    party and an usurer together.
 
    Unjust measures must be supported by unjust means. No sooner was their
    scheme reprobated by men of integrity and independent principles, but
    invention was put to the rack, and truth to defiance, to weaken the credit
    of those who opposed the injustice of their proceedings. This man was
-   bribed and that man was hired, and slander and falsehood, the ministering
+   bribed and that man was hired, and slander and falshood, the ministering
    angels of malevolence, had full employment.
 
    So far as any of their insinuations regard me, I put them to defiance, I
-   challenge any man amongst them to come forth and made the assertion. I
+   challenge any man amongst them to come forth and make the assertion. I
    dare them to it; and with all the calm composure of integrity disdain
    their insinuations, and leave them to lick the file and bleed away their
    venom. An insinuation, which a man who makes it does not believe himself,
@@ -838,7 +835,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    this state, by the stockholders in distant parts, would have brought on a
    famine of money. I know one gentlemen who would have drawn out twenty-four
    thousand dollars, none of which would ever more have returned among us. Is
-   there any man except a madman or an idiot, that will say we have too much
+   there any man except a madman or an ideot, that will say we have too much
    money and want to have less. Can it be for the interest of this state to
    banish the wealth it possesses, at the very time it is complaining of the
    scarcity of cash.
@@ -863,13 +860,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    drawn away by the stockholders in distant parts, though removed from this
    state, would not be deposited at Baltimore. It is very possible that a
    branch of the present Bank may extend there, and in this view they are
-   defeating their own future interest: If one part of the state is thus to
+   defeating their own future interest: &mdash; If one part of the state is thus to
    go on in opposing the other, no great good can arise to either. The
    principle is ungenerous and the policy injurious, and the more it is
    reflected upon the worse it will appear.
 
-   The cry and bubble, the falsehoods and insinuations that were raised
-   against the Bank have sunk and wasted away as groundless clamors always
+   The cry and bubble, the falshoods and insinuations that were raised
+   against the Bank have sunk and wasted away as groundless clamours always
    will. The politics founded on such contrivances never succeed, and the
    event serves to involve the projectors in disgrace. A very little serious
    thinking was sufficient to convince any man, that the more money could be
@@ -899,7 +896,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    explicitly and candidly stated to them my reasons for reprobating their
    conduct, and that at a time when themselves know it was against my
    interest to do it; and I very freely gave them my opinion (such as it was)
-   that those unjust and despotic proceedings would work their downfall. But
+   that those unjust and despotic proceedings would work their downfal. But
    they were intoxicated with power, government with power, government-mad,
    too blind to foresee the consequence, and too confident to be advised.
    They trusted to the transitory popularity obtained by delusion, and
@@ -982,7 +979,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    at any time be changed into hard money, to the paper currency of a state
    of which they are not members. Therefore, instead of opposing the Bank on
    this narrow policy, they would have acted consistently with their interest
-   to have supported it, and joined their endeavors to establish a branch of
+   to have supported it, and joined their endeavours to establish a branch of
    it in that state.
 
    As to paper currencies, when we consider the fluctuating disposition of
@@ -999,7 +996,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    capable of sinking to no value at all, of which this country has
    sufficient experience.
 
-   Pennsylvania being the center of the thirteen states, her situation, with
+   Pennsylvania being the centre of the thirteen states, her situation, with
    the assistance of a Bank, enabled her to carry on a trade upon the produce
    of other states. Through the medium of the Bank, for Bank notes had credit
    in all the states, she imported their productions, exported them again,
