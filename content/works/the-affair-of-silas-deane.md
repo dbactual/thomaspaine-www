@@ -3483,21 +3483,23 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    T.P.
 
 
-
-   MESSRS. DEANE, JAY, AND GERARD14
+   From the *Pennsylvania Packet*, September 14, 1779.
+   
+   Mr. DUNLAP,
 
    In your paper of August 31st was published an extract of a letter from
    Paris, dated May the 21st, in which the writer, among other things, says:
 
    "It is long since I felt in common with every other well-wisher to the
    cause of liberty and truth, the obligations I was under to the author of
-   "Common Sense," for the able and unanswerable manner in which he has
+   Common Sense, for the able and unanswerable manner in which he has
    defended those principles. The same public motives I am persuaded induced
    him to address the public against Mr. Deane and his associates. The
    countenance and support which Deane has received is a melancholy presage
    of the future. Vain, assuming, avaricious and unprincipled, he will stick
-   at no crime to cover what he has committed and continue his career. The
-   impunity with which Deane has traduced and calumniated Congress to their
+   at no crime to cover what he has committed and continue his career." 
+   
+   "The impunity with which Deane has traduced and calumniated Congress to their
    face, the indulgence and even countenance he has received, the acrimonious
    and uncandid spirit of a letter containing Mr. Paine's publications which
    accompanied a resolve sent to Mr. Gerard, are matters of deep concern here
@@ -3506,14 +3508,14 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    By way of explaining the particular letter referred to in the above, the
    following note was added:
 
-   "The letter here alluded to can be no other than that signed ']ohn Jay'
+   "The letter here alluded to can be no other than that signed "*]ohn Jay*"
    dated January 13th, and published in Mr. Dunlap's paper of Jan. 16th. It
    is very extraordinary that Mr. Jay should write such a letter, because it
-   contains the same illiberal reflections which Congress, as a body, had
+   contains the same illiberal reflections which Congress, as a Body, had
    rejected from their resolve of January 12, as may be seen by any one who
    will peruse the proceedings of January last. Congress has since declined
-   to give countenance to Mr. Jay's letter; for though he had a public
-   authority for writing a letter to Mr. Gerard, he had no authority for the
+   to give countenance to Mr. Jay's letter; for tho' he had a public
+   authority for writing *a letter* to Mr. Gerard, he had no authority for the
    reflections he used; besides which, the letter would be perfectly
    laughable were every circumstance known which happened at that particular
    time, and would likewise show how exceedingly delicate and cautious a
@@ -3522,7 +3524,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    Every person will perceive that the note which explains the letter
    referred to, is not a part of the letter from Paris, but is added by
-   another person; and Mr. Jay, or any other gentleman, is welcome to know
+   another person; and Mr. Jay, or any other Gentleman, is welcome to know
    that the note is in my writing, and that the original letter from Paris is
    now in my possession. I had sufficient authority for the expressions used
    in the note. Mr. Jay did not lay his letter to Mr. Gerard before Congress
@@ -3530,11 +3532,11 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    not their approbation. They, it is true, ordered it to be published, but
    there is no vote for approving it, neither have they given it a place in
    their Journals, nor was it published in any more than one paper in this
-   city (Benjamin Towne's), though there were at that time two others. Some
+   city except Benjamin Towne's, though there were at that time two others. Some
    time after Mr. Jay's letter appeared in the paper, I addressed another to
    Congress, complaining of the unjust liberty he had taken, and desired to
    know whether I was to consider the expressions used in his letter as
-   containing their sentiments, at the same time informing them that if they
+   containing *their* sentiments, at the same time informing them that if they
    declined to prove what he had written I should consider their silence as a
    disapprobation of it. Congress chose to be silent; and consequently, have
    left Mr. Jay to father his own expressions.
@@ -3548,20 +3550,20 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    all probability been a ruined, conquered and tributary country.
 
    Let any man look at the position America was in at the time I first took
-   up the subject, and published "Common Sense," which was but a few months
-   before the Declaration of Independence; an army of thirty thousand men
+   up the subject, and published Common Sense, which was but a few months
+   before the declaration of independance; an army of thirty thousand men
    coming out against her, besides those which were already here, and she
    without either an object or a system; fighting, she scarcely knew for
    what, and which, if she could have obtained^ would have done her no good.
    She had not a day to spare in bringing about the only thing which could
    save her. A REVOLUTION, yet no one measure was taken to promote it, and
-   many were used to prevent it; and had independence not been declared at
+   many were used to prevent it; and had independance not been declared at
    the time it was, I cannot see any time in which it could have been
    declared, as the train of ill-successes which followed the affair of Long
    Island left no future opportunity.
 
    Had I been disposed to have made money, I undoubtedly had many
-   opportunities for it. The single pamphlet "Common Sense," would at that
+   opportunities for it. The single pamphlet Common Sense, would at that
    time of day have produced a tolerable fortune, had I only taken the same
    profits from the publication which all writers had ever done, because the
    sale was the most rapid and extensive of any thing that was ever published
@@ -3581,7 +3583,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    At the time the dispute arose, respecting Mr. Deane's affairs, I had a
    conference with Mr. Gerard at his own request, and some matters on that
    subject were freely talked over, which it is here unnecessary to mention.
-   This was on the 26. of January.
+   This was on the 2d of January.
 
    On the evening of the same day, or the next, Mr. Gerard, through the
    mediation of another gentleman, made me a very genteel and profitable
@@ -3594,20 +3596,18 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    some conversation which passed at the time of the interview, I had
    sufficient reason to believe that some restraint had been laid on that
    subject. Besides which I have a natural inflexible objection to any thing
-   which may be construed into a private pension, because a man after
+   which may be construed into a private pension, because a man after that is no longer truly free.
 
-   that is no longer truly free.
-
-   My answer to the offer was precisely in these words-"Any service I can
+   My answer to the offer was precisely in these words &mdash; "Any service I can
    render to either of the countries in alliance, or to both, I ever have
-   done and shall readily do, and Mr. Gerard's esteem will be the only
-   recompense I shall desire." I particularly chose the word esteem because
+   done and shall readily do, and Mr. Gerard's *esteem* will be the only
+   recompense I shall desire." I particularly chose the word *esteem* because
    it admitted no misunderstanding.
 
    On the fifth of January I published a continuation of my remarks on Mr.
    Deane's affairs, and I have ever felt the highest respect for a nation
    which has in every stage of our affairs been our firm and invariable
-   friend. I spoke of France under that general description. It is true I
+   friend, I spoke of France under that general description. It is true I
    prosecuted the point against Mr. Deane, but what was Mr. Deane to France,
    or to the Minister of France?
 
@@ -3630,8 +3630,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    to sup at the same place, in both of which the same offer and the same
    invitation were renewed and the same answers on my part were given: But
    being repeatedly pressed to make Mr. Gerard a visit, I engaged to do it
-   the next morning at ten o'clock: but as I considered myself standing on a
-   nice and critical ground, and lest my reputation should be after wards
+   the next morning at ten o'clock; but as I considered myself standing on a
+   nice and critical ground, and lest my reputation should be afterwards
    called in question, I judged it best to communicate the whole matter to an
    honorable friend before I went, which was on the 14th of January, the very
    day on which Mr. Gerard's answer to Mr. Jay's letter is dated.
@@ -3656,8 +3656,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Gerard, and I sincerely wish he had found a way to avoid an affair which
    has been much trouble to him. As for Deane, I believe him to be a man who
    cares not whom he involves to screen himself. He has forfeited all
-   reputation in this country, first by promising to give an "history of
-   matters important for the people to know" and then not only failing to
+   reputation in this country, first by promising to give an "*history of
+   matters important for the people to know*" and then not only failing to
    perform that promise, but neglecting to clear his own suspected
    reputation, though he is now on the spot and can any day demand a hearing
    of Congress, and call me before them for the truth of what I have
@@ -3683,9 +3683,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    letter to him and his answer were published to effect some purpose or
    other. Yet Mr. Gerard was at the same time making the warmest professions
    of friendship to me, and proposing to take me into his confidence with
-   very liberal offers. In short I had but one way to get through, which was
+   very liberal offers. In short I had but one way to get thro', which was
    to keep close to the point and principle I set out upon, and that alone
-   has rendered me successful. By making this my guide I have kept my ground,
+   has rendered me successful. By making this my guide, I have kept my ground,
    and I have yet ground to spare, for among other things I have authentic
    copies of the dispatches that were lost.
 
@@ -3697,24 +3697,29 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    time understand her own situation; and though the country was then full of
    writers, no one reached the mark; neither did I abate in my service, when
    hundreds were afterwards deserting her interest and thousands afraid to
-   speak, for the first number of the "Crisis" was published in the blackest
+   speak, for the first number of the Crisis was published in the blackest
    stage of affairs, six days before the taking the Hessians at Trenton. When
    this State was distracted by parties on account of her Constitution, I
-   endeavored in the most disinterested manner to bring it to a conclusion;
+   endeavoured in the most disinterested manner to bring it to a conclusion;
    and when Deane's impositions broke out, and threw the whole States into
    confusion, I readily took up the subject, for no one else understood it,
    and the country now sees that I was right. And if Mr. Jay thinks he
    derives any credit from his letter to Mr. Gerard, he will find himself
-   deceived, and that the ingratitude of the composition will be his
+   deceived; and that the ingratitude of the composition will be his
    reproach, not mine.
 
    COMMON SENSE.
 
 
 
-   To THE PUBLIC15
+   To the PEOPLE of AMERICA
+   
+   On the expences, arrangements and disbursements for acrrying on the war 
+   and finishing it with honour and advantage.
+   
+   From the *Frreman's Journal*, March 13, 1782.
 
-   When any necessity or occasion has pointed out the convenience of
+   WHEN any necessity or occasion has pointed out the convenience of
    addressing the public, I have never made it a consideration whether the
    subject was popular or unpopular, but whether it was right or wrong; for
    that which is right will become popular, and that which is wrong, though
@@ -3730,7 +3735,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    is not here to hear it. If it reaches him in his imprisonment it will
    afford him an agreeable reflection.
 
-   "As he rose like a rocket, he would fall like the stick," is a metaphor
+   "*As he rose like a rocket, he would fall like the stick,*" is a metaphor
    which I applied to Mr. Deane in the first piece which I published
    respecting him, and he has exactly fulfilled the description. The credit
    he so unjustly obtained from the public, he lost in almost as short time.
@@ -3738,21 +3743,21 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    popular support. His more intimate acquaintances began to doubt and to
    desert him long before he left America, and at his departure he saw
    himself the object of general suspicion. When arrived in France, he
-   endeavored to effect by treason what he had failed to accomplish by fraud.
-   His plans, schemes, and projects, together with his expectations of being
-   sent to Holland to negotiate a loan of money, had all miscarried. He then
-   began traducing and accusing America of every crime which could injure her
-   reputation: "That she was a ruined country; that she only meant to make a
+   endeavoured to effect by treason what he had failed to accomplish by fraud.
+   His plans, schemes and projects, together with his expectations of being
+   sent to Holland to negociate a loan of money, had all miscarried. He then
+   began traducing and accusing America of every crime, which could injure her
+   reputation. "That she was a ruined country; that she only meant to make a
    tool of France, to get what money she could out of her, and then to leave
    her, and accommodate with Britain." Of all which, and much more, Colonel
    Laurens and myself, when in France, informed Dr. Franklin, who had not
    before heard of it. And to complete the character of a traitor, he has by
    letters to this country since, some of which, in his own hand writing, are
-   now in the possession of Congress, used every expression and argument in
+   now in the possession of congress, used every expression and argument in
    his power to injure the reputation of France, and to advise America to
-   renounce her alliance, and surrender up her independence.16 Thus, in
+   renounce her alliance, and surrender up her independence. (1) Thus, in
    France he abuses America, and in his letters to America he abuses France,
-   and is endeavoring to create disunion between the two countries, by the
+   and is endeavouring to create disunion between the two countries, by the
    same arts of double dealing by which he caused dissensions among the
    commissioners in Paris, and distractions in America. But his life has been
    fraud, and his character is that of plodding, plotting, cringing,
@@ -3762,219 +3767,317 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    him in the same light; for towards friends or enemies he acted with the
    same deception and injustice, and his name, like that of Arnold, ought now
    to be forgotten among us. As this is the first time I have mentioned him
-   since my return from France, it is my intention it shall be the last.
+   since my return from France, it is my intention it shall be the last. &mdash;
+   
+   (*Editor's Note:* The remainder of this article has never before been printed since it's first appearance in 1782.)
+   
+   From this degression, which for several reasons I thought necessary to give, I now proceed to the purport of my address. 
+   
+   I consider the war of America against Britain as the country's war, the public's war , or the war 
+   of the people in their own behalf, for the security of their natural rights, and the protection of their own property. 
+   It is not war of congress, the war of assemblies, or the war of government, in any line whatever. The country 
+   first, by a mutual compact, resolved to defend their rights and maintain their independence, *at the hazard of 
+   their lives and fortunes.* they elected their representatives, by whom they appointed their members to congress, 
+   and said, *act you for us, and we will support you.* this is the true ground and principle of the war on the 
+   part of America, and, consequently, there remains nothing to do, but for every oneto fulfil his obligation.
+   
+   It was next to impossible that a new country, engaged in a new undertaking, could set off systematically right at 
+   first. She supposed every step she took, and every resolution she formed, would bring her enemy to reason, 
+   enclose the contest. Those failing, she was forced into new measures: in these, like the former, being fitted to her 
+   expectations, and failing in their turn left her continually provided and without system. The enemy likewise 
+   was induced to prosecute the war from the temporary expedients we adopted for carrying it on. we were 
+   continually expecting to see their credit exhausted, and they were looking to see her currency fail; and thus, 
+   between their watching us and we them, the hopes of both have been deceived, and the childishness of the 
+   expectation has served to encrease the expence.
+   
+   Yet who, through this wilderness of error, has been to blame? Where is the man who can say, the fall has not been 
+   part been his? They were the natural unavoidable errors of the day. they were the errors of the whole country, 
+   wish nothing but experience could detect, and time remove. Neither could the circumstances of America admit of system, 
+   till either the paper currency was fixed or laid aside. No calculation of finance could be made on a medium 
+   falling without reason, fluctuating without rule.
+   
+   But there is one error which might have been prevented, and was not; and as it is not my custom to flatter but 
+   to serve mankind, I will speak it freely. It certainly was the duty of every assembly on the continent to have known, 
+   at all times, what was the condition of his treasury, and you have ascertained that every period of depreciation, 
+   how much the real worth of the taxes fell short of their nominal value. This knowledge, which might have been 
+   easily gained, we have enabled them to have kept their constituents well informed, which is one of the 
+   greatest duties of representation. They want to have studies and calculated the expences of the war, the quota 
+   of each state, and the consequent proportion that would fall on each man's property for his defence; and this 
+   must easily have shewn to them, that a tax of an hundred pounds could not be paid by a bushel of apples or 
+   an hundred of flour, which was often the case two or three years ago. But instead of this, which would have been 
+   plain and upright dealing, the little line of temporary popularity, the feather of an hour's duration, was too 
+   much pursued: and in this involved condition of things, every state, for the want of a little thinking, or a 
+   little information, supposed that it bore the whole expence of the war, when in fact his fell, by the time 
+   the tax was levied and collected, above three fourths short of its own quota.
+   
+   Impressed with a sense of the danger to which the country was exposed by this lax method of doing business, 
+   in the prevailing errors of the day, I published, last October was a twelvemonth, *The crisis extraordinary*, 
+   on the revenues of America, and the yearly expence of carrying on the war. My estimation of the latter, 
+   together with this civil list of congress, and the civil list of the several states, was two million of 
+   pounds sterling, which is very nearly nine millions of dollars.
+   
+   Since that time, congress have gone into a calculation, and have estimated the expences of the war department 
+   and the civil list of congress (exclusive of the civil list of the several governments) at eight millions of 
+   dollars; as the remaining million will be fully sufficient for the civil list of the several states, the two 
+   calculations are exceedingly near each other.
+   
+   This sum of eight millions of dollars they have called upon the states to furnish, and their quotas are as 
+   follows which I shall preface with the resolution itself.
+   
+   By the UNITED STATES in CONGRESS assembled,
+   
+   October 30th, 1781.
+   
+   *Resolved*, That the respective states be called upon to furnish the treasury of the united states with their 
+   quotas of eight millions of dollars, for the war department and civil list for the ensuing year, to be paid quarterly 
+   in equal proportions, the first payment to be made on the first day of April next.
+   
+   *Resolved,* That a committee, consisting of a member from each state, be appointed to apportion to the several 
+   states the quota of the above sum.
+   
+   November 2.
+   
+   The committee, appointed to ascertain the proportions of the several states of the monies to be raised for the 
+   expences of the ensuing year, report the following resolutions &mdash; 
+   
+   That the sum of eight millions of dollars, as required to be raised by the resolutions of the 30th of October last, 
+   be paid by the states in the following proportion:
+   
+   New Hampshire, &mdash;  373,598
+   
+   Massachusetts, &mdash; 1307,596
+   
+   Rhode Island,  &mdash;  216,684
+   
+   Connecticut,   &mdash;  747,196
+   
+   New York,      &mdash;  373,598
+   
+   New Jersey     &mdash;  485,679
+   
+   Pennsylvania,  &mdash; 1120,794
+   
+   Delaware,      &mdash;  112,085
+   
+   Maryland,      &mdash;  933,996
+   
+   Virginia,      &mdash; 1307,594
+   
+   North Carolina,&mdash;  622,677
+   
+   South Carolina,&mdash;  373,598
+   
+   Georgia,       &mdash;   24,905
+   
+   8,000,000 Dollars.
+   
+   *Resolved,* That it be recommended to the several states to lay taxes for raising their quotas of money for the 
+   united states, separate from those laid for their own particular use.
+   
+   On these resolutions I shall offer several remarks.
+   
+   First, On the sum itself, and the ability of the country.
+   
+   Secondly, On the several quotas, and the nature of a union. And,
+   
+   Thirdly, On the manner of collection and expenditure.
+   
+   First, On the sum itself, and the ability of the country. As I know my own calculation is as low as possible, 
+   and as the sum called for by congress, according to their calculation, agrees very nearly therewith, I am sensible 
+   it cannot possibly be lower. Neither can it be done for that, unless there is ready money to go to market with; 
+   and even in that case, it is only by the utmost management and oeconomy that it can be made to do.
+   
+   By the accounts which were laid before the British parliament last spring, it appeared that the charge of only 
+   subsisting, that is feeding, their army in America, cost annually four million pounds sterling, which is very nearly 
+   eighteen millions of dollars. Now, if for eight millions, we can see, close, arm, provide for, and pay an army 
+   sufficient for our defence, the very comparison shows that the money must be well laid out.
+   
+   It may be of some use, either in debate or conversation, to attend to the progress of the expences of an army, 
+   because it will enable us to see on what part any deficiency will fall.
+   
+   The first thing is, to feed them and provide for the sick.
+   
+   Secondly, To clothe them.
+   
+   Thirdly, To arm and furnish them.
+   
+   Fourthly, To provide means for removing them from place to place. And,
+   
+   Fifthly, To pay them.
+   
+   The first and second are absolutely necessary to them as men. The third and fourth head, the means of removing the 
+   army from place to place; and in this case, the Army must either stand still where you can be of no use, or seize 
+   on horses, carts, waggons, were any means of transportation can lay hold of and in this instance the country suffers; 
+   in short, every attempt to do a thing for less than it can be done for, for sure you become at last both the loss and a 
+   dishonour.
+   
+   But the country cannot bear it, say some. this has been the most expensive doctrine that ever was held out, and cost 
+   America millions of money for nothing. Can the country bear to be over run, ravaged, and ruined by an enemy, which will 
+   immediately follow where defence is wanting, and defence will ever be wanting where sufficient revenues are not 
+   provided. But this is only one part of the folly. The second is, when the danger comes invited in part by are 
+   not preparing against it, we have been obliged, in a number of instances, to extend double the sums, to do that 
+   which at 1st might have been done for half the money. But this is not all. A third mischief has been, that grain of 
+   all sorts, flour, beef, fodder, horses, carts, waggons, or whatever was absolutely poor immediately wanted, have 
+   been taken without pay. Now, I ask, why was all this done, but from that extremely week expensive doctrine, that 
+   the country could not bear it? that is, that she could not bear, in the first instance, that which would have saved 
+   her twice as much at last; or, in proverbial language, that she could not bear to pay a penny to save a pound; the 
+   consequence of which has been, for she has paid a pound for penny. Why are there so many unpaid certificates in 
+   almost every man's hands, but from the parsimony of not providing sufficient revenues? Besides, the doctrine contradicts 
+   itself; because, if the whole country cannot bear it, how is it possible that a part should; and yet this has been 
+   the case: For those things have been had, and they must be had; but the misfortune is, they have been had in a very 
+   unequal manner, and upon extensive credit, whereas with ready money they might have been purchased for half the price, 
+   and no body distressed.
+   
+   There is another sort which ought to strike us, which is, &mdash; How is the army to bear the want of food, cloathing 
+   in other necessaries? The man who is at home can turn himself a thousand ways, and find as many means of years, 
+   convenience for relief: But a soldiers life admits of none of those: Their once cannot be supplied from themselves. 
+   For an army, though it is the defence of a state, is at the same time the child of a country, and must be 
+   provided for in every thing.
+   
+   *and lastly,* the doctrine is false. There are not three millions of people, in any part of the universe, who live 
+   so well, or have such a fund of ability is in America. The income of a common labourer, who is industrious is 
+   equal to that of the generality of tradesmen in England. In the mercantile line, I have not heard of one who 
+   could be said to be a bankrupt since the war began and in England they have been without number. In America almost 
+   every farmer lives on his own lands and in England not one in a hundred does. Insured seems as if the poverty 
+   of that country had made them furious, & they were determined to risk all to recover all.
+   
+   Yet notwithstanding those advantages on the part of America, true it is, that had it not been for the operation of 
+   taxes for our necessary defence, we had sunk into a state of sloth and poverty: For there was more wealth lost 
+   by neglecting to till the earth in the years 1776, 77 and 78, then the quota of the tax amounts to. That which 
+   is lost by neglect of this kind, is lost forever; whereas that which is paid, and continues in the country, 
+   returns to us again; and at the same time that it provides us with defence, it operates not only as a spur 
+   but as a premium to our industry.
+   
+   I shall now proceed to the second head, viz. *On the several photos, and the nature of the union.*
+   
+   There was a time when America had no other bond of union, then common interest and affection. The whole country flew 
+   to the relief of Boston, and, making her because their own, participated her cares and administered to her wants. 
+   The fate of war, since that day, has carried the calamity in a ten fold proportion to the southward; but in the mean 
+   time the union has been strengthened by a legal compact of the states, jointly and severally ratified, and that which 
+   before was choice, or the duty of affection, is now likewise the duty of legal obligation.
+   
+   The union of America is the foundation stone of her independence; The rock on which it is built; and is something 
+   so sacred in her constitution, that we like to watch every word we speak, and every thought we think, that we injured 
+   it not, even by mistake. When a multitude, extended, or rather scattered, over a continent, in the manner we are, 
+   mutually agree to form one common centre whereon the whole shall move, to accomplish a particular purpose, all parts 
+   must act together and alike, or act not at all, and a stoppage of one is a stoppage of the whole, at least for a time. 
+   
+   Thus the several states have sent representatives to assemble together in congress, and they have empowered that body, 
+   which thus becomes their centre, and are no other than themselves in representation, to conduct and manage the war, 
+   while their constituents at home attend to the domestic cares of the country, their internal legislation, their 
+   farms, professions or employments: for it is only by reducing complicated things to method and affordably connection 
+   that they can be understood with advantage, or pursued with success. &mdash; Congress, by virtue of this delegation, 
+   estimates the expence, and apportions it out to the several parts of the empire according to their several abilities; 
+   and here the debate must end, because each state has already had its voice, and the matter has undergone its whole 
+   portion of argument, and can no more be altered by any particular state, then the law of any state, after it is 
+   passed, can be altered by an individual. With respect to those things which immediately concern the union, and for 
+   which the union was purposely established and is intended to secure, each state is to the united states what each 
+   individual is to the state he lives in. It is on this grand point, this movement upon one centre, that our 
+   existence as a nation, our happiness as a people, and our safety as individuals, depend.
+   
+   It may happen that some state or other may be somewhat over and under rated, but this cannot be much. The experience 
+   which has been had upon the matter has nearly ascertained their several abilities. But even in this case, it can only 
+   admit of an appeal to the united states, but cannot authorise any state to make the alteration itself, any more 
+   then our internal government can admit and individuals to do so in the case of an act of assembly; for if one state 
+   can do it, then may another do the same, and the instant this is done the whole is undone.
+   
+   Neither is it supposeable that any single state can be a judge of all the comparative reasons which may influence 
+   the collective body in quotaing out the continent. The circumstances of the several states are frequently varying, 
+   occasioned by the accidents of war and commerce, and it will often fall upon some to help others, rather beyond what 
+   their exact proportion at another time might be; but even this assistance is as naturally and politically included in 
+   the idea of a union, as that of any particular assigned proportion; because we know not whose turn it may be next to 
+   want assistance; for which reason, that is the wisest state which sets the best example.
+   
+   Though in matters of bounden duty and reciprocal affection, it is rather a degeneracy from the honestly and ardour 
+   of the heart to admit any thing selfish to partake in the government of our conduct, yet in cases where our duty, 
+   our affections, and our interest all coincide, it may be of some use to observe their union. The united states will 
+   become heir to an extensive quantity of vacant land, and their several titles to shares and quotas thereof will 
+   naturally be adjusted according to their relative quotas during the war, exclusive of that inability which 
+   may unfortunately arise to any state by the enemy holding possession of a part; but as this is a cold matter of 
+   interest, I pass it by, and proceed to my third head, viz.
+   
+   *On the manner of collection and expenditure.*
+   
+   It hath been our error, as well as our misfortune, to blend the affairs of each state, especially in money matters, 
+   with those of the united states; whereas it is to our ease, convenience and interest to keep them separate. The 
+   expences of the united states for carrying on the war, and the expences of each state for its own domestic government, 
+   are distinct things, and to involve them as a source of perplexity and a cloak for fraud. I love method, because I 
+   see and am convinced of its beauty and advantage. It is that which makes home business easy and understood, and 
+   without which every thing becomes embarrassed and difficult.
+   
+   There are certain powers which the people of each state have delegated to their legislative and executive bodies, 
+   and there are other powers which the people of every state have delegated to congress, among which is that 
+   of conducting the war, and, consequently, of managing the expences attending it; for how else can that be 
+   managed, which concerns every state, but by a delegation from each. when the state has furnished his quota, it has 
+   an undoubted right to know how it has been applied, and it is as much the duty of congress to inform the state of the 
+   one, as it is the duty of the state to provide the other.
+   
+   In the resolution of congress already recited, it is recommended to the several states *to lay taxes for raising 
+   their quotas of many for the united states, separate from those laid for their own particular use.*
+   
+   This is the most necessary point to be observed, and the distinction should follow all the way thro'. They should 
+   be levied, paid, and collected separately, and kept separate in every instance. Neither have the civil officers of 
+   any state, or the government of that state, the least right to touch that money some people pay for the support of 
+   their army in the war, any more than congress has to touch that which each state raises for its own use.
+   
+   The distinction will naturally be followed by another. It will occasion every state to examine nicely into the 
+   expences of its civil list, and to regulate, reduce, and bring it into better water than has hitherto been; 
+   because the money for that purpose must be raised apart, and accounted for to the public separately. But while 
+   the monies of both were blended, the necessary nicety was not observed, and the poor soldier, who I too have been 
+   the first, was the last who was thought of.
 
-   COMMON SENSE.
+   Another convenience will be, that the people, by paying the taxes separately, will know what they are for; and will 
+   likewise no, that those which are for the defence of the country will cease when the war, or soon after. For 
+   although, as I have before observed, the war is their own, and for the support of their own rights, and the 
+   protection of their own property, yet they have the same right to know what they have to pay, and it is the want 
+   of not knowing, that is often the cause of dissatisfaction.
+   
+   This regulation of keeping the taxes separate, has given rise to regulation in the office of finance, by which 
+   it is directed,
+   
+   "That the receivers shall, at the end of every month, make out an exact account of the monies received by them 
+   respectively, during such month, specifying therein the names of the persons from whom the same shall have been 
+   received, the dates and the sums; which account they shall respectively cause to be published in one of the 
+   newspapers of the state; to the end that every citizen may know how much of the monies collected from him, in taxes, 
+   is transmitted to the treasury of the united states for the support of the war; and also, that it may be known 
+   that monies have been at the order of the superintendent of finance. It being proper and necessary, but in a free country 
+   the people should be as fully informed of the administration of their affairs, as the nature of things will admit."
+   
+   He is an agreeable thing to see a spirit of order and oeconomy taking place, after such a series of errors 
+   and difficulties. A government tort administration, who means and acts honestly, has nothing to fear, and 
+   consequently has nothing to conceal; and it would be of use, if a monthly or quarterly account was to be published, 
+   as well of the expenditures as of the receipts. Eight millions of dollars must be husbanded within exceeding deal of care 
+   to make it do, and therefore, as the management must be reputable, the publication would be serviceable.
+   
+   I have heard of petitions which have been presented to the assembly of the state ( and probably same may have 
+   happened in other states) praying to have the taxes lowered. Now the only way to keep taxes low is, for the 
+   united states to have ready money to go to market with; and though the taxes to be raised for the present year 
+   will fall heavy, and there will naturally be some difficulty in paying them, yet the difficulty, in 
+   proportion as money spreads about the country, will every day grow less, and in the end we shall save some 
+   millions of dollars by it. We see what a bitter revengeful enemy we have to deal with, and any expence is 
+   cheap, compared to their merciless paw. We have seen the unfortunate Carolineans hunted like partridges 
+   on the mountains, it is only by providing means for our defence, that we shall not be in the same condition. 
+   When we think or talk about taxes, we ought to recollect that we lie down in peace, and sleep and safety; 
+   that we can follow our farms and stores, or other occupations, and prosperous tranquillity; and that these 
+   inestimable blessings are procured to us by the taxes that we pay. In this view, our taxes are probably our 
+   insurance money; they are what we pay to be made safe, and industry policy for the best money we can lay out.
+   
+   it was my intention to offer some remarks on the impost law of five per cent. recommended by congress, and to be 
+   establishedas a fund for the payment of the loan-office certificates, and other debts of the united states; but I 
+   have already extended my piece beyond my intention. This fund will make our system of finance compleat, and is 
+   strictly just, and consequently requires nothing but honesty to do it, their needs but little to be set up on it.
+   
+   C. S.
 
-   1. Dr. John Berkenhout was an English medical authority who was sent in
-   1778 on a secret mission to America by the British Government. He was
-   imprisoned in Philadelphia on suspicion of being a spy, and returned,
-   after his release, to England where he was awarded a pension. In January,
-   1779, Berkenhout made several efforts to negotiate with Arthur Lee, then
-   in Paris, but was unsuccessful.-Editor.
+   Philad. March 5, 1782.
 
-   2.
-
-   This is fully proved by the address itself which is dated November, but
-   without any day of the month, and the same is likewise acknowledged by his
-   blundering friend Mr. Plain Truth. His words are, "Mr. Deane, it is true,
-   wrote his address" (dated November) "previous to his application to
-   Congress, of the 30th of November." He certainly could not write it after,
-   there being, unfortunately for him, but thirty days in that month; "but,"
-   continues Mr. Plain Truth, "he was determined notwithstanding some
-   forceable reasons, which the vigilant part of the public are at no loss to
-   guess, not to publish it if he could be assured of an early audience with
-   Congress." Mr. Deane was in a confounded hurry, sure that he could not
-   submit to be detained in America till the next day, for on that very next
-   day, December 1st, in consequence of his letter the Congress, ''Resolved
-   to spend two hours each day, beginning at six in the evening, till the
-   state of their foreign affairs should be fully ascertained." This
-   naturally included all and every part of Mr. Deane's affairs, information
-   and everything else, and it is impossible but he (connected as he is with
-   some late and present Members of Congress) should know immediately about
-   it.
-
-   I should be glad to be informed what those "forceable reasons" are at
-   which the vigilant part of the public "guess" and likewise how early Mr.
-   Deane expected an audience, since the resolution of the next day appears
-   to have been too late. I am suspicious that it was too soon, and that Mr.
-   Deane and his connections were not prepared for such an early examination
-   notwithstanding he had been here upwards of five months, and if the thing
-   is to be "guessed" at last, and that by the vigilant part of the public, I
-   think I have as great a right to guess as most men, and Mr. Plain Truth,
-   if he pleases, may guess what I mean; but lest he should mistake I will
-   tell him my guess, it is, that the whole affair is a juggle to amuse the
-   people with, in order to prevent the state of foreign affairs being
-   inquired into, and Mr. Deane's accounts, and those he is connected with in
-   America settled as they ought to be; and were I to go on guessing, I
-   should likewise guess that this is the reason why his accounts are left
-   behind, though I know many people inclined to guess that he has them with
-   him but has forgot them; for my part I don't choose at present to go so
-   far. If any one can give a better guess than I have done I shall give mine
-   up, but as the gentlemen choose to submit it to a guess, I choose
-   therefore to take them upon their own terms, and put in for the honor of
-   being right. It was, I think, an injudicious word for them to use,
-   especially at Christmas time.-Author.
-
-   3. For evidence that Paine was justified in this charge, see W. Bodham
-   Donne, The Correspondence of King George the Third with Lord North from
-   1768 to 1783, London, 1867.-Editor.
-
-   4. When Captain Folger arrived at Yorktown [Pa.] he delivered a packet
-   which contained nothing but blank paper, that had been put under the cover
-   of the dispatches which were taken out. This fraud was acted by the
-   persons to whom they were first entrusted to be brought to America, and
-   who afterwards absconded, having given by way of deception the blank
-   packet to Captain Folger. The Congress were by this means left without any
-   information of European affairs. It happened that a private letter from
-   Dr. Franklin to myself, in which he wrote to me respecting my undertaking
-   the history of the present revolution, and engaged to furnish me with all
-   his materials towards the completion of that work, escaped the pilfering
-   by not being enclosed in the packet with the dispatches. I received this
-   letter at Lancaster through the favor of the President, Henry Laurens,
-   Esqr., and as it was the only letter which contained any authentic
-   intelligence of the general state of our affairs in France, I transmitted
-   it again to him to be communicated to Congress. This likewise was the only
-   intelligence which was received from France from May, 1777, to May 2d,
-   1778, when the treaty arrived; wherefore, laying aside the point
-   controverted by the British Commissioners as to which moved first, France
-   or England, it is evident that the resolutions of Congress of April 22d,
-   1778, for totally rejecting the British Bills, were grounded entirely on
-   the determination of America to support her cause,-a circumstance which
-   gives the highest honor to the resolutions alluded to, and at the same
-   time gives such a character of her fortitude as heightens her value, when
-   considered as an ally, which though it had at that time taken place, was,
-   to her, perfectly unknown.-Author.
-
-   5. There is an article in the Constitution of this State, which, were it
-   at this time introduced as a Continental regulation, might be of infinite
-   service; I mean a Council of censors to inspect into the expenditure of
-   public money and call defaulters to an account. It is, in my opinion, one
-   of the best things in the Constitution, and that which the people ought
-   never to give up, and whenever they do they will deserve to be cheated. It
-   has not the most favorable look that those who are hoping to succeed to
-   the government of this State, by a change in the Constitution, are so
-   anxious to get that article abolished. Let expenses be ever so great, only
-   let them be fair and necessary, and no good citizen will grumble.
-
-   Perhaps it may be said, Why do not the Congress do those things? To which
-   I might, by another question reply, Why don't you support them when they
-   attempt it? It is not quite so easy a matter to accomplish that point in
-   Congress as perhaps many conceive; men will always find friends and
-   connections among the body that appoints them, which will render all such
-   inquiries difficult.-Author.
-
-   6. The "Book of Sufferings" was kept by Quakers who were punished by the
-   Patriots for assisting the British during the Revolutionary War.-Editor.
-
-   7.  A few weeks before George Washington had written to Joseph Reed,
-   president of the Supreme Executive Council of Pennsylvania, on the subject
-   of monopolizers: "It is much to be lamented that each State long ere this
-   has not hunted them down as the pests of society, and the greatest Enemys
-   we have to the happiness of America. I would to God that one of the most
-   atrocious of each State was h u n g in Gibbets upon a gallows five times
-   as high as the one prepared by Haman. No punishment in my opinion is too
-   great for the Man who can build his greatness upon his Country's ruin.'*
-   See Philip S. Foner, editor, George Washington: Selections from His
-   Writings, N e w York, 1944, PP<< 59-60. It is quite interesting to compare
-   Washington's and Paine's language on the subject.-Editor.
-
-   8. In the Packet of January 28, 1779, Paine wrote a brief comment on a
-   letter from William Duer which went: "Will any man step forward and own
-   this letter? It is, I believe, needless to go to Orange County for a
-   knowledge of the author. The charges in it are either true or false; if
-   true, let the writer be known that he may prove them; if not true, let him
-   likewise be known, lest his concealment should subject innocent persons to
-   suspicion. He who will by honest and justifiable means assist in detecting
-   public abuses, wherever they can be found, is a useful character; but an
-   anonymous detractor is the serpent of society." The letter was signed
-   "COMMON SENSE," and dated Philadelphia, January 27.-Editor.
-
-   9. Mr. Deane in his address of December 5th carefully shelters himself
-   under Doctor Franklin by the style of his "venerable friend."-Author.
-
-   10. In the Pennsylvania Packet of Jan. 23, in a publication signed
-   Philalethes, is the following Certificate, viz.: "The military and other
-   stores shipped by Roderique Hortalez and Co., in consequence of the
-   contract made by them with Silas Deane, Esq., Agent for the United States
-   of America, were shipped on board eight vessels, &c, &c, &c. Certified at
-   Philadelphia, this 13th day of January, 1779. L. de Francy, representing
-   the House of Roderique Hortalez & Co." Whether this certificate was
-   published with or without the consent of M. Francy is not very material.
-   But as my only design is to come at the truth of things, I am necessarily
-   obliged to take notice of it. And the course of the publication I now give
-   will, I presume, furnish M. Francy with circumstances which he must before
-   have been unacquainted with. This certificate says, "That the supplies
-   were shipped by Roderique Hortalez & Co., in consequence of a contract
-   made by them with Silas Deane, Esq." I know that Mr. Roderique Hortalez
-   was employed, or appeared to be so, by some public spirited gentlemen in
-   France to offer a present to America, and I have seen a contract for
-   freightage made with Mr. Monthieu, but I know of no contract for the
-   supplies themselves. If there is such a contract, Mr. Deane has concealed
-   it; and why he has done so must appear as extraordinary as that he made
-   it. N.B. Mr. Beaumarchais and R. Hortalez are one and the same
-   person.-Author.
-
-   11. The Committee for foreign affairs in their first letter to the
-   Commissioners after Mr. Francy's arrival, say, "We think it strange that
-   the Commissioners did not jointly write by Mr. Francy, considering the
-   very important designs of his coming over, viz., to settle the mode of
-   payment for the past cargoes, sent by Roderique Hortalez and Co., and to
-   make contracts for future. It is certain, that much eclaircissment
-   (Explanation) is, at this late moment, wanting."-Author.
-
-   12. The article Paine refers to appeared in the Pennsylvania Journal,
-   February 3, 1779, over Thomas Paine's customary signature "Common Sense,"
-   and was addressed " To the People of America." The following day, February
-   4, there appeared in the Pennsylvania Packet the following note from Paine
-   himself: "For the Pennsylvania Packet. "There are instances in which a
-   want of civility is want of principle; amongst those may be reckoned that
-   illiberal, though not illegal, kind of forgery, which only men of trifling
-   characters and capacities will be guilty of, namely that of counterfeiting
-   anonymous signatures: and the writer of a piece in Mr. Bradford's paper of
-   yesterday, to which is affixed the signature of 'Common Sense,' would do
-   well to consider, that such disingenuous shifts show as much a want of
-   genuine wit as natural honesty, and is always a sign of weakness and
-   defeat. T. P."
-
-     In another answer in the Pennsylvania Journal of February 10th, Paine
-   adds to the above: ". . . The greatest part of his ironies are truths, and
-   nearly all his intended truths are ironies, and his signing himself Common
-   Sense, is an ironical reflection upon his own want of it. I consider the
-   piece as an artifice of some of Mr. Deane's adherents, in order to throw a
-   doubt, in distant places, upon the reality of my publications under that
-   signature in the Pennsylvania Packet respecting Mr. Deane's character and
-   conduct. . . . " - Editor.
-
-   13. Deane revealed that Charles Wilson Peale had informed some gentlemen
-   at the Coffee House that Silas Deane had offered Paine a bribe not to
-   write against him. In a letter to Deane, John Nixon and James Wilson, July
-   28, 1779, Paine wrote that he would "publish in next Saturday's paper the
-   whole transaction respecting the offer in question." This article is his
-   explanation.-Editor.
-
-   14. Gerard, the French minister to the United States, had complained to
-   Congress of Paine's disclosures. After Paine had resigned his
-   secretaryship, John Jay, President of Congress, wrote Gerard a letter
-   apologizing for Paine's conduct. Discretion and realistic diplomacy
-   necessitated this step, even though what Paine had pointed out was
-   essentially true.-Editor.
-
-   15. This was Paine's last public statement on the Deane affair. Deane was
-   now in the pay of the British government, and, in return for his reward,
-   wrote several letters to prominent men in the United States in favor of
-   reunion with Great Britain. After these letters had been published in the
-   newspapers, Paine wrote this statement publicly branding Deane as a
-   traitor. See Carl Van Doren, Secret History of the American Revolution,
-   pp. 417-418.-Editor.
-
-   16. Mr. William Marshall of this city, formerly a pilot, who had been
+   1. Mr. William Marshall of this city, formerly a pilot, who had been
    taken at sea and carried to England, and got from thence to France,
    brought over letters from Mr. Deane to America, one of which was directed
-   to "Robert Morris, Esq." Mr. Morris sent it unopened to Congress, and
+   to "*Robert Morris, Esq.*" Mr. Morris sent it unopened to Congress, and
    advised Mr. Marshall to deliver the others there, which he did. The
    letters were of the same purport with those which have been already
    published under the signature of S. Deane, to which they had frequent
-   reference.-Author
+   reference.
 
 
