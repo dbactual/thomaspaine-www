@@ -5,64 +5,50 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
 
 
-   AN ESSAY ON DREAM
-
-   Philip Foner's introduction:
-
-   This essay was first published in Paris after Paine's departure for
-   America in 1802. Its title read: Extract from the M.S. Third Part of
-   Thomas Paine's Age of Reason. Chapter the Second: Article, Dream. Paris:
-   Printed for M. Chateau, 1803. In 1807 it was published as the introductory
-   chapter to Paine's Examination of the Prophecies, immediately following
-   the "Author's Preface." Part of the essay was omitted by Paine when he
-   published it in America (marked off by *** in the text below).
-
-                                   ---------
-
+   *A ESSAY on Dream.*
+   
+   from the 1807 book *Examinaton of the passages in the Hew Testament*, printed by author in New York.
+   The paragraphs edited from the 1803 Paris version have been added at the end.
+   
    AS a great deal is said in the New Testament about dreams, it is first
-   necessary to explain the nature of Dream, and to show by what operation of
-   the mind a dream is produced during sleep.
-
-   When this is understood we shall be the better enabled to judge whether
+   necessary to explain the nature of dream, and to shew by what operation of
+   the mind a dream is produced during sleep. When this is understood we shall be the better enabled to judge whether
    any reliance can be placed upon them; and consequently, whether the
    several matters in the New Testament related of dreams deserve the credit
    which the writers of that book and priests and commentators ascribe to
    them.
 
-   In order to understand the nature of Dream, or of that which passes in
+   IN order to understand the nature of dream, or of that which passes in
    ideal vision during a state of sleep, it is first necessary to understand
    the composition and decomposition of the human mind.
 
    The three great faculties of the mind are IMAGINATION, JUDGMENT and
    MEMORY. Every action of the mind comes under one or the other of these
-   faculties. In a state of wakefulness, as in the day-time, these three
+   faculties. In a state of wakefulness, as in the day time, these three
    faculties are all active; but that is seldom the case in sleep, and never
-   perfectly: and this is the cause that our dreams are not so regular and
+   perfectly; and this is the cause that our dreams are not so regular and
    rational as our waking thoughts.
 
    The seat of that collection of powers or faculties that constitute what is
    called the mind is in the brain. There is not, and cannot be, any visible
    demonstration of this anatomically, but accidents happening to living
-   persons show it to be so. An injury done to the brain by a fracture of the
-   skull will sometimes change a wise man into a childish idiot-a being
-   without a mind. But so careful has nature been of that sanctum sanctorum
+   persons, shew it to be so. An injury done to the brain by a fracture of the
+   scull will sometimes change a wise man into a childish idiot; a being
+   without a mind. But so careful has nature been of that *sanctum sanctorum*
    of man, the brain, that of all the external accidents to which humanity is
    subject, this occurs the most seldom. But we often see it happening by
    long and habitual intemperance.
 
    Whether those three faculties occupy distinct apartments of the brain, is
-   known only to that ALMIGHTY POWER that formed and organized it. We can see
+   known only to that almighty power that formed and organized it. We can see
    the external effects of muscular motion in all the members of the body,
-   though its primum mobile, or first moving cause, is un- known to man.
-
-   Our external motions are sometimes the effect of intention, sometimes not.
-   If we are sitting and intend to rise, or standing and intend to sit or to
+   though its primum mobile, or first moving cause, is unknown to man. Our 
+   external motions are sometimes the effect of intention, sometimes not.
+   If we are sitting and intend to rise, or standing and intend to sit, or to
    walk, the limbs obey that intention as if they heard the order given. But
    we make a thousand motions every day, and that as well waking as sleeping,
    that have no prior intention to direct them. Each member acts as if it had
-   a will or mind of its own.
-
-   Man governs the whole when he pleases to govern, but in the interim the
+   a will or mind of its own. Man governs the whole when he pleases to govern, but in the interim the
    several parts, like little suburbs, govern themselves without consulting
    the sovereign.
 
@@ -71,7 +57,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    upon it. All is mystery; all is darkness in that womb of thought.
 
    Whether the brain is a mass of matter in continual rest; whether it has a
-   vibrating, pulsative motion, or a heaving and falling motion like matter
+   vibrating pulsative motion, or a heaving and falling motion like matter
    in fermentation; whether different parts of the brain have different
    motions according to the faculty that is employed, be it the imagination,
    the judgment, or the memory, man knows nothing of. He knows not the cause
@@ -79,32 +65,27 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Comparing invisible by visible things, as metaphysical can sometimes be
    compared to physical things, the operations of these distinct and several
-   faculties have some resemblance to a watch. The main spring which puts all
-   in motion corresponds to the imagination; the pendulum which corrects and
-   regulates that motion corresponds to the judgment; and the hand and dial,
-   like the memory, record the operation.
+   faculties have some resemblance of a watch. The main spring, which puts all
+   in motion, corresponds to the imagination; the pendulum, or balance, which corrects and
+   regulates that motion, corresponds to the judgment, and the hand and dial,
+   like the memory, record the operations.
 
    Now in proportion as these several faculties sleep, slumber, or keep
-   awake, during the continuance of a dream, in that proportion the dream
-   will be reasonable or frantic, remembered or forgotten.
+   awake, during the continuance of a dream, in that proportion will the dream
+   be reasonable or frantic, remembered or forgotten.
 
    If there is any faculty in mental man that never sleeps it is that
    volatile thing the imagination. The case is different with the judgment
    and memory. The sedate and sober constitution of the judgment easily
-   disposes it to rest; and as to the memory, it records in silence and is
+   disposes it to rest, and as to the memory it records in silence and is
    active only when it is called upon.
 
    That the judgment soon goes to sleep may be perceived by our sometimes
    beginning to dream before we are fully asleep ourselves. Some random
    thought runs in the mind and we start, as it were, into recollection that
    we are dreaming between sleeping and waking.
-
-   If a pendulum of a watch by any accident becomes so displaced that it can
-   no longer control and regulate the elastic force of the spring, the works
-   are instantly thrown into confusion, and continue so as long as the spring
-   continues to have force.
-
-   In like manner if the judgment sleeps while the imagination keeps awake,
+   
+   If the judgment sleeps while the imagination keeps awake,
    the dream will be a riotous assemblage of misshapen images and ranting
    ideas, and the more active the imagination is the wilder the dream will
    be. The most inconsistent and the most impossible things will appear
@@ -112,20 +93,20 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    state of absence. The master of the school is gone out and the boys are in
    an uproar.
 
-   If the memory sleeps, we shall have no other knowledge of the dream than
+   If the memory sleeps we shall have no other knowledge of the dream than
    that we have dreamt, without knowing what it was about. In this case it is
    sensation rather than recollection that acts. The dream has given us some
    sense of pain or trouble, and we feel it as a hurt, rather than remember
-   it as vision.
+   it as a vision.
 
-   If the memory slumbers we shall have a faint remembrance of the dream, and
+   If memory only slumbers we shall have a faint remembrance of the dream, and
    after a few minutes it will sometimes happen that the principal passages
    of the dream will occur to us more fully. The cause of this is that the
    memory will sometimes continue slumbering or sleeping after we are awake
-   ourselves, and so fully that it may and sometimes does happen that we do
+   ourselves, and that so fully, that it may, and sometimes do, happen, that we do
    not immediately recollect where we are, nor what we have been about, or
    have to do. But when the memory starts into wakefulness it brings the
-   knowledge of these things back upon us like a flood of light, and
+   knowledge of these things back upon us, like a flood of light, and
    sometimes the dream with it.
 
    But the most curious circumstance of the mind in a state of dream is the
@@ -134,69 +115,64 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    hears answers, gives and receives information, and it acts all these parts
    itself.
 
-   Yet however various and eccentric the imagination may be in the creating
-   of images and ideas, it cannot supply the place of memory with respect to
+   But however various and eccentric the imagination may be in the creating
+   of images and ideas, it cannot supply the place of memory, with respect to
    things that are forgotten when we are awake. For example, if we have
    forgotten the name of a person, and dream of seeing him and asking him his
    name, he cannot tell it; for it is ourselves asking ourselves the
    question.
 
-   But though the imagination cannot supply the place of real memory,  it has
+   But though the imagination cannot supply the place of real memory  it has
    the wild faculty of counterfeiting memory. It dreams of persons it never
-   knew, and talks to them as if it remembered them as old acquaintance. It
+   knew, and talks to them as if it remembered them as old acquaintances. It
    relates circumstances that never happened, and tells them as if they had
    happened. It goes to places that never existed, and knows where all the
-   streets and houses are, as if we had been there before. The scenes it
+   streets and houses are as if we had been there before. The scenes it
    creates are often as scenes remembered. It will sometimes act a dream
-   within a dream, and, in the delusion of dreaming, tell a dream it never
-   dreamed, and tell it as if it was from memory.
-
-   It may also be remarked, that the imagination in a dream has no idea of
-   time, as time. It counts only by circumstances; and if a succession of
+   within a dream, and in the delusion of dreaming tell a dream it never
+   dreamed and tell it as if it was from memory. It may also be remarked, 
+   that the imagination, in a dream, has no idea of
+   time, *as time*. It counts only by circumstances; and if a succession of
    circumstances pass in a dream that would require a great length of time to
    accomplish them, it will appear to the dreamer that a length of time equal
    thereto has passed also.
 
    As this is the state of the mind in a dream, it may rationally be said
    that every person is mad once in twenty-four hours, for were he to act in
-   the day as he dreams in the night, he would be confined for a lunatic. In
-   a state of wakefulness, those three faculties being all active, and
-   acting in unison, constitute the rational man.
-
-   In dream it is otherwise, and, therefore, that state which is called
-   insanity appears to be no other than a dismission of those faculties, and
-   a cessation of the judgment during wakefulness that we so often experience
+   the day as he dreams in the night he would be confined for a lunatic. In
+   a state of wakefulness those three faculties being all active and
+   acting in unison constitute the rational man. In dream it is otherwise, 
+   and therefore that state which is called
+   insanity appears to be no other than a disunion of those faculties and
+   a cessation of the judgment, during wakefulness, that we so often experience
    during sleep; and idiocy, into which some persons have fallen, is that
    cessation of all the faculties of which we can be sensible when we happen
    to wake before our memory.
 
    In this view of the mind, how absurd it is to place reliance upon dreams,
    and how much more absurd to make them a foundation for religion; yet the
-   belief that Jesus Christ is the Son of God, begotten by the Holy Ghost, a
-   being never heard of before, stands on the foolish story of an old man's
-   dream. "And behold the angel of the Lord appeared unto him in a dream,
+   belief that Jesus Christ is the Son of God, begotten by the holy ghost, a
+   being never heard of before, stands on the story of an old man's
+   dream. "*And behold the angel of the Lord appeared to Joseph in a dream,
    saying, Joseph, thou son of David, fear not thou to take unto thee Mary
-   thy wife, for that which is conceived in her is of the Holy Ghost."-Matt,
-   i, 20.
+   thy wife, for that which is conceived in her is of the holy ghost.*" Matt. ch. 1, v. 20.
 
    After this we have the childish stories of three or four other dreams:
    about Joseph going into Egypt; about his coming back again; about this,
    and about that, and this story of dreams has thrown Europe into a dream
-   for more than a thousand years.
-
-   All the efforts that nature, reason and conscience have made to awaken man
-   from it, have been ascribed by priestcraft and superstition to the working
-   of the devil, and had it not been for the American Revolution, which, by
-   establishing the universal right of conscience, first opened the way to
-   free discussion, and for the French Revolution that followed, this
-   Religion of Dreams had continued to be preached, and that after it had
+   for more than a thousand years. All the efforts that nature, reason, and conscience have made to awaken man
+   from it have been ascribed by priestcraft and superstition to the workings
+   of the devil, and had it not been for the American revolution, which by
+   establishing the *universal right* of conscience, first opened the way to
+   free discussion, and for the French revolution that followed, this
+   religion of dreams had continued to be preached, and that after it had
    ceased to be believed. Those who preached it and did not believe it, still
    believe the delusion necessary. They were not bold enough to be honest,
    nor honest enough to be bold.
 
-                                   **********
+   (The following, in parentheses, is from the 1803 edition which has not been edited for accuracy:)
 
-    Every new religion, like a new play, requires a new apparatus of dresses
+   (Every new religion, like a new play, requires a new apparatus of dresses
    and machinery, to fit the new characters it creates. The story of Christ
    in the New Testament brings a new being upon the stage, which it calls the
    Holy Ghost; and the story of Abraham, the father of the Jews, in the Old
@@ -287,18 +263,18 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    The God of eternity and of all that is real, is not the god of passing
    dreams and shadows of man's imagination. The God of truth is not the god
    of fable; the belief of a god begotten and a god crucified, is a god
-   blasphemed. It is making a profane use of reason.***
+   blasphemed. It is making a profane use of reason.)
 
-   I shall conclude this Essay on Dream with the first two verses of
-   Ecclesiasticus xxxiv, one of the books of the Aprocrypha. "The hopes of a
-   man void of understanding are vain and false; and dreams lift up fools.
-   Whoso regardeth dreams is like him that catcheth at a shadow and followeth
-   after the wind."
+   I shall conclude this Essay on Dream with the two first verses of the 36 
+   chapter of Ecclesiasticus one of the books of the Apocrypha.
+   
+   v. 1. "*The hopes of man void of understanding are vain and false; and dreams 
+   lift up fools. &mdash; Whoso regardeth dreams is like him that catcheth at a shadow, and followeth after the wind,*"
 
-   I now proceed to an examination of the passages in the Bible, called
-   prophecies of the coming of Christ, and to show there are no prophecies of
-   any such person; that the passages clandestinely styled prophecies are not
-   prophecies; and that they refer to circumstances the Jewish nation was in
+   I now proceed to an examination of the passages in the bible called
+   prophecies of the coming of Christ, and to shew there are no prophecies of
+   any such person. That the passages clandestinely stiled prophecies are *not*
+   prophecies, and that they refer to circumstances the Jewish nation was in
    at the time they were written or spoken, and not to any distance of future
    time or person.
 
