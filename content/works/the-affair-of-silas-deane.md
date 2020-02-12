@@ -4065,7 +4065,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    it was my intention to offer some remarks on the impost law of five per cent. recommended by congress, and to be 
    establishedas a fund for the payment of the loan-office certificates, and other debts of the united states; but I 
    have already extended my piece beyond my intention. This fund will make our system of finance compleat, and is 
-   strictly just, and consequently requires nothing but honesty to do it, their needs but little to be set up on it.
+   strictly just, and consequently requires nothing but honesty to do it, their needs but little to be said upon it.
    
    C. S.
 
