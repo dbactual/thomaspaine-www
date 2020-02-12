@@ -1,11 +1,11 @@
 PubDate: 1779-10-16
-Slug: recently-discovered/response-to-the-riot-outside-james-wilsons-house
-Title: Response to the Riot Outside James Wilson’s House
+Slug: recently-discovered/to-the-printer-of-the-pennsylvania-packet
+Title: To the Printer of the Pennsylvania Packet
 Date: Mon Jan  1 09:08:51 EDT 2016
 
-Response to the Riot Outside James Wilson’s House
+*To the Printer of the PENNSYLVANIA PACKET.*
 
-October 16, 1779
+from *Pennsylvania Packet*, October 16, 1779.
 
 When passion and mistake give way to candor and benevolence, we sensibly forget the injury in contemplating the effect, and pay a reverence to virtue tho’ provoked into action by a fault. The late unfortunate affair of the fourth inst. will, to different minds, administer a different medicine. Surviving relations will feel as nature teaches; their part requires no invention, needs no apology, and whoever were to blame they are to be pitied. Those who unfortunately fell on either side, have paid a martyrdom to mistake, and distinguished themselves as the lamented victims of wasted bravery. In the softer sentiments of a thoughtful world, the whole affair will become a subject of concern; and the only consolation it affords is the hope of feeling the same degree of spirit exerted against the enemy, which, warped by error and aggravated by passion, produced a tumult in which no one enemy fell.
 
@@ -21,8 +21,8 @@ That nothing more was meant by those who assembled on the Commons than to remove
 
 On what occasion, or by what contrivance a number of Gentlemen were brought together in Mr. Wilson’s house, makes up the most mysterious part of the business. As far as I can discover, I cannot find the least trace whereon to conclude that any one who went there had the least reason to be apprehensive of his own safety. They must, in general, have been induced by misrepresentation tho’ some, I am well assured, were led by a generous intention of preventing mischief; and pity it is their advice was not taken. That Mr. Wilson is not a favourite in the State, is a matter which, I presume, he is fully sensible of, yet the difference is exceedingly great, between no being in favor and being considered as an enemy. But that he who never armed when the country was in danger, should arm his house to provoke danger, and draw to it a number of Gentlemen at the hazard of their lives, when a timely application to the Civil Power might have prevented every thing, was at once both unconstitutional and unfriendly, a disregard to the laws of the State and the peace of the city. By this imprudent conduct, parties became pitted who knew not each other; and that which had the appearance of a challenge, produced an action.
 
-The affliction which followed, soon extended itself over the city. Every one asked what was the matter; how it began, who were the persons, with every other question of curiosity concern, and still the matter was inveloped in darkness; some supposed one thing, and some another, without being able to satisfy themselves or those who enquired. But when the parties in and out of the house were known, and became known to each other, the animosity began to [surface]; and the whole, exclusive of the imprudence, explained itself into a tragedy of errors.
+The affliction which followed, soon extended itself over the city. Every one asked what was the matter; how it began, who were the persons, with every other question of curiosity concern, and still the matter was inveloped in darkness; some supposed one thing, and some another, without being able to satisfy themselves or those who enquired. But when the parties in and out of the house were known, and became known to each other, the animosity began to subside; and the whole, exclusive of the imprudence, explained itself into a tragedy of errors.
 
 It generally happens that distress is the forerunner of benevolence; at least it serves to quicken into action that which might otherwise might take a longer time to awake. The sickness that has so generally prevailed through the city, added to the misfortune already mentioned, has been the means of setting on foot two well intended subscriptions; the one for the relief of the families of those who were killed or wounded on the fourth instant, the other for the relief of the sick and distressed in the several wards. Both of them have been liberally supported; and most of the persons both in and out of the house, who could afford it, have been ample contributors. How different this, to that spirit of rancor which generally accompanies, and most assuredly succeeds, premeditated domestic feuds. It calls back the mind to a state of serenity; and shews, by the most convincing proofs, that the affair, now too late to be remedied, was not the quarrel of enemies or of parties, but the unfortunate blunder of friends.
 
-C_ S_
+C &mdash; S &mdash;.
