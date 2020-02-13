@@ -3,34 +3,35 @@ Slug: letters/benjamin-franklin/to-the-honorable-benjamin-franklin-esqr-may16-17
 Title: To the Honorable Benjamin Franklin, Esqr.  May 16, 1778
 Date: Mon Aug  4 09:08:55 EDT 2014
 
-   To the Honorable Benjamin Franklin, Esqr.  May16, 1778
+   From the original letter at the American Philosophical Society
 
-   YORKTOWN,
+   YORKTOWN,  May 16th, 1778
 
-   DEAR SIR:
+   Dear Sir
 
    In the Packet No. 1 I have sent you a long letter acknowledging your favor
    of Oct. 7. Mr. Temple Franklin's of March 1st which on account of the
-   great quantity of public business I have not time to copy. Lest that
-   should not come to hand, I write you this short information. Mr. [and]
-   Mrs. Beache are at Mainheim near Lancaster; they were well a few days ago.
-   I have not yet received the Pamphlets Mr. W. T. Franklin mentions. I think
+   great Quantity of public business I have not time to copy &mdash; lest that
+   shd not come to hand, I write you this short information. 
+   
+   Mr. Mrs. Beache are at Mainheim near Lancaster, they were well a few days ago &mdash; 
+   I have not yet received the Pamphlets Mr W T Franklin mentions. I think
    we are now so safely landed that it requires more invention to go wrong
-   than it ever does to go right.
+   than it ever does to go right &mdash; 
 
-   I live in hopes of the pleasure of seeing you and taking your advice
+   I live in hopes of the Pleasure of seeing you and taking your advice
    respecting the History of the Revolution as soon as matters make it
-   practicable to come to Europe.
+   practicable to come to Europe,
 
-   I am dear Sir, Your obliged and affectionate humble Servant,
+   I am Dr Sir your obliged and affectionate humble Servt
 
-   THOMAS PAINE.
+   T PAINE.
 
-   P. S. Please to present my thanks and compliments to Mr. W. T. Franklin. I
-   have taken care to fulfill his command respecting the letters and
-   Memorials he intrusted to my care, and that as soon as I can obtain
-   sufficient information I will transmit it to him.
+   P. S. Please to present my Thanks and complt to Mr W T Franklin &mdash; I
+   have taken Care to fulfill his Command respecting the letters and
+   Memorials he entrusted to my care, and that as soon as I can obtain
+   sufficient Information I will transmit it to him.
 
-   I saw M. du Plessis lately he was well.
+   I saw M du Plessis lately he was well.
 
 
