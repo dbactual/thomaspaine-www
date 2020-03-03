@@ -19,7 +19,7 @@ Authors: 1
     - [The Intellectual Origins of American Radicalism by Staughton Lynd](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=Intellectual+origins+of+American+Radicalism) *The breakthrough book on the American Revolution that puts Paine in a proper perspective - the new 2009 Introduction is flawed by the reliance on works mis-attributed to Paine*
     - [Paine and Jefferson in the Age of Revolutions by Newman and Onuf, eds.](http://www.amazon.com/Paine-Jefferson-Revolutions-Jeffersonian-America/dp/0813934761) *Essays reflecting the current state of Paine Studies*
     - [Thomas Paine by Audrey Williamson](http://www.amazon.com/Thomas-Paine-Life-Work-Times/dp/0312801858/ref=sr_1_3?s=books&ie=UTF8&qid=1414246329&sr=1-3&keywords=Thomas+Paine+Audrey+Williamson) *Great introductory biography*
-    - [Thomas Paine by Craig Nelson](http://www.amazon.com/Thomas-Paine-Enlightenment-Revolution-Nations/dp/0143112384/ref=sr_1_1?s=books&ie=UTF8&qid=1414246413&sr=1-1&keywords=Thomas+Paine+Craig+Nelson) *Another good biography*
+    - [Thomas Paine and the French Revolution](https://www.amazon.com/s?k=Lounissi&i=stripbooks&ref=nb_sb_noss_2) *A must read book by every Paine enthusiast - objective, ground-breaking, and thorough.*
 
 + ###Bios {#bios}
 
