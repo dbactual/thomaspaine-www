@@ -3,15 +3,15 @@ Slug: letters/george-washington/to-his-excellency-george-washington-september-21
 Title: To his Excellency George Washington  September 21, 1783
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-   To his Excellency George Washington  September 21, 1783
+   From the transcribed letter made by Spraque at the Library of Congress.
 
-   BORDENTOWN,
+   Borden town Sept. 21. 1783
 
-   SIR:
+   Sir,
 
-   I am made exceedingly happy by the receipt of your friendly letter of the
-   10th instant, which is this moment come to hand; and the young gentleman
-   that brought it, a son of Col. Geo. Morgan, waits while I write this. It
+   I am made exceedingly happy, by the receipt of your friendly letter of the
+   10th inst. which is this moment come to hand; and the young gentleman
+   that brought it, a son of Col. Geo. Morgan's waits while I write this &mdash; It
    had been sent to Philadelphia, and on my not being there, was returned,
    agreeable to directions on the outside, to Col. Morgan at Princetown, who
    forwarded it to this place.
@@ -21,18 +21,17 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    pleasure accept.
 
    On the resignation of Mr. Livingston in the winter and likewise of Mr. R.
-   Morris, at [the same] time it was judged proper to discontinue the matter
+   Morris, at time it was judged proper to discontinue the matter
    which took place when you were in Philadelphia. It was at the same time a
    pleasure to me to find both these gentlemen (to whom
-
-   I was before that time but little known), so warmly disposed to assist in
+   I was before that time, but little known) so warmly disposed to assist in
    rendering my situation permanent, and Mr. Livingston's letter to me, in
    answer to one of mine to him, which I enclose, will serve to show that his
    friendship to me is in concurrence with yours.
 
    By the advice of Mr. Morris I presented a letter to Congress expressing a
    request that they would be pleased to direct me to lay before them an
-   account of what my services, such as they were, and situation, had been
+   account of what my services such as they were, activities, have been
    during the course of the war. This letter was referred to a committee, and
    their report is now before Congress, and contains, as I am informed, a
    recommendation that I be appointed historiographer to the continent. I
@@ -48,7 +47,6 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    a way which it is probable they do not perceive my feelings. It has an
    effect in putting either my reputation or their generosity at stake; for
    it cannot fail of suggesting that either I (notwithstanding the appearance
-
    of service) have been undeserving their regard or that they are remiss
    towards me. Their silence is to me something like condemnation, and their
    neglect must be justified by my loss of reputation, or my reputation
@@ -56,11 +54,11 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    I have ever been dumb on everything which might touch national honor so I
    mean ever to continue so.
 
-   Wishing you, Sir, the happy enjoyment of peace and every public
+   Wishing you, Sir, the happy enjoyment of Peace and every public and private felicity, 
+   I remain Your Excellency's much obliged and obt hmble servt
 
-   THOMAS PAINE.
+   THOS: PAINE
 
-   Col. Kirkbride at whose house I am, desires me to present you his
-   respectful compliments.
+  
 
 
