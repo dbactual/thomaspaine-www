@@ -3,16 +3,16 @@ Slug: letters/george-washington/to-his-excellency-george-washington-september-21
 Title: To his Excellency George Washington  September 21, 1783
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-   From the transcribed letter made by Spraque at the Library of Congress.
+   From the copy of the letter at the Library of Congress.
 
-   Borden town Sept. 21. 1783
+   Borden Town Sept 21, 1783.
 
    Sir,
 
    I am made exceedingly happy, by the receipt of your friendly letter of the
    10th inst. which is this moment come to hand; and the young gentleman
    that brought it, a son of Col. Geo. Morgan's waits while I write this &mdash; It
-   had been sent to Philadelphia, and on my not being there, was returned,
+   hath been sent to Philadelphia, and on my not being there, was returned,
    agreeable to directions on the outside, to Col. Morgan at Princetown, who
    forwarded it to this place.
 
@@ -23,24 +23,24 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    On the resignation of Mr. Livingston in the winter and likewise of Mr. R.
    Morris, at time it was judged proper to discontinue the matter
    which took place when you were in Philadelphia. It was at the same time a
-   pleasure to me to find both these gentlemen (to whom
-   I was before that time, but little known) so warmly disposed to assist in
+   pleasure to me to find both these gentlemen (to whom I was before that time
+   but little known) so warmly disposed to assist in
    rendering my situation permanent, and Mr. Livingston's letter to me, in
    answer to one of mine to him, which I enclose, will serve to show that his
    friendship to me is in concurrence with yours.
 
    By the advice of Mr. Morris I presented a letter to Congress expressing a
-   request that they would be pleased to direct me to lay before them an
-   account of what my services such as they were, activities, have been
-   during the course of the war. This letter was referred to a committee, and
-   their report is now before Congress, and contains, as I am informed, a
-   recommendation that I be appointed historiographer to the continent. I
+   request that they would be pleased to direct me to lay before them, an
+   account of what my services such as they were, situations, have been
+   during the course of the war. This letter was referred to a committee,
+   their report is now before Congress, and contains, as I am informed a
+   recommendation that I be appointed historiographer to the Continent. I
    have desired some members that the further consideration of it be
    postponed, until I can state to the committee some matters which I wish
    them to be acquainted with, both with regard to myself and the
    appointment. And as it was my intention, so I am now encouraged by your
    friendship to take your confidential advice upon it before I present it.
-   For though I was never at a loss in writing on public matters, I feel
+   For though I was never at a loss in writing on public matters I feel
    exceedingly so in what respects myself.
 
    I am hurt by the neglect of the collective ostensible body of America, in
@@ -54,11 +54,13 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    I have ever been dumb on everything which might touch national honor so I
    mean ever to continue so.
 
-   Wishing you, Sir, the happy enjoyment of Peace and every public and private felicity, 
+   Wishing you, Sir, the happy enjoyment of Peace and every public and private felicity,
    I remain Your Excellency's much obliged and obt hmble servt
+   Wishing you, Sir, the happy enjoyment of peace and every public and
+   private felicity I remain, Your Excellancy's most obt & hmble servt
 
    THOS: PAINE
 
-  
+
 
 
