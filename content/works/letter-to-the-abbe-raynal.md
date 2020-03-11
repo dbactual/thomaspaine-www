@@ -6,8 +6,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    A LETTER TO THE ABBE RAYNAL on the Affairs of North-America. In which The Mistakes
    in the Abbe's Account of the REVOLUTION IN AMERICA are Corrected and Cleared Up.
    
-   By Thomas Paine, M.A. of the University of Pennsylvania, and Author of a Tract “COMMON SENSE.”
-   
+   By Thomas Paine, M.A. of the University of Pennsylvania, and Author of a Tract *COMMON SENSE.*   
    M.DCC.LXXXII.
 
    INTRODUCTION
