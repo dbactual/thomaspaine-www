@@ -15,38 +15,20 @@ New Rochelle, NY 10804-3609<br/>
 
 <hr style="margin-top:10px; margin-bottom: 10px; clear:both"/>
 
-Officers
-----------
-
-President - Matthew Jacobs
-
-Secretary - Gary Berton
-
-Treasurer- Michael Munisteri
-
 
 Board
 --------
 
-Scott Cleary, professor of English, Iona College
-
-David Gruppo, Larchmont, NY - Google Ideas Fellow
+Scott Cleary, Bedford, NY - professor of English, Iona College
 
 Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associates
 
-Gary Berton, Coordinator of the Institute for Thomas Paine Studies at Iona College
-
-Matthew Jacobs, Larchmont, NY, Finance Professional
+Gary Berton, Walton, NY - Coordinator of the Institute for Thomas Paine Studies at Iona College
 
 Roderick Bradford, San Diego, CA - documentarian, editor of the Truth Seeker
 
-Lawrence Goodheart, Connecticut - professor of American History at U of Connecticut
+Josh Klein, New York, NY - professor of Criminal Justice, Iona College
 
-Ted Marotta, Johnstown, NY - instructor of History at Fulton-Montgomery CC, SUNY
-
-Josh Klein, New Rochelle, NY - professor of Criminal Justice, Iona College
-
-Ivy Stabell, New Rochelle, NY - professor of English, Iona College
 
 
 History
