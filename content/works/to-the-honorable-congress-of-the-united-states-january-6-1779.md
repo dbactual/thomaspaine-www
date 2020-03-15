@@ -3,28 +3,28 @@ Slug: letters/us-government/to-the-honorable-congress-of-the-united-states-janua
 Title: To the Honorable Congress of the United States  January 6, 1779
 Date: Mon Aug  4 09:08:55 EDT 2014
 
-   To the Honorable Congress of the United States  January 6, 1779
+   From the original letter at the Library of Congress:
 
-   PHILADELPHIA,
+   Philadelphia, January 6, 1779
 
-   HONORABLE SIRS:
+   Honourable Sirs
 
    Understanding that exceptions have been taken at some parts of my conduct,
-   which exceptions as I am unacquainted with I cannot reply to, I therefore
+   which exceptions as I am unacquainted with I cannot reply to: I therefore
    humbly beg leave to submit every part of my conduct public and private, so
-   far as relate to public measures, to the judgment of this Honorable House,
-   to be by them approved or censured as they shall judge proper-at the same
+   far as relate to public measures to the judgment of this Honble House,
+   to be by them approved or censured as they shall judge proper &mdash; at the same
    time reserving to myself that conscious satisfaction of having ever
-   intended well and to the best of my abilities executed these intentions.
+   intended well and to the best of my abilities executed those intentions.
 
-   The Honorable Congress in April, 1777, were pleased, not only unsolicited
+   The Honble Congress in April 1777 were pleased, not only unsolicited
    on my part, but wholly unknown to me, to appoint me unanimously Secretary
-   to the Committee for Foreign Affairs, which mode of appointment I conceive
+   to the Committee for foreign Affairs, which mode of appointment I conceive
    to be the most honorable that can take place. The salary they were pleased
-   to affix to it was 70 dollars per month. It has remained at the same rate
-   ever since, and is not at this time equal to the most moderate expenses I
-   can live at; yet I have never complained, and always conceiving it my duty
-   to bear a share of the inconveniences of the country, have ever cheerfully
+   to affix to it was 70 dollars p. month. It has remained at the same rate
+   ever since, and is not at this time equal to the most moderate expences I
+   can live at; yet I have never complained; and always conceiving it my duty
+   to bear a share of the inconveniences of the country, have ever chearfully
    submitted to them. This being my situation, I am at this time conscious of
    no error, unless the cheapness of my services, and the generosity with
    which I have endeavored to do good in other respects, can be imputed to me
@@ -37,37 +37,15 @@ Date: Mon Aug  4 09:08:55 EDT 2014
 
    Were my appointment an office of profit it might become me to resign it,
    but as it is otherwise I conceive that such a step in me might imply a
-   dissatisfaction on account of the smallness of the pay. Therefore I think
-   it my duty to wait the orders of this honorable House, at the same time
+   dissatisfaction on account of the smallness of the Pay. Therefore I think
+   it my duty to wait the orders of this Honble House; at the same time
    begging leave to assure them that whatever may be their determination
-   respecting me, my disposition to serve in so honorable a cause, and in any
+   respecting me, my disposition to serve in so Honorable a cause, and in any
    character in which I can best do it, will suffer no alteration.
 
-   I am, with profound respect, your honors' dutiful and obedient humble
-   servant,
+   I am with profound respect your Honors Dutiful and Obt hble Servant
 
-   THOMAS PAINE.
+   THOMAS PAINE
 
-   EDITOR:
-
-   (The Reply of M. Gerard, dated January 2, 1779, reads:
-
-   "SIR:
-
-   "The attention which you showed to me in giving me notice of the time of
-   the publication which shall take place tomorrow requires my thanks, and I
-   deliver them to you with pleasure and confidence.
-
-   "I am fully persuaded that you will remember that all what I had the honor
-   to say to you has no reference to any person and that I have care but for
-   the direct honor and interest of my court and that my desire is rather
-   that all personal reference should be avoided as far as it could start
-   questions which would be desirable, should be avoided; but the sentiment
-   you profess leave no occasion to fear about this delicate object that
-   commands my most serious concern.
-
-   "I am with great regard.
-
-   "M. GERARD")
-
+   Philadelphia, Jany. 6th 1779
 
