@@ -3,15 +3,11 @@ Slug: letters/other/to-his-excellency-elias-boudinot-june-7th-1783
 Title: To his Excellency Elias Boudinot  June 7th, 1783
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-   To his Excellency Elias Boudinot  June 7th, 1783
+   From the original letter at the Library of Congress.
 
-   PRESIDENT OF CONGRESS
+   Borden town, State of N. Jersey June 7th 1783
 
-   State Of N. Jersey,
-
-   BORDENTOWN,
-
-   SIR:
+   Sir
 
    As I have never troubled Congress with any application on my own account,
    but, on the contrary, have, from reasons both of delicacy and principle,
@@ -28,10 +24,10 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    But as the war is now happily and prosperously closed, I am consequently
    relieved, in common with every gentleman who had rendered himself
    conspicuous in the contest, from all uneasy sensations respecting the
-   issue. But still the case is different with me to what it is with others.
+   issue. &mdash; But still the case is different with me to what it is with others.
    For besides the general principle of right, and their own privileges, they
    had estates and fortunes to defend, and by the event of the war they now
-   have them to enjoy. They are at home in every sense of the word. But with
+   have them to enjoy. They are at home in every sense of the word. &mdash; But with
    me it is otherwise. I had no other inducement than principle, and have now
    nothing else to enjoy. I came to a troubled country just time enough to
    befriend its rights, and share in its distress; for could personal
@@ -53,8 +49,8 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    but of the political and literary world, and as I have seen it asserted,
    especially in foreign publications, that whenever Congress had any new
    measures to propose, the success of which they were doubtful of, that I
-   was employed to sound and prepare the disposition of the public. I humbly
-   conceive it convenient to the honor of Congress and the country, as well
+   was employed to sound and prepare the disposition of the public, I humbly
+   conceive it convenient to the honor of Congress and the Country, as well
    as necessary to my own reputation, that every such idea of supposed
    influence should be removed, and that it should appear, as it truly is,
    that so far as it lay in my power to promote the cause of freedom and the
@@ -63,31 +59,13 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    circumstances, will, without contrivance, act alike, and the concurrence
    of their conduct is an evidence of their rectitude.
 
-    Therefore my humble request to Congress is, that they would please to
+   Therefore my humble request to Congress is, that they would please to
    direct me to lay before them an account of such services as I have
    rendered to America and the circumstances under which they were per-
    formed, from the commencement of the war to the conclusion thereof.
 
    I am your Excellency's most obedient Humble Servant,
 
-   THOMAS PAINE.
+   THOS: PAINE.
 
-   (Paine's request was referred to Messrs. Clarke, Peters and Hawkins and
-   the writer was to have met them on June 23d, but the mutiny of troops
-   upset the entire machinery of government and Congress left Philadelphia so
-   hastily that Paine was not given an opportunity of stating his case. He
-   again sought a hearing but received no satisfaction until August when the
-   committee delivered a report stating that "a just and impartial account of
-   our interest for public Freedom and happiness should be handed down to
-   posterity"; that this would best be done by an official historiographer,
-   one moreover "who has been and is governed by the most disinterested
-   principles of public good, totally uninfluenced by party of every kind";
-   that Paine had rendered invaluable services to the United States "without
-   having sought, received or stipulated for any honors, advantages, or
-   emoluments for himself; that a History of the American revolution compiled
-   by Mr. Paine is certainly to be desired." Hence the committee proposed
-   that he be appointed historiographer to the United States at a salary to
-   be determined later. The report was permitted to lie on the
-   table.-Editor.)
-
-
+   

@@ -946,214 +946,196 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    *THOMAS PAINE*, TO THE CITIZENS OF THE UNITED STATES.
    
    *LETTER THE SIXTH.*
-   
-   
-   (EDITOR'S NOTE: We have yet to locate the original publication: in the *Philadelphia Aurora*,  May 14, 1803. 
-   The text below has not been edited for accuracy at this point.)
-   
+     
+   (EDITOR'S NOTE: In the *Philadelphia Aurora*, May 14, 1803, the title is listed as the "Seventh" letter; it is really 
+   the Sixth. It was written in March, 1803 in Bordentown, NJ, but not printed until May.) 
 
-   Religion and War is the cry of the Federalists; Morality and Peace the
-   voice of Republicans. The union of morality and peace is congenial but
-   that of religion and war is a paradox, and the solution of it is
-   hypocrisy.
+   Religion and war is the cry of the federalists; morality and peace the
+   voice of republicans. The union of morality and peace is congenial; but
+   that of religion and war is a paradox, and the solution of it is hypocrisy.
 
-   The leaders of the Federalists have no judgment; their plans no
+   The leaders of the federalists have no judgment; their plans no
    consistency of parts; and want of consistency is the natural consequence
-   of want of principle.
-
-   They exhibit to the world the curious spectacle of an *Opposition* without a
-   *cause*, and conduct without system. Were they, as doctors, to prescribe
-   medicine as they practise politics, they would poison their patients with
+   of want of principle. They exhibit to the world the curious spectacle of an *opposition* without a
+   CAUSE and conduct without system. Were they, as doctors, to prescribe
+   medicine, as they practise politics, they would poison their patients with
    destructive compounds.
 
    There are not two things more opposed to each other than war and religion;
-   and yet, in the double game those leaders have to play, the one is
+   and yet, in the double game, those leaders have to play, the one is
    necessarily the theme of their politics, and the other the text of their
-   sermons. The week-day orator of Mars, and the Sunday preacher of Federal
-   grace, play like gamblers into each other's hands, and this they call
+   sermons. The week-day orator of Mars and the sunday preacher of Federal
+   Grace, play, like gamblers, into each other's hands, and this they call
    religion.
 
    Though hypocrisy can counterfeit every virtue, and become the associate of
    every vice, it requires a great dexterity of craft to give it the power of
-   deceiving. A painted sun may glisten, but it cannot warm. For hypocrisy to
+   deceiving. A painted sun may glisten but it cannot warm. For hypocrisy to
    personate virtue successfully it must know and feel what virtue is, and as
    it cannot long do this it cannot long deceive. When an orator foaming for
-   war breathes forth in another sentence a *plaintive piety of words*, he may
+   war, breathes forth in another sentence a *plaintive piety of words*, he may
    as well write HYPOCRISY on his front.
 
-   The late attempt of the Federal leaders in Congress (for they acted
+   The late attempt of the federal leaders in congress (for they acted
    without the knowledge of their constituents) to plunge the country into
-   war merits not only reproach but indignation. It was madness, conceived in
+   war, merits not only reproach, but indignation. It was madness conceived in
    ignorance and acted in wickedness. The head and the heart went partners in
    the crime.
 
-   A neglect of punctuality in the performance of a treaty is made a cause of
+   A neglect of punctuality in the performance of a treaty is made a *cause* of
    war by the *Barbary Powers*, and of remonstrance and explanation by
-   *civilized Powers*. The Mahometans of Barbary negotiate by the sword-they
-   seize first, and expostulate afterwards; and the Federal leaders have been
-   laboring to *barbarize* the United States by adopting the practise of the
+   *civilized powers*. The Mahomedans of Barbary negociate by the sword &mdash; they
+   seize first, and expostulate afterwards; and the federal leaders have been
+   laboring to *barbarise* the United States by adopting the practice of the
    Barbary States, and this they call honor. Let their honor and their
-   hypocrisy go weep together, for both are defeated. Their present
-   Administration is too moral for hypocrites, and too economical for public
+   hypocrisy go weep together for both are defeated. Their present
+   administration is too moral for hypocrites and too economical for public
    spendthrifts.
 
-   A man the least acquainted with diplomatic affairs must know that a
+   A man the least acquainted with diplomatic affairs, must know, that a
    neglect in punctuality is not one of the legal causes of war, unless that
    neglect be confirmed by a refusal to perform; and even then it depends
    upon circumstances connected with it. The world would be in continual
    quarrels and war, and commerce be annihilated, if Algerine policy was the
-   law of nations.
-
-   And were America, instead of becoming an example to the Old World of good
-   and moral government and civil manners, or, if they like it better, of
-   gentlemanly conduct toward other nations, to set up the character of
-   ruffian, that of *word and blow, and the blow first*, and thereby give the
+   law of nations. And were America, instead of becoming an example to the Old World of good
+   and moral government, and civil manners, or if they like it better, of
+   gentlemanly conduct towards other nations, to set up the character of
+   ruffian, that of *word and a blow, and the blow first*, and thereby give the
    example of pulling down the little that civilization has gained upon
    barbarism, her independence, instead of being an honor and a blessing,
    would become a curse upon the world and upon herself.
 
    The conduct of the Barbary Powers, though unjust in principle, is suited
-   to their prejudices, situation and circumstances. The crusades of the
-   Church to exterminate them fixed in their minds the unobliterated belief
-   that every Christian power was their mortal enemy.
-
-   Their religious prejudices, therefore, suggest the policy, which their
+   to their prejudices, situation, and circumstances. The crusades of the
+   church to exterminate them, fixed in their minds the unobliterated belief
+   that every Christian power was their mortal enemy. Their religious prejudices, 
+   therefore, suggest the policy, which their
    situation and circumstances protect them in. As a people, they are neither
    commercial nor agricultural, they neither import nor export, have no
    property floating on the seas, nor ships and cargoes in the ports of
    foreign nations. No retaliation, therefore, can be acted upon them, and
    they sin secure from punishment.
 
-   But this is not the case with the United States. If she sins as a Barbary
-   Power, she must answer for it as a civilized one. Her commerce is
-   continually passing on the seas, exposed to capture, and her ships and
+   But this is not the case with the United States. If she sins as a barbary
+   power she must answer for it as a civilized one. Her commerce is
+   continually passing on the seas exposed to capture, and her ships and
    cargoes in foreign ports to detention and reprisal. An act of war
    committed by her in the Mississippi would produce a war against the
    commerce of the Atlantic States, and the latter would have to curse the
-   policy that provoked the former.
-
-   In every point, therefore, in which the character and interest of the
+   policy that provoked the former. In every point, therefore, in which the character and interest of the
    United States be considered, it would ill become her to set an example
-   contrary to the policy and custom of civilized powers, and practised only
-   by the Barbary Powers, that of striking before she expostulates.
+   contrary to the policy and custom of civilized powers, and practiced only
+   by the barbary powers, that of striking before she expostulates.
 
    But can any man, calling himself a legislator, and supposed by his
    constituents to know something of his duty, be so ignorant as to imagine
    that seizing on New Orleans would finish the affair or even contribute
-   toward it? On the contrary it would have made it worse.
-
-   The treaty right of deposit at New Orleans and the right of the navigation
+   toward it. On the contrary it would have made it worse. The treaty right 
+   of deposit at New Orleans, and the right of the navigation
    of the Mississippi into the Gulf of Mexico are distant things. New Orleans
    is more than a hundred miles in the country from the mouth of the river,
-   and, as a place of deposit, is of no value if the mouth of the river be
+   and as a place of deposit is of no value, if the mouth of the river be
    shut, which either France or Spain could do, and which our possession of
-   New Orleans could neither prevent nor remove.
-
-   New Orleans in our possession, by an act of hostility, would have become a
-   blockaded port, and consequently of no value to the Western people as a
+   New Orleans could neither prevent nor remove. New Orleans in our 
+   possession, by an act of hostility, would have become a
+   blockaded port, and consequently of no value to the western people as a
    place of deposit. Since, therefore, an interruption had arisen to the
-   commerce of the Western states, and until the matter could be brought to a
+   commerce of the western states, and until the matter could be brought to a
    fair explanation, it was of less injury to have the port shut and the
-   river open than to have the river shut and the port in our possession.
+   river open than to have the river shut, and the port in our possession.
 
    That New Orleans could be taken required no stretch of policy to plan, nor
    spirit of enterprise to effect. It was like marching behind a man to knock
    him down: and the dastardly slyness of such an attack would have stained
    the fame of the United States. Where there is no danger cowards are bold,
-   and Captain Bobadils are to be found in the Senate as well as on the
-   stage. Even *Gouverneur*, on such a march, dare have shown a leg.
+   and captain *Bobadils* are to be found in the senates as well as on the
+   stage. Even *Gouverneur* on such a march, dare have shewn a leg.
 
-   The people of the Western country to whom the Mississippi serves as an
-   inland sea to their commerce must be supposed to understand the
+   The people of the western country to whom the Mississippi serves as an
+   inland sea to their commerce, must be supposed to understand the
    circumstances of that commerce better than a man who is a stranger to it;
-   and as they have shown no approbation of the war-whoop measures of the
-   Federal senators it becomes presumptive evidence they disapprove them.
-
+   and as they have shewn no approbation of the war-whoop measures of the
+   federal senators, it becomes presumptive evidence they disapprove them.
    This is a new mortification for those war-whoop politicians; for the case
    is, that finding themselves losing ground and withering away in the
-   Atlantic States, they laid hold of the affair of New Orleans in the vain
-   hope of rooting and reinforcing themselves in the Western States; and they
-   did this without perceiving that it was one of those ill-judged
+   Atlantic states, they laid hold of the affair of New Orleans in the vain
+   hope of rooting and reinforcing themselves in the western States; and they
+   did this without perceiving, that it was one of those ill judged
    hypocritical expedients in politics, that whether it succeeded or failed
-   the event would be the same.
-
-   Had their motion succeeded, it would have endangered the commerce of
-   the Atlantic States and ruined their reputation there; and on the other
-   hand the attempt to make a tool of the Western people was so badly
+   the event would be the same &mdash; Had their motion succeeded, it would have endangered the commerce of
+   the Atlantic states and ruined their reputation there; and on the other
+   hand, the attempt to make a tool of the western people was so badly
    concealed as to extinguish all credit with them.
 
    But hypocrisy is a vice of sanguine constitution. It flatters and promises
-   itself everything; and it has yet to learn, with respect to moral and
-   political reputation, it is less dangerous to offend than to deceive.
+   itself every thing; and it has yet to learn, with respect to moral and
+   political reputation it is less dangerous to offend than to deceive.
 
-   To the measures of Administration, supported by the firmness and integrity
-   of the majority in Congress, the United States owe, as far as human means
-   are concerned, the preservation of peace, and of national honor. The
-   confidence which the Western people reposed in the Government and their
+   To the measures of administration supported by the firmness and integrity
+   of the majority in congress, the United States owe, as far as human means
+   are concerned, the preservation of peace and of national honor. The
+   confidence which the western people reposed in the government and their
    representatives is rewarded with success. They are reinstated in their
    rights with the least possible loss of time; and their harmony with the
-   people of New Orleans, so necessary to the prosperity of the United
+   people of New-Orleans, so necessary to the prosperity of the United
    States, which would have been broken, and the seeds of discord sown in its
    place, had hostilities been preferred to accommodation, remains
-   unimpaired. Have the Federal ministers of the Church meditated on these
-   matters? and laying aside, as they ought to do, their electioneering and
-   vindictive prayers and sermons, returned thanks that peace is preserved,
-   and commerce, without the stain of blood?
+   unimpaired &mdash; Have the federal ministers of the church meditated on these
+   matters? and laying aside as they ought to do, their electioneering and
+   vindictive prayers and sermons returned thanks that peace is preserved
+   and commerce without the stain of blood.
 
-   In the pleasing contemplation of this state of things the mind, by
+   In the pleasing contemplation of this state of things, the mind, by
    comparison, carries itself back to those days of uproar and extravagance
-   that marked the career of the former Administration, and decides, by the
+   that marked the career of the former administration, and decides, by the
    unstudied impulse of its own feelings, that something must then have been
-   wrong. Why was it that America, formed for happiness, and remote by
+   wrong. Why was it, that America, formed for happiness, and remote by
    situation and circumstances from the troubles and tumults of the European
    world, became plunged into its vortex and contaminated with its crimes?
-
-   The answer is easy. Those who were then at the head of affairs were
-   apostates from the principles of the Revolution. Raised to an elevation
+   The answer is easy. &mdash; Those who were then at the head of affairs were
+   apostates from the principles of the revolution. Raised to an elevation
    they had not a right to expect, nor judgment to conduct, they became like
    feathers in the air, and blown about by every puff of passion or conceit.
 
    Candor would find some apology for their conduct if want of judgment was
    their only defect. But error and crime, though often alike in their
    features, are distant in their characters and in their origin. The one has
-   its source in the weakness of the head, the other in the hardness of the
-   heart, and the coalition of the two describes the former Administration.
+   its source in the weakness of the head, the other in the badness of the
+   heart, and the coalition of the two describes the former administration.
 
    Had no injurious consequences arisen from the conduct of that
-   Administration, it might have passed for error or imbecility, and been
-   permitted to die and be forgotten. The grave is kind to innocent offense.
-   But even innocence, when it is a cause of injury, ought to undergo an
-   inquiry.
+   administration it might have passed for error or imbecility, and been
+   permitted to die and be forgotten. The grave is kind to innocent offence.
+   But even innocence when it is a cause of injury ought to undergo an
+   enquiry.
 
-   The country, during the time of the former Administration, was kept in
-   continual agitation and alarm; and that no investigation might be made
-   into its conduct, it intrenched itself within a magic circle of terror,
-   and called it a SEDITION LAW. Violent and mysterious in its measures and
+   The country, during the time of the former administration, was kept in
+   continual agitation and alarm, and that no investigation might be made
+   into its conduct it intrenched itself within a magic circle of terror,
+   and called it a *sedition law*. Violent and mysterious in its measures and
    arrogant in its manners, it affected to disdain information, and insulted
-   the principles that raised it from obscurity. .
-
-   John Adams and Timothy Pickering were men whom nothing but the accidents
+   the principles that raised it from obscurity. John Adams and Timothy 
+   Pickering were men whom nothing but the accidents
    of the times rendered visible on the political horizon. Elevation turned
-   their heads, and public indignation has cast them to the ground. But an
-   inquiry into the conduct and measures of that Administration is
+   their heads, and public indignation hath cast them to the ground. &mdash; But an
+   enquiry into the conduct and measures of that administration is
    nevertheless necessary.
 
-   The country was put to great expense. Loans, taxes and standing armies
-   became the standing order of the day. The militia, said Secretary
+   The country was put to great expences. Loans, taxes, and standing armies
+   became the standing order of the day. The militia, said secretary
    Pickering, are not to be depended upon, and fifty thousand men must be
-   raised. For what? No cause to justify such measures has yet appeared. No
-   discovery of such a cause has yet been made. The pretended Sedition Law
-   shut up the sources of investigation, and the precipitate flight of John
+   raised. For what? No cause to justify such measures has yet appeared. &mdash; No
+   discovery of such a cause has yet been made. The pretended sedition law
+   shut up the sources of investigation and the precipitate flight of John
    Adams closed the scene. But the matter ought not to sleep here.
 
    It is not to gratify resentment, or encourage it in others, that I enter
    upon this subject. It is not in the power of man to accuse me of a
    persecuting spirit. But some explanation ought to be had. The motives and
    objects respecting the extraordinary and expensive measures of the former
-   Administration ought to be known. The Sedition Law, that shield of the
+   administration ought to be known. The sedition law, that shield of the
    moment, prevented it then, and justice demands it now.
-
-   If the public have been imposed upon, it is proper they should know it;
+   If the public have been imposed upon, it is proper they should know it,
    for where judgment is to act, or a choice is to be made, knowledge is
    first necessary. The conciliation of parties, if it does not grow out of
    explanation, partakes of the character of collusion or indifference.
@@ -1162,99 +1144,95 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    belongs, and separate the deceiver from the deceived, than that suspicion,
    the bane of society, should range at large, and sour the public mind. The
    military measures that were proposed and carried on during the former
-   Administration could not have for their object the defense of the country
-   against invasion. This is a case that decides itself; for it is
-   self-evident, that while the war raged in Europe, neither France nor
+   administration could not have for their object the defence of the country
+   against invasion. This is a case that decides itself, for it is
+   self-evident that while the war raged in Europe, neither France nor
    England could spare a man to send to America.
-
-   The object, therefore, must be something at home, and that something was
+   The object therefore must be something at home, and that something was
    the overthrow of the representative system of government, for it could be
    nothing else. But the plotters got into confusion and became enemies to
    each other. Adams hated and was jealous of Hamilton, and Hamilton hated
    and despised both Adams and Washington. Surly Timothy stood aloof, as he
    did at the affair of Lexington, and the part that fell to the public was
-   to pay the expense.
+   to pay the expence.
 
-   But ought a people who, but a few years ago, were fighting the battles of
-   the world for liberty had no home but here, ought such a people to stand
+   But ought a people who but a few years ago were fighting the battles of
+   the world, for liberty had no home but here, ought such a people to stand
    quietly by and see that liberty undermined by apostasy and overthrown by
-   intrigue? Let the tombs of the slain recall their recolleclection, and the
+   intrigue? Let the tombs of the slain recall their recollection, and the
    forethought of what their children are to be revive and fix in their
    hearts the love of liberty.
 
-   If the former Administration can justify its conduct, give it the
+   If the former administration can justify its conduct give it the
    opportunity. The manner in which John Adams disappeared from the
-   Government renders an inquiry the more necessary. He gave some account of
-   himself, lame and confused as it was, to certain Eastern wise men who came
-   to pay homage to him on his birthday. But if he thought it necessary to do
-   this, ought he not to have rendered an account to the public? They had a
-   right to expect it of him.
-
-   In that *tete-a-tete* account, he says, "Some measures were the effect of
-   imperious necessity, much against my inclination." What measures does Mr.
-   Adams mean, and what is the imperious necessity to which he alludes?
-   "Others (says he) were measures of the Legislature, which, although
-   approved when passed, were never previously proposed or recommended by
-   me." What measures, it may be asked, were those, for the public have a
-   right to know the conduct of their representatives?
-
-   "Some (says he) left to my discretion were never executed, because no
-   necessity for them, in my judgment, ever occurred."
+   government renders an enquiry the more necessary. He gave some account of
+   himself, lame and confused as it was, to certain *Eastern wise men* who came
+   to pay homage to him on his birth-day. But if he thought it necessary to do
+   this ought he not to have rendered an account to the public. They had a
+   right to expect it of him. In that *tete a tete* account he says, "*Some measures were the effect of
+   imperious necessity, much against my inclination.*" What measures does Mr.
+   Adams mean, and what is the imperious necessity to which he alludes.
+   "*Others* (says he) *were measures of the legislature, which, although
+   approved when passed were never previously proposed or recommended by
+   me.*" What measures, it may be asked, were those, for the public have a
+   right to know the conduct of their representatives? "*Some* (says he) *left 
+   to my discretion were never executed, because no
+   necessity for them, in my judgment, ever occurred.*"
 
    What does this dark apology, mixed with accusation, amount to, but to
-   increase and confirm the suspicion that something was wrong?
+   encrease and confirm the suspicion that something was wrong.
    Administration only was possessed of foreign official information, and it
-   was only upon that information communicated by him publicly or privately,
-   or to Congress, that Congress could act; and it is not in the power of Mr.
-   Adams to show, from the condition of the belligerent powers, that any
-   imperious necessity called for the warlike and expensive measures of his
-   Administration.
+   was only upon that information communicated by him publicly or privately
+   or to Congress that Congress could act, and it is not in the power of Mr.
+   Adams to shew, from the condition of the belligerent powers, that any
+   *imperious necessity* called for the warlike and expensive measures of his
+   administration.
 
-   What the correspondence between the Administration and Rufus King in
+   What the correspondence between the administration and Rufus King in
    London, or Quincy Adams in Holland, or Berlin, might be, is but little
-   known. The public papers have told us that the former became cup-bearer
-   from the London underwriters to Captain Truxton, for
-
-   which, as Minister from a neutral nation, he ought to have been censured.
-   It is, however, a feature that marks the politics of the Minister, and
+   known. The public papers have told us that the former became *cup bearer*
+   from the London underwriters to capt. Truxton, for which, as Minister 
+   from a neutral nation, he ought to have been censured.
+   It is, however, a feature that marks the politics of the minister, and
    hints at the character of the correspondence.
 
-   I know that it is the opinion of several members of both Houses of
-   Congress, that an inquiry with respect to the conduct of the late
-   Administration ought to be gone into. The convulsed state into which the
+   I know that it is the opinion of several members of both houses of
+   Congress that an enquiry, with respect to the conduct of the late
+   administration ought to be gone into. The convulsed state into which the
    country has been thrown will be best settled by a full and fair exposition
-
-   of the conduct of that Administration, and the causes and object of that
+   of the conduct of that administration, and the causes and object of that
    conduct. To be deceived, or to remain deceived, can be the interest of no
    man who seeks the public good; and it is the deceiver only, or one
-   interested in the deception, that can wish to preclude inquiry.
+   interested in the deception, that can wish to preclude enquiry.
 
-   The suspicion against the late Administration is that it was plotting to
+   The suspicion against the late administration, is, that it was plotting to
    overturn the representative system of government, and that it spread
    alarms of invasions that had no foundation as a pretense for raising and
    establishing a military force as the means of accomplishing that object.
 
-   The law, called the Sedition Law, enacted, that if any person should write
-   or publish, or cause to be written or published, any libel [without
-   defining what a libel is] against the Government of the United States, or
-   either House of Congress, or against the President, he should be punished
+   The law, called the sedition law, enacted, that "if any person should write
+   or publish, or cause to be written or published, any libel (without
+   defining what a libel is) against the Government of the United States, or
+   either house of congress, or against the President, he should be punished
    by a fine not exceeding two thousand dollars, and by imprisonment not
-   exceeding two years.
+   exceeding two years."
 
-   But it is a much greater crime for a President to plot against a
+   But it is a much greater crime for a president to plot against a
    constitution and the liberties of the people, than for an individual to
-   plot against a President; and consequently, John Adams is accountable to
-   the public for his conduct, as the individuals under his Administration
-   were to the Sedition Law.
+   plot against a president; and consequently, John Adams is accountable to
+   the public for his conduct, as the individuals under his administration
+   were to the sedition law.
 
-   The object, however, of an inquiry, in this case, is not to punish, but to
-   satisfy; and to show, by example, to future Administrations, that an abuse
+   The object, however, of an enquiry in this case is not to punish, but to
+   satisfy; and to shew by example to future administrations that an abuse
    of power and trust, however disguised by appearances, or rendered
-   plausible by pretense, is one time or another to be accounted for.
+   plausible by pretence, is one time or another to be accounted for.
 
    THOMAS PAINE.
+   
+   Bordentown on the Delaware,
 
-   New Jersey, March 12, 1803.
+   N. Jersey, March 12, 1803.
 
    BORDENTOWN, ON THE DELAWARE,
 
@@ -1755,13 +1733,12 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    
    *LETTER THE EIGHTH.*
    
-   (EDITOR'S NOTE: We have yet to locate the original publication: in the Philadelphia *Aurora* of June 7, 1805 
-   The text below has not been edited for accuracy at this point.)
+   From the Philadelphia *Aurora* of June 7, 1805. 
 
    Much has been said, and much remains to be said, of that undescribed and
    undescribable *nothing*, called federalism. It is a word without a meaning,
    and designates a faction that has no principles. Ask a man who called
-   himself a federalist, what federalism is, and he cannot tell you. Ask him,
+   himself a federalist, what federalism is? and he cannot tell you. Ask him,
    what are its principles, and he has none to give. Federalism, then, with
    respect to government, is similar to atheism with respect to religion, a
    *nominal nothing* without principles. The federal papers, especially those
@@ -1772,25 +1749,23 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    them as imposters and hypocrites in both.
 
    Those who once figured as leaders under the assumed and fraudulent name of
-   *federalism* (but who are since gone, not into honorable and peaceable
-   retirement, like *John Dickinson* and *Charles Thomson* (John Dickinson, the
-   respectable author of the farmer's letters before the revolution began.
-   Charles Thomson, the faithful secretary of the old congress during the
-   revolution.- Author.) but into obscurity and oblivion, like John Adams and
-   John Jay), had some plans in contemplation which they concealed from their
+   *federalism,* (but who are since gone, not into honorable and peaceable
+   retirement, like *John Dickinson* and *Charles Thomson* (1) but into 
+   obscurity and oblivion, like John Adams and
+   John Jay) had some plans in contemplation which they concealed from their
    deluded adherents, but those plans can be discovered through the gauzy,
    but clumsy, veil of conduct those leaders adopted. "*No cover is large
-   enough to hide itself*" says the Spanish proverb.
+   enough to hide itself,*" says the Spanish proverb.
 
    It requires more artifice and management to disguise and conceal sinister
    designs than schemers are aware of. A man never turns a rogue but he turns
    a fool. He incautiously lets out something by which those he intended to
    cheat or impose upon begin to *find him out*. Whereas truth is a straight
-   forward thing, even an ignorant man will not blunder in a true story-nor
+   forward thing, even an ignorant man will not blunder in a true story &mdash; nor
    can an artful man keep a false story straight.
 
    But those leaders, supposing themselves in a higher position than what
-   common observation would reach, presume, on their supposed consequence and
+   common observation would reach, presumed, on their supposed consequence and
    the expected credulity of their adherents, to impose on the nation by
    clamorous and false pretences, for the purpose of raising a standing army
    of fifty thousand men; and when they had got that army the mask would have
@@ -1799,12 +1774,12 @@ Date: Mon Aug  4 09:08:55 EDT 2014
 
    But in the midst of this career of delusion and imposition, those leaders
    became fools. They did everything they ought not to have done. They
-   advocated plans which showed that their intention and their cause were not
-   good. They labored to provoke war. They opposed everything which led to
-   peace. They loaded the country with vexatious and unnecessary taxes, and
+   advocated plans which shewed that their intention and their cause were not
+   good. They laboured to provoke war. They opposed every thing which led to
+   peace. &mdash; They loaded the country with vexatious and unnecessary taxes, and
    then opposed the reduction of them. They opposed a reduction of useless
-   offices that served no other purpose than to maintain their own partisans
-   at the expense of the public. In short, they run themselves a-ground
+   offices that served no other purpose than to maintain their own partizans
+   at the expense of the public. In short, they run themselves a-ground,
    first, by their extravagance and next by their folly. Blinded by their own
    vanity, and though bewildered in the wilderness of their own projects,
    they foolishly supposed themselves above detection. They had neither sense
@@ -1820,7 +1795,7 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    language. Truth* can derive no advantage from boisterous *vulgarity*. But
    when the motives and principles of a party are *bad*, it is necessary to
    *conceal them*; and its abettors having *principles they dare to acknowledge*
-   and cannot *defend*, avoid everything of argument, and take refuge in *abuse*
+   and cannot *defend*, avoid every thing of argument, and take refuge in *abuse*
    and *falsehood*.
 
    The federal papers are an instance of the justness of this remark. Their
@@ -1844,18 +1819,18 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    vulgar and abusive they are, the more ground they lose in the estimation
    of the public. Every election, especially in New England, is wearing them
    down, till they will be lost even as a faction, and Massachusetts and
-   Connecticut will recover their former character. Everything this faction
+   Connecticut will recover their former character. Every thing this faction
    does hastens its exit. The abusive vulgarity of Hulbert, a pettyfogging
    attorney of Sheffield, in Massachusetts, and one of its legislators, has
    contributed to bring forward the funeral. In his late unprincipled speech
    in the legislature of that state, he has driven another nail in the coffin
-   of the federal faction, and I leave to the New England Palladium to clinch
+   of the federal faction, and I leave to the *New England Palladium* to clinch
    it. It is a paper worthy of being the buffoon of such a faction, and of
-   such an hypocritical impostor- Thus much for the character of parties and
+   such an hypocritical impostor mdash; Thus much for the character of parties and
    the method of ascertaining their motives and objects. I now proceed to
    other matters.
 
-   When I returned to America in November 1802 (after an absence of more than
+   When I returned to America in November 1802, (after an absence of more than
    fourteen years) I found the country in a state of disquietude. The people
    were divided into two classes, under the names of* republicans* and
    *federalists*, and in point of numbers appeared to be nearly balanced. The
@@ -1875,23 +1850,23 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    whether those reports were true or false. If either of those cases could
    be ascertained effectually, it would unite the people. The chief of those
    reports, was the danger of an *invasion* from France; and this was made a
-   cause for borrowing, by loan, at the high rate of *eight per cent*, laying
+   cause for borrowing, by loan, at the high rate of *eight per cent.* laying
    on a land tax of two million dollars annually; besides a greater number of
    other taxes; and for raising a standing army of fifty thousand men.
 
    Now, if the danger was real, it ought to have been provided against. If it
    was a fiction, with the design of raising an army to be employed to
    accomplish some concealed purpose, the country ought to be informed of it.
-   The party styling themselves federalists appeared to believe the danger,
+   The party stiling themselves federalists appeared to believe the danger,
    and the republicans to ridicule it as fabulous; and in this state the
-   parties stood. It was, however, equally the interest of both to know the
+   parties stood. It was, however, equally the interest of both, to know the
    truth, on which ever side the truth might fall.
 
    Being at Washington in the winter of 1802-3, I talked with some members of
    congress on the subject, particularly with Mr. Breckenridge, senator from
    Kentucky, the same person who brought in the bill for repealing John
-   Adams's judiciary law, and the midnight appointments made in the
-   consequence of it. This repeal saved the country *thirty-two thousand
+   Adams' judiciary law, and the midnight appointments made in the
+   consequence of it. &mdash; This repeal saved the country *thirty-two thousand
    dollars annually*, besides freeing it from an intended judiciary despotism.
 
    I spoke to him of the propriety of congress appointing a committee, or by
@@ -1923,16 +1898,13 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    without detection.
 
    At the time I talked with Mr. Breckenridge on this subject, I expected
-   that Mr. *Shipwith* formerly (Mr. Skip with resigned the consulship during
-   the administration of John Adams. I believe on account of a rude insulting
-   letter he received from Timothy Pickering then secretary of state. Mr.
-   Jefferson re-appointed Mr. Skipwith.-Author.) and at this time, American
+   that Mr. *Skipwith* formerly (2) and at this time, American
    consul at Paris, and *Joel Barlow* would soon arrive, and I did not wish the
    enquiry to be gone into till they came. After the fall of Robespierre and
    the establishment of the directory constitution, these two gentlemen and
    myself (Mr. Monroe being recalled) had better opportunities of knowing the
    sentiments and intentions of the French government with respect to
-   American than other persons had; and they can be evidence equally with
+   America than other persons had; and they can be evidence equally with
    myself, that no intention existed in the French government to invade
    America; nor was any preparation made for such an attempt, nor could it be
    made. The possibility of such a thing did not exist. The French navy at
@@ -1947,7 +1919,7 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    some secret purpose, and not for the purpose of defence. If John Adams was
    not conscious of something wrong, and apprehensive of some consequences,
    why did he abscond in the hasty and private manner he did? or why did his
-   partisans want to put Aaron Burr in the presidency. In the days of the
+   partizans want to put Aaron Burr in the presidency. In the days of the
    black cockades John Adams had one so enormous and so valiantly large, that
    he appeared to be suspended by it; but when his *midnight hour* arrived, his
    valor fled and himself also.
@@ -1960,41 +1932,16 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    to talk of invasions and dangers, and the necessity of *preparation. "It
    may be very well"* said Logan, *"to have the militia in good order." "The
    militia, sir!"* said Timothy, *"the militia never did any good and never
-   will. We must have any army of fifty thousand men."* When Logan was coming
+   will. We must have any army of fifty thousand men."* (3) When Logan was coming
    away, Timothy said to him at the door, "Sir, the government don't thank
-   you." (Timothy Pickering's reflection on the *militia* deserves a rebuff. It
-   was the militia that fought at *Bunker's hill*, under Warren, a military
-   general. It was by the aid of numerous reinforcements of militia to join
-   General Gates that *Burgoyne* was taken. It was by a volunteer militia under
-   *Stark*, a volunteer general, that Col. *Baum*, a Hessian officer, was
-   defeated at Bennington, in Vermont, which was the prelude to the capture
-   of Burgoyne. But perhaps Timothy reasons from himself; and if he makes
-   himself the standard by which to judge of the merits of the militia there
-   is ground for his saying the *militia never did any good and never will.*
-   Timothy's first public employment was very harmless, that of a teacher of
-   psalmody. When the revolution began he *learned* the *manual exercise*, and
-   then *taught it*. He was afterwards appointed a colonel of a regiment of
-   *militia*, and when the affairs of *Lexington and Concord* took place, April
-   19, 1775, and the British were retreating from Concord back to Boston, an
-   order was sent to *Timothy*, to march with his regiment, and post himself at
-   a certain place to cut off their retreat. Timothy marched but he stopped
-   short of the *place*, and drew up his men, and went to prayers, till the
-   British passed it. His prayers saved him from the *dangers* of that day. I
-   do not know that he sung psalms. Perhaps not. The enemy might have
-   *overheard him*. Had Timothy done his duty on that occasion, and put his
-   trust in God without loitering away his time, the whole party of the
-   British, about two thousand, must have been prisoners, for they could not
-   have got back into Boston; and the slaughter at Bunker's hill, the 17th of
-   June following, could not have taken place. The whole force of the British
-   at Boston at that time was about four thousand; *one half* of which were on
-   this expedition.-Author.)
+   you." (3)
 
-   When Logan waited on General Washington, who had been then appointed
+   When Logan waited on general Washington, who had been then appointed
    lieutenant general of the army then raising, of which John was commander
-   in chief!-the General received him coldly and sternly, and said to him in
+   in chief! &mdash; the General received him coldly and sternly, and said to him in
    a haughty tone, *"and pray sir, what right have you, that are but a private
    citizen, to interfere in matters of government?"* Logan very prudently
-   replied, "I have no answer, sir, to make to that," and withdrew. The state
+   replied, "I have no answer, sir, to make to that," and withdrew. &mdash; The state
    of Pennsylvania, soon after this, elected Dr. Logan one of its senators in
    congress.
 
@@ -2024,7 +1971,7 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    principles and projects, things will be sure to go wrong. John Adams, who
    was more the *dupe* of a party than the *leader* of it, entered on the office
    of president with his *head turned* by the *elevation* he was lifted to; and
-   his principles (if ever he had any), corrupted. He turned out to be a
+   his principles, (if ever he had any,) corrupted. He turned out to be a
    counter revolutionist; and if the concealed objects of his administration
    had succeeded, the federal constitution would have been destroyed, and
    that by persons under the assumed and fraudulent name of *federalists*.
@@ -2035,7 +1982,7 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    in preference to any of the Washingtons; for this same John Adams was one
    of the *chiefs* of a party in *congress at Yorktown* in Pennsylvania, in the
    latter end of the year 1777 and beginning of '78, for dismissing
-   *Washington* from the command of the army,* because*, they said, *he was not
+   *Washington* from the command of the army,* because*, they said *he was not
    capable of it and did nothing*. Yet under John's administration the name of
    Washington was made use of, for the purpose of introducing and covering a
    counter revolutionary system. Such is the inconsistency of faction and of
@@ -2046,7 +1993,7 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    formed on the *corrupt models of the old world*. It was the opportunity of
    *beginning the world anew*, as it were; and of bringing forward a *new system*
    of government in which the rights of *all* men should be preserved that gave
-   *value* to independence. The pamphlet *Common Sense*, the first work I ever
+   *value* to independence. &mdash; The pamphlet, *Common Sense*, the first work I ever
    published, embraced both those objects. *Mere* independence might at some
    future time, have been effected and established by arms, *without
    principle*, but a *just* system of government could not. In short, it was the
@@ -2068,29 +2015,65 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    preliminary project, that of raising an army: and the case would have
    been, that when they had collected that army, they would have broken into
    distinct parties, like the generals of Alexander's army, and destroyed
-   each other, to decide who should be the reigning usurper.
-
+   each other, to decide who should be the reigning usurper. &mdash; 
    Symptoms of disgust had already begun to appear among the chiefs. Hamilton
    despised Washington; Adams was jealous of Hamilton; and Hamilton had a
    perfect contempt for Adams. But in the end, John, I believe would have
    come poorly off. He was not a man of the sword, but only of *the cockade*.
 
    I purposely delayed entering upon this subject till the presidential
-   election should be over. Had I published it before that time the clamor of
-   faction would have said it was an electioneering trick. Now, they cannot
+   election should be over. Had I published it before that time the clamour of
+   faction would have said it was an electioneering trick. *Now*, they cannot
    say it. The choice made at that election was the spontaneous choice of the
-   people, and is therefore the more honorable both to the electors and the
+   people, and is therefore the more honourable both to the electors and the
    elected. The country at this time, compared with what it was two or three
    years ago, is in a state of tranquility; and in a fit disposition of
    calmness to take the matters herein stated into consideration before the
    next meeting of congress. It is by keeping a country well informed upon
-   its affairs, and discarding from its councils everything of mystery, that
+   its affairs, and discarding from its councils every thing of mystery, that
    harmony is preserved or restored among the people, and confidence reposed
    in the government.
 
    THOMAS PAINE.
 
    June 5th, 1805.
+   
+   Footnotes:
+   
+   1. John Dickinson, the respectable author of the farmer's letters before the revolution began.
+   Charles Thomson, the faithful secretary of the old congress during the revolution.
+   
+   2. Mr. Skipwith with resigned the consulship during
+   the administration of John Adams. I believe on account of a rude insulting
+   letter he received from Timothy Pickering then secretary of state. Mr.
+   Jefferson re-appointed Mr. Skipwith.
+   
+   3. Timothy Pickering's reflection on the *militia* deserves a rebuff. It
+   was the militia that fought at *Bunker's hill*, under* Warren*, a military
+   general. &mdash; It was by the aid of numerous reinforcements of militia to join
+   General Gates that *Burgoyne* was taken. It was by a volunteer militia under
+   *Stark*, a volunteer general, that col. *Baum*, a Hessian officer, was
+   defeated at Bennington, in Vermont, which was the prelude to the capture
+   of Burgoyne. But perhaps Timothy reasons from himself; and if he makes
+   himself the standard by which to judge of the merits of the militia there
+   is ground for his saying the *militia never did any good and never will.*
+   Timothy's first public employment was very harmless, that of a teacher of
+   psalmody. When the revolution began he *learned* the *manual exercise*, and
+   then *taught it*. He was afterwards appointed a colonel of a regiment of
+   *militia*, and when the affairs of *Lexington and Concord* took place, April
+   19, 1775, and the British were retreating from Concord back to Boston, an
+   order was sent to *Timothy*, to march with his regiment, and post himself at
+   a certain place to cut off their retreat. Timothy marched but he stopped
+   short of the *place*, and drew up his men, and went to prayers, till the
+   British passed it. His prayers saved him from the *dangers* of that day. I
+   do not know that he sung psalms. &mdash; Perhaps not. The enemy might have
+   *overheard him*. Had Timothy done his duty on that occasion, and put his
+   trust in God without loitering away his time, the whole party of the
+   British, about two thousand, must have been prisoners, for they could not
+   have got back into Boston; and the slaughter at Bunker's hill, the 17th of
+   June following, could not have taken place. The whole force of the British
+   at Boston at that time was about four thousand; *one half* of which were on
+   this expedition. T.P.
 
 
 

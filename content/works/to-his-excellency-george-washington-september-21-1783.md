@@ -57,9 +57,8 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    Wishing you, Sir, the happy enjoyment of peace and every public and 
    private felicity I remain, Your Excellancy's most obt & hmble servt
 
-   THOMAS PAINE.
+   THOS: PAINE
 
-   Col. Kirkbride at whose house I am, desires me to present you his
-   respectful compliments.
+  
 
 

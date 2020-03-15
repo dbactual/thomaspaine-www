@@ -11,7 +11,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    We should never fail to recount the story of the American Revolution.
    We should never forget that our nation was forged in struggle, a struggle
-   - however inadequate and in need of continual renewal and advancement -
+   &mdash; however inadequate and in need of continual renewal and advancement &mdash;
    that was revolutionary. And we should never fail to appreciate the
    fundamental role of the radical Thomas Paine in helping us to realize what
    we might become. Would there have been an American Revolution, an American
@@ -64,7 +64,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Tavern. He soon developed a friendly reputation as a man who enjoyed a few
    good drinks and had a "skill with words."
 
-    Recognizing his talents, Paine's fellow officers chose him to lead
+   Recognizing his talents, Paine's fellow officers chose him to lead
    their campaign for higher salaries. Thus, in 1772 he penned his first
    pamphlet, The Case of the Officers of Excise, and moved to London to lobby
    Parliament. His sojourn back in the capital both increased his knowledge
@@ -291,20 +291,20 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Though Paine wrote critically of British imperialism, he continued to
    favor reconciliation. That is, until April I9, l775,when British troops
    opened fire on colonial militia at Lexington, Massachusetts leaving 8
-   militiamen dead and 10 wounded. News of the battle - "the shot heard round
-   the world" - turned Paine into an American patriot and radical. Forsaking
+   militiamen dead and 10 wounded. News of the battle &mdash; "the shot heard round
+   the world" &mdash; turned Paine into an American patriot and radical. Forsaking
    his Quaker background, he now argued the legitimacy of violence in defense
    of liberty and, in the poetic verses of The Liberty Tree, he aligned
    himself with the American cause.
 
    Yet, what exactly was America's cause: The restoration of
    "Englishmen's rights"? The reform of the imperial system? or outright
-   separation? Radicals - like Samuel Adams, John Adams, and Thomas Jefferson
-   - privately discussed separation but, publicly, they merely proposed
+   separation? Radicals &mdash; like Samuel Adams, John Adams, and Thomas Jefferson
+   &mdash; privately discussed separation but, publicly, they merely proposed
    reorganizing America's colonial relationship to Britain. And even that
    seemed too extreme to many.
 
-   The PennsylvaniaMagazine prospered under Paine's editorship.
+   The Pennsylvania Magazine prospered under Paine's editorship.
    Nevertheless, Paine's relations with his bosses soured by the summer of
    1775. Witherspoon turned against Paine for having the audacity to actually
    edit Witherspoon's words. In revenge, Witherspoon spread rumors that Paine
@@ -329,8 +329,8 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    had been befriended by one of Congress's more radical members, the young
    Philadelphia doctor, Benjamin Rush. When Paine told him of his writing
    plans, Rush counseled moderation, fearing the time was not yet right.
-   However, Paine would not be deterred.  He was absolutely convinced that -
-   although Americans did not speak openly of it - they yearned for
+   However, Paine would not be deterred.  He was absolutely convinced that 
+   although Americans did not speak openly of it they yearned for
    independence. Whatever his reservations, Rush welcomed Paine's commitment
    and, in turn, Paine regularly sought his new friend's editorial advise.
 
@@ -372,7 +372,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    Paine wrote Common Sense to transform the colonial rebellion into a
    war for independence. But he did more than that.  He called upon Americans
    to recognize their historical possibilities and historic responsibilities.
-   Harnessing their shared- but, as of yet, unstated - thoughts, and
+   Harnessing their shared- but, as of yet, unstated thoughts, and
    expressing them in language bold and clear, he urged them to make a true
    revolution of their struggles.
 
@@ -392,7 +392,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    origins were anything but divinely ordained: "A French bastard [William
    the Conqueror] landing with an armed banditti, and establishing himself
    king of England against the consent of the natives, is in plain terms a
-   very paltry rascally original. - It certainly hath no divinity in it...
+   very paltry rascally original. &mdash; It certainly hath no divinity in it...
    The plain truth is, that the antiquity of English monarchy will not bear
    looking into."
 

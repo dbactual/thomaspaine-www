@@ -3,13 +3,11 @@ Slug: letters/other/to-his-excellency-elias-boudinot-june-20th-1783
 Title: To his Excellency Elias Boudinot  June 20th, 1783
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-   To his Excellency Elias Boudinot  June 20th, 1783
+   From the original letter at the Library of Congress.
 
-   PRESIDENT OF CONGRESS
-
-   SECOND STREET,
-
-   SIR:
+   Second Street June 20th, 1783 &mdash; 
+   
+   Sir
 
    As the enclosed letter relates to an important national subject and
    conveys some information and touches on circumstances which may be
@@ -19,10 +17,10 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    observe is per favor of Mr. Cruger.
 
    The place it is dated from, Salisbury (in Wiltshire) is one of the best
-   farming countries in England.
+   farming countries in England
 
-   I am your Excellency's obedient Humble Servant,
+   I am your Excellency's Obt Humble Servant
 
-   THOMAS PAINE.
+   THOMAS PAINE
 
 
