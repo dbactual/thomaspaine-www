@@ -5,8 +5,6 @@ Date: Mon Aug  4 09:08:56 EDT 2014
 
    From the original letter at the Library of Congress.
 
-   LONDON,
-
    Explanatory Circumstances 
 
    1 &mdash; The lost dispatches are dated Octr 6th & Oct 7th. &mdash; they
