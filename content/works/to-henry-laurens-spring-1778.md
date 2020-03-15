@@ -3,9 +3,15 @@ Slug: letters/other/to-henry-laurens-spring-1778
 Title: To Henry Laurens  Spring 1778
 Date: Mon Aug  4 09:08:54 EDT 2014
 
-   To Henry Laurens  Spring 1778
+   From the *Public Advertiser of New-York*, May 30,1807:
+   
+   OF USEFUL CITIZENS.
+   
+   The following is from a letter from Thomas Paine to the late Henry Laurens of South Carolina one of 
+   the Presidents of the old Congress. As the ideas in it correspond with Duane's Politics for Farmers 
+   and Mechanics and may be useful, we have Mr. Paine's consent to publish it.
 
-   As we are forming government on a new system, that of representation I
+   "As we are forming Government on a new system, *that of representation*, I
    will give you my thoughts on the various classes and merits of men in
    society so far as relates to each other.
 
@@ -24,9 +30,9 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    living by the profits.
 
    Perhaps you will say that in this classification of citizens I have marked
-   no place for myself; that I am neither farmer, mechanic, merchant nor
-   shopkeeper. I believe, however, I am of the first class. I am a farmer of
-   thoughts, and all the crops I raise I give away. I please myself with
+   no place for myself; that I am neither farmer, manufacturer, mechanic, merchant nor
+   shopkeeper. I believe, however, I am of the first class. I am a *Farmer of
+   thoughts*, and all the crops I raise I give away, I please myself with
    making you a present of the thoughts in this letter.
 
    THOMAS PAINE.
