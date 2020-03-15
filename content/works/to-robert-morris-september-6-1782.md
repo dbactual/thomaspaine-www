@@ -3,15 +3,13 @@ Slug: letters/robert-morris/to-robert-morris-september-6-1782
 Title: To Robert Morris  September 6, 1782
 Date: Mon Aug  4 09:08:55 EDT 2014
 
-   To Robert Morris  September 6, 1782
+   From the original letter at the Huntington Library.
 
-   BORDENTOWN,
+   Borden Town, Sept. 6th, 1782
 
-   SIR:
-
-   I am enjoying the company of my friends Col. Kirkbride and Mr. Borden of
-   this place, where I purpose (as is my yearly custom), of spending two or
-   three weeks, unless anything in the political world should occasion my
+   I am enjoying the Company of my friends Col. Kirkbride and Mr. Borden at
+   this place, where I purpose, (as is my yearly custom) of spending two or
+   three weeks, unless any thing in the political world should occasion my
    return sooner.
 
    As one of my principal designs in getting out my last piece was to give it
@@ -19,8 +17,19 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    France and England, I desire you to accept of 50 copies to send to any
    part of Europe or the West Indies.
 
-   I am Sir, Your obedient Humble Servant,
+   I am Sir your Obt Hble Servt
 
-   THOMAS PAINE.
+   THOS. PAINE
+   
+   Borden Town
+   
+   6 Sept 1782
+   
+   Thos Paine Esq
+   
+   with 50 copies of his Reply to Abbe Raynal
+   
+   Honble Robt. Morris Esquire Philadelphia
+   
 
 
