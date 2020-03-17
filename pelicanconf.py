@@ -6,7 +6,7 @@ AUTHOR = u'tpnha'
 AUTHORS = u'tpnha'
 SITENAME = u'The Thomas Paine National Historical Association'
 SITEPATH=''
-SITEURL = 'http://thomaspaine.org'
+SITEURL = 'https://thomaspaine.org'
 
 PATH = 'content'
 
