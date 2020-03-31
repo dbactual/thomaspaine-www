@@ -1,6 +1,6 @@
 PubDate: 1779-03-20
 Slug: recently-discovered/response-to-observations-on-the-american-revolution
-Title: Response to “Observations on the American Revolution”
+Title: Response to *Observations on the American Revolution*
 Date: Mon Jan  1 09:08:51 EDT 2016
 
 
@@ -10,7 +10,7 @@ from the *Pennsylvania Packet*, March 20, 1779.
 
 Mr. DUNLAP,
 
-Through the channel of your paper, I take the liberty of remarking on a passage in a pamphlet just come into my hands, entitled, “*Observations on the American Revolution, published according to a Resolution of Congress. By their Committee.*”
+Through the channel of your paper, I take the liberty of remarking on a passage in a pamphlet just come into my hands, entitled, *Observations on the American Revolution, published according to a Resolution of Congress. By their Committee.*
 
 The gentlemen who, principally, if not wholly, conducted this work were Governeur Morriss, Esq; Delegate from the state of New York, and W.H. Drayton, Esq; late Delegate from South Carolina; and of those two Mr. Morriss had the chief share.  Consequently, the honours or errors it contain, are claimable by, or chargeable on, the compilers and conductors only.
 
