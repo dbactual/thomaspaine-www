@@ -3,11 +3,11 @@ Slug: letters/us-government/to-the-honorable-senate-of-the-united-states-jan-21-
 Title: To the Honorable Senate of the United States  January 21, 1808
 Date: Mon Aug  4 09:08:56 EDT 2014
 
-   To the Honorable Senate of the United States  January 21, 1808
+   From the records of the American State Papers, No. 189, 10th Congress, First Session.
 
-   New York,
+   *To the honorable the Senate of the United States:*  New York, *January* 21, 1808.
 
-   THE purpose of this address is to state a claim I feel myself entitled to
+   THE purport of this address is to state a claim I feel myself entitled to
    make on the United States, leaving it to their representatives in Congress
    to decide on its worth and its merits. The case is as follows:
 
@@ -18,26 +18,27 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    As the United States were then in alliance with France, it became
    necessary to make France acquainted with our real situation. I therefore
    drew up a letter to Count de Vergennes, stating undisguisedly the true
-   case: and concluding with the request, whether France could not, either as
+   case; and concluding with the request, whether France could not, either as
    a subsidy or a loan, supply the United States with a million sterling, and
    continue that supply, annually, during the war.
 
    I showed the letter to Mr. Marbois, secretary to the French minister. His
    remark upon it was, that a million sent out of the nation exhausted it
-   more than ten millions spent in it. I then showed it to Mr. Ralph Izard,
+   more than ten millions spent in it. I then showed it to Mr. Ralph Isard,
    member of Congress for South Carolina. He borrowed the letter of me, and
    said, "We will endeavor to do something about it in Congress."
 
-   Accordingly Congress appointed Colonel John Laurens, then aid[e] to
+   Accordingly Congress appointed Colonel John Laurens, then aid to
    General Washington, to go to France and make representation of our
    situation, for the purpose of obtaining assistance. Colonel Laurens wished
    to decline the mission, and that Congress would appoint Colonel Hamilton;
    which Congress did not choose to do.
 
-   Colonel Laurens then came to state the case to me. He said he was not
-   enough acquainted with political affairs, nor with the resources of the
+   Colonel Laurens then came to state the case to me. He said he was enough acquainted 
+   with the military difficulties of the army, but that he was not enough acquainted 
+   with political affairs, nor with the resources of the
    country, to undertake the mission; "but," said he, "if you will go with
-   me, I will accept it"; which I agreed to do, and did do.
+   me, I will accept it;" which I agreed to do, and did do.
 
    We sailed from Boston in the Alliance frigate, Captain Barry, the
    beginning of February, 1781, and arrived at L'Orient the beginning of
@@ -53,7 +54,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    for this service, I feel myself entitled, as the country is now in a state
    of prosperity, to state the case to Congress.
 
-   As to my political works, beginning with the pamphlet Common Sense,
+   As to my political works, beginning with the pamphlet *Common Sense*,
    published the beginning of January, 1776, which awakened America to a
    declaration of independence, as the President and Vice President both
    know, as they were works done from principle, I cannot dishonor that
@@ -66,7 +67,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    representative system of Government, as the work itself will show, that
    was the leading principle with me in writing that work, and all my other
    works during the progress of the revolution. And I followed the same
-   principle in writing the Rights of Man, in England.
+   principle in writing the *Rights of Man*, in England.
 
    There is a resolve of the old Congress, while they sat at New York, of a
    grant of three thousand dollars to me. The resolve is put in handsome
@@ -81,7 +82,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    which the States frequently took no notice; and, when they did, it was
    never uniformly.
 
-   After the failure of the five per cent, duty recommended by Congress, to
+   After the failure of the five per cent. duty recommended by Congress, to
    pay the interest of a loan to be borrowed in Holland, I wrote to
    Chancellor Livingston, then Minister for Foreign Affairs, and Robert
    Morris, Minister of Finance, and proposed a method for getting over the
@@ -103,7 +104,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    States to the east of New York, or the south of Philadelphia, ever made
    the least acknowledgment. They had received benefits from me, which they
    accepted, and there the matter ended. This story will not tell well in
-   history. All the civilized world know[s] I have been of great service to
+   history. All the civilized world know I have been of great service to
    the United States, and have generously given away talent that would have
    made me a fortune.
 
