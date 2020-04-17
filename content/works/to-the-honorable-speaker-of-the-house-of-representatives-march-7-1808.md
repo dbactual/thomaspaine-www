@@ -2,12 +2,11 @@ PubDate: 1808-03-07
 Slug: letters/us-government/to-the-honorable-speaker-of-the-house-of-representatives-march-7-1808
 Title: To the Honorable Speaker of the House of Representatives   March 7, 1808
 Date: Mon Aug  4 09:08:56 EDT 2014
-   1808 Slug:
-   to-the-honorable-speaker-of-the-house-of-representatives-march-7-1808
+  
 
-   To the Honorable Speaker of the House of Representatives  March 7, 1808
+   From the records of the Annals of Congress, 10th Congress, 2nd Session.
 
-   NEW YORK,
+   NEW YORK, *March* 7, 1808.
 
    SIR:
 
@@ -18,8 +17,8 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    I know not who the Committee of Claims are, but if they are men of younger
    standing than "the times that tried men's souls," and, consequently, too
    young to know what the condition of the country was at the time I
-   published Common Sense (for I do not believe independence would have been
-   declared had it not been for the effect of that work), they are not
+   published *Common Sense* (for I do not believe independence would have been
+   declared had it not been for the effect of that work) they are not
    capable of judging of the whole of the services of Thomas Paine. The
    President and Vice President can give you information on those subjects,
    so also can Mr. Smilie, who was a member of the Pennsylvania Legislature
@@ -38,6 +37,8 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    Yours, in friendship,
 
    THOMAS PAINE.
+   
+   Hon. Speaker *of the House of Reps.*
 
    P. S. I repeat my request, that you would call on the Committee of Claims
    to bring in their report, and that Congress would decide upon it.
