@@ -547,7 +547,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    To CATO
 
-   Cato's partisans may call me furious; I regard it not. There are men too,
+   Cato's partizans may call me furious; I regard it not. There are men too,
    who, have not virtue enough to be angry, and that crime perhaps is Cato's &mdash;
    He who dares not offend cannot be honest. Having thus balanced the charge,
    I proceed to Cato's 4th, 5th, 6th, and 7th letters, all of which, as they
@@ -555,27 +555,26 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    formality.
 
    His fourth letter is introduced with a punning Soliloquy &mdash; Cato's title to
-   soliloquies is indisputable; because no man cares for his company.(See Note)
+   soliloquies is indisputable; because no man cares for his company.(1)
    However, he disowns the writing it, and assures his readers that it "was
-   really put into his hands." I always consider this confirming mode of
-   expression as betraying a suspicion of one's self; and in this place it
-   amounts to just as much as if Cato had said, "you know my failing, Sirs,
-   but what I tell you now is really true." Well, be it so, Cato; you shall
-   have all the credit you ask for; and as to when or where or how you got
+   *really* put into his hands." I always consider this confirming mode of
+   expression, as betraying a suspicion of one's self; and in this place it
+   amounts to just as much as if Cato had said, "you know my *failing*, Sirs,
+   but what I tell you now is really true." Well! be it so, Cato; you shall
+   have all the credit you ask for; and as to when, or where, or how you got
    it, who was the author, or who the giver, I shall not enquire after; being
-   fully convinced, by the poetical merit of the performance, that though the
-   writer of it may be an *Allen*, he'll never be a Ramsay (See Note). Thus much 
-   for the
-   Soliloquy; and if this gentle chastisement should be the means of
+   fully convinced, by the poetical merit of the performance, that tho' the
+   writer of it may be an *Allen*, he'll never be a *Ramsay* (2). Thus much 
+   for the Soliloquy; and if this gentle chastisement should be the means of
    preventing Cato or his colleague, from mingling their punning nonsense, with
    subjects of such a serious nature as the present one truly is, it will
    answer one of the ends it was intended for.
    
-   Note: *At this piece may possibly fall into the hands of some who are not 
+   (1): *At this piece may possibly fall into the hands of some who are not 
    acquainted with the word Soliloquy, for their information, the sense of it is 
    given, viz. “talking to one’s self.*”
    
-   Note: Allan Ramsay, *a famous Scotch poet of genuine wit and humor*. 
+   (2): Allan Ramsay, *a famous Scotch poet of* genuine *wit and humor*. 
 
    Cato's fourth, and the greatest part of his fifth Letters, are constructed
    on a false meaning uncivilly imposed on a passage quoted from *Common
@@ -586,12 +585,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    He introduces it with saying, "In my remarks on the pamphlet before me, I
    shall first consider those arguments on which, he (the author) appears to
    lay his chief stress; and these are collected under four heads in his
-   conclusion, one of which is, '*It is the custom of nations when any two are
+   conclusion, one of which is, "*It is the custom of nations when any two are
    at war, for some other powers not engaged in the quarrel, to step in by
    way of mediators, and bring about the preliminaries of a peace; but while
    America calls herself the subject of Great-Britain, no power, however well
-   disposed she may be, can offer her mediation.*' The meaning contained in
-   this passage is so exceedingly plain, and expressed in such easy and
+   disposed she may be, can offer her mediation.*" The meaning contained in
+   this passage is so exceeding plain, and expressed in such easy and
    familiar terms, that it scarcely admits of being made plainer. No one, I
    think, could have understood it any other wise, than that while we
    continue to call ourselves British subjects, the quarrel between us can
@@ -608,12 +607,12 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    the practice), and bring about the preliminaries of a *peace*, &mdash; not 
    a *union*,
    Cato, that is quite another thing. But instead of Cato's taking it in this
-   easy and natural sense, he flies away on a wrong scent, charges the author
-   with proposing to call in foreign assistance; and under this willful
+   easy and natural sense, he flies away on a wrong scent, *charges the author
+   with proposing to call in foreign assistance*; and under this willful
    falshood raises up a mighty cry after nothing at all. He begins his wild
    and unintelligible comment in the following manner: "Is this, says he,
    (meaning the passage already quoted) *common sense*, or *common nonsense*?
-   surely peace (See Note) with Great-Britain cannot be the object of this writer,
+   surely peace (3) with Great-Britain cannot be the object of this writer,
    after the horrible character he has given of the people of that country,
    and telling us, that reconciliation with them would be our ruin. The
    latter part of the paragraph seems to cast some light upon the former,
@@ -622,7 +621,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    That we are not the subjects of Great-Britain. &mdash; A new sort of business
    truly for mediators. But this, continues Cato, leads us directly to the
    *main enquiry* &mdash; *What foreign power is able to give us this support.*" 
-   What support, Cato? The passage you have quoted neither says a syllable, nor
+   What support Cato? The passage you have quoted neither says a syllable, nor
    insinuates a hint about support: &mdash; It speaks *only* of neutral powers in the
    neighbourly character of mediators between those which are at war; and says
    it is the custom of European courts to do so. Cato hath already raised
@@ -633,7 +632,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Sense* shall ask your pardon in the public papers, with his name to it; but
    if the error be yours, the concession on your part follows as a duty.
    
-   Note: *It is a strange thing that Cato cannot be taught to distinguish between peace and union.*
+   (3): *It is a strange thing that Cato cannot be taught to distinguish between 
+   peace and union.*
 
    Though I am fully persuaded that Cato does not believe one half of what
    himself has written, he, nevertheless, takes amazing pains to *frighten* his
@@ -641,15 +641,14 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    supposes we are going to send for) ravaging up and down the country; of
    their "bloody massacres, unrelenting persecutions, which would *harrow up*
    (says he) the *very souls of protestants and freemen*."  Were they coming,
-   Cato, which no one ever dreamed of but yourself (for thank God, we want
+   Cato, which no one ever dreamed of but yourself (for thank God we want
    them not) it would be impossible for them to exceed, or even to equal
    the cruelties practised by the British army in the East-Indies: The tying
    men to the mouths of cannon and "*blowing them away*," was never acted by any
-   but an English General, or approved by any but a British court. (See Note) 
-   Read the
-   proceedings of the Select Committee on Indian Affairs.
+   but an English General, or approved by any but a British court. (4) 
+   Read the proceedings of the Select Committee on Indian Affairs.
    
-   Note:* Lord Clive, the chief of Eastern plunderers, received the thanks of 
+   (4):* Lord Clive, the chief of Eastern plunderers, received the thanks of 
    the Parliament for* “his honourable conduct in the East-Indies.”
 
    From temporal fears Cato proceeds to spiritual ones, and in a hypocritical
@@ -657,7 +656,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Catholic, or his most Christian King? I confess, continues he, that
    these questions stagger me." I don't wonder at it, Cato &mdash; I am glad to hear
    that some kind of remorse hath overtaken you &mdash; that you begin to *feel* that
-   you are "heavy laden." &mdash; you have had a long run, and the stoutest heart
+   you are "heavy laden." &mdash; you have had a long run; and the stoutest heart
    must fail at last.
 
    Cato perceiving that the falsehoods in his fourth letter past unreproved,
@@ -667,7 +666,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    recourse to foreign assistance." When will Cato learn to speak the truth!
    The assistance which we hope for from France is not armies (we want them
    not) but arms and ammunition. We have already received into this province
-   only, near two hundred tons of saltpetre, and gunpowder, besides muskets.
+   only, near two hundred tons of salt-petre, and gunpowder, besides muskets.
    Surely! we may continue to cultivate a useful acquaintance, without such
    malevolent beings as Cato raising his barbarous slander thereon. At *this
    time* it is not only illiberal, but impolitic, and perhaps dangerous, to be
@@ -679,14 +678,14 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    himself *only* had set up, proudly congratulates himself on the defeat, and
    marches off to new exploits, leaving behind him the following
    proclamation: "Having thus," says Cato, "*dispatched* his (the author of
-   *Common Sense*'s) *main argument for independence*, which he founds on the
+   *Common Sense*'s) *main argument* for *independence*, which he founds on the
    necessity of calling in *foreign assistance*, I proceed to examine some
    other parts of his work." Not a syllable, Cato, doth any part of the
    pamphlet in question, say of calling in foreign assistance, or even forming
    military alliances. The dream is wholly your own; and is directly
    repugnant both to the letter and spirit of every page in the piece. The
    idea which *Common Sense* constantly holds up, is, to have nothing to do with
-   the political affairs of Europe. "As Europe," says the pamphlet, "is our
+   the political affairs of Europe. "As Europe, says the pamphlet, is our
    market for trade, we ought to form no political connections with *any part
    of it*. It is the true interest of America to steer clear of all European
    contentions." And where it proposes sending a manifesto to foreign courts
@@ -696,24 +695,24 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    disposition towards them, and of our desire of entering into trade with
    them.*" Learn to be an honest man, Cato, and then thou wilt not be thus
    exposed. &mdash; I have been the more particular in detecting Cato here, because
-   it is on this *bubble* that his air-built battery against independence is
+   it is on this *bubble* that his air-built battery against independance is
    raised &mdash; a poor foundation indeed! which even the point of a pin, or a pen,
    if you please, can demolish with a touch, and bury the formidable Cato
    beneath the ruins of a vapour.
 
    From this part of his fifth letter to the end of his seventh, he entirely
-   deserts the subject of independence, and sets up the proud standard of
+   deserts the subject of independance, and sets up the proud standard of
    Kings, in preference to a Republican form of government. My remarks on
    this part of the subject will be general and concise.
 
    In this part of the debate Cato shelters himself chiefly in quotations
-   from other authors, without reasoning much on the matter himself; (See Note) in
+   from other authors, without reasoning much on the matter himself; (5) in
    answer to which, I present him with a string of maxims and reflexions,
-   drawn from the nature of things, without borrowing from anyone. Cato may
+   drawn from the nature of things, without borrowing from any one. Cato may
    observe, that I scarcely ever quote; the reason is, I always think. But to
    return.
    
-   Note: *The following is an instance of Cato’s method of conducting an argument. 
+   (5): *The following is an instance of Cato’s method of conducting an argument. 
    “If hereditary succession, says* Common Sense, *(meaning succession of monarchical 
    governments) did ensure a race of good and wise men, it would have the seal of 
    divine authority”* thus we find him, *says Cato*, ”with his own hand affixing 
@@ -812,7 +811,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    nor proved, nor attempted to prove any.
 
    *N.B*. The pretence of charging the acts of a body of men on individuals,
-   is too slender to be admitted. (See Note)
+   is too slender to be admitted. (6)
 
    *Secondly*. He has falsely complained to the public of the restraint of the
    press.
@@ -829,8 +828,8 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 
    *Sixthly*. He has turned the scripture into a jest. Ez. 35.
    
-   Note: *Cato and I differ materially in our opinion of Committees; I consider 
-   them as the only constitutional bodies at present in this province, and that 
+   (6): *Cato and I differ materially in our opinion of Committees; I consider 
+   them as the* only constitutional *bodies at present in this province, and that 
    for the following reason; they were duly elected by the people, and cheerfully 
    and faithfully do the service for which they were elected. The House of Assembly 
    were likewise elected by the people, but do the business for which they were not 
@@ -848,14 +847,13 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    Having for the present closed my correspondence with Cato, I shall
    conclude this letter with a well meant affectionate address.
 
-   <b>To THE PEOPLE</b>
+   <b>TO THE PEOPLE</b>
 
    *It is not a time to trifle*. Men, who know they deserve nothing from their
    country, and whose hope is on the arm that has fought to enslave ye, may
    hold out to you, as Cato hath done, the false light of reconciliation. &mdash;
    There is no such thing. 'Tis gone! 'Tis past! &mdash; The grave has parted us 
-   &mdash; and
-   death, in the persons of the slain, hath cut the thread of life between
+   &mdash; and death, in the persons of the slain, hath cut the thread of life between
    Britain and America.
 
    Conquest, and not reconciliation is the plan of Britain. But admitting even
@@ -872,7 +870,7 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    world, may live at ease. Bounded by the ocean, and backed by the
    wilderness, who has she to fear, but her GOD?
 
-   Be not deceived &mdash; it is not a little that is at stake. Reconciliation will
+   Be not deceived. &mdash; It is not a little that is at stake. Reconciliation will
    not now go down, even if it were offered. 'Tis a dangerous question; for
    the eyes of all men begin to open. There is now no secret in the matter;
    there ought to be none. It is a case that concerns every man, and every
@@ -892,9 +890,9 @@ Date: Mon Aug  4 09:08:53 EDT 2014
    treacherous friend in power, is the most dangerous of enemies. The answer
    to the second question, Can America be happy under a government of her
    own, is short and simple, viz. As happy as she please; she hath a blank
-   sheet to write upon. Put it not off too long. (see Note)
+   sheet to write upon. Put it not off too long. (7)
    
-   Note: *Forget not the hapless African.*
+   (7): *Forget not the hapless African.*
 
    Painful as the task of speaking truth must sometimes be, yet I cannot
    avoid giving the following hint, because much, nay almost everything
