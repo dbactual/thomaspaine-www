@@ -14,7 +14,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
    Frank Smith points out this essay was a chapter in a book in French written by a woman in France. Testing confirms this 
    is not Paine, and Foner even indicates that in his introduction to it. But by August, 1775 Paine however had no influence 
-   in the *PennsylvaniA Magazine*where it was published.
+   in the *Pennsylvania Magazine* where it was published.
    
    (IMAGE: An Occassional Letter on Female Sex B.png)  (IMAGE: An Occassional Letter on Female Sex X.png)
 
