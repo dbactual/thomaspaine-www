@@ -5,6 +5,8 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 
 
    LETTER TO GEORGE WASHINGTON
+   
+   From the original Philadelphia *Aurora* pamphlet in 1796.
 
    DATED PARIS, JULY 30,
 
@@ -862,7 +864,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    every American in Paris as an impossible thing; and though it was
    disbelieved by the French, it imprinted a suspicion that some underhand
    business was going forward. At length the treaty itself arrived, and every
-   well-affected American blushed with shame.(5)
+   well-affected American blushed with shame.
 
    It is curious to observe how the appearance of characters will change,
    while the root that produces them remains the same. The Washington faction
@@ -1162,7 +1164,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    so in fact. He had in reality only a separate command. He had no controul
    over, or direction of, the army to the northward under Gates, that
    captured Burgoyne; nor of that to the South under Greene, that
-   recovered the southern States.(6) The nominal rank, however, of
+   recovered the southern States. The nominal rank, however, of
    Commander-in-Chief served to throw upon him the lustre of those actions,
    and to make him appear as the soul and centre of all military operations
    in America.
@@ -1386,4 +1388,4 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    could not be at a loss to understand that the American Administration had
    been playing a double game.
    
-   6. See Mr. Winterbotham's valuable History of America lately published.
+  
