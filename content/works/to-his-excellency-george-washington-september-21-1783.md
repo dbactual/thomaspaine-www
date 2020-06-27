@@ -45,8 +45,8 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
    I am hurt by the neglect of the collective ostensible body of America, in
    a way which it is probable they do not perceive my feelings. It has an
-   effect in putting either my reputation or their generosity at stake; for
-   it cannot fail of suggesting that either I (notwithstanding the appearance
+   effect in putting either my reputation or their generosity at stake, for
+   it cannot fail of suggesting that either I, (notwithstanding the appearance
    of service) have been undeserving their regard or that they are remiss
    towards me. Their silence is to me something like condemnation, and their
    neglect must be justified by my loss of reputation, or my reputation
@@ -54,13 +54,8 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    I have ever been dumb on everything which might touch national honor so I
    mean ever to continue so.
 
-   Wishing you, Sir, the happy enjoyment of Peace and every public and private felicity,
-   I remain Your Excellency's much obliged and obt hmble servt
    Wishing you, Sir, the happy enjoyment of peace and every public and
    private felicity I remain, Your Excellancy's most obt & hmble servt
 
    THOS: PAINE
-
-
-
 
