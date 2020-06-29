@@ -25,8 +25,6 @@ Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associate
 
 Gary Berton, Walton, NY - Coordinator of the Institute for Thomas Paine Studies at Iona College
 
-Roderick Bradford, San Diego, CA - documentarian, editor of the Truth Seeker
-
 Josh Klein, New York, NY - professor of Criminal Justice, Iona College
 
 
