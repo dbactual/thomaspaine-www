@@ -33,7 +33,7 @@ that design come about?  Paine synthesized Locke's philosophy with the laws of m
 natural rights with a Constitution and autogovernance, writing: "The revolution of America presented in politics what was only theory in mechanics."(3)
 
 In *The Life and Works of Thomas Paine*(4) one finds Thomas Edison having referred to the totality of Paine's works as "a crystallization of acute human reasoning"
-and to his specific work Common Sense as embodying "... Paine's planning of this great American republic, of which he may very justly be termed the real founder".
+and to his specific work *Common Sense* as embodying "... Paine's planning of this great American republic, of which he may very justly be termed the real founder".
 
 Edison's two observations confirmed me in the intent to consider this question: How did Paine's immersion in post-Newtonian scientific thinking cross-fertilize the
 fiery patriotic writings? A first clue to his rhetorical color and inspiration held firm on an inferential track lies in scientific clarity of thought and language.
@@ -45,7 +45,7 @@ had happened in the interim? In January 1776, Paine released Common Sense. Ultim
 Washington to raise an army. The energy transfer of idea-disclosure, amplified by this factor (i.e., the transition from the first reader to all those that followed),
 became re-amplified by the Declaration of Rights for Pennsylvania, of which Franklin was an author and principal intellectual architect, and Paine was a source of
 philosophical influence. Together they formed an intellectual backdrop for the bill of rights, each amplification resulting from leverage on the fulcrum of Paine's
-formidable pen. In Rights of Man Paine told us that he applied mechanical principles to the American Revolution. What passion drove him to scientize the social
+formidable pen. In *Rights of Man* Paine told us that he applied mechanical principles to the American Revolution. What passion drove him to scientize the social
 domain?
 
 Aside from the United States, of which he is also arguably the inventor, there were at least six known inventions by Paine, of which he modeled five of these six:
@@ -71,9 +71,9 @@ more simple any thing the less liable it is to be disordered, and the easier rep
 in essential governmental forms, he wrote: "... for as the greater weight will always carry up the less, and as all the wheels of a machine are put in motion by one,
 it only remains to know which power in the constitution has the most weight, for that will govern; ..." In the Renaissance, Galileo had reached back to ancient Greece,
 reviving Ionian science from the Dark Ages to create dynamics, groundwork for Newton's system of the world. By 1776, Newton's reformulation of Galilean dynamics had
-blossomed in physics, yet remained unapplied to the social domain, until the then-future Paine arrived to apply it.
+blossomed in physics, yet remained unapplied to the social *domain until the then-future Paine arrived to apply it.*
 
-Paralleling Galileo, Paine turned to that once vibrant era of Athenian democracy to restore and advance autogovernance. The colonies, he explained, will separate
+*Paralleling Galileo, Paine turned to that once vibrant era of Athenian democracy to restore and advance autogovernance.* The colonies, he explained, will separate
 and re-form under a declaration of rights, a constitution, and a vacuum of royalty.  In 1787, he acknowledged the incompleteness of the American Revolution.(9) Though
 a second outcome awaited its completion, Paine initially transposed Newtonian momentum to the social domain. Incomplete because it opposed only the most visible
 slavery, yet this transposition promoted life with liberty and respect for individual property. Inadvertently, 125 years later another inventor elaborated on what
@@ -107,9 +107,9 @@ only the creature of a constitution. The constitution of a country is not the ac
 is followed immediately by his definition of "Constitution".(16)
 
 Another category of "more" evidence for Paine's inventorship of the U.S.A. is found in his attempts to encourage an evidence-based discourse, for example, with
-Edmund Burke, with whom he poignantly disagreed, reacting by issuing Rights of Man.  This habit of communication can be compared with a method of controversy found
+Edmund Burke, with whom he poignantly disagreed, reacting by issuing *Rights of Man*.  This habit of communication can be compared with a method of controversy found
 in analysis of Galileo's dialogues, the first in history (known to me) to aim dialogue at truth-seeking rather than, as in politics or in courtrooms today, at
-polemicizing toward some pre-conceived conclusion. The Galilean Dialogue on the Two World Systems aims at transforming disagreement into exposure and evaluation
+polemicizing toward some pre-conceived conclusion. The Galilean *Dialogue on the Two World Systems* aims at transforming disagreement into exposure and evaluation
 of facts and reasoning on both sides of it into common understanding through open-minded, fair-minded, and rational-minded evaluation of that with which one at first
 may disagree.(17)
 
@@ -118,35 +118,35 @@ predictive hypotheses and the design of tests that would evaluate them often req
 linear programming, Newtonian approximation, decision analysis, flow systems theory, and theory of competitive strategies. For the most part, development of such
 tools post-dated the life of Paine, yet clearly it was not in a mathematical vacuum that he invented the iron bridge and several other aforementioned novelties.
 Some such mathematical tools may be used here and there in elements of political practice. They are essential in the implementation of restoring and completing the
-American Revolution - "restoring" because after Paine the power center that Eisenhower called the "military industrial complex" and includes "government" and the
+American Revolution - "restoring" because after Paine the power center that Eisenhower called the "military industrial complex" and includes such entities as "shadow government", "deep state", and the
 central bank may be seen as substituting for the centralized authoritarian rule of the monarch George III.
 
 Finally, a complete list of "more" evidence for Paine's inventorship of the United States would require a modern explanation of grounding organizational dynamics
 in post-Newtonian physical dynamics.  This is my one of my personal projects which began in [3], about which a great deal more is to be done. That entire important
 subtopic would exceed my time and space limits here.
 
-As an instance of science starting with first principles, Common Sense first postulated society distinct from government.  Paine had proclaimed in Common Sense the
+As an instance of science starting with first principles, *Common Sense* first postulated society distinct from government.  Paine had proclaimed in *Common Sense* the
 need to declare independence; he was known as the foremost writer in the colonies; a Librarian of Congress(18) found Jefferson's first draft copied from an earlier
 document; Paine exclaimed "The decree is finally gone forth. Britain and America are now distinct empires",(19) about the time of the appointment by Congress of a
 committee to draft the Declaration.
 
-Regardless of the extent to which Paine may have been influenced the fundamental documents of the United States of America, a nation whose name and original support
+Regardless of the extent to which Paine may have influenced the fundamental documents of the United States of America, a nation whose name and original support
 are due to him, the friendship and cooperation of Benjamin Franklin with Paine cannot rightly be overlooked.  Franklin too was an inventor and, by virtue of
-discovering the polarity of electricity, one of only three native American discoverers of laws of nature known to me.(20) It is implausible that merely by accident
+discovering the polarity of electricity, one of only three native American discoverers of laws of nature known to me.(20) It is implausible that *merely by accident*
 Franklin, having been introduced to Paine by one of the latter's fellow mathematicians in his native England, understood Paine's genius as a fellow product of the
 Newtonian revolution and arranged for him to live and work in England's colonies.  As far as I have been able to determine, the Declaration of Independence may have
 been as much or more the work of Franklin, Jefferson, and the latter's committee members as Paine's, but Paine's ideas are reflected in it.(21)
 
 As evidence, consider Paine's leading role in producing a preamble to the French Constitution, *The Declaration of the Rights of Man and of Citizens adopted by the
-National Assembly of France*  and containing these declared rights (DRs) among others that echo the sentiments of Paine expressed in *Rights of Man*:
+National Assembly of France*(22)  and containing these declared rights (DRs) among others that echo the sentiments of Paine expressed in *Rights of Man*:
 DR 2: "The end of all Political associations is the Preservation of the Natural and Imprescriptible Rights of Man; and these rights are Liberty, Property, Security,
-and Resistance of Oppression."(22)
+and Resistance of Oppression."
 DR 4: "Political Liberty consists in the power of doing whatever does not Injure another. The exercise of the Natural Rights of every Man, has no other limits than
 those which are necessary to secure to every other Man the Free exercise of the same Rights; and these limits are determinable only by the Law."
 DR 5: "The Law ought to Prohibit only actions hurtful to Society. What is not Prohibited by the Law should not be hindered; nor should anyone be compelled to that
 which the Law does not Require."
 DR 12: "A Public force being necessary to give security to the Rights of Men and of Citizens, that force is instituted for the benefit of the Community and not for
-the particular benefit of the persons to whom it is intrusted."  It is noteworthy that the behavior of public officials in the United States has not even risen to
+the particular benefit of the persons to whom it is intrusted."  It is noteworthy that the behavior of many public officials in the United States has not even risen to
 the height of the bar that Paine raised for France in DR12.
 
 In Paine's writings I find an internally consistent blend of classical liberalism with what now is called capitalism. His civic philosophy synthesizes property and
@@ -214,16 +214,16 @@ in Paine's invention of a nation. The revolution requires construction not destr
 
 These are again "times that try men's souls", new times and dark times, yet times that have been nurtured by a supreme exemplar of converting inner passions to
 patriotic action.(33)  Can you sense the ongoing presence of Paine in the United States? In the days after the 9/11 terrorist attack on the USA, I personally heard
-in the U.S. media -- and even in advertising -- this passage from Paine's Crisis Papers but without crediting him: "THESE are the times that try men's souls.
+in the U.S. media -- and even in advertising -- this passage from Paine's Crisis Papers but *without crediting him*: "THESE are the times that try men's souls.
 The summer soldier and the sunshine patriot will, in this crisis, shrink from the service of their country; but he that stands it now, deserves the love and thanks
-of man and woman".  Thomas Paine did not stop at inventing the United States but left us guidance toward completing the invention.  Action now to fortify and finish
+of man and woman". Thomas Paine did not stop at inventing the United States but left us guidance toward completing the invention.  Action now to fortify and finish
 his work can pay down the price of the freedom that he bequeathed us.
 
 ***
 Footnotes:
 1. Albert DiCanzio, [2], a comprehensive scientific biography of Galileo in the English language.
-2. Cf. Manfred Weidhorn, The Person of the Millenium: The Unique Impact of Galileo on World History (iUniverse, 2005). See also DiCanzio,
-Albert, "Book review of The Person of the Millennium" (Perspectives Journal of the American Scientific Affiliation. 59.2, June 2007), 155.
+2. Cf. Manfred Weidhorn, *The Person of the Millenium: The Unique Impact of Galileo on World History* (iUniverse, 2005). See also DiCanzio,
+Albert, "Book review of *The Person of the Millennium*" (Perspectives Journal of the American Scientific Affiliation. 59.2, June 2007), 155.
 3. Thomas Paine, [7], 157-158, 160.
 4. William M. Van der Weyde, [1] Vol. 1, vii-viii
 5. For a more complete in-context discussion of Paine's inventiveness and the background of his invention of the United States, see this forthcoming book,
