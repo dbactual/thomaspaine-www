@@ -117,9 +117,8 @@ In my own professional experience in the development and testing of mathematical
 predictive hypotheses and the design of tests that would evaluate them often require mathematical tools that include statistics, combinatorics, curve-fitting,
 linear programming, Newtonian approximation, decision analysis, flow systems theory, and theory of competitive strategies. For the most part, development of such
 tools post-dated the life of Paine, yet clearly it was not in a mathematical vacuum that he invented the iron bridge and several other aforementioned novelties.
-Some such mathematical tools may be used here and there in elements of political practice. They are essential in the implementation of restoring and completing the
-American Revolution - "restoring" because after Paine the power center that Eisenhower called the "military industrial complex" and includes such entities as "shadow government", "deep state", and the
-central bank may be seen as substituting for the centralized authoritarian rule of the monarch George III.
+Some such mathematical tools may be used here and there in elements of political practice. They are and would be useful in the implementation of restoring and completing the
+American Revolution. This is true for reasons including that optimizing a web of associations among freedom-seeking individuals entails the mathematics and mechanics of network design and implementation.
 
 Finally, a complete list of "more" evidence for Paine's inventorship of the United States would require a modern explanation of grounding organizational dynamics
 in post-Newtonian physical dynamics.  This is my one of my personal projects which began in [3], about which a great deal more is to be done. That entire important
