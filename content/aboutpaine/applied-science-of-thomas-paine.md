@@ -25,7 +25,7 @@ their unfavored position offering no ready alternative to getting along with fel
 through his writing, Galileo taught physics to Newton; both men enlightened Thomas Paine, who expanded the Newtonian revolution by treating human behavior on the
 scale of a nation as a natural phenomenon.
 
-In *Rights of Man*, part 2, we read "What Archimedes said of the mechanical powers may be applied to Reason and Liberty. 'Had we', said he, 'a place to stand upon,
+In *Rights of Man*, part 2, Introduction, we read "What Archimedes said of the mechanical powers may be applied to Reason and Liberty. 'Had we', said he, 'a place to stand upon,
 we might raise the world.'"  More than a change of "persons and measures", the nascent United States embodied in one nation of free and independent states a change
 of principles and synthesis of ideas that marked out a position on which to freely apply the lever of reason. We see this in hindsight because, unlike some
 unrealized or fleeting utopian dream, its design, though imperfect, has stood a test of time, following its encapsulation in durable founding documents. How did
@@ -41,9 +41,9 @@ As we now visit elements of Paine's story, there may arise additional clues both
 laws concerning energy, momentum, leverage, and even the spiderweb as a model.
 
 In 1775, despite massive British interference in colonial affairs, few leading American colonists favored separation. A year later they declared independence. What
-had happened in the interim? In January 1776, Paine released Common Sense. Ultimately it sold 120,000 copies, inspired the colonies to independence, and enabled
+had happened in the interim? In January 1776, Paine released *Common Sense*. Ultimately it sold 120,000 copies, inspired the colonies to independence, and enabled
 Washington to raise an army. The energy transfer of idea-disclosure, amplified by this factor (i.e., the transition from the first reader to all those that followed),
-became re-amplified by the Declaration of Rights for Pennsylvania, of which Franklin was an author and principal intellectual architect, and Paine was a source of
+became re-amplified by the Declaration of Rights, Article 1 of the Pennsylvania Constitution, of which Franklin was an author and principal intellectual architect, and Paine was a source of
 philosophical influence. Together they formed an intellectual backdrop for the bill of rights, each amplification resulting from leverage on the fulcrum of Paine's
 formidable pen. In *Rights of Man* Paine told us that he applied mechanical principles to the American Revolution. What passion drove him to scientize the social
 domain?
@@ -77,8 +77,8 @@ blossomed in physics, yet remained unapplied to the social *domain until the the
 and re-form under a declaration of rights, a constitution, and a vacuum of royalty.  In 1787, he acknowledged the incompleteness of the American Revolution.(9) Though
 a second outcome awaited its completion, Paine initially transposed Newtonian momentum to the social domain. Incomplete because it opposed only the most visible
 slavery, yet this transposition promoted life with liberty and respect for individual property. Inadvertently, 125 years later another inventor elaborated on what
-Paine had done. The functional relationship of Thomas Paine to Nikola Tesla first came to mind in research of mine aimed at grounding organizational dynamics in
-physical dynamics, of which Galileo was the creator.(10)
+Paine had done. The functional relationship of Thomas Paine to Nikola Tesla first came to mind in research of mine aimed at grounding organizational dynamics in the 
+physical dynamics of Galileo.(10)
 
 Tesla, inventor of polyphase alternating current power distribution, in 1900 modeled a human as "a mass urged on by a force".(11)   Human energy he thought measurable
 by "half the human mass multiplied with the square of a velocity which we are not yet able to compute."(12)   With this non-translatory velocity he associated a human's
@@ -117,7 +117,7 @@ In my own professional experience in the development and testing of mathematical
 predictive hypotheses and the design of tests that would evaluate them often require mathematical tools that include statistics, combinatorics, curve-fitting,
 linear programming, Newtonian approximation, decision analysis, flow systems theory, and theory of competitive strategies. For the most part, development of such
 tools post-dated the life of Paine, yet clearly it was not in a mathematical vacuum that he invented the iron bridge and several other aforementioned novelties.
-Some such mathematical tools may be used here and there in elements of political practice. They are and would be useful in the implementation of restoring and completing the
+Some such mathematical tools may be used here and there in elements of political practice. They have been and predictably would continue to be useful in the implementation of restoring and completing the
 American Revolution. This is true for reasons including that optimizing a web of associations among freedom-seeking individuals entails the mathematics and mechanics of network design and implementation.
 
 Finally, a complete list of "more" evidence for Paine's inventorship of the United States would require a modern explanation of grounding organizational dynamics
@@ -220,37 +220,35 @@ his work can pay down the price of the freedom that he bequeathed us.
 
 ***
 Footnotes:
-1. Albert DiCanzio, [2], a comprehensive scientific biography of Galileo in the English language.
+1. Albert DiCanzio, (2), a comprehensive scientific biography of Galileo in the English language.
 2. Cf. Manfred Weidhorn, *The Person of the Millenium: The Unique Impact of Galileo on World History* (iUniverse, 2005). See also DiCanzio,
 Albert, "Book review of *The Person of the Millennium*" (Perspectives Journal of the American Scientific Affiliation. 59.2, June 2007), 155.
-3. Thomas Paine, [7], 157-158, 160.
-4. William M. Van der Weyde, [1] Vol. 1, vii-viii
+3. Thomas Paine, (7), 157-158, 160.
+4. William M. Van der Weyde, (1) Vol. 1, vii-viii
 5. For a more complete in-context discussion of Paine's inventiveness and the background of his invention of the United States, see this forthcoming book,
 which I highly recommend to this audience: Rad Freeman, *Saving Our Country: by Implementing The American Revolution in Full* (as far as I have determined,
 this author is the first to tie modern economic science to the American Revolution as its completion).   However, the responsibility for observing and choosing
 examples, mentioned here, of these phenomena in Paine's writing is mine.
 6. Henry Grattan Tyrrell, *History of Bridge Engineering* (University of California Libraries, 1911)
 7.  "The idea and construction of this arch is taken from the figure of a spider's circular web, of which it resembles a section, and from a conviction
-that when nature empowered this insect to make a web she also instructed her in the strongest mechanical method of constructing it." [William M. van der Weyde,
-*The Life and Works of Thomas Paine* (Thomas Paine National Historical Association, 1925) as quoted in Rad Freeman, *Saving Our Country: by Implementing the American
-Revolution in Full*, forthcoming, Act IV].
-8. Thomas Paine, [6], 6-8
+that when nature empowered this insect to make a web she also instructed her in the strongest mechanical method of constructing it." (Specification of Thomas Paine, (9), Vol. 5, p. 3, as quoted in Rad Freeman, *Saving Our Country: by Implementing the American Revolution in Full*, forthcoming, Act IV). Here it is noted that Paine had obtained a patent from George Hanover III in 1788 for his method of constructing such span-increasing arches. It was a milestone in bridge technology arriving two centuries after Andrea Palladino's invention of the truss. (Linton Grinter, *Theory of Modern Steel Structures*, NY: MacMillan, 1942, 7.)
+8. Thomas Paine, (6), 6-8
 9. There is no question that Paine regarded the American Revolution as incomplete. "The Revolution can only be said to be complete, when we shall have freed
-ourselves, no less from the influence of foreign prejudices than from the fetters of foreign power [Paine, Thomas, *Rights of Man*, (in [9], orig. pub. 1791-2,
-vol. 4, Society for Political Inquiries, p. 312]. In addition, Paine enumerated in *Rights of Man*, part ii, (vol. 5 in Van der Wyde) a litany of unmet conditions
+ourselves, no less from the influence of foreign prejudices than from the fetters of foreign power (Paine, Thomas, *Rights of Man*, (in 9, orig. pub. 1791-2,
+vol. 4, Society for Political Inquiries, p. 312). In addition, Paine enumerated in *Rights of Man*, part ii, (vol. 5 in Van der Wyde) a litany of unmet conditions
 for a country to boast of its constitution and its government.
-10. Albert G. DiCanzio, [3]
-11. Nikola Tesla, [8], 177.
+10. Albert G. DiCanzio, (3)
+11. Nikola Tesla, (8), 177.
 12. Ibid.  Emphasis supplied by the present writer.
 13. Ibid. 178, 182, 189.
-14. Thomas J. DiLorenzo, [4], 64-65.
-15. Thomas Paine, Rights of Man, (in [9], orig. pub. 1791-2), vol. vi, pp. 226
+14. Thomas J. DiLorenzo, (4), 64-65.
+15. Thomas Paine, Rights of Man, (in (9), orig. pub. 1791-2), vol. vi, pp. 226
 16. Ibid.
 17. I credit and applaud Maurice Finocchiaro for this discovery and revelation about "Two World Systems" and the introduction and definition of the terms
-"open-minded", "fair-minded", and rational-minded" that I first found on 27 May 2010 in Finocchiaro, *Defending Copernicus and Galileo: Critical
+"open-minded", "fair-minded", and "rational-minded" that I first found on 27 May 2010 in Finocchiaro, *Defending Copernicus and Galileo: Critical
 Reasoning in the Two Affairs* (Springer, Boston Studies in the Philosophy of Science, vol. 280, 2010).
 18. Julian Boyd, The Declaration of Independence; the Evolution of the Text (The Library of Congress, 1943).
-19. Moncure Daniel Conway, ed., [1] vol. 1, pp. 161, 166.
+19. Moncure Daniel Conway, ed., (1) vol. 1, pp. 161, 166.
 20. I credit the founders of the Madeira Beach library for placing in the path of my childhood curiosity literature on Paine and (separately) the Declaration of
 Independence during an otherwise boring summer vacation from school; later, Andrew J. Galambos of the Liberal Institute of Natural Science and Technology who in
 a personal conversation made me aware of Franklin's intellectual intimacy with Paine and identified one of those three native-American scientific discoverers
@@ -260,9 +258,9 @@ are Franklin and Adrian Bejan.
 researcher, there were at least six authors including Franklin, whose role was "more passive" yet whose writing was at least consistent with the philosophical
 principles that had been expressed by Thomas Paine.
 22. The Declaration of the Rights of Man and of Citizens adopted by the National Assembly of France "is generally attributed to Paine, with whom Condorcet
-and Pierre Dumont may have collaborated ... Much of its political philosophy had appeared in the American Declaration of Independence." [9], p. 144 The Declaration
+and Pierre Dumont may have collaborated ... Much of its political philosophy had appeared in the American Declaration of Independence." (9), p. 144 The Declaration
 of the Rights of Man and of Citizens adopted by the National Assembly of France "is generally attributed to Paine, with whom Condorcet and Pierre Dumont may have
-collaborated ... Much of its political philosophy had appeared in the American Declaration of Independence." [9], p. 144
+collaborated ... Much of its political philosophy had appeared in the American Declaration of Independence." (9), p. 144
 23. Ayn Rand, *Capitalism: The Unknown Ideal* (Signet, 1967), 10. Why this definition?  It is the simplest available, hence, recalling Occam's razor and
 Paine's above-quoted preference "the more simple any thing the less liable it is to be disordered, and the easier repaired when disordered", it would likely
 have been Paine's choice.
@@ -271,16 +269,16 @@ have been Paine's choice.
 that term having been unknown to Paine, and for his review of certain early drafts of this essay, a review that implies neither his endorsement nor his
 disendorsement of the finished product, I thank Gary Berton of the Thomas Paine National Historical Association.
 26. Elizabeth Anderson, *'Agrarian Justice' and the Origins of Social Insurance*, oxfordscholarship.com.
-27. Thomas Paine, *Agrarian Justice*, op. cit. [10]
+27. Thomas Paine, *Agrarian Justice*, op. cit. (10)
 28. Paine has written of acts that include violating an oath of office "When a man has so far corrupted and prostituted the chastity of his mind, as to
 subscribe his professional belief to things he does not believe, he has prepared himself for the commission of every other crime" in *Age of Reason*,
 (NY, Peter Eckler), 6.
 29. "But tender laws, of any kind, operate to destroy morality, and to dissolve, by the pretense of law, what ought to be the principle of law to support,
 reciprocal justice between man and man: and the punishment of a member who should move for such a law ought to be death." Thomas Paine, "Dissertations on Government;
-the Affairs of the Bank; and Paper Money" in William M. Van der Weyde, [9] Vol. IV, p. 299.
-30. Albert DiCanzio, [3]. The phrase "free exercise of natural rights" is attributable to Rad Freeman [5].
-31. Rad Freeman, [5].
-32. Thomas Paine, [7], 231.
+the Affairs of the Bank; and Paper Money" in William M. Van der Weyde, (9) Vol. IV, p. 299.
+30. Albert DiCanzio, (3). The phrase "free exercise of natural rights" is attributable to Rad Freeman (5).
+31. Rad Freeman, (5).
+32. Thomas Paine, (7), 231.
 33.  Here I refer, of course, to Thomas Paine, the "supreme exemplar".  A more recent call to restoring the nation he intended came from US President Ronald Reagan
 in these words: "You and I have a rendezvous with destiny. We will preserve for our children this, the last best hope of man on earth, or we will sentence them to
 take the first step into a thousand years of darkness. If we fail, at least let our children and our children's children say of us we justified our brief moment
@@ -293,8 +291,8 @@ REFERENCES
 3.	DiCanzio, Albert G., Organizational Dynamics and Decision Strategy in the Controversy about Galileo Galilei (UMI Proquest, Diss., 2008)
 4.	DiLorenzo, Thomas J. How Capitalism Saved America (NY, Three Rivers Press, 2004)
 5.	Freeman, Rad. Saving Our Country: by Implementing the American Revolution in Full, forthcoming.
-6.	Paine, Thomas, Common Sense (in [9] orig. pub. 1776) vol. ii
+6.	Paine, Thomas, Common Sense (in (9) orig. pub. 1776) vol. ii
 7.	Paine, Thomas, Rights of Man, (in [9], orig. pub. 1791-2), vol. vi-vii
 8.	Tesla, Nikola. The Problem of Increasing Human Energy (Whitefish, MN: Kessinger, 1900)
 9.	Van der Weyde, William M., ed. The Life and Works of Thomas Paine (New Rochelle, NY: Thomas Paine National Historical Assn, 1925)
-10.	Paine, Thomas, Agrarian Justice (in [9] 1797, orig. pub. 1776) vol. x.
+10.	Paine, Thomas, Agrarian Justice (in (9) 1797, orig. pub. 1776) vol. x.
