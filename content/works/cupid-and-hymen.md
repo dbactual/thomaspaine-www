@@ -14,10 +14,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > public.
 
 
-   This essay was probably written by Philip Freneau, but again Francis Hopkinson also tests well against Paine. 
+   This essay was probably written by Philip Freneau, but again Francis Hopkinson also tests well against Paine.
    Freneau and/or Hopkinson beat Paine in every test, so Paine may have edited it, but he is not the author.
-   
-   (IMAGE: Cupid and Hymen A.png)  (IMAGE: Cupid and Hymen B.png)  (IMAGE: Cupid and Hymen C.png)
+
+
+<center><img src="/images/cupid-and-hymen-a.png"></center>
+<center><img src="/images/cupid-and-hymen-b.png"></center>
+<center><img src="/images/cupid-and-hymen-c.png"></center>
 
    Cupid and Hymen
 

@@ -5,7 +5,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
 
 
-   Foner says this essay shows Paine’s interest in India, ‘together with ‘A Serious Thought’”. But Paine did not
+   Foner says this essay shows Paine's interest in India, "together with 'A Serious Thought'". But Paine did not
    write A Serious Thought either. This is a personal study of the tragedy of Clive, Paine uses Clive as an object
    of ridicule of British colonialism, but the politics is not brought up in this essay. Very unlike Paine.
 
