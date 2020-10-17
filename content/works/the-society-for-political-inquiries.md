@@ -1,18 +1,20 @@
 PubDate: 1787-02-01
-Slug: essays/other/the-society-for-political-inquiries
+Slug: questionable-authorship/the-society-for-political-inquiries
 Title: The Society for Political Inquiries
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-  
-   Foner claims Paine wrote this, but there is no evidence, and it doesn’t test that way at all. The two components are 
-   the Preamble, that appears to be written by Rush, and the Regulations. The Society was a collection of mostly conservative 
-   people with the common interest of preparing for the Constitutional Convention and insuring their interests. Franklin 
+
+   Foner claims Paine wrote this, but there is no evidence, and it doesn’t test that way at all. The two components are
+   the Preamble, that appears to be written by Rush, and the Regulations. The Society was a collection of mostly conservative
+   people with the common interest of preparing for the Constitutional Convention and insuring their interests. Franklin
    was the figurehead to give it legitimacy. Rush is the writer of the Preamble.
-   
-   (IMAGE: Soc for Poli Inquiries C.png)  (IMAGE: Soc for Poli Inquiries M.png)
+
+<center><img src="/images/the-society-for-political-inquiries-c.png"></center>
+<center><img src="/images/the-society-for-political-inquiries-m.png"></center>
+
 
    The Society for Political Inquiries
-   
+
    THE moral character and happiness of mankind are so interwoven with the
    operations of government, and the progress of the arts and sciences is so
    dependent on the nature of our political institutions that it is essential

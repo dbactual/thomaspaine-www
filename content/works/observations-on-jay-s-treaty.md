@@ -1,17 +1,18 @@
 PubDate: 1795-07-02
-Slug: essays/american-politics-&-government/observations-on-jay-s-treaty
+Slug: questionable-authorship/observations-on-jay-s-treaty
 Title: Observations on Jay's Treaty
 Date: Mon Aug  4 09:08:52 EDT 2014
 
-   Somehow the author knew the contents of Jay's Treaty months before its release. Paine was just out of prison and ill. 
-   The two people in the American government close to Paine may have had access to that information, Barlow and Monroe, 
+   Somehow the author knew the contents of Jay's Treaty months before its release. Paine was just out of prison and ill.
+   The two people in the American government close to Paine may have had access to that information, Barlow and Monroe,
    may have supplied him with it, but testing shows Paine was not the author. Perhaps Barlow or Monroe:
-   
-   (IMAGE:Observations Jays Treaty R.png)  (IMAGE:Observations Jays Treaty H.png)  (IMAGE:Observations Jays Treaty PBarlow.png) 
-   
-   (IMAGE:Observations Jays Treaty PMonroe.png)
-   
-  
+
+
+<center><img src="/images/observations-on-jay-s-treaty-r.png"></center>
+<center><img src="/images/observations-on-jay-s-treaty-h.png"></center>
+<center><img src="/images/observations-on-jay-s-treaty-barlow.png"></center>
+<center><img src="/images/observations-on-jay-s-treaty-mon.png"></center>
+
    Observations on Jay's Treaty
 
    The United States of America are negotiating with Spain respecting the
@@ -92,6 +93,6 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    AN AMERICAN.
 
-  
+
 
 

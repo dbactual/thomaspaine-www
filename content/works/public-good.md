@@ -4,9 +4,9 @@ Title: Public Good
 Date: Mon Aug  4 09:08:52 EDT 2014
 
    PUBLIC GOOD
-   
+
    from the original pamphlet at the University of Pittsburgh digital collection.
-   
+
    PREFACE
 
    THE following pages are on a subject hitherto little understood but highly
@@ -81,7 +81,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    price. It is not a plant of almost universal growth, like wheat. There are
    but few soils and climes that produce it to advantage, and before the
    cultivation of it in Virginia and Maryland, the price was from four to
-   sixteen shillings sterling a pound in England.(1) 
+   sixteen shillings sterling a pound in England.(1)
 
    But the condition of the vacant western territory of America makes a very
    different case to that of the circumstances of trade in any of the states.
@@ -121,7 +121,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    A right, to be truly so, must be right within itself; yet many things have
    obtained the name of rights, which are originally founded in wrong. Of
-   this kind are all rights by meer conquest, power or violence. In the cool moments 
+   this kind are all rights by meer conquest, power or violence. In the cool moments
    of reflection we are obliged to allow, that the mode by
    which such a right is obtained, is not the best suited to that spirit of
    universal justice which ought to preside equally over all mankind. There
@@ -141,7 +141,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    been a name comprehensive of all the English settlements or colonies on
    the continent, and not descriptive of any one as distinguished from the
    rest. All to the southward of the Chesapeak, as low as the Gulf of
-   Mexico, was called South-Virginia, and all to the northward, North-Virginia, 
+   Mexico, was called South-Virginia, and all to the northward, North-Virginia,
    in a similar line of distinction, as we now call the whole
    continent North and South-America. (2)
 
@@ -224,8 +224,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Whether this patent or charter was in existence or not at the time the
    Revolution commenced, is a matter I shall hereafter speak to, and confine
    myself in this place to the limits which the said patent or charter lays
-   down. 
-   
+   down.
+
    The words are as follow:
 
    "Beginning at the cape or point of land called cape or point Comfort,
@@ -279,8 +279,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    said south sea. The figure which these lines produce will be thus:
 
 
+<center><img src="/images/public-good-map-1.png"></center>
 
-   (IMAGE: Public Good map 1.png)
 
    But why, I ask, must the west land line be set off from the south point,
    any more than the north point? The grant or patent does not say from which
@@ -322,15 +322,15 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    as to extent of soil and sovereignty, is a construction that cannot be
    supported.
 
-   The figure produced by following the order of the lines is as under. 
-   
+   The figure produced by following the order of the lines is as under.
+
    N. B. If the reader will cast his eye again over the words of the patent on
    page 10 he will perceive the numerical relation alluded to, by observing,
    that the first mentioned coast line and the first mentioned land line are
    distinguished by CAPITALS. And the last mentioned of each by *italics*,
    which I have chosen to do to illustrate the explanation.
 
-   (IMAGE: Public Good map 2.png)
+<center><img src="/images/public-good-map-2.png"></center>
 
    I presume that if four hundred miles be traced by following the inflexes of any
    sea shore, that the two extremes will not be more than three hudred miles distant
@@ -479,8 +479,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    the country of the Monakins, and from thence they were to proceed,
    *carrying their barge beyond the falls to convey them to the south sea*;
    being ordered not to return without a lump of gold, or a certainty of the
-   said sea." 
-   
+   said sea."
+
    And Hutchinson, in his history of New England, which was called
    North-Virginia at the time this patent was obtained, says "the geography
    of this part of America was less understood than at present. A line to the
@@ -522,8 +522,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    proprietors, by virtue of the charter of 1609, chose Lord Delaware for
    their governor, and Sir Thomas Gates, Sir George Summers, and captain
    Newport (the person who was to go with a boat to the South sea), joint
-   deputy governors. 
-   
+   deputy governors.
+
    Was this the form of government either as to soil or
    constitution at the time the present revolution commenced? if not, the
    charter was not in *being*; for it matters not to us how it came to be *out
@@ -536,13 +536,13 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    disposed of is another question. We are not defending the right of the
    London company deceased 150 years ago, but taking up the matter at the
    place where we found it, and so far as the authority of the Crown of
-   England was exercised when the revolution commenced. 
-   
+   England was exercised when the revolution commenced.
+
    The charter was a
    contract between the Crown of England and those adventurers for their own
    emolument, and not between the Crown and the people of Virginia; and
    whatever was the occasion of the contract becoming void, or surrendered
-   up, or superceded, makes no part of the question now. It is sufficient that 
+   up, or superceded, makes no part of the question now. It is sufficient that
    when the United States succeeded to sovereignty they
    found no such contract in existence or even in litigation. They found
    Virginia under the authority of the Crown of England, both as to soil and
@@ -571,7 +571,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    years, the second to be vacated by the third in the space of three years;
    and why the third should not be vacated by the fourth form of government,
    issuing from the same power with the former two, and which took place
-   about 25 years after, and continued in being for 150 years since, and under 
+   about 25 years after, and continued in being for 150 years since, and under
    which all her public and private business was
    transacted, her purchases made, her warrants for survey and patents for
    land obtained, is too mysterious to account for.
@@ -627,8 +627,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    Martin, who was named to be of the council. This man raised so many
    differences among them, that new distractions followed, which the Indians
    observing, took heart and once more fell upon the settlers on the
-   borders, destroying, without pitying either age, sex, or condition. 
-   
+   borders, destroying, without pitying either age, sex, or condition.
+
    "These and other calamities, being chiefly imputed to the mismanagement of the
    proprietors, whose losses had so discouraged most of their best members,
    that they sold their shares, and Charles the first on his accession to the
@@ -800,7 +800,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    following are extracts:
 
    "On the evening of the day Your lordship's letter to the governor was
-   delivered to me, and as it contains matters of great variety and importance, 
+   delivered to me, and as it contains matters of great variety and importance,
    it was read in council, and, together with the several papers inclosed, it
    hath been maturely considered, and I now trouble your lordship with theirs
    as well as my own opinion upon the subject of them.
@@ -848,7 +848,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    Having thus gone thro' the several charters, or grants, and their
    relation to each other, and shewn that Virginia cannot stand in succession
-   to a private Grant, which has been extinct for upwards of 150 years; and that 
+   to a private Grant, which has been extinct for upwards of 150 years; and that
    the western limits of Virginia, at the commencement
    of the revolution, were at the heads of the rivers emptying themselves
    into the Atlantic, none of which are beyond the Allegheny Mountains; I now
@@ -873,7 +873,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    a British province, was to be extended to the south sea, at the distance
    of three thousand miles. The dominion, as appertaining at that time to the
    crown, might be claimed to extend so far, but as a province the thought
-   was not conceivable, nor the practice possible. And it is more than probable, 
+   was not conceivable, nor the practice possible. And it is more than probable,
    that the deception made use of to obtain the
    patent of 1609, by representing the south sea to be near where the
    Allegheny Mountains are, was one cause of its becoming extinct; and it is
@@ -905,7 +905,7 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    claims) will be four hundred miles; her side to the south three thousand;
    her side to the west four thousand; and her north west line about five
    thousand; and the quantity of land contained within these dimensions will
-   be almost 4,000,000,000, that is, four thousand million of acres, which 
+   be almost 4,000,000,000, that is, four thousand million of acres, which
    is more than ten times
    the quantity contained within the present United States, and above an
    hundred times greater than the kingdom of England.
@@ -947,8 +947,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    sanction of right, however unreasonable that supposed right may be, I
    found it most conducive to the interest of the case, to shew, that the right
    stands upon no better grounds than the reason. And shall therefore proceed
-   to make some observations on 
-   
+   to make some observations on
+
    The consequences of the claim.
 
    The claim being unreasonable in itself and standing on no ground of
@@ -1063,8 +1063,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 
    I have now gone thro' my examination of the claim of Virginia, in every
    case which I proposed; and for several reasons, wish the lot had fallen to
-   another person. 
-   
+   another person.
+
    But as this is a most important matter, in which all are
    interested, and the substantial good of Virginia not injured but promoted,
    and as few men have leisure, and still fewer have inclination, to go into
@@ -1137,8 +1137,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    fugitive support to wandering individuals.
 
    I shall now inquire into the effects which the laying out of a new State,
-   under the authority of the United States, will have upon Virginia. 
-   
+   under the authority of the United States, will have upon Virginia.
+
    It is the very circumstance she ought to and must wish for when she examines
    the matter thro' all its cases and consequences.
 
@@ -1146,8 +1146,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    them remaining in herself, they will appear to her as revolters, and she
    to them as oppressors; and this will produce such a spirit of mutual
    dislike that in a little time a total disagreement will take place, to
-   the disadvantage of both. 
-   
+   the disadvantage of both.
+
    But under the authority of the United States the
    matter is manageable, and Virginia will be eased of a disagreeable
    consequence.
@@ -1265,11 +1265,11 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    sufficiently defined, and appear to be too much in some cases and too
    little in others; and therefore, to have them marked out legally will give
    additional energy to the whole, and a new confidence to the several parts.
-   
+
    Footnotes:
-   
+
    1. See sir Dalby Thomas's historical account of the rise and growth of the West-India colonies.
-   
+
    2. Oldmixon's history of Virginia.
 
 

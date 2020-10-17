@@ -12,12 +12,12 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > posted here until it is decided how they will be released to the
 > public.
 
-   Frank Smith points out this essay was a chapter in a book in French written by a woman in France. Testing confirms this 
-   is not Paine, and Foner even indicates that in his introduction to it. But by August, 1775 Paine however had no influence 
+   Frank Smith points out this essay was a chapter in a book in French written by a woman in France. Testing confirms this
+   is not Paine, and Foner even indicates that in his introduction to it. But by August, 1775 Paine however had no influence
    in the *Pennsylvania Magazine* where it was published.
-   
-   (IMAGE: An Occassional Letter on Female Sex B.png)  (IMAGE: An Occassional Letter on Female Sex X.png)
 
+<center><img src="/images/an-occasional-letter-on-the-female-sex-b.png"></center>
+<center><img src="/images/an-occasional-letter-on-the-female-sex-x.png"></center>
 
    AN OCCASIONAL LETTER ON THE FEMALE SEX
 

@@ -1,15 +1,17 @@
 PubDate: 1793-07-01
-Slug: essays/french-revolution/citizen-of-america-to-citizens-of-europe
+Slug: questionable-authorship/citizen-of-america-to-citizens-of-europe
 Title: Citizen of America to Citizens of Europe
 Date: Mon Aug  4 09:08:51 EDT 2014
 
-   The document in French Archives (Etats-Unis, vol. 38, Part II, July, 1793 – October) is dated “Philadelphia, July 28, 1793; 
-   18th year of Independence”. Paine’s name is penciled on the document. So context is in question, as Paine was in Paris at 
-   the time of writing. Paine may have received it from America, and it may have eventually been given to the government 
-   for printing (which would account for his name penciled on it). It does not test well for Paine at all, we would guess 
+   The document in French Archives (Etats-Unis, vol. 38, Part II, July, 1793 – October) is dated “Philadelphia, July 28, 1793;
+   18th year of Independence”. Paine’s name is penciled on the document. So context is in question, as Paine was in Paris at
+   the time of writing. Paine may have received it from America, and it may have eventually been given to the government
+   for printing (which would account for his name penciled on it). It does not test well for Paine at all, we would guess
    that it is Monroe:
-   
-   (IMAGE: Citizen of America H.png) (IMAGE: Citizen of America I.png)  (IMAGE: Citizen of America O.png)
+
+<center><img src="/images/citizen-of-america-to-citizens-of-europe-h.png"></center>
+<center><img src="/images/citizen-of-america-to-citizens-of-europe-i.png"></center>
+<center><img src="/images/citizen-of-america-to-citizens-of-europe-o.png"></center>
 
    A CITIZEN OF AMERICA TO THE CITIZENS OF EUROPE
 

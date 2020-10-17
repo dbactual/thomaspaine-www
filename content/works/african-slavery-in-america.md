@@ -4,40 +4,43 @@ Title: African Slavery in America
 Date: Mon Aug  4 09:08:50 EDT 2014
 
    AFRICAN SLAVERY IN AMERICA
-   
-   Published in the *Pennsylvania Journal* on March 8, 1775, this essay was put into the Paine corpus by Moncure Conway in 
-   1894. Other than Paine's opposition to slavery, there is no basis to consider this Paine's work other than Benjamin Rush's 
-   confused letter in 1809 referring to an anti-slavery article by Paine. There are several errors in Rush's letter due to the 
-   30 year lapse, and his embellishments to actual historic fact put the letter into question on accuracy. 
-   
-   The content of the essay does not hold up: the author uses 
-   religious references to oppose slavery, with many christian references (Paine opposed slavery on the basis of natural law). 
-   The note sent with the article to the printer is signed "A. B.", which could refer to either Anthony Benezet or Francis 
-   Hopkinson (who used that signature in that period). However testing shows that another abolitionist of the time, and a 
-   friend to Benezet, Samuel Hopkins, was the author. He was a Christian preacher in Rhode Island, and must have sent the 
-   essay to Benezet to have him insert it in a Philadelphia paper, thus the note by Benezet asking the printer to publish it. 
+
+   Published in the *Pennsylvania Journal* on March 8, 1775, this essay was put into the Paine corpus by Moncure Conway in
+   1894. Other than Paine's opposition to slavery, there is no basis to consider this Paine's work other than Benjamin Rush's
+   confused letter in 1809 referring to an anti-slavery article by Paine. There are several errors in Rush's letter due to the
+   30 year lapse, and his embellishments to actual historic fact put the letter into question on accuracy.
+
+   The content of the essay does not hold up: the author uses
+   religious references to oppose slavery, with many christian references (Paine opposed slavery on the basis of natural law).
+   The note sent with the article to the printer is signed "A. B.", which could refer to either Anthony Benezet or Francis
+   Hopkinson (who used that signature in that period). However testing shows that another abolitionist of the time, and a
+   friend to Benezet, Samuel Hopkins, was the author. He was a Christian preacher in Rhode Island, and must have sent the
+   essay to Benezet to have him insert it in a Philadelphia paper, thus the note by Benezet asking the printer to publish it.
    As well, compared with other abolitionist tracts by Hopkins, the same religious basis, arguments, and phrases appear in both.
-   
-   Here is the testing summary: The first several tests produced different author possibilities; this happens when the actual 
-   author is not present in the groups selected. So we searched for others, and Hopkins was the decisive winner in every test 
-   made with him included. (Note: a consistent 40% by one author against many groups is sufficient indication that that author 
+
+   Here is the testing summary: The first several tests produced different author possibilities; this happens when the actual
+   author is not present in the groups selected. So we searched for others, and Hopkins was the decisive winner in every test
+   made with him included. (Note: a consistent 40% by one author against many groups is sufficient indication that that author
    is the most probable.)
-   
+
    Tests without Hopkins:
-   
-   (IMAGE: AFRICAN SLAVERY A. png)  (IMAGE: AFRICAN SLAVERY H. png)   (IMAGE: AFRICAN SLAVERY J. png)
-   
+
+<center><img src="/images/african-slavery-in-america-a.png"></center>
+<center><img src="/images/african-slavery-in-america-h.png"></center>
+<center><img src="/images/african-slavery-in-america-j.png"></center>
+
    Groups of authors without Hopkins result in different authors winning (above); however with Hopkins, the result is always the same:
-   
+
    Tests with Hopkins:
-   
-   (IMAGE: AFRICAN SLAVERY B. png)   (IMAGE: AFRICAN SLAVERY C. png)   (IMAGE: AFRICAN SLAVERY G. png)  
-   
-   (IMAGE: AFRICAN SLAVERY X. png)
-   
+
+<center><img src="/images/african-slavery-in-america-b.png"></center>
+<center><img src="/images/african-slavery-in-america-c.png"></center>
+<center><img src="/images/african-slavery-in-america-g.png"></center>
+<center><img src="/images/african-slavery-in-america-x.png"></center>
+
    and Hopkins always beats the winners of the not-Hopkins groupings decisively.
 
-   We include the text for your convenience. 
+   We include the text for your convenience.
 
    AFRICAN SLAVERY IN AMERICA
 
