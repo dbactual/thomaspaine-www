@@ -3,7 +3,7 @@ Slug: letters/other/to-james-hutchinson-march-11th-1781
 Title: To James Hutchinson  March 11th, 1781
 Date: Mon Aug  4 09:08:55 EDT 2014
 
-   
+
    L'Orient, March 11th, 1781.
 
    My Dear Hutchinson
@@ -180,9 +180,10 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    P. S. Please to call at my Lodging and let them know I am well. A large
    ship the Marquis de la Fayette with Cloathing Arms Ammunition, will sail
    from here in a few days.
-   
+
    Track of the Alliance Frigate from Boston Feb. 11 to L Orient March 9th, 1781.
-   
-   (IMAGE: map attached.png)
+
+<center><img src="/images/to-james-hutchinson-march-11th-1781-map.png"></center>
+
 
 
