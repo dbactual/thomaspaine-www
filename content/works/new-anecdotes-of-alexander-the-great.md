@@ -1,5 +1,5 @@
 PubDate: 1775-02-01
-Slug: essays/other/new-anecdotes-of-alexander-the-great
+Slug: questionable-authorship/new-anecdotes-of-alexander-the-great
 Title: New Anecdotes of Alexander the Great
 Date: Mon Aug  4 09:08:52 EDT 2014
 
