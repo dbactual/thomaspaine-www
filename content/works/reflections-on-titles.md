@@ -14,13 +14,16 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 > public.
 
 
-   Paine does not test well at all, Jefferson is the leading candidate, but he does not reach 40% on most 
+   Paine does not test well at all, Jefferson is the leading candidate, but he does not reach 40% on most
    tests with several others. We may not have the author on file:
-   
-   (Image: Refections on Titles G.png)  (Image: Refections on Titles H.png)  (Image: Refections on Titles J.png)
+
+
+<center><img src="/images/reflections-on-titles-g.png"></center>
+<center><img src="/images/reflections-on-titles-h.png"></center>
+<center><img src="/images/reflections-on-titles-j.png"></center>
 
    Reflections on Titles
-   
+
    Ask me what's honor? I'll the truth impart:
 
    Know, honor then, is Honesty of Heart.         WHITEHEAD.
