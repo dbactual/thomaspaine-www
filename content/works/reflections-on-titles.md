@@ -18,9 +18,9 @@ Date: Mon Aug  4 09:08:52 EDT 2014
    tests with several others. We may not have the author on file:
 
 
+<center><img src="/images/reflections-on-titles-b.png"></center>
 <center><img src="/images/reflections-on-titles-g.png"></center>
 <center><img src="/images/reflections-on-titles-h.png"></center>
-<center><img src="/images/reflections-on-titles-j.png"></center>
 
    Reflections on Titles
 
