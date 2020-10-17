@@ -1,5 +1,5 @@
 PubDate: 1795-07-02
-Slug: essays/american-politics-&-government/observations-on-jay-s-treaty
+Slug: questionable-authorship/observations-on-jay-s-treaty
 Title: Observations on Jay's Treaty
 Date: Mon Aug  4 09:08:52 EDT 2014
 
