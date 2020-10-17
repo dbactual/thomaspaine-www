@@ -1,5 +1,5 @@
 PubDate: 1804-01-01
-Slug: questionable-authorship/prospect-papers
+Slug: essays/religion/prospect-papers
 Title: Prospect Papers
 Date: Mon Aug  4 09:08:52 EDT 2014
 
