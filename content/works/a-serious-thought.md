@@ -14,10 +14,14 @@ Date: Tue Jan  16 09:08:51 EDT 2018
 > public.
 
 "A Serious Thought" was not written by Paine. As well as the testing,
-there is internal evidence that he was not the author, such as the absence of Paine's use of natural law to 
+there is internal evidence that he was not the author, such as the absence of Paine's use of natural law to
 argue in opposition to slavery, and the particular use of religious references. However the sentiments mirror Paine's world view, which is why it was included in previous collections. However advanced author attribution software shows Paine is not the author:
 
-(Image: A Serious Thought C.png)   (Image: A Serious Thought F.png)  (Image: A Serious Thought G.png) (Image: A Serious Thought N.png)
+
+<center><img src="/images/a-serious-thought-c.png"></center>
+<center><img src="/images/a-serious-thought-f.png"></center>
+<center><img src="/images/a-serious-thought-g.png"></center>
+<center><img src="/images/a-serious-thought-n.png"></center>
 
 The text is provided for your convenience.
 
