@@ -12,20 +12,23 @@ Date: Mon Aug  4 09:08:53 EDT 2014
 > posted here until it is decided how they will be released to the
 > public.
 
-   (Image: The Dream Interpreted A.png)  (Image: The Dream Interpreted B.png)  (Image: The Dream Interpreted PHop.png)
 
-   The context of “The Dream Interpreted” should have also raised some questions regarding Paine’s authorship. 
-   The fact that it took place in Bucks County (signed “Bucks County”), which is across the river from Bordentown 
-   in Pennsylvania, though not definitive, would not fit in with Paine’s movements in the first five months in America.  
-   The reference to a “fatiguing journey from Virginia” in the first sentence of the article should also have raised questions, 
-   since there is no indication that Paine could have made time to venture such a trip. Bucks County would be the last leg 
-   of a trip from Virginia to Bordentown. It would not be part of an itinerary from Virginia to Philadelphia where Paine 
+<center><img src="/images/the-dream-interpreted-a.png"></center>
+<center><img src="/images/the-dream-interpreted-b.png"></center>
+<center><img src="/images/the-dream-interpreted-phop.png"></center>
+
+   The context of “The Dream Interpreted” should have also raised some questions regarding Paine’s authorship.
+   The fact that it took place in Bucks County (signed “Bucks County”), which is across the river from Bordentown
+   in Pennsylvania, though not definitive, would not fit in with Paine’s movements in the first five months in America.
+   The reference to a “fatiguing journey from Virginia” in the first sentence of the article should also have raised questions,
+   since there is no indication that Paine could have made time to venture such a trip. Bucks County would be the last leg
+   of a trip from Virginia to Bordentown. It would not be part of an itinerary from Virginia to Philadelphia where Paine
    resided at that time. Paine’s physical involvement in Bordentown did not begin until 1778.
-	Hopkinson also used the device of dreams in other Pennsylvania Magazine articles, such as “The Revery” and 
-   “The Extraordinary Dream”. Hopkinson’s more classical style fits this employment of dreams, as does his sweeping 
-   grandiose metaphors. In this period of his life, Hopkinson had set aside his musical compositions to focus on 
+    Hopkinson also used the device of dreams in other Pennsylvania Magazine articles, such as “The Revery” and
+   “The Extraordinary Dream”. Hopkinson’s more classical style fits this employment of dreams, as does his sweeping
+   grandiose metaphors. In this period of his life, Hopkinson had set aside his musical compositions to focus on
    experimental writing styles, hence his frequent contributions to the Pennsylvania Magazine.
-   
+
    THE DREAM INTERPRETED
 
    PARCHED with thirst and wearied with a fatiguing journey to Virginia, I
