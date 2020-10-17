@@ -1,14 +1,15 @@
 PubDate: 1780-02-14
-Slug: essays/other/the-american-philosophical-society
+Slug: questionable-authorship/the-american-philosophical-society
 Title: The American Philosophical Society
 Date: Mon Aug  4 09:08:53 EDT 2014
 
-   Analysis: Paine signed it as Clerk, but was not the author. He shows no presence at all. When printed in London 
-   they attributed it to Paine because his name was on it. Adams (John) is the leading candidate, but that makes 
-   little sense in context. 
-   
-   (IMAGE: Amer Philo Act B.png)   (IMAGE: Amer Philo Act H.png)
-   
+   Analysis: Paine signed it as Clerk, but was not the author. He shows no presence at all. When printed in London
+   they attributed it to Paine because his name was on it. Adams (John) is the leading candidate, but that makes
+   little sense in context.
+
+<center><img src="/images/the-american-philosophical-society-b.png"></center>
+<center><img src="/images/the-american-philosophical-society-h.png"></center>
+
    AN ACT FOR INCORPORATING THE AMERICAN PHILOSOPHICAL SOCIETY,
 
    HELD AT PHILADELPHIA FOR PROMOTING USEFUL KNOWLEDGE
