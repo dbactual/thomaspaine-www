@@ -4,7 +4,7 @@ Title: To Thomas Jefferson  April 20, 1805 No. 1
 Date: Mon Aug  4 09:08:56 EDT 2014
 
    From the original letter at the Library of Congress.
-   
+
    No. 1
 
    Dear Sir
@@ -12,7 +12,7 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    I will first give you an account of my own operations and then pass on to
    such other matters as may occur.
 
-   I am settled down on my farm at New Rochelle 20 miles from N 
+   I am settled down on my farm at New Rochelle 20 miles from N
    York. It is a pleasant and healthy situation commanding a prospect always
    green and agreeable as New Rochelle produces a great deal of grass and
    hay. The farm contains three hundred acres, about one hundred of which is
@@ -45,12 +45,12 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    an ornament without and commodious within, and support itself better than
    a straight raftered roof. This is my opinion but experience must decide.
 
-   (To Jefferson April 20 1805 no 1 diagram 1.png)
+   <center><img src="/images/to-thomas-jefferson-april-20-1805-diagram-1.png"></center>
 
    This figure shows the different capacities
    between an arched roof and a straight raftered roof. &mdash; If the perpendicular
    to *a* represents a man's height, he cannot stand up right under a straight
-   roof but between the lines *b* and *b*. In the arched roof all the way from *a* 
+   roof but between the lines *b* and *b*. In the arched roof all the way from *a*
    to *a*. The diagonal line *c* represents a ray of the sun striking at right
    angles on a straight raftered roof. The heat of it must either be
    reflected back on the ray or pass through the roof. The arched roof will,
@@ -66,8 +66,8 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    represents a narrow board cut in the direction of the radius. The piece
    cut off serves as a pattern for cutting all the pieces which when put
    together form a polygon the corner of which may be sawed or chiseled off.
-   
-   (To Jefferson April 20 1805 no 1 diagram 2.png)
+
+   <center><img src="/images/to-thomas-jefferson-april-20-1805-diagram-2.png"></center>
 
    The other method of making arched rafters is to bend a board flatways to
    the curve that is wanted then bend another board over it and nail them
@@ -77,8 +77,8 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    expeditious. I shall roof my kitchen in this method and the new part by
    the same method.
 
-   (To Jefferson April 20 1805 no 1 diagram 3.png)
-   
-   This is one of the methods of making oak floors in frames. It is firm and of a 
+   <center><img src="/images/to-thomas-jefferson-april-20-1805-diagram-3.png"></center>
+
+   This is one of the methods of making oak floors in frames. It is firm and of a
    handsome appearance.
 
