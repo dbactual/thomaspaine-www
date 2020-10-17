@@ -12,16 +12,19 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > posted here until it is decided how they will be released to the
 > public.
 
-   Although he was the clerk of the Assembly at that time, he arrived on the day it was enacted. Conway included it 
-   in his Writings of Thomas Paine, Vol II, but says the act language starting in part III was written by George Bryan, 
-   and Conway included it because he claims Paine wrote a similar essay "African Slavery in America". But Paine didn't 
-   write that. The writing is similar to Anthony Benezet, and he would be the man in Philadelphia at that time to consult 
-   about such an act, as he was the leading anti-slavery author of the time. 
-   
-   (IMAGE: Emancipation of Slaves X.png)  (IMAGE: Emancipation of Slaves E.png)  (IMAGE: Emancipation of Slaves B.png)
+   Although he was the clerk of the Assembly at that time, he arrived on the day it was enacted. Conway included it
+   in his Writings of Thomas Paine, Vol II, but says the act language starting in part III was written by George Bryan,
+   and Conway included it because he claims Paine wrote a similar essay "African Slavery in America". But Paine didn't
+   write that. The writing is similar to Anthony Benezet, and he would be the man in Philadelphia at that time to consult
+   about such an act, as he was the leading anti-slavery author of the time.
+
+
+<center><img src="/images/emancipation-of-slaves-x.png"></center>
+<center><img src="/images/emancipation-of-slaves-e.png"></center>
+<center><img src="/images/emancipation-of-slaves-b.png"></center>
 
    Emancipation of Slaves Act Preamble
-  
+
    WHEN we contemplate our abhorrence of that condition, to which the arms
    and tyranny of Great Britain were exerted to reduce us, when we look back
    on the variety of dangers to which we have been exposed, and how
