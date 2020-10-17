@@ -69,7 +69,8 @@ should be turned up, and the middle part be fluted cross. By this means
 the explosion cannot well escape sideways and the fluting will be
 preferable to a plain surface.
 
-(Image:ON THE MEANS OF GENERATING MOTION FOR MECHANICAL USES.png)
+<center><img src="/images/on-the-means-of-generating-motion-for-mechanical-uses-diagram.png"></center>
+
 
 That the power of any given quantity of gunpowder can be detailed out by
 this means to act through any given quantity of time, and that a wheel can
