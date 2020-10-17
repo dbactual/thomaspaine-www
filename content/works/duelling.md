@@ -13,13 +13,13 @@ Date: Mon Aug  4 09:08:51 EDT 2014
 > public.
 
 
-   Definitely not Paine in tests or sound. When taking out the quotes from others, Jefferson is the leading candidate, 
-   but it doesn’t read like him, and the tests are weak for him even though he leads. I suspect this is a British 
-   piece with the quotes from a British writer. So I tested it against English writers. The author is most probably 
-   not in the authors we have for America. However, testing against British authors, there is a strong showing for Macaulay. 
+   Definitely not Paine in tests or sound. When taking out the quotes from others, Jefferson is the leading candidate,
+   but it doesn’t read like him, and the tests are weak for him even though he leads. I suspect this is a British
+   piece with the quotes from a British writer. So I tested it against English writers. The author is most probably
+   not in the authors we have for America. However, testing against British authors, there is a strong showing for Macaulay.
    The 3 who came up strongest when tested against each other:
-   
-   (Image: Dueling.png)
+
+<center><img src="/images/duelling.png"></center>
 
 
    GOTHIC and absurd as the custom of duelling is generally allowed to be,
