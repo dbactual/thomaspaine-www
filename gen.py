@@ -48,7 +48,7 @@ def get_header(name, filelines):
         thing = [i for i in filelines if i.find(name) == 0]
         thing = thing[0].split(":")[1].strip()
     except:
-        print "Failed to get_header %s" % name
+        print("Failed to get_header %s" % name)
         raise
     assert len(thing), "Could not find %s in %r" % (name, filelines)
     return thing
@@ -89,7 +89,7 @@ def load_data():
             title_info['slug'] = slug
             title_info['href'] = '/%s.html' % slug
         except:
-            print "Failed to process file: %s" % f
+            print("Failed to process file: %s" % f)
     return works_cats, years
 
 def gen_timeline(years):
