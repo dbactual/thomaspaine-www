@@ -7,7 +7,7 @@ by Jonathan Scheick
 
 A manuscript copy of an early version of the Declaration of Independence has emerged that appears to offer
 additional insight into the creation and evolution of one of our nation's Charters of Freedom. We can refer
-to this document as the Sherman copy, since it became Roger Sher-man's copy of the status of work on the
+to this document as the Sherman copy, since it became Roger Sherman's copy of the status of work on the
 Declaration during the fourth week of June, 1776.
 
 While the discovery of this manuscript is exciting to scholars of early American history as a tangible
@@ -60,7 +60,7 @@ Massachusetts Historical Society in Boston; the other being the Jefferson rough 
 Congress collection), which demonstrates the numerous edits made by the Committee of Five.
 
 This newly discovered, partial manuscript draft, appears to have been made for Benjamin Franklin, then passed
-onto Roger Sherman, another member of the Committee of Five, to draft a Declaration. This leaves only Robert R.
+onto Roger Sherman, another member of the Committee of Five to draft a Declaration. This leaves only Robert R.
 Livingston's copy, if a separate copy was made for his review, to follow the trail of communications of the
 Committee of Five.
 
@@ -134,7 +134,7 @@ Provincial Conference President; Colonel Alexander Lowrey is in attendance and p
 occasion.<a href="#footnotes">(8)</a>
 
 Colonel Lowrey continued to have extensive involvement in the revolutionary events immediately following the
-Declaration of Independence, as a delegate at the Constitutional Convention of the state of Pennsylvania held
+Declaration of Independence, as a delegate at the Constitutional Convention of the State of Pennsylvania held
 at Philadelphia from July 15-September 28, 1776.<a href="#footnotes">(9)</a> Through this historical account we can understand how
 Colonel Alexander Lowrey had strong relationships with Benjamin Franklin and fellow Congressional leaders, and
 direct contact with the Committee of Five members in Philadelphia during June - September, 1776. Colonel Lowery's
@@ -205,6 +205,7 @@ As the writer of the inscription on the verso was also not immediately evident, 
 analysis was conducted, using the methods described in the identification of the writer of the transcription.
 Multiple handwriting features, including baseline alignment, negative space, and character formation match the
 same features identified in the transcription, concluding that writer of the inscription is also John Adams.
+
 Further examination of the penmanship showed that the characters were written in Eighteenth Century
 British-American handwriting. The style of handwritten lettering used throughout the manuscript was that of
 Snell Roundhand, developed by Charles Snell, an English writing master who wrote *The Penman's Treasury Open'd*
@@ -232,7 +233,7 @@ Sherman received the draft, signing his "R.S." initials on the verso. By Sherman
 manuscript, it allows us to understand how and why it left his possession, potentially forwarding it to fellow
 Committee of Five member Robert R. Livingston, or significant others. Analysis and confirmation of the manuscript
 initials being those of Roger Sherman was completed utilizing Sherman's "R" and "S" initials from his distinctive
-signature on the engrossed Copy of the Declaration of Independence, a period reference. Comparison via overlay
+signature on the engrossed copy of the Declaration of Independence, a period reference. Comparison via overlay
 and on a light board, demonstrate a match of approximately 90-95% (accounting for natural variation in each
 example).
 
@@ -256,12 +257,12 @@ paper appears to become accessible to printers in Philadelphia as early as 1773,
 and paper maker Nathan Sellers of nearby Willcox Mill at Ivy Mills, Chester, Pennsylvania. Sellers kept
 exquisitely detailed journals, currently located in the collection of the American Philosophical Society, in
 which he noted orders of imported "woven" wire to make wove paper moulds in 1773. Nathan Sellers was of a select
-few skilled wire mold makers, potentially the only individual, to make wove paper molds in Pennsylvania at that
+few skilled wire mould makers, potentially the only individual, to make wove paper moulds in Pennsylvania at that
 time, and became the primary mould maker for many of the colonial paper mills throughout the Revolution. Interestingly, Benjamin Franklin, member of the "Committee of Five" selected to draft the Declaration, knew of, possessed and
 used wove paper at this time, as he exhibited and introduced wove paper to France (Paris) around 1777.<a href="#footnotes">(16)</a>
-Imported paper became increasingly scarce during this time, which necessitated Colonial pa-per mills to
+Imported paper became increasingly scarce during this time, which necessitated Colonial paper mills to
 maximize production. Benjamin Franklin was largely responsible for the massive efforts in rag collection used
-in paper making in Philadelphia, and Nathan Sellers was even re-called from serving in the army to return to
+in paper making in Philadelphia, and Nathan Sellers was even recalled from serving in the army to return to
 wire mould making during the Revolution.<a href="#footnotes">(17)</a> The presence of a partial watermark exists in the upper, left
 margin (recto) of the manuscript, which, when first analyzed through light board illumination, proved difficult
 to discern. Further investigation into this watermark is warranted, and should be compared to existing examples
@@ -287,8 +288,8 @@ acknowledged how acrylate is used as a mordant in commercial printing ink, but i
 Its primary function is to decrease the viscosity of ink, thereby making it a very effective additive for printing,
 but ineffective for writing.<a href="#footnotes">(18)</a> This substance is also UV resistant, which would prevent ink from fading. The
 ink degradation and fading on this document demonstrate how the potential presence of this substance would be
-the result of ink contamination by the document's amateur storage in plexi-glass (poly methyl meth*acrylate*)
-rather than a component of the writing ink.<a href="#footnotes">(19)</a> Compositional analysis via x-ray fluorescence demonstrated a
+the result of ink contamination by the document's amateur storage in plexiglass (poly methyl meth*acrylate*)
+rather than a component of the writing ink.<a href="#footnotes">(19)</a> Compositional analysis via X-ray fluorescence demonstrated a
 significant presence of carbon, copper and calcium, consistent with eighteenth century ink. Carbon indicated
 the use of soot to color the ink, as in lamp black (carbon black) ink, while copper indicated the use of copper
 sulfate as a mordant. Calcium is indicative of calcium carbonate, the major component of egg shells, which was
@@ -339,8 +340,8 @@ from its constituents.
 
 This revision process continues through the multiple capital letters that over-script lower-case letters, as
 well as the following revision of a possessive pronoun:
-In the excerpt below, a lower case "s" is evident underneath the Over-scripted "S" in "Secure"; a lowercase "e"
-is also evident underneath the Over-Scripted "E" in "Ends"; one can also notice the word "their" resides
+In the excerpt below, a lower case "s" is evident underneath the over-scripted "S" in "Secure"; a lowercase "e"
+is also evident underneath the over-scripted "E" in "Ends"; one can also notice the word "their" resides
 underneath the over-scripted/revised "these";
 
 <center><img src="/images/sherman-copy-di-5.png"></center>
@@ -364,7 +365,7 @@ For some time, readers of the Declaration have discussed probable reasons for wh
 decided to capitalize seemingly random words throughout the text. The earlier Germanic roots of the English
 language demonstrate how capitalization of letters mid-sentence was utilized to place emphasis on significant
 words. Throughout the Declaration, especially in this manuscript, nouns, in particular, have been selected to
-emphasize words of significance, a characteristic that is quite evident in the preamble. Interestingly, this
+emphasize words of significance, a characteristic that is quite evident in the Preamble. Interestingly, this
 capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. One can only
 imagine, as the approximately 200 Dunlap broadsides made their way to their respective locations and representatives,
 including the copy Washington read to his troops on July 9 in New York City, the intention of this capitalization
