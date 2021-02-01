@@ -316,7 +316,7 @@ document. These imprinted crease lines matched perfectly with the crease and fol
 confirming that this manuscript document was stored within the folds of the auction booklet for an extensive
 period of time.
 
-<center><img src="/images/sherman-copy-di-5.png"></center>
+<center><img src="/images/sherman-copy-di-6.png"></center>
 
 *Editing and Evolution of the Text*
 
@@ -326,7 +326,7 @@ Multiple sections offer further insight into the drafting process, through edits
 Preceding the word "government" is the word "a", which was revised/omitted as this writer appears to have
 continually edited the document while producing this copy from the original.
 
-<center><img src="/images/sherman-copy-di-5.png"></center>
+<center><img src="/images/sherman-copy-di-7.png"></center>
 
 This finding appears significant, as neither the known Adams Copy nor the Jefferson Rough Draft contain the
 word "a" preceding "government" in this line of the preamble. At first glance, we may wonder why such an edit
@@ -344,22 +344,22 @@ In the excerpt below, a lower case "s" is evident underneath the over-scripted "
 is also evident underneath the over-scripted "E" in "Ends"; one can also notice the word "their" resides
 underneath the over-scripted/revised "these";
 
-<center><img src="/images/sherman-copy-di-5.png"></center>
+<center><img src="/images/sherman-copy-di-8.png"></center>
 
 In this excerpt, the word "Design" appears to have a lowercase "d" that resides under an over-scripted capital
 "D". It is also noteworthy that the word "evinces" is misspelled as "envinces", reflecting the lack of
 standardized spelling during this time period.
 
-<center><img src="/images/sherman-copy-di-5.png"></center>
+<center><img src="/images/sherman-copy-di-9.png"></center>
 
 In this excerpt, the word "Right" contains a lowercase "r" that resides under an over-scripted capital "R".
 
-<center><img src="/images/sherman-copy-di-5.png"></center>
+<center><img src="/images/sherman-copy-di-10.png"></center>
 
 In this excerpt, the word "Object" contains a lowercase "o" that has been clearly over-scripted with a capital
 "O". Note how the right side of the capital "O" overlaps the lowercase "b".
 
-<center><img src="/images/sherman-copy-di-5.png"></center>
+<center><img src="/images/sherman-copy-di-11.png"></center>
 
 For some time, readers of the Declaration have discussed probable reasons for why Committee of Five members
 decided to capitalize seemingly random words throughout the text. The earlier Germanic roots of the English
@@ -378,7 +378,7 @@ Jefferson rough draft, but present in the Adams fair draft: "To prove this, let 
 Candid World, for the Truth of which We pledge a Faith, (as) yet unsullied by Falsehood." In his rough draft's
 pre-edit state, Jefferson has already omitted the word "as".
 
-<center><img src="/images/sherman-copy-di-5.png"></center>
+<center><img src="/images/sherman-copy-di-12.png"></center>
 
 *Considering the inscription on the verso:*
 
