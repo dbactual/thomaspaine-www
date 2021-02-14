@@ -37,6 +37,7 @@ Authors: 1
 
 + ###Essays {#essays}
 
+    - [Applied Science of Thomas Paine](/aboutpaine/applied-science-of-thomas-paine.html)
     - [New Political Writings of Thomas Paine](/aboutpaine/new-political-writings-of-thomas-paine.html)
     - [Burying Thomas Paine by Gary Berton](/aboutpaine/burying-thomas-paine.html)
     - [Lewis Lapham Speech at the 2012 International Conference for Thomas Paine Studies at Iona College](/aboutpaine/lewis-lapham-speech.html)
