@@ -31,6 +31,8 @@ Frances Chiu, Connecticut, professor, New School, NYC, and Board of Anthem Press
 
 Jonathan Scheick, New Jersey, professor of Psychology, Brookdale C.C., clinician.
 
+Roderick Bradford, San Diego, CA, Editor of The Truth Seeker Magazine and documentarian.
+
 
 History
 --------
