@@ -31,6 +31,7 @@
     <a href="{{ SITEURL }}/pages/the-official-collected-works-of-thomas-paine-project.html" class="button">Collected Works Project</a>
     <a href="{{ SITEURL }}/pages/writings.html" class="button">Writings</a>
     <a href="{{ SITEURL }}/pages/timeline.html" class="button">Timeline</a>
+    <a href="{{ SITEURL }}/pages/videos.html" class="button">Videos</a>
   </header>
 
   <br/>
