@@ -15,11 +15,13 @@ Authors: 1
 + ###Recommended {#recom}
 
     - [Thomas Paine: Social and Political Thought by Gregory Claeys](http://amzn.com/0044450907) *The best book on Paine's political philosophy and its impact on history*
+    - [The Field of Imagination: Thomas Paine and Eighteenth-Century Poetry](https://www.amazon.com/s?k=Scott+Cleary&i=stripbooks&ref=nb_sb_noss)
+    - [The Routledge Guidebook to Paine's Rights of Man by Frances A. Chiu](https://www.amazon.com/s?k=Frances+Chiu&i=stripbooks&ref=nb_sb_noss_2)
     - [Thomas Paine's American Ideology by A.O. Aldridge](http://www.amazon.com/Thomas-Paines-American-Ideology-Aldridge/dp/0874132606/ref=sr_1_3?s=books&ie=UTF8&qid=1414245673&sr=1-3&keywords=Thomas+Paine%27s+AMerican+Ideology) *The first book to take Paine's political philosophy seriously - oriented to the American Revolution*
     - [The Intellectual Origins of American Radicalism by Staughton Lynd](http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=Intellectual+origins+of+American+Radicalism) *The breakthrough book on the American Revolution that puts Paine in a proper perspective - the new 2009 Introduction is flawed by the reliance on works mis-attributed to Paine*
     - [Paine and Jefferson in the Age of Revolutions by Newman and Onuf, eds.](http://www.amazon.com/Paine-Jefferson-Revolutions-Jeffersonian-America/dp/0813934761) *Essays reflecting the current state of Paine Studies*
     - [Thomas Paine by Audrey Williamson](http://www.amazon.com/Thomas-Paine-Life-Work-Times/dp/0312801858/ref=sr_1_3?s=books&ie=UTF8&qid=1414246329&sr=1-3&keywords=Thomas+Paine+Audrey+Williamson) *Great introductory biography*
-    - [Thomas Paine and the French Revolution](https://www.amazon.com/s?k=Lounissi&i=stripbooks&ref=nb_sb_noss_2) *A must read book by every Paine enthusiast - objective, ground-breaking, and thorough.*
+    - [Thomas Paine and the French Revolution by Carine Lounissi](https://www.amazon.com/s?k=Lounissi&i=stripbooks&ref=nb_sb_noss_2) *A must read book by every Paine enthusiast - objective, ground-breaking, and thorough.*
 
 + ###Bios {#bios}
 
