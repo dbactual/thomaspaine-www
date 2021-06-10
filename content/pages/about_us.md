@@ -27,7 +27,7 @@ Gary Berton, Walton, NY - Coordinator of the Institute for Thomas Paine Studies 
 
 Josh Klein, New York, NY - professor of Criminal Justice, Iona College
 
-Frances Chiu, Connecticut, professor, New School, NYC, and Board of Anthem Press Gothid Studies
+Frances Chiu, Connecticut, professor of Literature and History, New School, NYC, and Board of Anthem Press Gothic Studies
 
 Jonathan Scheick, New Jersey, professor of Psychology, Brookdale C.C., clinician.
 
