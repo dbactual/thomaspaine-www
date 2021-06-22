@@ -19,7 +19,11 @@ jobs:
         uses: webfactory/ssh-agent@v0.5.3
         with:
             ssh-private-key: ${{ secrets.DEPLOY_KEY }}
-            
+
+      - name: setup ssh host
+        run: |
+          ssh-keyscan ${{ secrets.DEPLOY_HOST }}
+
       - name: setup python
         uses: actions/setup-python@v2.2.2
 
