@@ -14,10 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: add key
-        run: echo ${DEPLOY_KEY} > ~/.ssh/id_rsa
-        
+      
+      - actions/checkout@v2
+        - uses: webfactory/ssh-agent@v0.5.3
+          with:
+            ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+            
       - name: setup python
         uses: actions/setup-python@v2.2.2
 
@@ -27,5 +29,5 @@ jobs:
           
       - name: distrib
         run: |
-          TPUSER=${DEPLOY_USER} TPHOST=${DEPLOY_HOST} python3 distrib.py
+          TPUSER=${{ secrets.DEPLOY_USER }} TPHOST=${{ secrets.DEPLOY_HOST }} python3 distrib.py
           
