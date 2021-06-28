@@ -12,11 +12,9 @@ to this document as the Sherman copy, since it was used to inform Roger Sherman 
 While the discovery of this manuscript is exciting to scholars of early American history as a tangible
 artifact used during the creation of the Declaration, its significance extends beyond as it offers clues
 to our understanding of the creation of the Declaration of Independence in June, 1776.
-It offers unique insight into the drafting process, which is evidenced by editing within the
+It offers unique insight into the drafting process, evidenced by editing within the
 manuscript via the purposeful over-scripting of lowercase characters with uppercase letters.
-Interestingly, this working Declaration manuscript also contains an inscription that potentially demonstrates Thomas Paine's direct influence and involvement in its drafting process.
-
-The notion of Thomas Paine's involvement in the drafting of the Declaration is not a newly formulated
+Interestingly, this working Declaration manuscript also contains an inscription that potentially demonstrates Thomas Paine's direct influence and involvement in its drafting process. The notion of Thomas Paine's involvement in the drafting of the Declaration is not a newly formulated
 hypothesis; rather, historians and scholars have debated the possibility of his direct involvement for the
 better portion of the last two centuries. Multiple authors have written on the subject, including Moody (1872),
 Van der Weyde (1911), Lewis (1947), and more recently, Smith & Rickards (2007).<a href="#footnotes">(1)<a>   Despite these previous
@@ -27,8 +25,8 @@ While current scholarly analysis of the works of Thomas Paine continue to establ
 the origins of the American Revolution (see Berton, Petrovic, Schiaffino & Ivanov's monumental examination of
 the Thomas Paine corpus - Iona College), Paine's unique perspective and influence were largely overshadowed in
 the two centuries after Paine's death.<a href="#footnotes">(2)</a> Thomas Edison, former Vice-President of the Thomas Paine National Historical Association, remarked in his essay entitled "The Philosophy of
-Thomas Paine", how he considered Paine our greatest political thinker, and elaborated on Paine's influence and
-close relationships with the inner circle of Congressional members who would ultimately comprise the Committee
+Thomas Paine" how he considered Paine our greatest political thinker, and elaborated on Paine's influence and
+close relationships with the inner circle of Congressional members who comprised the Committee
 to frame the Declaration:
 
 <blockquote>"Although the present generation knows little of Paine's writings, and although he has almost no influence
@@ -41,94 +39,93 @@ position of intimate contact with the nation's leaders when they framed the Cons
 
 For scholars and historians to discuss the historical significance of this
 document and its vantage point into Paine's potential role in the drafting
-the Declaration, it is imperative to demonstrate its authenticity beyond reasonable doubt, prior to amending
-the historical account of our nation'sindependence. The intention of including
-our comprehensive analysis of this Sherman copy was to provide a
+the Declaration, it was imperative to demonstrate its authenticity beyond reasonable doubt, prior to amending
+the historical account of our nation's independence. The intention of including
+our comprehensive analysis of the Sherman copy was to provide a
 foundation upon which the necessary discussion of Thomas Paine's rightful place in American history, and the evolution of the text of
 the Declaration of Independence, could proceed.
 
 The original manuscript draft of the Declaration of Independence, a draft which Julian Boyd refers to as the
 one from which Jefferson made his *rough draft*, is what scholars of the Declaration presume lost.<a href="#footnotes">(4)</a> An additional fragment of a working draft in
-Jefferson's hand that predates his rough draft, held by the Library of Congress, has survived, demonstrating
-that the Jefferson rough draft was one of several working drafts that were used during June 11 - June
+Jefferson's hand predates his rough draft, held by the Library of Congress, has survived, demonstrating
+that the Jefferson rough draft was one of several working drafts used during June 11 - June
 28, 1776. Two complete manuscript copies of the original draft of the Declaration of Independence exist:
 the known John Adams copy, a fair copy because of its neat penmanship and organization, held by the
-Massachusetts Historical Society in Boston, and the the Jefferson rough draft in the Library of
+Massachusetts Historical Society in Boston, and the Jefferson rough draft in the Library of
 Congress collection, which demonstrates the numerous edits made by the Committee of Five selected to draft the Declaration.
 
 This newly discovered, partial manuscript draft appears to have been made for Benjamin Franklin, then passed
 onto Roger Sherman, fellow member of the Committee of Five. This leaves only Robert R.
-Livingston's copy, if a separate copy was made for his review, to follow the trail of communications of the
-Committee of Five.
+Livingston's copy, if a separate copy was made for his review, to follow the trail of communications of the Committee of Five. 
 
 As the Declaration Resources Project at Harvard rightfully acknowledged through its monumental Declaration
 Database, it was essential to distinguish these three drafts, and the partial Jefferson draft at the LOC, as
 working manuscripts; different in intention and form from the later handwritten copies Jefferson sent to
-Richard H. Lee and others. These later copies reflect the revisions made throughout the manuscript drafts with edits by
+Richard H. Lee and others. These later copies reflected the revisions made throughout the manuscript drafts with edits by
 Jefferson, Adams & Franklin.
 
-This Sherman Copy of the Declaration is unique, as its inscription (verso) appears to demonstrate a position
+The Sherman Copy of the Declaration is unique, as its inscription (verso) appears to demonstrate a position
 of authority for "T.P.", as copying the "original" Declaration draft necessitated permission, or at a minimum,
 respect in such a request. It behooves scholars of early American history to address the significance of this
 note, and contemplate whether such permission would be necessitated if "T.P." did not hold
-a position of significance with the Committee drafting the Declaration.
+a position of significance with the Committee that drafted the Declaration.
 
 <center><img src="/images/sherman-copy-di-1.png"></center>
 
 "*A beginning perhaps - Original with Jefferson - Copied from Original with T.P.'s permission*". Is it possible,
-though, that the "T.P." initials reference an individual other than Thomas Paine? For this reason, under the
+though, that the "T.P." initials referenced an individual other than Thomas Paine? For this reason, under the
 direction of Professor Danielle Allen, colleagues at the Declaration Resources Project of Harvard University
 graciously conducted a comprehensive search of individuals of political influence present in Philadelphia
 during the summer of 1776, and concluded that the T.P. initials within the context of the Sherman manuscript
 appear to belong to Thomas Paine. Professor Allen and Emily
 Sneff, Associate Fellow of Harvard's Declaration Resources Project, investigated individuals affiliated with
-Jefferson, including household members, between the years of 1776-1784 before reaching this conclusion.<a href="#footnotes">(5)</a>
-While the potential for the T.P. initials to belong to an individual other than Paine should be acknowledged,
+Thomas Jefferson, including household members, between the years of 1776-1784 before reaching this conclusion.<a href="#footnotes">(5)</a>
+While the potential for the T.P. initials to reference an individual other than Paine should be acknowledged,
 the contextual understanding of who was intimately aware, and would have been privy to, the Declaration
-drafting process appears to strongly favor Thomas Paine. Professor Allen has graciously acknowledged her
+drafting process appeared to strongly favor Thomas Paine. Professor Allen graciously acknowledged her
 support of this manuscript and its significance by agreeing to include it in the register of Harvard's
 Declaration Database during its next update.
 
-This Sherman Copy manuscript is the first page of an early working draft of the Declaration of Independence,
+The Sherman Copy manuscript was the first page of an early working draft of the Declaration of Independence,
 which was discovered folded within the pages of an estate auction booklet of General Hugh Lowrey White, a
-Brigadier General in the War of 1812. The estate auction booklet and Declaration Draft manuscript were located
+Brigadier General in the War of 1812. The estate auction booklet and Declaration draft manuscript were located
 within a box of discarded papers by an amateur historian in Georgia. The manuscript was brought to the
 attention of the Thomas Paine National Historical Association (TPNHA) to better understand its historical
 context and significance. This author, Professor Gary Berton, and scholars from the TPNHA, conducted a thorough
 analysis of the manuscript to validate its authenticity and more comprehensively understand the events and
 participants surrounding the creation of the Declaration of Independence.
 
-In order to establish proper provenance, a thorough genealogy was completed, which established chain of
+In order to establish provenance, a thorough genealogy was completed, which established chain of
 possession from General Hugh Lowrey White back to Colonel Alexander Lowrey, a significant political member and
 signer of the Pennsylvania Constitution in 1776.
 
-General White was a Brigadier General during the War of 1812, who went on to establish a very profitable salt
-works in Kentucky. General White descends from Colonel Alexander Lowrey (b. 1726 - d. 1805), the prominent
+General White was a Brigadier General during the War of 1812 who went on to establish a very profitable salt
+works in Kentucky. General White descended from Colonel Alexander Lowrey (b. 1726 - d. 1805), the prominent
 Pennsylvanian (Lancaster County) delegate during the Declaration of Independence and Pennsylvania Constitution
 deliberations. Gen. Hugh Lowrey White was the son of William White and Ann Marie (Lowrey) White. His mother,
 Ann Marie, was born in Lancaster, PA in 1750, daughter of Joseph Lowrey (b.1727- d.1785); Joseph Lowrey was
 the brother of Colonel Alexander Lowrey, a well-known Trader and ardent supporter of independence, from
 Donegal, Pennsylvania.<a href="#footnotes">(6)</a>
 
-Colonel Alexander Lowrey was appointed to the Committee of Correspondence for Lancaster County in 1774, and
-appointed to the Pennsylvania Assembly in 1775 (serving until 1789). He attended the Provincial Conference of
+Colonel Alexander Lowrey was appointed to the Committee of Correspondence for Lancaster County in 1775, and
+appointed to the Pennsylvania Assembly in 1775, serving until 1789. He attended the Provincial Conference of
 Committees of the Province of Pennsylvania held at Carpenter's Hall from June 18 - June 25, 1776. Colonel
-Lowrey served as an elected delegate at the conference, alongside fellow Lancaster County delegate George Ross
-- Vice President of the Pennsylvania Constitutional Convention, and Benjamin Franklin, Pennsylvania Constitutional Convention President. On June 18, 1776, before the Convention was held, Colonel Lowrey assisted at the Provincial
+Lowrey served as an elected delegate at the conference alongside fellow Lancaster County delegate George Ross
+- Vice President of the Pennsylvania Constitutional Convention and Benjamin Franklin, Pennsylvania Constitutional Convention President. On June 18, 1776, before the Convention was held, Colonel Lowrey assisted at the Provincial
 Conference in the initial framing of the Pennsylvania Constitution, election of members for the Constitutional
 Convention, and officially signed the Pennsylvania Constitution as a Lancaster County delegate. Colonel Lowrey's
 involvement in the Provincial Conference was quite significant, as the proceedings of this conference helped
-make possible the Declaration of Independence. Colonel Lowrey later serves with distinction in multiple battles
+make possible the Declaration of Independence. Colonel Lowrey later served with distinction in multiple battles
 during the Revolution.<a href="#footnotes">(7)</a>
 
-The preceding family lineage placed Gen. Hugh Lowrey White's grand-uncle (Colonel Alexander Lowrey) in Carpenter's Hall, on June 24, 1776 (the date on the manuscript), during active discussion of the Declaration of Independence.
+The preceding family lineage placed Gen. Hugh Lowrey White's grand-uncle, Colonel Alexander Lowrey, in Carpenter's Hall, on June 24, 1776 (the date on the manuscript), during active discussion of the Declaration of Independence.
 Coincidentally, on this same day, *A Declaration of Independence of the Deputies of Pennsylvania* is read during the
 meeting of the Provincial Conference, and signed by Thomas McKean,
-Provincial Conference President; Colonel Alexander Lowrey is in attendance and present for this momentous
+Provincial Conference President; Colonel Alexander Lowrey was in attendance and present for this momentous
 occasion.<a href="#footnotes">(8)</a>
 
 Colonel Lowrey continued to have extensive involvement in the revolutionary events immediately following the
-Declaration of Independence as a delegate at the Constitutional Convention of the State of Pennsylvania held
+Declaration of Independence as a delegate at the Constitutional Convention of the Commonwealth of Pennsylvania held
 at Philadelphia from July 15-September 28, 1776.<a href="#footnotes">(9)</a> Through this historical account we can understand how
 Colonel Alexander Lowrey had strong relationships with Benjamin Franklin and fellow Congressional leaders, and
 direct contact with the Committee of Five members in Philadelphia during June - September, 1776. Colonel Lowery's
