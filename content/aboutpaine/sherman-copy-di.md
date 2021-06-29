@@ -213,121 +213,117 @@ involvement in the Declaration's initial committee deliberations, thus necessita
 manuscript. <a href="#footnotes">(14)</a> The inscription (verso), "A beginning perhaps - Original with Jefferson..." appeared to support
 the timeframe in which this would have happened, as well as the early draft state of the text.
   
-Sherman's initials on the upper right corner (verso) indicate that he received, reviewed, approved this draft,
-and signed off on it, procedurally. The date of June 24, 1776 (recto) may indicate the date on which
-Sherman received the draft. Sherman initials and approval of the
-manuscript allowed us to understand how and why it left his possession, potentially forwarding it to fellow
-Committee of Five member Robert R. Livingston, or significant others. Confirmation of the "R.S." initials on this manuscript written by Roger Sherman was completed utilizing Sherman's "R" and "S" initials from his distinctive
-signature on the engrossed copy of the Declaration of Independence, a period reference. Comparison via light board overlay, demonstrated an excellent match (approximately 95% with 5% accounting for natural variation).
+Sherman's initials on the upper right corner (verso) indicated that he received, reviewed, approved this draft,
+and signed off on it, procedurally. The date of June 24, 1776 (recto) potentially indicated the date on which
+Sherman received the draft. Sherman's initials and approval of the
+manuscript allowed us to understand how and why it left his possession, potentially forwarded to fellow
+Committee of Five member Robert R. Livingston, or significant others. Confirmation of the "R.S." initials on this manuscript written by Roger Sherman was conducted utilizing Sherman's "R" and "S" initials from the engrossed copy of the Declaration of Independence, a period reference. Comparison via light board overlay, demonstrated an excellent match (approximately 95% with 5% attributed to natural variation).
 
 When this manuscript copy of the Declaration of Independence was examined for the first time in person, it
 was evident that it was written on early, hand-made wove paper. A common presumption of scholars and historical
-document collectors notes that wove paper was only available to the Colonies after the Revolution; this
+document collectors noted that wove paper was only available to the Colonies after the Revolution; this
 misconception may have garnered acknowledgement without considering the limited references of past paper
-historians, and the current technological advances that now allow for more thorough investigation into its true
+historians, and the current technological advances that now allow for more thorough investigation into wove paper's
 origins. Online digitalization of manuscripts, books, and countless historical documents within the past five
 years alone has provided us with greater access to early examples of wove paper, and its presence in the Colonies during the American Revolution.
 
 The earliest wove paper this research team uncovered dated back to the late 1750s. Through his authoritative
 text *Papermaking: The History and Technique of an Ancient Craft*, Dard Hunter educated us on the origins of
-wove paper; he noted the first wove produced and used in England occurred by 1757, in John Baskerville's special
+wove paper; he noted the first wove produced in England occurred by 1757, used in John Baskerville's special
 edition of *Virgil* (for which wove paper moulds were made by James Whatman the Elder). Hunter reminded us,
-though, that wove paper had been made and used in the Orient for many years prior.<a href="#footnotes">(15)</a> Wove paper was eventually
+though, that wove paper had been created and used in the Orient for many years prior.<a href="#footnotes">(15)</a> Wove paper was eventually
 preferred and considered a superior paper to laid in the latter portion of the 18th century because of its
-smooth surface and increased density. However, after its use in Europe in the late 1750's, very few
-wire mould makers were skilled in creating the more complex wire moulds. In the American colonies, wove
-paper appears to become accessible to printers in Philadelphia as early as 1773, primarily through the mould
+smooth surface and increased density. However, following its use in Europe in the late 1750s, few
+wire mould makers were skilled in creating wove's more complex wire moulds. In the American colonies, wove
+paper appeared accessible to printers in Philadelphia as early as 1773, primarily through the mould
 and paper maker Nathan Sellers of nearby Willcox Mill at Ivy Mills, Chester, Pennsylvania. Sellers kept
 exquisitely detailed journals, currently located in the collection of the American Philosophical Society, in
 which he noted orders of imported "woven" wire to make wove paper moulds in 1773.<a href="#footnotes">(16)</a> Nathan Sellers was of a select
 few skilled wire mould makers to make wove paper moulds in Pennsylvania at that
 time, and became the primary mould maker for many of the colonial paper mills throughout the Revolution. Interestingly, Benjamin Franklin possessed and
-used wove paper during the Revolution, as he exhibited and introduced wove paper to France around 1777.<a href="#footnotes">(17)</a>
+used wove paper during the Revolution, and introduced wove paper to France around 1777.<a href="#footnotes">(17)</a>
   
-Imported paper became increasingly scarce during this time, which necessitated Colonial paper mills to
+Imported paper became increasingly scarce at this time, which necessitated Colonial paper mills to
 maximize production. Benjamin Franklin was largely responsible for the massive efforts in rag collection used
-in paper making in Philadelphia, and Nathan Sellers was even recalled from serving in the army to return to
-wire mould making during the Revolution.<a href="#footnotes">(18)</a> A partial watermark exists in the upper, left
+in paper making in Philadelphia, and Nathan Sellers was even recalled from serving in the Army to return to
+wire mould making during the Revolution.<a href="#footnotes">(18)</a> A partial watermark was discovered in the upper, left
 margin (recto) of the manuscript which, when first analyzed through light board illumination, proved difficult
 to discern. Further investigation into this watermark is warranted, and should be compared to existing examples
-in a comprehensive source such as Gravell's watermark collection, to determine whether the paper is of imported
-origin or created in the Colonies by an individual such as Sellers.
+in a comprehensive source such as Gravel's watermark collection, to determine whether the paper was imported or created in the colonies by an individual such as Sellers.
 
 This manuscript's paper consisted of cotton and linen bast fibers, which were period materials used to create
-rag pulp for paper in the eighteenth century. This composition confirms paper creation earlier than 1850, when
-paper manufacture transitioned from cotton and linen rag pulp to primarily wood pulp in the mid-nineteenth century. Historically, Britain restricted export of cotton and linen to the colonies, causing cotton and flax (linen)
-crops to become the predominant crops within eighteenth century Colonial America. Colonists relied heavily on
+rag pulp for paper in the eighteenth century. This composition confirmed paper creation earlier than 1850, when
+paper manufacture transitioned from cotton and linen rag pulp to primarily wood pulp in the mid-nineteenth century. Historically, Britain restricted export of cotton and flax (linen) crops to the colonies, which caused cotton and flax (linen)
+crops to become the predominant crops within eighteenth century colonial America. Colonists relied heavily on
 these important crops for rag production, which were later turned into rag pulp for paper manufacture.<a href="#footnotes">(19)</a>
 Illumination of the paper with ultraviolet light showed no fluorescence or evidence of artificial or chemical
 whitening. This is consistent with colonial-era paper making techniques, as artificial whitening commenced during
 the late eighteenth century and was a common practice in nineteenth century paper making.<a href="#footnotes">(20)</a>
 
-This Declaration manuscript's ink presented as black, fading to brown, color. Ink degradation was prevalent throughout
-the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted a
-well-respected material analysis professional at a leading research institution. Infrared spectroscopy initially
-indicated possible evidence of a modern material, specifically acrylate. However, further investigation
-acknowledged how acrylate is used as a mordant in commercial printing ink, but interestingly, not in writing ink.
-Its primary function is to decrease the viscosity of ink, thereby making it a very effective additive for printing,
-but ineffective for writing.<a href="#footnotes">21)</a> This substance is also UV resistant, which would prevent ink from fading. The
-ink degradation and fading on this document demonstrate how the potential presence of this substance would be
-the result of ink contamination by the document's amateur storage in plexiglass (poly methyl meth*acrylate*) or another source.<a href="#footnotes">(22)</a> More compositional analysis via x-ray fluorescence demonstrated the ink's composition, with significant presence of carbon, copper and calcium, elements consistent with eighteenth-century ink. Carbon indicated
-the use of soot to color the ink, as in *lamp black* (carbon black) ink, while copper indicated the use of copper
-sulfate as a mordant. Calcium is indicative of calcium carbonate, the major component of egg shells, which was
-historically utilized as a base to reduce acidity in colonial ink. Copper sulfate and soot have been primary
-ingredients of black writing ink for many centuries, while copper sulfate functioned as a mordant to bind the
+This manuscript's ink presented as black, fading to brown, color. Ink degradation was prevalent throughout
+the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted by a
+well-respected professional at a leading research institution. Infrared spectroscopy initially
+indicated possible evidence of a modern material, acrylate. However, further investigation
+acknowledged how acrylate was used as a mordant in commercial printing ink, but interestingly, not in writing ink.
+Its primary function was to decrease the viscosity of ink, making it a very effective additive for printing,
+but ineffective for writing.<a href="#footnotes">21)</a> This substance is also UV resistant, which prevented ink from fading. Both
+ink degradation and fading on this document demonstrated how its presence could result from contamination caused by the document's amateur storage in plexiglass (poly methyl meth*acrylate*) or another source.<a href="#footnotes">(22)</a> More comprehensive analysis via x-ray fluorescence demonstrated the ink's composition, with significant presence of carbon, copper and calcium, elements consistent with eighteenth century ink. Carbon indicated
+the use of soot to color the ink, as in *lamp black* (carbon black) ink; and copper indicated the use of copper
+sulfate as a mordant. Calcium was indicative of calcium carbonate, the major component of egg shells, which was
+historically used as a base to reduce acidity in colonial ink. Copper sulfate and soot were primary
+ingredients in black writing ink for many centuries, and copper sulfate functioned as a mordant to bind the
 ink to its writing surface.<a href="#footnotes">(23)</a>
 
-A key element in exemplifying how this manuscript was a true working copy and taken directly from the "*Original
-with Jefferson*", is the examination of the horizontal fold lines on the document. Under magnification, the
-horizontal fold lines on the recto are noted as convex. It appears that Adams folded the document to have one
-panel accessible at a time while copying from the "original", placed either above or beside this document. This
-positioning and technique would have assisted Adams in following the text line by line, to ensure accuracy in
+A key element in exemplifying how this manuscript was a true working copy taken directly from the "*Original
+with Jefferson*" was discovered during the examination of the horizontal fold lines on the document. Under magnification, the
+horizontal fold lines (recto) were observed as convex. It appeared that Adams folded the document to have one
+panel accessible at a time while copying the "original", placed either above or beside this document. This
+positioning allowed Adams to follow the text line by line, and ensured accuracy in
 copying.
 
 <center><img src="/images/sherman-copy-di-5.png"></center>
 
-Ink wicking into the surrounding fibers of the fold line validates that the paper was purposefully folded prior
-to writing, as the paper sizing was damaged during folding, thus allowing the ink to wick into the fold. The text
-at the bottom of each panel lines up rather neatly with the fold, which acted as the edge of paper until another
-previous panel was filled, and the next panel was folded down. After the writing was completed, the manuscript
-was folded again at the panels, but with concave folds, when Adams wrote the inscription on the verso. The extremely well-preserved condition of the recto and text, in contrast to the naturally aged verso, validates this process.
+Ink wicked into the surrounding fibers of the fold line validated that the paper was purposefully folded prior
+to writing, as the paper sizing was damaged during folding, which allowed the ink to wick into the fold. The text
+at the bottom of each panel lined up neatly with each fold, which acted as the edge of paper until another
+panel was filled, and the next panel was folded down. After writing was completed, the manuscript
+was folded again at the panels with concave folds when Adams wrote the inscription (verso). The extremely well-preserved condition of the recto and text, in contrast to the naturally aged verso, validates this process.
   
-As noticed in the following image, distinct creases in the manuscript run vertically down the center of the
-document. These imprinted crease lines matched perfectly with the crease and fold lines of the Auction Booklet,
-confirming that this manuscript document was stored within the folds of the auction booklet for an extensive
+In the following image, distinct creases in the manuscript run vertically down the center of the
+document. These imprinted crease lines matched the crease and fold lines of the auction booklet,
+and confirmed this manuscript was stored within the auction booklet for an extensive
 period of time.
 
 <center><img src="/images/sherman-copy-di-6.png"></center>
 
 *Editing and Evolution of the Text*
 
-After ascertained this manuscript's authenticity and unique characteristics, it is important to consider the
-manner in which this document was used as an early working draft during the Committee of Five deliberation.
+After ascertained the manuscript's authenticity and unique characteristics, it is important to consider how this document was used as an early working draft during the Committee of Five deliberation.
 Multiple sections offer further insight into the drafting process, through edits and alterations in the text:
-Preceding the word "government" was the word "a", which was revised/omitted as this writer appears to have
-continually edited the document while producing this copy from the original.
+preceding the word "government" was the word "a", which was revised/omitted as the writer
+continually edited the document while he produced this copy from the original.
 
 <center><img src="/images/sherman-copy-di-7.png"></center>
 
-This finding appeared significant, as neither the known Adams Copy nor the Jefferson Rough Draft contain the
-word "a" preceding "government" in this line of the preamble. At first glance, we may wonder why such an edit
-would hold merit worthy of further discussion; we have to consider though, how the editing of the Declaration
+This finding appeared significant, as neither the known Adams Copy nor the Jefferson Rough Draft contained the
+word "a" preceding "government" in this line of the preamble. At first glance, we wondered why such an edit
+would hold merit worthy of further discussion; our research team had to consider though, how the editing of the Declaration
 was methodically completed by Jefferson, Franklin, Adams, and later by the Congressional body, for better, or
 for worse (the latter referring to the deletion of grievances such as the anti-slavery clause post-June 28, 1776).
-A probable conclusion about why the removal of "a" preceding the word "government" wasn made by Adams in an effort to distinguish "government" as an institution established by, and dedicated
+A probable conclusion for the removal of "a" preceding the word "government" could have been a deliberate attempt by Adams to distinguish "government" as an institution established by, and dedicated
 to the people it represents, rather than "a" single entity that could be perceived with autonomy, distant
 from its constituents.
 
-This revision process continues through the multiple capital letters that over-script lower-case letters, as
-well as the following revision of a possessive pronoun:
-In the excerpt below, a lower case "s" is evident underneath the over-scripted "S" in "Secure"; a lowercase "e"
-is also evident underneath the over-scripted "E" in "Ends"; one can also notice the word "their" resides
+The editing continued with multiple capital letters that over-scripted lowercase letters, as
+well as the revision of a possessive pronoun:
+In the excerpt below, a lowercase "s" is evident underneath the over-scripted "S" in "Secure"; a lowercase "e"
+was evident underneath the over-scripted "E" in "Ends"; one can also notice the word "their" resides
 underneath the over-scripted/revised "these";
 
 <center><img src="/images/sherman-copy-di-8.png"></center>
 
-In this excerpt, the word "Design" appears to have a lowercase "d" that resides under an over-scripted capital
-"D". It is also noteworthy that the word "evinces" is misspelled as "e**n**vinces", reflecting the lack of
+In this excerpt, the word "Design" had a lowercase "d" that resides under an over-scripted capital
+"D". Also noteworthy, the word "evinces" was misspelled as "envinces", which reflected lack of
 standardized spelling during this time period.
 
 <center><img src="/images/sherman-copy-di-9.png"></center>
@@ -336,26 +332,25 @@ In this excerpt, the word "Right" contains a lowercase "r" that resides under an
 
 <center><img src="/images/sherman-copy-di-10.png"></center>
 
-In this excerpt, the word "Object" contains a lowercase "o" that has been clearly over-scripted with a capital
-"O". Note how the right side of the capital "O" overlaps the lowercase "b".
+In this excerpt, the word "Object" contained a lowercase "o" that was over-scripted with a capital
+"O". 
 
 <center><img src="/images/sherman-copy-di-11.png"></center>
 
-For some time, readers of the Declaration have discussed probable reasons for why Committee of Five members
-decided to capitalize seemingly random words throughout the text. The earlier Germanic roots of the English
-language demonstrate how capitalization of letters mid-sentence was utilized to place emphasis on significant
+Over time, readers of the Declaration have discussed probable reasons for why Committee of Five members
+decided to capitalize seemingly random words throughout the text. Early Germanic roots of the English
+language demonstrated how capitalization of letters mid-sentence was utilized to place emphasis on significant
 words. Throughout the Declaration, especially in this manuscript, nouns were selected to
-emphasize words of significance; a characteristic that is quite evident in the Preamble. 
-Capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. One can only
-imagine, as the approximately 200 Dunlap broadsides made their way to their respective locations and representatives,
+emphasize words of significance; a characteristic that is evident in the Preamble. 
+Capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. As the approximately two hundred Dunlap broadsides traveled from Dula['s print shop to their respective locations and representatives,
 including the copy Washington read to his troops on July 9 in New York City, the intention of this capitalization
-was realizedn as the reader's voice brought life to the Declaration. This manuscript draft has provided the
-first opportunity to gaze upon the actual contemplation of words the Declaration's authors felt should hold emphasis within the body of text and when read aloud.
+was realized as the reader's voice brought life to the Declaration. This manuscript draft has provided the
+first opportunity to view the contemplation of words the Declaration's authors felt should hold emphasis within the body of text and when read aloud.
 
-This draft also included a key word in the last line of paragraph two that was omitted from the known
+This draft also included a key word that was omitted from the known
 Jefferson rough draft, but was present in the Adams fair draft: "To prove this, let the Facts be submitted to a
 Candid World, for the Truth of which We pledge a Faith, (as) yet unsullied by Falsehood." In his rough draft's
-pre-edit state, Jefferson has already omitted the word "as". This finding further bolstered the sequential nature of this manuscript, as Adams created it from the "original" prior to his neater, fair copy, and before Jefferson's rough draft.
+pre-edit state, Jefferson already omitted the word "as". This finding further bolstered the sequential nature of this manuscript, as Adams created it from the "original" prior to his neater, fair copy, and before Jefferson's rough draft.
 
 <center><img src="/images/sherman-copy-di-12.png"></center>
 
@@ -363,21 +358,21 @@ pre-edit state, Jefferson has already omitted the word "as". This finding furthe
 
 **"A beginning perhaps- Original with Jefferson - Copied from Original with T.P.'s permission"**
 
-When Adams inscribed "*A beginning perhaps*" as his initial impression of this manuscript, this note
+When Adams inscribed "*A beginning perhaps*" as his initial impression of the manuscript, his note
 may have reflected the ideological differences that existed between Adams and Paine during that time. "*Perhaps*",
 Adams acknowledged his skepticism of the "*Original*"; the lost manuscript that outlined Paine's ideology and originated from an
 individual who was not an official member of Congress. Or, "*perhaps*" he provided a hint of sarcasm, a playful jab at Paine
 which reflected their ideological dissonance, but acknowledged Paine's permission
 to produce a copy from the original.
 
-This inscription's reference to the "*original*" manuscript is again noteworthy, as Boyd reminded us how the lost
+This inscription's reference to the "*original*" manuscript was again noteworthy, as Boyd reminded us how the lost
 original could have been destroyed during the drafting process.  Interestingly, if careful consideration is
 given to Adams' word choice, the "*original with Jefferson*" was not referenced as
 "Jefferson's original".  If the inscription is interpreted as written, Adams acknowledged the original draft
-of the Declaration of Independence in the possession of Thomas Jefferson, with permission to copy the original
+of the Declaration of Independence was in the possession of Thomas Jefferson, with permission to copy the original
 granted by "*T.P.*".
 
-The significance of Paine's writings as a catalyst for the American Revolution is well-established; it is also
+The significance of Paine's writings as a catalyst for the American Revolution has been well-established. It is also
 *common* knowledge that Thomas Paine was deliberately excluded from mainstream American history due to his progressive
 views and his anti-religious perspective that distanced him from his contemporaries.  This manuscript 
 allows us greater insight into Thomas Paine's involvement in the Revolution beyond *Common Sense*, as it seemingly
