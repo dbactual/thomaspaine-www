@@ -125,50 +125,49 @@ Provincial Conference President; Colonel Alexander Lowrey was in attendance and 
 occasion.<a href="#footnotes">(8)</a>
 
 Colonel Lowrey continued to have extensive involvement in the revolutionary events immediately following the
-Declaration of Independence as a delegate at the Constitutional Convention of the Commonwealth of Pennsylvania held
+Declaration of Independence as a delegate in the Constitutional Convention of the Commonwealth of Pennsylvania held
 at Philadelphia from July 15-September 28, 1776.<a href="#footnotes">(9)</a> Through this historical account we can understand how
 Colonel Alexander Lowrey had strong relationships with Benjamin Franklin and fellow Congressional leaders, and
 direct contact with the Committee of Five members in Philadelphia during June - September, 1776. Colonel Lowery's
-possession of this manuscript draft may allow us to infer that other members indeed had direct or indirect
+possession of this manuscript draft may allow us to infer that other members had direct or indirect
 influence on the drafting of the Declaration of Independence.
 
-This early manuscript draft is entitled "A Declaration by the Representatives of the United States of America
+This early manuscript draft was entitled "A Declaration by the Representatives of the United States of America
 in general Congress assembled" with inscription at lower left (recto) of "June 24, 1776 /R. Sherman's Copy/page 1".
-Two sets of initials were written (verso) along an inscription by the hand of the manuscript writer. The initials
+Two sets of initials were written (verso) along with an inscription by the hand of the transcription's writer. The initials
 "R.S." are located in the upper right-hand corner; the inscription "*A beginning perhaps - / Original with
 Jefferson - / Copied from Original / with T. P.'s permission*" and the initials "B.F." are situated in the
-center of page. The document measures approximately 14 inches by 8 3/8 inches (foolscap folio size) and is
+center of page. The document measures approximately 14 inches by 8 3/8 inches (foolscap folio size) and was
 written in black (fading to brown) ink on early, period rag paper.
 
 The Estate Auction Booklet, dated August 15, 1856, was written in black ink on light blue lined paper with the
-mill maker's mark of Owen & Hurlbut, South Lee, Massachusetts embossed on the top, left corner, recto. The
+mill maker's mark of Owen & Hurlbut, South Lee, Massachusetts embossed on the top, left corner (recto). The
 paper mill of Owen & Hurlbut was in operation from 1822-1860. The auction book measures 12 3/8 inches by 7 7/8
 inches.
 
-The Massachusetts Historical Society has confirmed that the known Adams copy has been in its collection since
+The Massachusetts Historical Society confirmed that the known Adams copy has been in its collection since
 it was donated directly by the Adams family in the early 1900's. The Adams copy was privately held by the Adams
 family prior to possession by the Massachusetts Historical Society, during which time no facsimile copies were
 produced.<a href="#footnotes">(10)</a> The first public appearance of the known Adams copy (and the production of its first facsimile copy) was
 in 1943 during the Library of Congress' display of the Jefferson Papers, as noted in Julian P. Boyd's
 *Declaration of Independence: Evolution of the Text* (1945). Due to the inaccessibility of the Adams fair copy,
-we can reasonably conclude this manuscript's creation taking place shortly before the known Adams copy during
-June 11-28, 1776, prior to the Committee of Five presenting its finalized draft to members of Congress for
+our research team reasonably concluded this manuscript was created shortly before the Adams fair copy during
+June 11-28, 1776, and before the Committee of Five presented its finalized draft to Congress for
 debate and approval.
 
-While Sherman's review and approval of this initial draft is evident through his initials (verso), who copied
-this draft from the "original with Jefferson"? At first glance, the identification of the writer of this
-manuscript was not evident, which warranted an extensive forensic handwriting comparison to identify
-its penman. This analysis included stylistic examination of distinctive characteristics and comparative
+While Sherman's review and approval of this initial draft was evident through his initials (verso), who copied
+this draft from the "original with Jefferson"? At first glance, the identification of the writer was not evident, which warranted an extensive forensic handwriting comparison to identify
+its penman. Analysis included stylistic examination of distinctive characteristics and comparative
 evaluation of all 56 signers of the Declaration of Independence, in addition to acting secretaries and scribes
 relevant to this historical event and time period. Analysis was conducted utilizing enhanced scale imaging and
 topical overlay to examine characteristics, including those attributed to muscle memory, unique to each
-candidate. The results of this analysis led to the identification of John Adams as the writer of this early
+candidate. The results of this analysis led to the identification of John Adams as the likely writer of this early
 Declaration manuscript.
 
-In order to successfully evaluate and accurately attribute handwriting, an examination of multiple characteristics is conducted that collectively identify the writer. Each characteristic, such as writing movement, pressure,
+In order to successfully evaluate and accurately attribute handwriting, an examination of multiple characteristics was conducted that collectively identified the writer. Each characteristic, such as writing movement, pressure,
 form (i.e. simplified or embellished), connectivity, and alignment (baseline, line direction, organization) is
-unique to each individual and consequently create a comprehensive assessment when used as an analytic device.
-In the analysis of this document's body of text, the following characteristics were evaluated: form (*print/cursive*),
+unique to each individual and consequently creates a comprehensive assessment when used as an analytic device.
+In the analysis of this document's text, the following characteristics were evaluated: form (*print/cursive*),
 connectivity, space, margins (*margin respect*), alignment (*baseline alignment*), and capitals. A unique quality
 of this early Declaration of Independence draft is the haste in which it was taken.<a href="#footnotes">(11)</a> While this undoubtedly
 affected writing slant, the characteristics described above remained intact.
@@ -177,41 +176,41 @@ Blue Ink underlay; newly discovered manuscript in Black Ink overlay]**
 
 <center><img src="/images/sherman-copy-di-2.png"></center>
 
-This Declaration manuscript (in black ink overlay) demonstrates multiple characteristics unique to individual
+This Declaration manuscript (in black ink overlay) demonstrated multiple characteristics unique to individual
 handwriting that are indicative of both documents being written by the same writer.
-Most significant are the components of writing unique to the individual that are the result of muscle memory: first, the *negative space* between words in the following excerpts:
+Most significant were the unique components of writing that are the result of muscle memory: first, the *negative space* between words in the following excerpts:
 
 <center><img src="/images/sherman-copy-di-3.png"></center>
 
-Second, the distinct upward direction in which the writer's handwriting led, or *baseline alignment*, in the
+Second, the distinct upward direction in which the writer's hand led, or *baseline alignment*, in the
 following excerpts:
 
 <center><img src="/images/sherman-copy-di-4.png"></center>
 
-As the writer of the inscription (verso) was also not immediately evident, an additional handwriting
+As the writer of the inscription (verso) was not immediately evident, an additional handwriting
 analysis was conducted using the methods described in the identification of the transcription writer.
 Multiple handwriting features, including baseline alignment, negative space, and character formation matched features identified in the transcription. This allowed our research team to  conclude that writer of the inscription was also John Adams.
 
 Examination of the penmanship showed that the characters were written in Eighteenth Century
-British-American handwriting. The style of handwritten lettering used throughout the manuscript was that of
+British-American handwriting. The style of handwritten lettering used throughout the manuscript was
 Snell Roundhand, developed by Charles Snell, an English writing master who wrote *The Penman's Treasury Open'd*
-in 1694. This detail could be considered noteworthy, as compared to Spencerian Script, a handwriting style
-that was implemented and used in the United States from approximately 1850 to 1925, and the Palmer Method of
-penmanship instruction developed and promoted by Austin Palmer in the late nineteenth and early twentiethth centuries.
+in 1694. This detail should be considered noteworthy when compared to more contemporary handwriting styles such as Spencerian Script, which was
+implemented in the United States from approximately 1850 to 1925, and the Palmer Method of
+penmanship developed by Austin Palmer in the late nineteenth and early twentiethth centuries.
 Historical evidence demonstrates how the Snell Roundhand is period-correct, which was
 replaced by Spencerian Script around 1850 after the publication of *Spencer and Rice's System of Business and
 Ladies' Penmanship* in 1848.<a href="#footnotes">(12)</a> This manuscript's handwriting style supported a pre-1850 creation through the writer's
 demonstrated fluency in Snell Roundhand penmanship.<a href="#footnotes">(13)</a>
 
-The handwriting analysis referenced earlier noted that this draft was not created by Roger Sherman.
-Rather, this manuscript appears to have been made for other Committee members by John Adams for review.
+The handwriting analysis referenced earlier noted this draft was not created by Roger Sherman.
+Rather, this manuscript was seemingly made for Sherman and other Committee members for review.
 Historically, we know that Sherman and other Committee of Five members participated in various Congressional
 committees simultaneously, and that Sherman's involvement with the
-Declaration did not appear in the record until a preliminary draft was completed. We also know that Sherman and Adams were
-the only members of the Committee of Five to also have been selected for the Board of War and Ordinances on
-June 12, 1776; Sherman's involvement on the Committee of War could have precluded him from a more active
+Declaration did not appear in the record until a preliminary draft was completed. Sherman and Adams were
+the only members of the Committee of Five that were also selected for the Board of War and Ordinances on
+June 12, 1776; Sherman's involvement on the Committee of War could have precluded him from more active
 involvement in the Declaration's initial committee deliberations, thus necessitating the creation of this
-manuscript. <a href="#footnotes">(14)</a> The inscription on the verso, "A beginning perhaps - Original with Jefferson..." appears to support
+manuscript. <a href="#footnotes">(14)</a> The inscription (verso), "A beginning perhaps - Original with Jefferson..." appeared to support
 the timeframe in which this would have happened, as well as the early draft state of the text.
   
 Sherman's initials on the upper right corner (verso) indicate that he received, reviewed, approved this draft,
