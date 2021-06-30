@@ -56,7 +56,7 @@ Congress collection, which demonstrates the numerous edits made by the Committee
 
 This newly discovered, partial manuscript draft appears to have been made for Benjamin Franklin, then passed
 onto Roger Sherman, fellow member of the Committee of Five. This leaves only Robert R.
-Livingston's copy, if a separate copy was made for his review, to follow the trail of communications of the Committee of Five. 
+Livingston's copy, if a separate copy was made for his review, to follow the trail of communication of the Committee of Five. 
 
 As the Declaration Resources Project at Harvard rightfully acknowledged through its monumental Declaration
 Database, it was essential to distinguish these three drafts, and the partial Jefferson draft at the LOC, as
@@ -81,7 +81,7 @@ appear to belong to Thomas Paine. Professor Allen and Emily
 Sneff, Associate Fellow of Harvard's Declaration Resources Project, investigated individuals affiliated with
 Thomas Jefferson, including household members, between the years of 1776-1784 before reaching this conclusion.<a href="#footnotes">(5)</a>
 While the potential for the T.P. initials to reference an individual other than Paine should be acknowledged,
-the contextual understanding of who was intimately aware, and would have been privy to, the Declaration
+the contextual understanding of who was intimately aware, and would have been privy to the Declaration
 drafting process appeared to strongly favor Thomas Paine. Professor Allen graciously acknowledged her
 support of this manuscript and its significance by agreeing to include it in the register of Harvard's
 Declaration Database during its next update.
@@ -126,7 +126,7 @@ occasion.<a href="#footnotes">(8)</a>
 
 Colonel Lowrey continued to have extensive involvement in the revolutionary events immediately following the
 Declaration of Independence as a delegate in the Constitutional Convention of the Commonwealth of Pennsylvania held
-at Philadelphia from July 15-September 28, 1776.<a href="#footnotes">(9)</a> Through this historical account we can understand how
+in Philadelphia from July 15-September 28, 1776.<a href="#footnotes">(9)</a> Through this historical account we can understand how
 Colonel Alexander Lowrey had strong relationships with Benjamin Franklin and fellow Congressional leaders, and
 direct contact with the Committee of Five members in Philadelphia during June - September, 1776. Colonel Lowery's
 possession of this manuscript draft may allow us to infer that other members had direct or indirect
@@ -225,14 +225,14 @@ document collectors noted that wove paper was only available to the Colonies aft
 misconception may have garnered acknowledgement without considering the limited references of past paper
 historians, and the current technological advances that now allow for more thorough investigation into wove paper's
 origins. Online digitalization of manuscripts, books, and countless historical documents within the past five
-years alone has provided us with greater access to early examples of wove paper, and its presence in the Colonies during the American Revolution.
+years alone provided greater access to early examples of wove paper, and its presence in the Colonies during the American Revolution.
 
 The earliest wove paper this research team uncovered dated back to the late 1750s. Through his authoritative
 text *Papermaking: The History and Technique of an Ancient Craft*, Dard Hunter educated us on the origins of
 wove paper; he noted the first wove produced in England occurred by 1757, used in John Baskerville's special
 edition of *Virgil* (for which wove paper moulds were made by James Whatman the Elder). Hunter reminded us,
 though, that wove paper had been created and used in the Orient for many years prior.<a href="#footnotes">(15)</a> Wove paper was eventually
-preferred and considered a superior paper to laid in the latter portion of the 18th century because of its
+considered a superior paper to laid in the latter portion of the 18th century because of its
 smooth surface and increased density. However, following its use in Europe in the late 1750s, few
 wire mould makers were skilled in creating wove's more complex wire moulds. In the American colonies, wove
 paper appeared accessible to printers in Philadelphia as early as 1773, primarily through the mould
@@ -287,7 +287,7 @@ Ink wicked into the surrounding fibers of the fold line validated that the paper
 to writing, as the paper sizing was damaged during folding, which allowed the ink to wick into the fold. The text
 at the bottom of each panel lined up neatly with each fold, which acted as the edge of paper until another
 panel was filled, and the next panel was folded down. After writing was completed, the manuscript
-was folded again at the panels with concave folds when Adams wrote the inscription (verso). The extremely well-preserved condition of the recto and text, in contrast to the naturally aged verso, validates this process.
+was folded again at the panels with concave folds when Adams wrote the inscription (verso). The well-preserved condition of the transcription (recto), in contrast to the naturally aged inscription (verso) validated this process.
   
 In the following image, distinct creases in the manuscript run vertically down the center of the
 document. These imprinted crease lines matched the crease and fold lines of the auction booklet,
@@ -298,7 +298,7 @@ period of time.
 
 *Editing and Evolution of the Text*
 
-After ascertained the manuscript's authenticity and unique characteristics, it is important to consider how this document was used as an early working draft during the Committee of Five deliberation.
+After ascertaining the manuscript's authenticity and unique characteristics, it is important to consider how this document was used as an early working draft during the Committee of Five deliberation.
 Multiple sections offer further insight into the drafting process, through edits and alterations in the text:
 preceding the word "government" was the word "a", which was revised/omitted as the writer
 continually edited the document while he produced this copy from the original.
@@ -322,7 +322,7 @@ underneath the over-scripted/revised "these";
 
 <center><img src="/images/sherman-copy-di-8.png"></center>
 
-In this excerpt, the word "Design" had a lowercase "d" that resides under an over-scripted capital
+In this excerpt, the word "Design" had a lowercase "d" that resided under an over-scripted capital
 "D". Also noteworthy, the word "evinces" was misspelled as "envinces", which reflected lack of
 standardized spelling during this time period.
 
@@ -342,7 +342,7 @@ decided to capitalize seemingly random words throughout the text. Early Germanic
 language demonstrated how capitalization of letters mid-sentence was utilized to place emphasis on significant
 words. Throughout the Declaration, especially in this manuscript, nouns were selected to
 emphasize words of significance; a characteristic that is evident in the Preamble. 
-Capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. As the approximately two hundred Dunlap broadsides traveled from Dula['s print shop to their respective locations and representatives,
+Capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. As the approximately two hundred Dunlap broadsides traveled from Dulap's print shop to their respective locations and representatives,
 including the copy Washington read to his troops on July 9 in New York City, the intention of this capitalization
 was realized as the reader's voice brought life to the Declaration. This manuscript draft has provided the
 first opportunity to view the contemplation of words the Declaration's authors felt should hold emphasis within the body of text and when read aloud.
