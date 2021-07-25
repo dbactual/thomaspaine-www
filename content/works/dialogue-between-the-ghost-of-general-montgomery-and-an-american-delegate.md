@@ -4,7 +4,6 @@ Title: Dialogue between the Ghost of General Montgomery and an American Delegate
 Date: Tue Jan 28 11:51:00 EDT 2020
 
 A Dialogue between the Ghost of Montgomery and an American Delegate, in a Wood near Philadelphia.
-OA
 An homage to A Dialogue between Gen. Wolfe and Gen. Gage six months before, this is most likely Samuel Adams, who may have
 authored the first as it was set in Boston. Paine registers, but not as high as others, so it is doubtful this is Paine.
 Some samples from the testing:
