@@ -5,8 +5,8 @@ Date: Tue Jan 28 11:17:00 EDT 2020
 
 A DIALOGUE BETWEEN GENERAL WOLFE AND GENERAL GAGE IN A WOOD NEAR BOSTON
 
-This work is most likely written by an author we don't have in out author-files to compare to, but Paine is
-definitely not the author. He does not rank in any significance in all the tests made with all possible authors.
+This work is most likely written by an author we don't have in our author-files to compare to, but Paine is
+definitely not the author. He does not rank in any significance in all the tests made with all possible authors. It is likely to be from Samuel Adams.
 
 A sampling of the tests:
 
