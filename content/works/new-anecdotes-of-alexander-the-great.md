@@ -11,8 +11,8 @@ Date: Mon Aug  4 09:08:52 EDT 2014
 <center><img src="/images/new-anecdotes-of-alexander-the-great-b.png"></center>
 <center><img src="/images/new-anecdotes-of-alexander-the-great-c.png"></center>
 
-   The writing is not in the style that Paine ever used elsewhere, using references to the “happy wilderness”,
-   “the two terrestrial Charons, who ferried me over the Schuykill”, is not Paine; and especially the reference
+   The writing is not in the style that Paine ever used elsewhere, using references to the "happy wildness",
+   "the two terrestrial Charons, who ferried me over the Schuykill", is not Paine; and especially the reference
    to “the servants of great men always imitate their masters” is definitely not Paine.
 
    New Anecdaotes of Alexander the Great
