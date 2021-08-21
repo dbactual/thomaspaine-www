@@ -2,13 +2,6 @@
 
     <div class="col-sm-12 col-md-5 col-lg-4">
 
-      <a href="/">
-        <img style="display: block; margin: auto;" src="{{ SITEURL }}/theme/images/logo-new-big.png"/>
-      </a>
-
-      <br/>
-      <br/>
-
       <h4>Search the collected works</h4>
       <p>
         <form method="get" action="/cgi-bin/search">
@@ -17,11 +10,19 @@
         </form>
       </p>
 
-      <br/>
-      <br/>
+      <h4>Membership</h4>
+
+      <form>
+        <p>
+          The Thomas Paine National Historical Association is offering
+          memberships to those who are interested in the founding
+          father and global revolutionary Thomas Paine - his life,
+          works, and legacy.
+        </p>
+        <h4><a href="/membership.html">Become a member!</a></h4>
+      </form>
 
       <h4>Support</h4>
-
       <form action="https://www.paypal.com/en/cgi-bin/webscr" method="post">
         <input type="hidden" name="cmd" value="_donations">
         <input type="hidden" name="business" value="info@thomaspaine.org">
@@ -43,9 +44,6 @@
         </p>
         <button class="secondary" alt="Donate" name="submit">Donate</button>
       </form>
-
-      <br/>
-      <br/>
 
       <h4>Join the mailing list</h4>
       <p>

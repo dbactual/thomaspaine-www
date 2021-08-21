@@ -11,16 +11,14 @@
 
 <body>
 
-  <header class="sticky">
-    <h3>
+    <div>
       <a href="{{ SITEURL }}">
-        Thomas Paine National Historical Association
+        <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-new-big.png"/>
       </a>
       <span class="subtle" style="display:inline;font-size: small;font-style: italic;">
         To educate the world about the life, works, and legacy of Thomas Paine.
       </span>
-    </h3>
-  </header>
+    </div>
 
   <header class="sticky">
     <a href="{{ SITEURL }}" class="logo">
