@@ -1,5 +1,5 @@
 PubDate: 1780-12-30
-Slug: essays/american-politics-&-government/public-good
+Slug: essays/american-politics-and-government/public-good
 Title: Public Good
 Date: Mon Aug  4 09:08:52 EDT 2014
 

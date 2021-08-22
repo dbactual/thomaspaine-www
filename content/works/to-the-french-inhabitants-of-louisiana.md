@@ -1,5 +1,5 @@
 PubDate: 1804-09-22
-Slug: essays/american-politics-&-government/to-the-french-inhabitants-of-louisiana
+Slug: essays/american-politics-and-government/to-the-french-inhabitants-of-louisiana
 Title: To the French Inhabitants of Louisiana
 Date: Mon Aug  4 09:08:55 EDT 2014
 

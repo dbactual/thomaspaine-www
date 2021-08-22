@@ -1,5 +1,5 @@
 PubDate: 1805-08-01
-Slug: essays/american-politics-&-government/to-the-citizens-of-pennsylvania-on-the-proposal-for-calling-a-convention
+Slug: essays/american-politics-and-government/to-the-citizens-of-pennsylvania-on-the-proposal-for-calling-a-convention
 Title: TO THE CITIZENS OF PENNSYLVANIA ON THE PROPOSAL FOR CALLING A CONVENTION
 Date: Mon Aug  4 09:08:51 EDT 2014
 

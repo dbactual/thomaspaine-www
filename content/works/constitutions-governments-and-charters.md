@@ -1,5 +1,5 @@
 PubDate: 1805-06-01
-Slug: essays/american-politics-&-government/constitutions-governments-and-charters
+Slug: essays/american-politics-and-government/constitutions-governments-and-charters
 Title: Constitutions, Governments, and Charters
 Date: Mon Aug  4 09:08:51 EDT 2014
 

@@ -1,5 +1,5 @@
 PubDate: 1797-09-27
-Slug: essays/american-politics-&-government/the-recall-of-monroe
+Slug: essays/american-politics-and-government/the-recall-of-monroe
 Title: The Recall of Monroe
 Date: Mon Aug  4 09:08:53 EDT 2014
 

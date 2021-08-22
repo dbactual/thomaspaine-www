@@ -1,5 +1,5 @@
 PubDate: 1806-10-20
-Slug: essays/american-politics-&-government/liberty-of-the-press
+Slug: essays/american-politics-and-government/liberty-of-the-press
 Title: Liberty of the Press
 Date: Mon Aug  4 09:08:52 EDT 2014
 
