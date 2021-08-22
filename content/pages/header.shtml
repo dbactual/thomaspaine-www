@@ -15,7 +15,7 @@
     <div class="row">
       <div class="col-sm-8 col-md-4 col-lg-3">
         <a href="{{ SITEURL }}">
-          <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-new-big.png"/>
+          <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-1.png"/>
         </a>
       </div>
       <div class="col-sm-8 col-md-4 col-lg-3">
@@ -31,7 +31,7 @@
 
   <header class="sticky">
     <a href="{{ SITEURL }}" class="logo">
-      <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-new-small.png"/></a>
+      <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-2.png"/></a>
     <a href="{{ SITEURL }}/pages/about-us.html" class="button">About</a>
     <a href="{{ SITEURL }}/pages/resources.html" class="button">Resources</a>
     <a href="{{ SITEURL }}/pages/links.html" class="button">Links</a>

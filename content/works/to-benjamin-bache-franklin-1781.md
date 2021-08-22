@@ -2,13 +2,13 @@ PubDate: 1781-01-01
 Slug: letters/other/to-benjamin-franklin-may-1781
 Title: To Benjamin Franklin (May) 1781
 Date: Mon Aug  4 09:08:54 EDT 2014
-   
+
    From the original letter at the American Philosophical Society.
-   
+
    Dear Sir
 
    Since writing the enclosed, a messenger arrived with a letter from you for
-   Col. Laurens, who is gone to take leave &mdash; 
+   Col. Laurens, who is gone to take leave &mdash;
 
    Col. Laurens in making out his arrangement of supplies as mentioned in my
    note to you wants some commercial information, and if Mr. Williams can
