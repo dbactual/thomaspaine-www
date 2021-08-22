@@ -11,14 +11,23 @@
 
 <body>
 
-    <div>
-      <a href="{{ SITEURL }}">
-        <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-new-big.png"/>
-      </a>
-      <span class="subtle" style="display:inline;font-size: small;font-style: italic;">
-        To educate the world about the life, works, and legacy of Thomas Paine.
-      </span>
-    </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-md-4 col-lg-3">
+        <a href="{{ SITEURL }}">
+          <img style="vertical-align: middle" src="{{ SITEURL }}/theme/images/logo-new-big.png"/>
+        </a>
+      </div>
+      <div class="col-sm-8 col-md-4 col-lg-3">
+        <div style="margin-top: 40px;">
+          To educate the world about the life,
+          <br/>
+          <span style="margin-left: 40px;">
+            works, and legacy of Thomas Paine.
+          </span>
+        </div>
+      </div>
+  </div>
 
   <header class="sticky">
     <a href="{{ SITEURL }}" class="logo">

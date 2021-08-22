@@ -19,7 +19,9 @@
           father and global revolutionary Thomas Paine - his life,
           works, and legacy.
         </p>
-        <h4><a href="/membership.html">Become a member!</a></h4>
+        <a href="/membership.html" class="button secondary">
+          Become a member!
+        </a>
       </form>
 
       <h4>Support</h4>
@@ -42,7 +44,7 @@
           tax-deductible, 501 c(3) charitable institution. Please donate
           via PayPal today!
         </p>
-        <button class="secondary" alt="Donate" name="submit">Donate</button>
+        <button class="tertiary" alt="Donate" name="submit">Donate</button>
       </form>
 
       <h4>Join the mailing list</h4>
