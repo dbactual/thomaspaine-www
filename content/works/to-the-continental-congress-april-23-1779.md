@@ -1,5 +1,5 @@
 PubDate: 1779-04-23
-Slug: letters/us-government/to-the-hon John Jay-april-23-1779
+Slug: letters/us-government/to-the-hon-john-jay-april-23-1779
 Title: To the Hon. John Jay  April 23, 1779
 Date: Mon Aug  4 09:08:55 EDT 2014
 
@@ -25,14 +25,14 @@ Date: Mon Aug  4 09:08:55 EDT 2014
    have had of knowing the State of foreign Affairs, is greater than that of
    many gentlemen of this House, and I want no other knowledge to declare
    that I look on Mr. Deane to be, what Mr. Carmichael calls him, a Rascal.
-   
+
    Whether Mr. Deane was encouraged by members of this Honble House to
    traduce the Characters of the rest of the Commissioners, to make room for
    themselves, and to establish a Commercial Company calculated to monopolize
    the trade of the country, is what I have not authority to say, but the
    appearance of things, together with some knowledge I am possessed of, too
    much Justify the Suspicion.
-   
+
    I am Honble Sirs your Honors Obt Humble Servant
 
    THOS. PAINE
