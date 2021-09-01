@@ -1,5 +1,5 @@
 PubDate: 1786-02-18
-Slug: essays/american-politics-&-government/dissertations-on-government
+Slug: essays/american-politics-and-government/dissertations-on-government
 Title: Dissertations on Government
 Date: Mon Aug  4 09:08:51 EDT 2014
 

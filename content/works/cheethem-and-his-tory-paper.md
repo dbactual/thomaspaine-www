@@ -1,5 +1,5 @@
 PubDate: 1807-09-25
-Slug: essays/american-politics-&-government/cheethem-and-his-tory-paper
+Slug: essays/american-politics-and-government/cheethem-and-his-tory-paper
 Title: Cheethem and his Tory Paper
 Date: Mon Aug  4 09:08:51 EDT 2014
 

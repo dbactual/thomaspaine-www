@@ -2,6 +2,7 @@ PubDate: 1792-11-11
 Slug: letters/other/to-the-english-attorney-general-archibald-macdonald-november-11-1792
 Title: To the English Attorney General (Archibald MacDonald)  November 11, 1792
 Date: Mon Aug  4 09:08:55 EDT 2014
+
    1792 Slug:
    to-the-english-attorney-general-archibald-macdonald-november-11-1792
 

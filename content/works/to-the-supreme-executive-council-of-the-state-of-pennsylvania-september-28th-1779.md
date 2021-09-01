@@ -2,10 +2,10 @@ PubDate: 1779-09-28
 Slug: letters/other/to-the-supreme-executive-council-of-the-state-of-pennsylvania-september-28th-1779
 Title: To the Supreme Executive Council of the State of Pennsylvania  September 28th, 1779
 Date: Mon Aug  4 09:08:56 EDT 2014
-   
+
    From the original letter at the New-York Historical Society.
-   
-   To the Honorable The Supreme Executive Council of the State of Pennsylvania  
+
+   To the Honorable The Supreme Executive Council of the State of Pennsylvania
 
    Honble. Sirs
 
@@ -46,9 +46,9 @@ Date: Mon Aug  4 09:08:56 EDT 2014
    I am Honble Sirs your Obt. Humble Servt
 
    THOMAS PAINE
-   
+
    Philadelphia
-   
+
    Sept 28 1779
 
 

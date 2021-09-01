@@ -1,5 +1,5 @@
 PubDate: 1807-03-01
-Slug: essays/american-politics-&-government/of-gunboats
+Slug: essays/american-politics-and-government/of-gunboats
 Title: Of Gunboats
 Date: Mon Aug  4 09:08:52 EDT 2014
 

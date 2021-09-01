@@ -1,5 +1,5 @@
 PubDate: 1805-07-23
-Slug: essays/american-politics-&-government/another-callender
+Slug: essays/american-politics-and-government/another-callender
 Title: Another Callender
 Date: Mon Aug  4 09:08:51 EDT 2014
 

@@ -2,6 +2,7 @@ PubDate: 1793-10-20
 Slug: letters/thomas-jefferson/to-thomas-jefferson-october-20-1793
 Title: To Thomas Jefferson  October 20, 1793
 Date: Mon Aug  4 09:08:56 EDT 2014
+
    To Thomas Jefferson  October 20, 1793
 
    DEAR SIR:

@@ -7,6 +7,7 @@ Generate 'works' and 'timeline' from files in content/works
 from collections import defaultdict
 import datetime
 import os
+import pelicanconf
 
 TIMELINE_TOP = """Title: Timeline
 Date: %s
@@ -96,10 +97,10 @@ def gen_timeline(years):
     timeline = open(TIMELINE_PAGE, 'w')
     timeline_index = open(TIMELINE_INDEX_SHTML, 'w')
     timeline.write(TIMELINE_TOP % datetime.datetime.now())
-    timeline.write('<!--#include virtual="/pages/timeline_index.shtml" -->')
+    timeline.write(f'<!--#include virtual="{pelicanconf.SITEPATH}pages/timeline_index.shtml" -->')
     timeline_index.write('<p>')
     for y in sorted(years.keys()):
-        timeline_index.write('<a href="/pages/timeline.html#%s">%s</a> ' % (y, y))
+        timeline_index.write(f'<a href="{pelicanconf.SITEPATH}pages/timeline.html#%s">%s</a> ' % (y, y))
     timeline_index.write('</p>')
 
     timeline.write('<div class="timeline"><hr style="margin-top: 50px; margin-bottom: 30px"/>')
@@ -151,10 +152,10 @@ def gen_works(works_cats):
     writings_index = open(WRITINGS_INDEX_SHTML, 'w')
     writings_index.write('<p>')
     writings.write(WRITINGS_TOP % datetime.datetime.now())
-    writings.write('<!--#include virtual="/pages/writings_index.shtml" -->')
+    writings.write(f'<!--#include virtual="{pelicanconf.SITEPATH}pages/writings_index.shtml" -->')
     for cat in sorted(works_cats.keys(), key=get_work_order):
         display_cat = get_display_title(cat)
-        writings_index.write('<a href="/pages/writings.html#%s">%s</a><br/>' % (cat, display_cat))
+        writings_index.write(f'<a href="{pelicanconf.SITEPATH}pages/writings.html#%s">%s</a><br/>' % (cat, display_cat))
     writings_index.write('</p>')
     writings.write('<div><hr style="margin-top: 50px; margin-bottom: 30px"/><ul>')
     for cat in sorted(works_cats.keys(), key=get_work_order):

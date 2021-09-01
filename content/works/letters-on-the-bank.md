@@ -1,5 +1,5 @@
 PubDate: 1796-03-25
-Slug: essays/american-politics-&-government/letters-on-the-bank
+Slug: essays/american-politics-and-government/letters-on-the-bank
 Title: Letters on the Bank
 Date: Mon Aug  4 09:08:51 EDT 2014
 

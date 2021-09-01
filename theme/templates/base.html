@@ -1,26 +1,26 @@
 <!doctype html>
-<html lang="{{ HTML_LANG }}">	
+<html lang="{{ HTML_LANG }}">
 <head>
-	<meta charset="utf-8"/>
+    <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>{% block title %}{{ SITENAME }}{%endblock%}</title>	
-	<meta name="author" content="{{ AUTHOR }}">
-	
-	{% block extra_meta %}
-	{% endblock %}
+    <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+    <meta name="author" content="{{ AUTHOR }}">
 
-	<link rel="top" href="#" />
+    {% block extra_meta %}
+    {% endblock %}
 
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="top" href="#" />
+
+        <link rel="shortcut icon" href="{{ SITEURL }}favicon.ico" type="image/x-icon">
+        <link rel="icon" href="{{ SITEURL }}favicon.ico" type="image/x-icon">
 
         <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:700' rel='stylesheet' type='text/css'>
 
-	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/page.css" type="text/css" />
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/page.css" type="text/css" />
 
-	{% block scripts %}
-	{% endblock %}
+    {% block scripts %}
+    {% endblock %}
 
     {% if FEED_ALL_ATOM %}
     <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
@@ -29,7 +29,7 @@
     <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
     {% endif %}
 </head>
-	
+
 <body>
 
 {{ FEED_ATOM }}
@@ -66,18 +66,18 @@
 
 
       <div class="mailinglist">
-      <h2>Mailing List</h2> 
+      <h2>Mailing List</h2>
 
       Join our mailing list:
       <form action="{{ SITEURL }}/cgi-bin/ml" method="post">
         <input placeholder="you@address.com" name="em" type="text" size=31 maxlength=255 value="">
-        <button alt="Join" name="submit">Join</button>        
+        <button alt="Join" name="submit">Join</button>
       </form>
       </div>
 
 
       <div class="donate">
-      <h2>Support</h2> 
+      <h2>Support</h2>
 
       Consider supporting the Thomas Paine National Historical
       Association! As a 100% volunteer organization, every dollar we
@@ -108,7 +108,7 @@
         and research resource dedicated to the life, work, and legacy
         of Thomas Paine – one of the founding fathers of the United
         States of America, whose impact on the world can be felt even
-        today.        
+        today.
         <h3>Free for iPads only</h3>
       </div>
 
@@ -125,9 +125,9 @@
 <div class="content guide with-sidebar">   <!--BEGIN CONTENT-->
   {% block content %}{% endblock %}
 </div>	<!--END CONTENT-->
-		  
+
 <div class="footer">
-  © {{ AUTHOR }} 
+  © {{ AUTHOR }}
 <div style="float:right">
   <a style="color:white" href="http://blog.getpelican.com/">Powered by pelican</a> <a style="color:white" href="http://mosey.org">Design and coding - Dave Berton</a>
 </div>

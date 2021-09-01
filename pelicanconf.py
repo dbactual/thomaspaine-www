@@ -5,14 +5,16 @@ from __future__ import unicode_literals
 AUTHOR = u'tpnha'
 AUTHORS = u'tpnha'
 SITENAME = u'The Thomas Paine National Historical Association'
-SITEPATH=''
+SITEPATH = '/'
 SITEURL = 'https://thomaspaine.org'
+# local dev
+#SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DIRECT_TEMPLATES = ('index', 'archives', 'events', 'works')
+DIRECT_TEMPLATES = ('index', 'archives', 'events', 'works', 'membership')
 
 TEMPLATE_PAGES = {
     'pages/header.shtml': 'pages/header.shtml',
