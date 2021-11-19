@@ -255,7 +255,7 @@ In the History of Delaware County, H. G. Ashmead stated, "Up to the time of the 
 
 Interestingly, wove paper was used in currency printing as early as 1764; this particular note, dated June 18, 1764,  was printed by Benjamin Franklin & David Hall and issued to the Province of Pennsylvania. <a href="#footnotes">(27)</a>
   
-<center><img src="/images/sherman-copy-15.png"></center>
+<center><img src="/images/sherman-copy-di-15.png"></center>
   
 As such, Franklin's access to wove paper in Pennsylvania dated as early as 1764, potentially earlier. Benjamin Franklin possessed and used wove paper in the American colonies during the Revolution, and introduced wove paper to France around 1777. <a href="#footnotes">(28)</a>
   
