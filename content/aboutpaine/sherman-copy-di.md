@@ -231,42 +231,49 @@ The earliest wove paper this research team uncovered dated back to the late 1750
 text *Papermaking: The History and Technique of an Ancient Craft*, Dard Hunter educated us on the origins of
 wove paper; he noted the first wove produced in England occurred by 1757, used in John Baskerville's special
 edition of *Virgil* (for which wove paper moulds were made by James Whatman the Elder). Hunter reminded us,
-though, that wove paper had been created and used in the Orient for many years prior.<a href="#footnotes">(15)</a> Wove paper was eventually
-considered a superior paper to laid in the latter portion of the 18th century because of its
+though, that wove paper had been created and used in the Orient for many years prior.<a href="#footnotes">(15)</a> 
+
+Wove paper was eventually considered a superior paper to laid in the latter portion of the 18th century because of its
 smooth surface and increased density. However, following its use in Europe in the late 1750s, few
-wire mould makers were skilled in creating wove's more complex wire moulds. In the American colonies, wove
-paper appeared accessible to printers in Philadelphia as early as 1773, primarily through the mould
-and paper maker Nathan Sellers of nearby Willcox Mill at Ivy Mills, Chester, Pennsylvania. Sellers kept
-exquisitely detailed journals, currently located in the collection of the American Philosophical Society, in
-which he noted orders of imported "woven" wire to make wove paper moulds in 1773.<a href="#footnotes">(16)</a> Nathan Sellers was of a select
-few skilled wire mould makers to make wove paper moulds in Pennsylvania at that
-time, and became the primary mould maker for many of the colonial paper mills throughout the Revolution. Interestingly, Benjamin Franklin possessed and
-used wove paper during the Revolution, and introduced wove paper to France around 1777.<a href="#footnotes">(17)</a>
+wire mould makers were skilled in creating wove's more complex wire moulds. <a href="#footnotes">(16)</a> 
   
-Imported paper became increasingly scarce at this time, which necessitated Colonial paper mills to
-maximize production. Benjamin Franklin was largely responsible for the massive efforts in rag collection used
-in paper making in Philadelphia, and Nathan Sellers was even recalled from serving in the Army to return to
-wire mould making during the Revolution.<a href="#footnotes">(18)</a> A partial watermark was discovered in the upper, left
-margin (recto) of the manuscript which, when first analyzed through light board illumination, proved difficult
-to discern. Further investigation into this watermark is warranted, and should be compared to existing examples
-in a comprehensive source such as Gravel's watermark collection, to determine whether the paper was imported or created in the colonies by an individual such as Sellers.
+Wove paper in the American colonies appeared accessible to printers in Philadelphia as early as 1773, primarily through the mould
+and paper maker Nathan Sellers of nearby Willcox Mill at Ivy Mills, Chester, Pennsylvania. Papermaking at the Willcox Paper Mill at Ivy Mills, as it related 
+to the American Revolution, was incredibly significant, especially in its production of wove paper for the colonies. Nathan Sellers created woven wire moulds for wove paper at the Willcox Mill, along with his father and mentor John Sellers, as early as 1773.  Nathan continued wove mould making at Willcox until his enlistment in the Pennsylvania militia in 1776; accordingly, the Sellers family produced wove moulds for papermaking in the American colonies as early as 1773.  Hunter documented John Sellers’ purchase of wove wire for mould making as early as 1773 through a letter from George Escol Sellers, grandson of Nathan Sellers.  This letter noted John Sellers' order of both laid and woven mould wire at that time. <a href="#footnotes">(17)</a>
+  
+Nathan Sellers manufactured woven wire moulds at Willcox until he enlisted in Colonel John Paschall's Flying Camp of Pennsylvania militiamen at the outbreak of the Revolutionary War.  Sellers' enlistment was brief, as he was ordered withdrawn from his military service by a resolution of Congress because of the need for his unique skill in creating woven moulds for paper, eventually used to print Continental currency.  Through Sellers' efforts and expertise, Willcox Mill became the exclusive provider of paper for Continental currency. (<a href="#footnotes">(18)</a> 
 
-This manuscript's paper consisted of cotton and linen bast fibers, which were period materials used to create
-rag pulp for paper in the eighteenth century. This composition confirmed paper creation earlier than 1850, when
-paper manufacture transitioned from cotton and linen rag pulp to primarily wood pulp in the mid-nineteenth century. Historically, Britain restricted export of cotton and flax (linen) crops to the colonies, which caused cotton and flax (linen)
-crops to become the predominant crops within eighteenth century colonial America. Colonists relied heavily on
-these important crops for rag production, which were later turned into rag pulp for paper manufacture.<a href="#footnotes">(19)</a>
-Illumination of the paper with ultraviolet light showed no fluorescence or evidence of artificial or chemical
-whitening. This is consistent with colonial-era paper making techniques, as artificial whitening commenced during
-the late eighteenth century and was a common practice in nineteenth century paper making.<a href="#footnotes">(20)</a>
+Mark Willcox, son of Ivy Mills founder & owner Thomas Wilcox, began managing operations at Ivy Mill in approximately 1772 after his father’s retirement.  In addition to creating paper for printed materials, ledger books and writing, Mark Willcox produced wove paper for Continental currency using the Sellers’ wove moulds when authorized by Congress on May 10, 1775. <a href="#footnotes">(19)</a>
+  
+A misconception of the origin of wove paper in the American colonies appears to have originated when scholars referenced the time period in which "wove" was more commonly used to describe paper type.  Prior, the term "wove" was not readily mentioned in relation to papermaking or directly linked to the paper; rather, it described the mould and the woven wire used, as it was finer than laid wire.  The earlier term “vellum paper” was first used to describe wove because of the finely woven "brass vellum" (brass wire cloth) attached to the mould that produced a smooth, vellum-like surface.  In subsequent years, “wove” was more commonly used to describe this paper type as distinct from laid. <a href="#footnotes">(20)</a>
 
+One of the earliest uses of “wove” as a descriptive term for paper type was by papermaking entrepreneur Henry Fourdrinier.  In his July 24,1806 patent for the Fourdrinier papermaking machine, Fourdrinier described the following: “The method of making a machine for paper of indefinite length, laid and wove, with separate moulds…a number of moulds, of the description called laid or wove, any number of which (being of the same size or denomination) are capable of forming one long mould, in which situation the said moulds are hooked or fastened together.” <a href="#footnotes">(21)</a> By the early nineteenth century, wove paper was considered superior to laid paper and had begun to replace its use in correspondence. <a href="#footnotes">(22)</a>
+
+Knowing the origins of wove paper in the American colonies with clarity, it was imperative to understand how the Committee of Five members had direct access to woven wire paper.  Committee member Benjamin Franklin had a decades-long personal and professional friendship with Thomas Wilcox, owner of the Willcox Paper Mill at Ivy Mills, and visited the Willcox mill frequently. <a href="#footnotes">(23)</a> According to an article published by John Willcox outlining the history of the Willcox Paper Mill at Ivy Mills, Thomas Willcox supplied the paper for Benjamin Franklin's Philadelphia newspaper early in their mutual friendship, and Franklin is credited for initiating the first orders of paper for colonial and Continental currency through Thomas Willcox and Ivy Mills.  On June 23, 1775, Franklin was appointed to a congressional committee to have printing plates engraved and to supply proper paper necessary for printing Continental currency. <a href="#footnotes">(24)</a> Joseph WIllcox reported seeing examples of Continental currency printed on American wove paper from Willcox Paper Mill as early as 1775. <a href="#footnotes">(25)</a>
+  
+In the History of Delaware County, H. G. Ashmead stated, " Up to the time of the Revolution the paper for the money of all the colonies, from Massachusetts to the Carolinas, was manufactured by Thomas Willcox at his Ivy Mill; after which followed, out of the same mill, the paper for the Continental currency.” <a href="#footnotes">(26)</a>
+
+Interestingly, wove paper was used in currency printing as early as 1764; this particular note, dated June 18, 1764,  was printed by Benjamin Franklin & David Hall and issued to the Province of Pennsylvania. <a href="#footnotes">(27)</a>
+  
+<center><img src="/images/sherman-copy-wove-currency.png"></center>
+  
+As such, Franklin’s access to wove paper in Pennsylvania dated as early as 1764, potentially earlier. Benjamin Franklin possessed and used wove paper in the American colonies during the Revolution, and introduced wove paper to France around 1777. <a href="#footnotes">(28)</a>
+  
+John Adams’ letter to Abigail Adams on April 15, 1776 highlighted the scarcity of writing paper.  Adams wrote, " I send you, now and then, a few sheets of paper : but this article is as scarce here as with you. I would send a quire (25 sheets of paper or 1/20 of a ream) if I could get a convenance.” <a href="#footnotes">(29)</a> Joseph Willcox notes paper was so scarce at this time that "fly-leaves were torn from printed works and blank leaves from account books for letter writing." <a href="#footnotes">(30)</a> 
+  
+Wove paper was primarily made for printing and record keeping; initially intended for currency, printed books, written account books and ledgers, not initially as correspondence paper.  Incedently, the emergency shortage of paper in 1776, necessicated its use for all needs.  Forensic evidence of torn kettle stitch binding marks demonstrated how the sheet of paper upon which Adams copied this early Declaration draft from the original was removed from an account ledger book containing wove paper, consistent with John Adams’ account of colonies’ paper shortage in 1776. 
+
+The paper size of the Sherman Copy of the Declaration confirmed its origins, as its dimensions corresponded with period printing paper, different in size from period correspondence paper.  Foolscap folio sized paper for printing measured 13.5 inches in length and 8.5 inches in width.  Foolscap folio sized correspondence paper measured 13.25 inches in length and 8.25 inches in width.  Full sized foolscap printing paper was produced at a size of 13.5 inches by 17.0 inches, then halved into foolscap folio size of 13.5 inches by 8.5 inches for printing and ledger books.  Correspondence paper was produced at a full size of 13.25 by 16.5, halved into 13.25 inches in length by 8.25 inches in width. Foolscap sizes were based upon eighteenth century English standards for paper manufacture.  American made paper in the nineteenth century adopted a unique standard, and subsequently differed in size from the English standards.  Accordingly, wove paper made in the 1770s, whether imported or produced by the Sellers at Willcox Paper Mill, followed the English standards of measurement. <a href="#footnotes">(31)</a>
+  .
+A partial watermark was discovered in the upper, left margin (recto) of the manuscript.  When analyzed with light board illumination, it proved difficult to discern. Further investigation of the watermark is warranted, and could be compared to existing examples in the Gravell Watermark Archive to determine whether the paper was imported or created in the colonies.  While records indicated wove paper being produced in the American colonies by John and Nathan Sellers as early as 1773, Hunter asserted the difficulty in ascertaining how much earlier wove was introduced into the American colonies via import.  The previously referenced 1764 colonial currency printed by Franklin on wove paper provided a more concrete introductory date.
+  
 This manuscript's ink presented as black, fading to brown, color. Ink degradation was prevalent throughout
 the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted by a
 well-respected professional at a leading research institution. Infrared spectroscopy initially
 indicated possible evidence of a modern material, acrylate. However, further investigation
 acknowledged how acrylate was used as a mordant in commercial printing ink, but interestingly, not in writing ink.
 Its primary function was to decrease the viscosity of ink, making it a very effective additive for printing,
-but ineffective for writing.<a href="#footnotes">21)</a> This substance is also UV resistant, which prevented ink from fading. Both
+but ineffective for writing.<a href="#footnotes">32)</a> This substance is also UV resistant, which prevented ink from fading. Both
 ink degradation and fading on this document demonstrated how its presence could result from contamination caused by the document's amateur storage in plexiglass (poly methyl meth*acrylate*) or another source.<a href="#footnotes">(22)</a> More comprehensive analysis via x-ray fluorescence demonstrated the ink's composition, with significant presence of carbon, copper and calcium, elements consistent with eighteenth century ink. Carbon indicated
 the use of soot to color the ink, as in *lamp black* (carbon black) ink; and copper indicated the use of copper
 sulfate as a mordant. Calcium was indicative of calcium carbonate, the major component of egg shells, which was
@@ -347,8 +354,7 @@ including the copy Washington read to his troops on July 9 in New York City, the
 was realized as the reader's voice brought life to the Declaration. This manuscript draft has provided the
 first opportunity to view the contemplation of words the Declaration's authors felt should hold emphasis within the body of text and when read aloud.
 
-This draft also included a key word that was omitted from the known
-Jefferson rough draft, but was present in the Adams fair draft: "To prove this, let the Facts be submitted to a
+This draft also included a key word that was omitted from the known Jefferson rough draft, but was present in the Adams fair draft: "To prove this, let the Facts be submitted to a
 Candid World, for the Truth of which We pledge a Faith, (as) yet unsullied by Falsehood." In his rough draft's
 pre-edit state, Jefferson already omitted the word "as". This finding further bolstered the sequential nature of this manuscript, as Adams created it from the "original" prior to his neater, fair copy, and before Jefferson's rough draft.
 
@@ -416,7 +422,7 @@ of the County*, 1827, Lancaster, PA, p376.
 and Biography*, (1934). 58(4), 312-341.
 9. J. Weistling, (1825). "Minutes of the proceedings of the convention of the state of Pennsylvania held at
 Philadelphia the 15th day of July 1776 and continued by adjournments to the 28th of September, 1776",
-(Philadelphia, 1825), 42; 51; 53;71.
+(Philadelphia, 1825), 42; 51; 53; 71.
 10. Written correspondence of M. Hogan, former editor of the Adams Papers, Massachusetts Historical Society
 with J. Scheick via email, July 1, 2011.
 11. Written correspondence of E. Sneff after analyzing the text and composition of the Sherman copy, via email,
@@ -429,19 +435,28 @@ Charles Thomson, Secretary, June 21, 1776 re: founding of War Office from Board 
 J.Adams, R. Sherman, B. Harrison, J. Wilson & E. Rutledge.
 15.	Hunter, D. (1978). *Papermaking: The History and Technique of an Ancient Craft* -reprint/illustrated
 edition. New York: Dover.
-16. Hunter, D. (1978). also references Seller's order of "woven" wire for mould making in 1773 - pg.129.
-17. D. Hunter, (1943) *Papermaking: The History and Technique of an Ancient Craft*, New York,124; ibid. 128.
-Hills, R.L. (2015). *Papermaking in Britain 1488-1988*. London, United Kingdom: Bloomsbury Publishing, Pg. 78
-provides an additional reference for Franklin exhibiting wove paper to France in 1777.
-18. Willcox, J. (1897). *The Willcox Paper Mill (Ivy Mills) 1729-1866*. Records of the American Catholic
-Historical Society of Philadelphia, Vol. 8, No. 1, pp. 36-40.
+16. Hunter, D. (1978), p. 132.
+17. D. Hunter, (1979) p. 129.
+18. D. Hunter, (1952) *Papermaking in Pioneer America*, University of Pennsylvania Press, p. 131.
+19. Willcox, J. (1897) *The Willcox Paper Mill (Ivy Mills) 1729-1866*, p.34. 
 19. Hunter (1978) Rags, for making into paper, 153-7.
-20. Hunter (1978) Bleaching, invention of, 224.
-21. Malshe, V (2019). Paints: Water-Based. Reference Module in Chemistry, Molecular Sciences and Chemical
+20. Hunter (1978) Bleaching, invention of, p. 129.
+21. Wyatt, J. (1807) The Repertory of Arts, Manufacture and Agriculture. Consisting of Original Communications, Specifications of Patent Inventions, Volume X, Second Series. pg. 321,325. Benjamin Franklin and David Hall/File:US-Colonial (PA-115)-Pennsylvania-18 Jun 1764.jpg/Wikimedia Commons 85
+22. D. Hunter, (1979) p. 130.
+23. Willcox, J. (1897) p. 34.
+24. Willcox, J. (1897) p. 36-37.
+25. Willcox, J. (1911) Ivy Mills 1729-1866 Willcox and Allied Families p. 46.
+26. Willcox, J. (1897) p. 34. 
+27. Benjamin Franklin and David Hall/File:US-Colonial (PA-115)-Pennsylvania-18 Jun 1764.jpg/Wikimedia Commons 85
+28. D. Hunter, (1943) Papermaking: The History and Technique of an Ancient Craft, New York,124; ibid. 128. Hills, R.L. (2015). Papermaking in Britain 1488-1988. London, United Kingdom: Bloomsbury Publishing, Pg. 78 provides an additional reference for Franklin exhibiting wove paper to France in 1777.
+29. Letter from John Adams to Abigail Adams dated April 15, 1776 in the collection of the Massachusetts Historical Society, Boston, MA.   
+30. Willcox, J. (1897) pg. 38.
+31. Hunter, D. (1978) pg. 137
+32. Malshe, V (2019). Paints: Water-Based. Reference Module in Chemistry, Molecular Sciences and Chemical
 Engineering. doi:10.1016/b978-0-12-409547-2.14375-6
-22. Drozdowicz, K. (1989). Energy-dependent scattering cross section of Plexiglass for thermal neutrons
+33. Drozdowicz, K. (1989). Energy-dependent scattering cross section of Plexiglass for thermal neutrons
 (CTH-RF--62). Sweden
-23. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable
+34. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable
 Prospects. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315675/
 
 
