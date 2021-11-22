@@ -457,7 +457,6 @@ edition. New York: Dover.
 31. Hunter, D. (1978) pg. 137
 32. Hunter (1978) Rags, for making into paper, 153-7.
 33. Hunter (1978) Bleaching, invention of, p.129.
-34. D. Hunter, (1978) p. 137. 
-35. Malshe, V (2019). Paints: Water-Based. Reference Module in Chemistry, Molecular Sciences and Chemical Engineering. doi:10.1016/b978-0-12-409547-2.14375-6
-36. Drozdowicz, K. (1989). Energy-dependent scattering cross section of Plexiglass for thermal neutrons (CTH-RF--62). Sweden
-37. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable Prospects. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315675/ 
+34. Malshe, V (2019). Paints: Water-Based. Reference Module in Chemistry, Molecular Sciences and Chemical Engineering. doi:10.1016/b978-0-12-409547-2.14375-6 
+35. Drozdowicz, K. (1989). Energy-dependent scattering cross section of Plexiglass for thermal neutrons (CTH-RF--62). Sweden
+36. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable Prospects. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315675/ 
