@@ -442,21 +442,22 @@ edition. New York: Dover.
 16. Hunter, D. (1978), p. 132.
 17. D. Hunter, (1978) p. 129.
 18. D. Hunter, (1952) *Papermaking in Pioneer America*, University of Pennsylvania Press, p. 131.
-19. Hunter (1978) Rags, for making into paper, 153-7.
+19. Willcox, J. (1897). "The Willcox Paper Mill (Ivy Mills) 1729-1886, p. 34. 
 20. Hunter, D. (1978). pg. 129
 21. Wyatt, J. (1807) The Repertory of Arts, Manufacture and Agriculture. Consisting of Original Communications, Specifications of Patent Inventions, Volume X, Second Series. pg. 321,325.
-22. Hunter, D. (1978). pg. 129.
+22. Hunter, D. (1978). pg. 130.
 23. Willcox, J. (1897) p. 34.
-24. Willcox, J. (1911) Ivy Mills 1729-1866; Willcox and Allied Families p. 46.
-25. Willcox, J. (1897) p. 34. 
-26. Benjamin Franklin and David Hall/File:US-Colonial (PA-115)-Pennsylvania-18 Jun 1764.jpg/Wikimedia Commons 85
-27. D. Hunter, (1943) Papermaking: The History and Technique of an Ancient Craft, New York,124; ibid. 128. Hills, R.L. (2015). Papermaking in Britain 1488-1988. London, United Kingdom: Bloomsbury Publishing, Pg. 78 provides an additional reference for Franklin exhibiting wove paper to France in 1777.
-28. Letter from John Adams to Abigail Adams dated April 15, 1776 in the collection of the Massachusetts Historical Society, Boston, MA.   
-29. Willcox, J. (1897) pg. 38.
-30. Hunter, D. (1978) pg. 137
-31. Hunter (1978) Rags, for making into paper, 153-7.
-32. Hunter (1978) Bleaching, invention of, p.129.
-33. D. Hunter, (1978) p. 137.
-34. Malshe, V (2019). Paints: Water-Based. Reference Module in Chemistry, Molecular Sciences and Chemical Engineering. doi:10.1016/b978-0-12-409547-2.14375-6
-35. Drozdowicz, K. (1989). Energy-dependent scattering cross section of Plexiglass for thermal neutrons (CTH-RF--62). Sweden
-36. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable Prospects. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315675/ 
+24. WIllcox, J. (1897) p. 36-37.
+25. Willcox, J. (1911) Ivy Mills 1729-1866; Willcox and Allied Families p. 46.
+26. Willcox, J. (1897) p. 34. 
+27. Benjamin Franklin and David Hall/File:US-Colonial (PA-115)-Pennsylvania-18 Jun 1764.jpg/Wikimedia Commons 85
+28. D. Hunter, (1943) Papermaking: The History and Technique of an Ancient Craft, New York,124; ibid. 128. Hills, R.L. (2015). Papermaking in Britain 1488-1988. London, United Kingdom: Bloomsbury Publishing, Pg. 78 provides an additional reference for Franklin exhibiting wove paper to France in 1777.
+29. Letter from John Adams to Abigail Adams dated April 15, 1776 in the collection of the Massachusetts Historical Society, Boston, MA.    
+30. Willcox, J. (1897) pg. 38.
+31. Hunter, D. (1978) pg. 137
+32. Hunter (1978) Rags, for making into paper, 153-7.
+33. Hunter (1978) Bleaching, invention of, p.129.
+34. D. Hunter, (1978) p. 137. 
+35. Malshe, V (2019). Paints: Water-Based. Reference Module in Chemistry, Molecular Sciences and Chemical Engineering. doi:10.1016/b978-0-12-409547-2.14375-6
+36. Drozdowicz, K. (1989). Energy-dependent scattering cross section of Plexiglass for thermal neutrons (CTH-RF--62). Sweden
+37. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable Prospects. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315675/ 
