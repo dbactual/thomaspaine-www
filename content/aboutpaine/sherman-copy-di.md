@@ -247,7 +247,7 @@ Mark Willcox, son of Ivy Mills founder & owner Thomas Wilcox, began managing ope
   
 A misconception of the origin of wove paper in the American colonies appears to have originated when scholars began to reference the time period in which "wove" was used to describe paper type.  Prior, the term "wove" was not readily mentioned in relation to papermaking or directly linked to the paper. Rather, it described the mould and the woven wire used, as it was finer than laid wire.  The earlier term "vellum paper" was first used to describe wove paper due to the finely woven "brass vellum" (brass wire cloth) that produced a smooth, vellum-like surface.  In subsequent years, "wove" was more commonly used to describe this paper type as distinct from laid. <a href="#footnotes">(20)</a>
 
-One of the earliest uses of "wove" as a descriptive term for paper type was by papermaking entrepreneur Henry Fourdrinier.  In his July 24,1806 patent for the Fourdrinier papermaking machine, Fourdrinier described the following: "The method of making a machine for paper of indefinite length, laid and wove, with separate moulds…a number of moulds, of the description called laid or wove, any number of which (being of the same size or denomination) are capable of forming one long mould, in which situation the said moulds are hooked or fastened together." <a href="#footnotes">(21)</a> By the early nineteenth century, wove paper was considered superior to laid paper and had begun to replace its use in correspondence. <a href="#footnotes">(22)</a>
+One of the earliest uses of "wove" as a descriptive term for paper type was by papermaking entrepreneur Henry Fourdrinier.  In his July 24,1806 patent for the Fourdrinier papermaking machine, Fourdrinier described the following: "The method of making a machine for paper of indefinite length, laid and wove, with separate mould . . . a number of moulds, of the description called laid or wove, any number of which (being of the same size or denomination) are capable of forming one long mould, in which situation the said moulds are hooked or fastened together." <a href="#footnotes">(21)</a> By the early nineteenth century, wove paper was considered superior to laid paper and had begun to replace its use in correspondence. <a href="#footnotes">(22)</a>
 
 Having established the origins of wove paper in the American colonies with clarity, it was imperative to understand how the Committee of Five members had direct access to woven wire paper.  Committee member Benjamin Franklin had a decades-long personal and professional friendship with Thomas Wilcox, owner of the Willcox Paper Mill at Ivy Mills, and visited the Willcox mill frequently. <a href="#footnotes">(23)</a> According to an article published by John Willcox outlining the history of the Willcox Paper Mill at Ivy Mills, Thomas Willcox supplied the paper for Benjamin Franklin's Philadelphia newspaper early in their mutual friendship, and Franklin is credited for initiating the first orders of paper for colonial and Continental currency through Thomas Willcox and Ivy Mills.  On June 23, 1775, Franklin was appointed to a congressional committee to have printing plates engraved and to supply proper paper necessary for printing Continental currency. <a href="#footnotes">(24)</a> Joseph WIllcox reported seeing examples of Continental currency printed on American wove paper from Willcox Paper Mill as early as 1775. <a href="#footnotes">(25)</a>
   
@@ -261,15 +261,15 @@ As such, Franklin's access to wove paper in Pennsylvania dated as early as 1764,
   
 John Adams' letter to Abigail Adams on April 15, 1776 highlighted the scarcity of writing paper.  Adams wrote, "I send you, now and then, a few sheets of paper: but this article is as scarce here as with you. I would send a quire (25 sheets of paper or 1/20 of a ream) if I could get a convenance." <a href="#footnotes">(29)</a> Joseph Willcox notes paper was so scarce at this time that "fly-leaves were torn from printed works and blank leaves from account books for letter writing." <a href="#footnotes">(30)</a> 
   
-Wove paper was primarily made for printing and record keeping; initially intended for currency, printed books, written account books and ledgers, not initially as correspondence paper.  Incedentally, the emergency shortage of paper in 1776, necessitated its use for all needs.  Forensic evidence of torn kettle stitch binding marks demonstrated how the sheet of paper upon which Adams copied this early Declaration draft from the original was removed from an account ledger book containing wove paper, consistent with John Adams' account of the American colonies' paper shortage in 1776. 
+Wove paper was primarily made for printing and record keeping; initially intended for currency, printed books, written account books and ledgers, not initially as correspondence paper.  Incidentally, the emergency shortage of paper in 1776, necessitated its use for all needs.  Forensic evidence of torn kettle stitch binding marks demonstrated how the sheet of paper upon which Adams copied this early Declaration draft from the original was removed from an account ledger book containing wove paper, consistent with John Adams' account of the American colonies' paper shortage in 1776. 
 
-The paper size of the Sherman Copy of the Declaration confirmed its origins as its dimensions corresponded with period printing paper, different in size from period correspondence paper.  Foolscap sizes were based upon eighteenth century English standards for paper manufacture.  American made paper in the nineteenth century adopted a unique standard, and subsequently differed in size from the English standards.  Accordingly, wove paper made in the 1770s, whether imported or produced by the Sellers at Willcox Paper Mill, followed the English standards of measurement. <a href="#footnotes">(31)</a>
+The paper size of the Sherman Copy of the Declaration confirmed its origins as its dimensions corresponded with period printing paper, different in size from period correspondence paper.  Foolscap sizes were based upon eighteenth century English standards for paper manufacture.  American made paper in the nineteenth century adopted a unique standard, and subsequently differed in size from the English standards.  Accordingly, wove paper made in the 1770s, whether imported or produced by the Sellers at Willcox Paper Mill, followed the English standards of measurement. 
 
-Foolscap folio sized paper for printing measured 13.5 inches in length and 8.5 inches in width.  Foolscap folio sized correspondence paper measured 13.25 inches in length and 8.25 inches in width.  Full sized foolscap printing paper was produced at a size of 13.5 inches by 17.0 inches, then halved into foolscap folio size of 13.5 inches by 8.5 inches for printing and ledger books.  Correspondence paper was produced at a full size of 13.25 by 16.5, halved into 13.25 inches in length by 8.25 inches in width.
+Foolscap folio sized paper for printing measured 13.5 inches in length and 8.5 inches in width.  Foolscap folio sized correspondence paper measured 13.25 inches in length and 8.25 inches in width.  Full sized foolscap printing paper was produced at a size of 13.5 inches by 17.0 inches, then halved into foolscap folio size of 13.5 inches by 8.5 inches for printing and ledger books.  Correspondence paper was produced at a full size of 13.25 by 16.5, halved into 13.25 inches in length by 8.25 inches in width. <a href="#footnotes">(31)</a>
 
 A partial watermark was discovered in the upper, left margin (recto) of the manuscript.  When analyzed with light board illumination, it proved difficult to discern. Further investigation of the watermark is warranted, and could be compared to existing examples in the Gravell Watermark Archive to determine whether the paper was imported or created in the colonies.  While records indicated wove paper being produced in the American colonies by John and Nathan Sellers as early as 1773, Hunter asserted the difficulty in ascertaining how much earlier wove was introduced into the American colonies via import.  The previously referenced 1764 colonial currency printed by Franklin on wove paper provided a more concrete introductory date.
   
-This manuscript’s paper consisted of cotton and linen bast fibers, which were period materials used to create rag pulp for paper manufacture in the eighteenth century. This composition confirmed paper creation earlier than 1850, when wood pulp largely replaced cotton and linen rag pulp in the mid-nineteenth century. Historically, Britain restricted export of cotton and linen to the colonies, causing cotton and flax (linen) crops to become the predominant crops within eighteenth century colonial America. Colonists relied heavily on these important crops for rag production, which were later turned into rag pulp for paper manufacture. Ultraviolet light illumination showed no fluorescence or evidence of artificial or chemical whitening, consistent with colonial-era paper making techniques, as artificial paper whitening began in the late eighteenth century and became common practice in nineteenth century paper making.
+This manuscript's paper consisted of cotton and linen bast fibers, which were period materials used to create rag pulp for paper manufacture in the eighteenth century. This composition confirmed paper creation earlier than 1850, when wood pulp largely replaced cotton and linen rag pulp in the mid-nineteenth century. Historically, Britain restricted export of cotton and linen to the colonies, causing cotton and flax (linen) crops to become the predominant crops within eighteenth century colonial America. Colonists relied heavily on these important crops for rag production, which were later turned into rag pulp for paper manufacture. <a href="#footnotes">(32)</a> Ultraviolet light illumination showed no fluorescence or evidence of artificial or chemical whitening, consistent with colonial-era paper making techniques, as artificial paper whitening began in the late eighteenth century and became common practice in nineteenth century paper making. <a href="#footnotes">(33)</a>
   
 This manuscript's ink presented as black, fading to brown, color. Ink degradation was prevalent throughout
 the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted by a
@@ -277,13 +277,13 @@ well-respected professional at a leading research institution. Infrared spectros
 indicated possible evidence of a modern material, acrylate. However, further investigation
 acknowledged how acrylate was used as a mordant in commercial printing ink, but interestingly, not in writing ink.
 Its primary function was to decrease the viscosity of ink, making it a very effective additive for printing,
-but ineffective for writing.<a href="#footnotes">32)</a> This substance is also UV resistant, which prevented ink from fading. Both
-ink degradation and fading on this document demonstrated how its presence could result from contamination caused by the document's amateur storage in plexiglass (poly methyl meth*acrylate*) or another source.<a href="#footnotes">(22)</a> More comprehensive analysis via x-ray fluorescence demonstrated the ink's composition, with significant presence of carbon, copper and calcium, elements consistent with eighteenth century ink. Carbon indicated
+but ineffective for writing.<a href="#footnotes">(34)</a> This substance is also UV resistant, which prevented ink from fading. Both
+ink degradation and fading on this document demonstrated how its presence could result from contamination caused by the document's amateur storage in plexiglass (poly methyl meth*acrylate*) or another source.<a href="#footnotes">(35)</a> More comprehensive analysis via x-ray fluorescence demonstrated the ink's composition, with significant presence of carbon, copper and calcium, elements consistent with eighteenth century ink. Carbon indicated
 the use of soot to color the ink, as in *lamp black* (carbon black) ink; and copper indicated the use of copper
 sulfate as a mordant. Calcium was indicative of calcium carbonate, the major component of egg shells, which was
 historically used as a base to reduce acidity in colonial ink. Copper sulfate and soot were primary
 ingredients in black writing ink for many centuries, and copper sulfate functioned as a mordant to bind the
-ink to its writing surface.<a href="#footnotes">(23)</a>
+ink to its writing surface.<a href="#footnotes">(36)</a>
 
 A key element in exemplifying how this manuscript was a true working copy taken directly from the "*Original
 with Jefferson*" was discovered during the examination of the horizontal fold lines on the document. Under magnification, the
@@ -445,23 +445,20 @@ edition. New York: Dover.
 19. Willcox, J. (1897) *The Willcox Paper Mill (Ivy Mills) 1729-1866*, p.34. 
 19. Hunter (1978) Rags, for making into paper, 153-7.
 20. Hunter (1978) Bleaching, invention of, p. 129.
-21. Wyatt, J. (1807) The Repertory of Arts, Manufacture and Agriculture. Consisting of Original Communications, Specifications of Patent Inventions, Volume X, Second Series. pg. 321,325. Benjamin Franklin and David Hall/File:US-Colonial (PA-115)-Pennsylvania-18 Jun 1764.jpg/Wikimedia Commons 85
+21. Wyatt, J. (1807) The Repertory of Arts, Manufacture and Agriculture. Consisting of Original Communications, Specifications of Patent Inventions, Volume X, Second Series. pg. 321,325. 
 22. D. Hunter, (1979) p. 130.
 23. Willcox, J. (1897) p. 34.
 24. Willcox, J. (1897) p. 36-37.
-25. Willcox, J. (1911) Ivy Mills 1729-1866 Willcox and Allied Families p. 46.
+25. Willcox, J. (1911) Ivy Mills 1729-1866; Willcox and Allied Families p. 46.
 26. Willcox, J. (1897) p. 34. 
 27. Benjamin Franklin and David Hall/File:US-Colonial (PA-115)-Pennsylvania-18 Jun 1764.jpg/Wikimedia Commons 85
 28. D. Hunter, (1943) Papermaking: The History and Technique of an Ancient Craft, New York,124; ibid. 128. Hills, R.L. (2015). Papermaking in Britain 1488-1988. London, United Kingdom: Bloomsbury Publishing, Pg. 78 provides an additional reference for Franklin exhibiting wove paper to France in 1777.
 29. Letter from John Adams to Abigail Adams dated April 15, 1776 in the collection of the Massachusetts Historical Society, Boston, MA.   
 30. Willcox, J. (1897) pg. 38.
 31. Hunter, D. (1978) pg. 137
-32. Malshe, V (2019). Paints: Water-Based. Reference Module in Chemistry, Molecular Sciences and Chemical
-Engineering. doi:10.1016/b978-0-12-409547-2.14375-6
-33. Drozdowicz, K. (1989). Energy-dependent scattering cross section of Plexiglass for thermal neutrons
-(CTH-RF--62). Sweden
-34. Yusuf, M., Shabbir, M., & Mohammad, F. (2017). Natural Colorants: Historical, Processing and Sustainable
-Prospects. Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5315675/
-
-
+32. Hunter (1978) Rags, for making into paper, 153-7.
+33. Hunter (1978) Bleaching, invention of, p.129.
+34. D. Hunter, (1978) p. 137.
+35. Wyatt, J. (1807) The Repertory of Arts, Manufacture and Agriculture. Consisting of Original Communications, Specifications of Patent Inventions, Volume X, Second Series. pg. 321,325. Benjamin Franklin and David Hall/File:US-Colonial (PA-115)-Pennsylvania-18 Jun 1764.jpg/Wikimedia Commons 85
+36. D. Hunter, (1979) p. 130.
 
