@@ -25,6 +25,7 @@ Authors: 1
 
 + ###Bios {#bios}
 
+    - [Life of Paine by William James Linton](/aboutpaine/lintons-life-of-Paine.html)
     - [Life of Thomas Paine, Vol. II by Moncure Conway](/aboutpaine/life-of-thomas-paine-vol-ii-by-moncure-conway.html)
     - [Life of Thomas Paine, Vol. I, by Moncure Conway](/aboutpaine/life-of-thomas-paine-by-moncure-conway.html)
     - [Life of Thomas Paine by G. Vale](/aboutpaine/life-of-thomas-paine-by-g-vale.html)
