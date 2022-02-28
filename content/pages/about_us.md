@@ -33,6 +33,8 @@ Jonathan Scheick, New Jersey, professor of Psychology, Brookdale C.C., clinician
 
 Roderick Bradford, San Diego, CA, Editor of The Truth Seeker Magazine and documentarian.
 
+Adrian Tawfik, Woodbury, NY, founder and editor of *Democracy Chronicles* website
+
 
 History
 --------
