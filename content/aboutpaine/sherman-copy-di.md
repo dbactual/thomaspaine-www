@@ -146,21 +146,19 @@ A partial watermark was discovered in the upper, left margin (recto) of the manu
 
 Microscopic analysis of the Sherman copy manuscript paper confirmed it consists of cotton and linen bast fibers. Cotton and linen were period materials used to create rag pulp for paper manufacture in the eighteenth century. This composition confirmed paper creation earlier than 1850, when wood pulp largely replaced cotton and linen rag pulp in the mid-nineteenth century. Historically, Britain restricted export of cotton and linen to the colonies, causing cotton and flax (linen) crops to become the predominant crops within eighteenth century colonial America. Colonists relied heavily on these important crops for textile production, fabric from which was later recycled and turned into rag pulp for paper manufacture. <a href="#footnotes">(32)</a> Ultraviolet light examination was negative for fluorescence or evidence of artificial or chemical whitening, consistent with colonial-era paper making techniques. Artificial paper whitening began in the late eighteenth century and was common practice in nineteenth century paper making. <a href="#footnotes">(33)</a>
 
-The Sherman copy's ink presented as black, fading to brown, color with ink degradation prevalent throughout the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted by a consulting scientist at a leading research institution. X-ray flouescence spectroscopy (XRF) and energy-dispersive X-ray spectroscopy (EDS) measured elemental composition of the ink and Infrared spectroscopy (IR) identified potential surface contaminants.<a href="#footnotes">(34)</a>
+The Sherman copy's ink presented as black, fading to brown, color with ink degradation prevalent throughout the document, indicating the ink has aged over an extended period of time. Ink analysis was conducted by a consulting scientist at a leading research institution. X-ray flourescence spectroscopy (XRF) and energy-dispersive X-ray spectroscopy (EDS) measured elemental composition of the ink and Infrared spectroscopy (IR) identified potential surface contaminants.<a href="#footnotes">(34)</a>  It is important to note that these findings represent specific areas tested and the data collected is being used to extrapolate an understanding of whether these areas are consistent in composition with eighteenth century ink.  
 
-XRF spectroscopy detected the following elements, in order of abundance. Elements marked in italics are noted as significant within the context of period ink recipes: *carbon*, *iron*, *zinc*, *copper*, argon, barium, *calcium*, and potassium. EDS Spectroscopy detected presence of the following additional elements, in order of abundance: silicon, *sulfur*, and aluminum. The ink is comprised of approximately 75% carbon; the carbonaceous composition detected in both XRF and EDS points to the Sherman copy ink being lampblack ink. Iron and sulfur are key elements in the ink's mordant, specifically ferrous sulfate. Aluminum and potassium could reflect detection of the paper sizing directly below the ink's surface. Aluminum potassium sulfate has been used since antiquity as a paper sizing agent.<a href="#footnotes">(35)</a>
+In the areas tested, XRF spectroscopy detected the following elements: Elements marked in italics are noted as significant within the context of period ink recipes: *carbon*, *iron*, *zinc*, *copper*, argon, barium, *calcium*, and potassium. EDS Spectroscopy detected presence of silicon, *sulfur*, and aluminum.
 
-Eighteenth century colonial American ink primarily consisted of a *pigment* and a *mordant* (a metallic salt) which acted as a binding agent. Additional elements and ingredients were utilized to stabilize the ink which, for example, decreased acidity and/or assisted with binding pigment to the substrate.<a href="#footnotes">(36)</a> According to European historical records, inks of this period were prepared utilizing the following basic ingredients: pigment, water, and mordant, commonly referred to as vitriol.<a href="#footnotes">(37)</a>
+Eighteenth century colonial American ink primarily consisted of a *dye* and a *mordant* (a metallic salt) which acted as a binding agent.<a href="#footnotes">(35)</a> Additional ingredients were utilized to stabilize the ink which, for example, decreased acidity and/or assisted with binding pigment to the substrate.<a href="#footnotes">(36)</a> According to European historical records, inks of this period were prepared utilizing the following basic ingredients: for iron-based ink: tannin, water and mordant, commonly referred to as vitriol; for carbon-based ink: carbon black (soot) as a pigment and gum arabic as a binder. <a href="#footnotes">(37)</a>
 
-The very high concentration of carbon, as per the XRF, indicates the use of soot as a pigment, commonly seen in lampblack or India ink. Lampblack, used as a writing ink, traces back to ancient Egypt. India ink traces back as early as the third millennium, BC in China.<a href="#footnotes">(38)</a> In India ink, lampblack was often combined with shellac which increased durability. Shellac can produce a shiny surface, which is evident in some areas of greater ink concentraion on this document.
+Iron and sulfur detected in the XRF point to key elements in the ink's metallic salt mordant, indicating the use of green vitriol, aka copperas (ferrous sulfate). Aluminum and potassium could reflect detection of the paper sizing directly below the ink's surface. Aluminum potassium sulfate has been used since antiquity as a paper sizing agent.<a href="#footnotes">(38)</a> 
 
-Iron indictes the use of green vitriol, aka copperas (ferrous sulfate) as a metallic salt mordant. Zinc and copper indicate the additional use of white vitriol (zinc sulfate) and blue vitriol (copper sulfate) to bolster the mordant, especially if the supply of green vitriol was limited during this time.
+Ink and paper supplies were scarce during the American Revolution, as noted historically during 1775-76 paper crisis in colonial America.<a href="#footnotes">(39)</a> XRF detected multiple, period elements that appeared to indicate a combination of ingredients; potential compensation for lack of ink ingredients due to restricted import.<a href="#footnotes">(40)</a> Zinc and copper indicate the additional use of white vitriol (zinc sulfate) and blue vitriol (copper sulfate) to bolster the mordant, especially if the supply of green vitriol was limited during this time.
 
-Ink and paper supplies were scarce during the American Revolution, as noted historically during 1775-76 paper crisis in clonial America.<a href="#footnotes">(39)</a> XRF detected the potential combination of multiple ingredients that appeared to indicate compensation for lack of ink ingredients due to restricted import of supplies.<a href="#footnotes">(40)</a>
+Calcium indicated the use of calcium carbonate to reduce the acidity of the mordant.<a href="#footnotes">(41)</a> Carbon, iron, zinc, copper and sulfur are all elements consistent with medieval through eighteenth century colonial American writing ink. As such, the ink samples examined appear to indicate the presence of period, iron-based ink.
 
-Calcium indicated the use of calcium carbonate to reduce the acidity of the mordant.<a href="#footnotes">(41)</a> Silica (silicon) is one of the most common minerals in the earth's crust, abundant in diatomaceous earth, sand, gravel, and clay.<a href="#footnotes">(42)</a> Barium is a naturally occuring element present in the earth's crust, one of the six alkaline earth metals. Barium-copper-silicate pigments used in ink originated in ancient China over two thousand years ago.<a href="#footnotes">(43)</a> Argon is the third most abundant gas in the earth's atmosphere, two times more abundant than water vapor.<a href="#footnotes">(44)</a> Carbon, iron, zinc, copper and sulfur are all elements consistent with medieval through eighteenth century colonial American writing ink.
-
-IR indicated surface contamination with a modern material, specifically Plextol d-514. Plextol d-514 is used in the manufacture of commercial products including adhesives and plexiglass; after an extensive search, our research found no evidence of Plextol d-514 used in writing ink. This substance is also UV resistant, which would prevent ink from fading. Therefore, Plextol d-514 contamination appeared to result from the document's amateur storage in plexiglass or another source. <a href="#footnotes">(45)</a>
+IR indicated surface contamination with a modern material, specifically Plextol d-514. Plextol d-514 is used in the manufacture of commercial products including adhesives and plexiglass; after an extensive search, our research found no evidence of Plextol d-514 used in writing ink. This substance is also UV resistant, which would prevent ink from fading. Therefore, Plextol d-514 contamination appeared to result from the document's amateur storage in plexiglass or another source. <a href="#footnotes">(42)</a>
 
 A key element in exemplifying how this manuscript was a working copy taken directly from the "*Original with Jefferson*" was discovered during the examination of the horizontal fold lines on the document. Under magnification, the horizontal fold lines (recto) were observed as convex. It appeared that Adams folded the document to have one
 panel accessible at a time while copying the "original", placed either above or beside this document. Such positioning allowed Adams to follow the text line by line and ensured accuracy in copying.
@@ -366,13 +364,13 @@ Zhang, Z., Ma, Q. & Berke, H., Man-made blue and purple barium copper silicate p
 
 34.	 Pearson, p. 2017-24
 
-35.	Bruckle, (1993)
+35.	noted in consultation with Research & Testing Division, Library of Congress, on March 9, 2022.
 
 36.	Brown, (2000)
 
 37.	Kolar, (2006)
 
-38.	Woods, (2000)
+38.	Bruckle, (1993)
 
 39.	Weeks, (1916)
 
@@ -380,11 +378,4 @@ Zhang, Z., Ma, Q. & Berke, H., Man-made blue and purple barium copper silicate p
 
 41.	Alcantara, (2012)
 
-42.	University of Washington, (2014)
-43.	Zhang, p. 97
-
-44.	Earthhow, (2021)
-
-45.	Drozdowicz,(1989)
-
-46.	Osselton, p. 49
+42.	Drozdowicz,(1989)
