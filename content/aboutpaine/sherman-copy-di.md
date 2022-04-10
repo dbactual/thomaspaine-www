@@ -44,7 +44,7 @@ The Sherman Copy of the Declaration is unique; its inscription (verso) appears t
 
 "*A beginning perhaps - Original with Jefferson - Copied from Original with T.P.'s permission*". Is it possible, though, that the "T.P." initials referenced an individual other than Thomas Paine?
 
-For this reason, colleagues at the Declaration Resources Project of Harvard University, under the direction of Professor Danielle Allen, graciously conducted a comprehensive search of individuals of political influence present in Philadelphia during the summer of 1776, and concluded that the T.P. initials within the context of the Sherman manuscript appear to belong to Thomas Paine. Professor Allen and Emily Sneff, Associate Fellow of Harvard's Declaration Resources Project, investigated individuals affiliated with Thomas Jefferson, including household members, between the years of 1776-1784 before reaching this conclusion.<a href="#footnotes">(5)</a>
+For this reason, colleagues at the Declaration Resources Project of Harvard University, under the direction of Professor Danielle Allen, graciously conducted a comprehensive search of individuals of political influence present in Philadelphia during the summer of 1776, and concluded that the T.P. initials in the inscription, within the context of the Sherman manuscript, appear to reference Thomas Paine. Professor Allen and Emily Sneff, Associate Fellow of Harvard's Declaration Resources Project, investigated individuals affiliated with Thomas Jefferson, including household members, between the years of 1776-1784 before reaching this conclusion.<a href="#footnotes">(5)</a>
 While it was acknowledged that the T.P. initials could reference an individual other than Paine, the contextual understanding of who would have been privy to the Declaration drafting process appeared to strongly favor Thomas Paine. Professor Allen graciously acknowledged her support of this manuscript and its significance by agreeing to include it in the register of Harvard's Declaration Database during its next update.
 
 The Sherman Copy manuscript consists of the first page of an early working draft of the Declaration of Independence, discovered folded within the pages of an estate auction booklet for General Hugh Lowrey White, a Brigadier General in the War of 1812. The estate auction booklet and Declaration draft manuscript were found within a box of discarded papers by an amateur historian in Georgia. The Declaration manuscript was brought to the
@@ -198,7 +198,7 @@ In this excerpt, the word "Object" contained a lowercase "o" that was over-scrip
 
 <center><img src="/images/sherman-copy-di-11.png"></center>
 
-Over time, readers of the Declaration have discussed probable reasons for why Committee of Five members decided to capitalize seemingly random words throughout the text. Early Germanic roots of the English language demonstrated how capitalization of letters mid-sentence was utilized to place emphasis on significant words. <a href="#footnotes">(46)</a> Throughout the Declaration, especially in this manuscript, nouns were selected to emphasize words of significance; a characteristic that is evident in the Preamble.
+Over time, readers of the Declaration have discussed probable reasons for why Committee of Five members decided to capitalize seemingly random words throughout the text. Early Germanic roots of the English language demonstrated how capitalization of letters mid-sentence was utilized to place emphasis on significant words. <a href="#footnotes">(43)</a> Throughout the Declaration, especially in this manuscript, nouns were selected to emphasize words of significance; a characteristic that is evident in the Preamble.
 Capitalization survived the written drafts, into John Dunlap's official print on the eve of July 4. As the approximately two hundred broadsides traveled from Dunlap's print shop to their respective locations and representatives, including George Washington's copy read to his troops on July 9 in New York City, the intention of this capitalization
 was realized as the reader's voice brought life to the Declaration. This manuscript draft has provided the first opportunity to view the contemplation of words the Declaration's authors felt should hold emphasis within the body of text and when read aloud.
 
@@ -379,3 +379,5 @@ Zhang, Z., Ma, Q. & Berke, H., Man-made blue and purple barium copper silicate p
 41.	Alcantara, (2012)
 
 42.	Drozdowicz,(1989)
+  
+43. Osselton, p. 49
