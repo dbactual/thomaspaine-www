@@ -1262,7 +1262,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
 
    Ships. Guns. Cost of one. Cost of all
-                    Cost in £ [pounds sterling]
+                    Cost in pounds sterling
 
    6         100     35,553       213,318
 
