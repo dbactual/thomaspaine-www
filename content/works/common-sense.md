@@ -179,12 +179,12 @@ Date: Mon Aug  4 09:08:54 EDT 2014
    constitution, we shall find them to be the base remains of two ancient
    tyrannies, compounded with some new republican materials.
 
-   *First* $mdash; The remains of monarchial tyranny in the person of the king.
+   *First* &mdash; The remains of monarchial tyranny in the person of the king.
 
-   *Secondly* $mdash; The remains of aristocratical tyranny in the persons of the
+   *Secondly* &mdash; The remains of aristocratical tyranny in the persons of the
    peers.
 
-   *Thirdly* $mdash; The new republican materials in the persons of the Commons, on
+   *Thirdly* &mdash; The new republican materials in the persons of the Commons, on
    whose virtue depends the freedom of England.
 
    The two first, by being hereditary, are independent of the people;
@@ -197,11 +197,11 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
    To say that the commons is a check upon the king, presupposes two things:
 
-   *First* $mdash; That the king is not to be trusted without being looked after, or
+   *First* &mdash; That the king is not to be trusted without being looked after, or
    in other words, that a thirst for absolute power is the natural disease of
    monarchy.
 
-   *Secondly* $mdash; That the commons, by being appointed for that purpose, are
+   *Secondly* &mdash; That the commons, by being appointed for that purpose, are
    either wiser or more worthy of confidence than the crown.
 
    But as the same constitution which gives the commons a power to check the
@@ -1261,7 +1261,7 @@ Date: Mon Aug  4 09:08:54 EDT 2014
 
 
 
-   <b>Ships. Guns. Cost of one. Cost of all</b<
+   Ships. Guns. Cost of one. Cost of all
                     Cost in £ [pounds sterling]
 
    6         100     35,553       213,318
