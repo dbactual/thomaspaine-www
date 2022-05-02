@@ -254,15 +254,15 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    hereditary succession; and I will here close the subject with an extract
    from that work, which states it under the two following heads.
    
-   “First, of the right of any family to establish itself with hereditary power.
+   "First, of the right of any family to establish itself with hereditary power.
    
-   “Secondly, The right of a nation to establish a particular family.
+   "Secondly, The right of a nation to establish a particular family.
    
-   “With respect to the first of these heads, that of a family establishing 
+   "With respect to the first of these heads, that of a family establishing 
    itself with hereditary powers on its own authority independent of the nation, 
    all men will concur in calling it despotism, and it would be trespassing on 
    their understanding to attempt to prove it.
-   “But the second head, that of a nation, that is, of a generation for the time 
+   "But the second head, that of a nation, that is, of a generation for the time 
    being, establishing a particular family with hereditary powers, it does not 
    present itself as despotism on the first reflection; but if men will permit 
    a second reflection to take place, and carry that reflection forward, even 
@@ -272,11 +272,11 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    preclude the consent of the succeeding generations, and the preclusion of 
    consent is despotism.
    
-   “In order to see this matter more clearly, let us consider the generation 
+   "In order to see this matter more clearly, let us consider the generation 
    which undertakes to establish a family with hereditary powers, separately 
    from the generations which are to follow.
    
-   “The generation which first selects a person, and puts him at the head of 
+   "The generation which first selects a person, and puts him at the head of 
    its government, either with the title of king, or any other nominal distinction, 
    acts its own choice, as a free agent for itself, be it wise or foolish. The 
    person so set up is *not hereditary*, but selected and appointed; and the generation 
@@ -285,11 +285,11 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    sets him up, to live for ever, it never could become hereditary succession; and 
    of consequence, hereditary succession could only follow on the death of the first parties.
    
-   “As therefore hereditary succession is out of the question with respect to the first 
+   "As therefore hereditary succession is out of the question with respect to the first 
    generation, we have next to consider the character in which that generation acts 
    with respect to the commencing generation, and to all succeeding ones.
    
-   “It assumes a character to which it has neither right nor title; for it changes 
+   "It assumes a character to which it has neither right nor title; for it changes 
    itself from a legislator to a testator, and affects to make a will and testament 
    which is to have operation, after the demise of the makers, to bequeath the government; 
    and it not only attempts to bequeath, but to establish on the succeeding generation a 
@@ -299,14 +299,14 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    authority to make, to take from the commencing generation, and from all future ones, 
    the right and free agency by which itself acted.
    
-   “In whatever light hereditary succession, as growing out of the will and testament 
+   "In whatever light hereditary succession, as growing out of the will and testament 
    of some former generation, presents itself, it is both criminal and absurd. A cannot 
    make a will to take from B the property of B, and give it to C; yet this is the manner 
    in which what is called hereditary succession by law operates. A certain former 
    generation makes a will, under the form of a law, to take away the rights of the 
    commencing generation, and all future generations, and convey those rights to a 
    third person, who afterwards comes forward, and assumes the government in consequence 
-   of that illicit conveyance.”
+   of that illicit conveyance."
 
    The history of the English Parliament furnishes an example of this kind;
    and which merits to be recorded, as being the greatest instance of
@@ -475,7 +475,7 @@ Date: Mon Aug  4 09:08:51 EDT 2014
    they follow it as a religion. *All that is required with respect to
    property is to obtain it honestly, and not employ it criminally; but it
    is always criminally employed when it is made a criterion for exclusive
-   rights.
+   rights.*
 
    In institutions that are purely pecuniary, such as that of a bank or a
    commercial company, the rights of the members composing that company are
