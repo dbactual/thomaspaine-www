@@ -19,11 +19,11 @@ New Rochelle, NY 10804-3609<br/>
 Board
 --------
 
-Scott Cleary, Bedford, NY - professor of English, Iona College
+Scott Cleary, Bedford, NY - TPNHA Secretary, professor of English, Iona College
 
-Michael Munisteri, Connecticut - Senior Finance Associate, Bridgewater Associates
+Michael Munisteri, Connecticut - TPNHA Treasurer, Senior Finance Associate, Bridgewater Associates, retired
 
-Gary Berton, Walton, NY - Coordinator of the Institute for Thomas Paine Studies at Iona College
+Gary Berton, Walton, NY - TPNHA President
 
 Josh Klein, New York, NY - professor of Criminal Justice, Iona College
 
@@ -32,6 +32,8 @@ Frances Chiu, Connecticut, professor of Literature and History, New School, NYC,
 Jonathan Scheick, New Jersey, professor of Psychology, Brookdale C.C., clinician.
 
 Roderick Bradford, San Diego, CA, Editor of The Truth Seeker Magazine and documentarian.
+
+Chris Gorman, Larchmont, NY, graphics designer, retired
 
 Adrian Tawfik, Woodbury, NY, founder and editor of *Democracy Chronicles* website
 
